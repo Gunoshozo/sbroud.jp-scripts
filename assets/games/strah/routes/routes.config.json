@@ -1,0 +1,58 @@
+{
+    "headerLabel": "Summer Time Render Another Horizon Routes",
+    "items": [
+        {
+            "name": "Ushio Route",
+            "routerLink": "ushio",
+            "imgSrc": "assets/images/strah/ushio.png",
+            "alternativeImgs": [
+                "assets/images/strah/ushio2.png",
+                "assets/images/strah/ushio3.png",
+                "assets/images/strah/ushio4.png",
+                "assets/images/strah/ushio5.png"
+            ]
+        },
+        {
+            "name": "Kaori Route",
+            "routerLink": "kaori",
+            "imgSrc": "assets/images/strah/kaori.png",
+            "alternativeImgs": [
+                "assets/images/strah/kaori2.png",
+                "assets/images/strah/kaori3.png"
+            ]
+        },
+        {
+            "name": "Totsumura Route",
+            "routerLink": "totsumura",
+            "imgSrc": "assets/images/strah/totsumura.png",
+            "alternativeImgs": [
+                "assets/images/strah/totsumura2.png"
+            ]
+        },
+        {
+            "name": "Mio Route",
+            "routerLink": "mio",
+            "imgSrc": "assets/images/strah/mio.png",
+            "alternativeImgs": [
+                "assets/images/strah/mio2.png",
+                "assets/images/strah/mio3.png"
+            ]
+        },
+        {
+            "name": "Hizuru Route",
+            "routerLink": "hizuru",
+            "imgSrc": "assets/images/strah/hizuru.png",
+            "alternativeImgs": [
+                "assets/images/strah/hizuru2.png"
+            ]
+        },
+        {
+            "name": "Tokiko Route",
+            "routerLink": "tokiko",
+            "imgSrc": "assets/images/strah/tokiko.png",
+            "alternativeImgs": [
+                "assets/images/strah/tokiko2.png"
+            ]
+        }
+    ]
+}
