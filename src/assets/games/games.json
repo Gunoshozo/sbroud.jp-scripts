@@ -1,7 +1,32 @@
 [
     {
-        "name": "Example",
-        "link": "example/routes",
-        "logo": "assets/images/common/example.png"
+        "name": "Chaos;Head Love Chu★Chu!",
+        "link": "chlcc/routes",
+        "logo": "assets/images/chlcc/logo.png"
+    },
+    {
+        "name": "Chaos;Child Love Chu★Chu!",
+        "link": "cclcc/routes",
+        "logo": "assets/images/cclcc/logo.png"
+    },
+    {
+        "name": "Occultic;Nine",
+        "link": "o9/routes",
+        "logo": "assets/images/o9/logo.png"
+    },
+    {
+        "name": "Summer Time Render Another Horizon",
+        "link": "strah/routes",
+        "logo": "assets/images/strah/logo.png"
+    },
+    {
+        "name": "Dunamis 15",
+        "link": "d15/routes",
+        "logo": "assets/images/d15/logo.png"
+    },
+    {
+        "name": "Disorder 6",
+        "link": "d6/chapters",
+        "logo": "assets/images/d6/logo.png"
     }
 ]

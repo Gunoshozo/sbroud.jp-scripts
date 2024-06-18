@@ -1,0 +1,45 @@
+{
+    "headerLabel": "Chaos;Child Love Chu★Chu! routes",
+    "items": [
+        {
+            "name": "Common Route",
+            "routerLink": "common",
+            "imgSrc": "assets/images/cclcc/miyashiro_solid.png",
+            "alternativeImgs": ["assets/images/cclcc/miyashiro_solid2.png"]
+        },
+        {
+            "name": "Itou Route",
+            "routerLink": "itou",
+            "imgSrc": "assets/images/cclcc/itou_solid.png"
+        },
+        {
+            "name": "Kazuki Route",
+            "routerLink": "kazuki",
+            "imgSrc": "assets/images/cclcc/kazuki_solid.png",
+            "alternativeImgs": ["assets/images/cclcc/kazuki_solid1.png"]
+        },
+        {
+            "name": "Kurusu Route",
+            "routerLink": "kurusu",
+            "imgSrc": "assets/images/cclcc/kurusu_solid.png",
+            "alternativeImgs": ["assets/images/cclcc/kurusu_solid2.png"]
+        },
+        {
+            "name": "Yui and Yuuto Route",
+            "routerLink": "yui_yuuto",
+            "imgSrc": "assets/images/cclcc/siblings_solid.png"
+        },
+        {
+            "name": "Hinae Route",
+            "routerLink": "arimura",
+            "imgSrc": "assets/images/cclcc/hinae_solid.png",
+            "alternativeImgs": ["assets/images/cclcc/hinae_solid1.png"]
+        },
+        {
+            "name": "Serika Route",
+            "routerLink": "serika",
+            "imgSrc": "assets/images/cclcc/onoe_solid.png",
+            "alternativeImgs": ["assets/images/cclcc/onoe_solid2.png"]
+        }
+    ]
+}
