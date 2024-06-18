@@ -1,0 +1,40 @@
+<div class="chapter-reading">
+    <div class="chapter-reading_body">
+        <div class="chapter-reading_content">
+            <tui-island class="chapter-reading_content-island">
+                <tui-elastic-container>
+                    <navigation [bottom]="false" [navigationData]="navigationData"></navigation>
+                    <div *ngFor="let item of navigations">
+                        {{item}}
+                    </div>
+                    <hr class="chapter-reading_spacer">
+                    <div class="chapter-reading_content-text">
+                        <ng-container *ngFor="let line of lines" [ngTemplateOutlet]="readedLines"
+                            [ngTemplateOutletContext]="{'line':line}">
+                        </ng-container>
+                    </div>
+                    <hr class="chapter-reading_spacer bottom">
+                    <navigation class="bottom" [bottom]="true" [navigationData]="navigationData"></navigation>
+                </tui-elastic-container>
+            </tui-island>
+        </div>
+    </div>
+</div>
+
+
+<ng-template #readedLines let-line="line">
+    <ng-container *ngIf="line.isChoice; else simpleLine">
+        <details class="chapter-reading_choice">
+            <summary [innerHtml]="line.text"></summary>
+            <div class="chapter-reading_choice-content">
+                <ng-container *ngFor="let innerLine of line.innerLines" [ngTemplateOutlet]="readedLines"
+                    [ngTemplateOutletContext]="{'line': innerLine}">
+                </ng-container>
+            </div>
+        </details>
+    </ng-container>
+    <ng-template #simpleLine>
+        <reading-line [line]="line" [isBookmark]="line.index == currentBookmark"
+            (addBookmark)="addBookmark($event)" ></reading-line>
+    </ng-template>
+</ng-template>

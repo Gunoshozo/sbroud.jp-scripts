@@ -1,0 +1,17 @@
+{
+    "headerLabel": "Route 1 Chapters",
+    "total": 2,
+    "chapters": {
+        "1": {
+            "name": "Override standard name"
+        },
+        "2":{
+            "name": "Second",
+            "next":[
+                {
+                    "route": "2"
+                }
+            ]
+        }
+    }
+}

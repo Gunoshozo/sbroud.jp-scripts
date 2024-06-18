@@ -1,0 +1,20 @@
+<a class="item-card-root" [routerLink]="hiddenBySpoiler? null : link" [ngClass]="{'disabled':hiddenBySpoiler}"
+    [tuiHint]="!hideTip && name"
+    tuiHintDirection="top-left"
+    tuiHintAppearance="onDark"
+    [tuiHintShowDelay]="600"
+    tuiHintPointer (click)="hiddenBySpoiler && toggleSpoiler($event)">
+    <div class="item-card-container" [ngClass]="{'spoiler': hiddenBySpoiler}">
+        <img class="item-card-image" [src]="imageResource" />
+        <div class="item-card-title">
+            <div *ngIf="(name || subName) && !hideName" class="item-card-title-container">
+                <h2 class="item-card-title_name">
+                    {{ name }}
+                </h2>
+                <p *ngIf="subName" class="item-card-title_subname">
+                    {{ subName }}
+                </p>
+            </div>
+        </div>
+    </div>
+</a>

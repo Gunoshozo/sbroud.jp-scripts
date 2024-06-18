@@ -1,0 +1,16 @@
+
+<pre *ngIf="bottomTextLMAO && comment" class="navigation_comment" [innerHtml]="comment"></pre>
+<div class="navigation_container">
+    <div class="navigation_prev">
+        <a *ngFor="let p of prev" [routerLink]="p.link"
+            icon="tuiIconChevronsLeft"
+            iconAlign="left"
+            tuiLink>{{p.text}}</a>
+    </div>
+    <div class="navigation_next">
+        <a *ngFor="let n of next" [routerLink]="n.link"
+            [ngClass]="{'spoiler':n.spoiler}"
+            icon="tuiIconChevronsRight"
+            tuiLink>{{n.text}}</a>
+    </div>
+</div>

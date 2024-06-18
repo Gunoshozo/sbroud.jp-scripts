@@ -1,0 +1,14 @@
+<div class="search_root">
+    <div class="search_body" *ngIf="loaded">
+        <ng-container *ngIf="_routed; then routed; else nonRouted">
+        </ng-container>
+    </div>
+</div>
+
+<ng-template #routed>
+    <routed-items [gameName]="gameName"></routed-items>
+</ng-template>
+
+<ng-template #nonRouted>
+    <chapters-items [gameName]="gameName"></chapters-items>
+</ng-template>

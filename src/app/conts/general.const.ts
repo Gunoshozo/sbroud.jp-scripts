@@ -1,0 +1,20 @@
+export class LinkConsts {
+    public static readonly spoilerImg = 'assets/images/common/spoiler_big.png';
+}
+
+export class TextConsts {
+    public static readonly spoilerPrompt = "Spoiler. Click to show";
+}
+
+export class LocalStorageVariables {
+    public static readonly sakuraAnim = "sakuraAnim";
+    public static readonly hideSpoilers = "hideSpoilers";
+    public static readonly easterEggs = "easterEggs";
+    public static readonly fontSizeMul = "fontSizeMul";
+    public static readonly bookmarkTemplateKey = "bookmark:{gameName}";
+    public static readonly bookmarkTemplateValue = { true: "{routeName}:{chapterIndex}:{lineIndex}", false: "{chapterIndex}:{lineIndex}" }; //routed/not-routed
+}
+
+export class GameNameMapping{
+    public static mapping: any;
+}

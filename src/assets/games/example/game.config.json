@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Routes/Parts whatever",
+        "link": "/games/example/routes"
+    },
+    {
+        "name": "Tips",
+        "link": "/games/example/tips"
+    },
+    {
+        "name": "Any supplementary",
+        "link": "/games/example/example_supplementary"
+    }
+]
