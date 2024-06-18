@@ -33,7 +33,7 @@ export class SettingsComponent implements OnInit {
 
 	public exampleItem: GameItem = {
 		name: "Example",
-		imgSrc: "/assets/images/common/example.png",
+		imgSrc: "assets/images/common/example.png",
 		routerLink: "/settings",
 		spoiler: true
 	}
@@ -90,7 +90,7 @@ export class SettingsComponent implements OnInit {
 			if (val) {
 				el.style.setProperty("--spoiler-color", "gray")
 				el.style.setProperty("--spoiler-background", "gray")
-			} 
+			}
 		}
 
 		const easterEggStorageVal = localStorage.getItem(LocalStorageVariables.easterEggs);
@@ -137,7 +137,7 @@ export class SettingsComponent implements OnInit {
 
 		})
 
-		
+
 		this.settingsForm.controls["easterEggs"].valueChanges.subscribe((it) => {
 			localStorage.setItem(LocalStorageVariables.easterEggs, `${it}`);
 		})

@@ -111,7 +111,7 @@ export class ReadingComponent implements OnInit, AfterViewInit {
                     observable['routeConfig'] = gameChanged ?
                         this.restApiService.get("gameRouteConfig", { pathParams: { "gameName": this.gameName } }) : of(this.routeData);
                 }
-                
+
                 return forkJoin(observable)
             })).subscribe({
                 next: (res: any) => {
@@ -134,12 +134,12 @@ export class ReadingComponent implements OnInit, AfterViewInit {
                     setTimeout(() => {
                         Array.prototype.slice.call(document.getElementsByClassName("chapter-reading_dict"))
                             .forEach((it: Element) => {
-                                it.addEventListener("click", this.redirect.bind(this))
+                                it.addEventListener("click", this.openTip.bind(this))
                             })
                     }, 100)
                 },
                 error: () => {
-                    this.router.navigate(["error"])
+                    this.router.navigate(["/error"])
                     this.globalLoader.setGlobalLoader(false);
                 }
             })
@@ -191,7 +191,7 @@ export class ReadingComponent implements OnInit, AfterViewInit {
                 return it.nativeElement.childNodes[0].childNodes[0].nodeName === "BUTTON"
             })?.nativeElement as HTMLElement;
 
-            /// go up the tree from inside the the choise and open up all details tags 
+            /// go up the tree from inside the the choise and open up all details tags
             let currentEl: any = elRef;
             while (!currentEl.className.includes("chapter-reading_content-text")) {
                 currentEl = currentEl.parentElement;
@@ -236,9 +236,10 @@ export class ReadingComponent implements OnInit, AfterViewInit {
         return null
     }
 
-    private redirect(text: any): void {
-        const url = this.router.serializeUrl(this.router.createUrlTree([`/games/${this.gameName}/tips`], { queryParams: { filter: this.resolveKanji(text.target.innerHTML) } }));
-        window.open(url, '_blank');
+    private openTip(text: any): void {
+        let newRelativeUrl = this.router.createUrlTree([`/games/${this.gameName}/tips`], { queryParams: { filter: this.resolveKanji(text.target.innerHTML) } });
+        let baseUrl = window.location.href.replace(this.router.url, '');
+        window.open(baseUrl + newRelativeUrl, '_blank');
     }
 
     private resolveName(chapters: { [key: string]: ChapterNav; }, res: any): string {
