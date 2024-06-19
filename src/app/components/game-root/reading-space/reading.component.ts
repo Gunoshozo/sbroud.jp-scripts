@@ -237,7 +237,7 @@ export class ReadingComponent implements OnInit, AfterViewInit {
     }
 
     private openTip(text: any): void {
-        let newRelativeUrl = this.router.createUrlTree([`/games/${this.gameName}/tips`], { queryParams: { filter: this.resolveKanji(text.target.innerHTML) } });
+        let newRelativeUrl = this.router.createUrlTree([`/games/${this.gameName}/tips`], { queryParams: { filter: this.resolveKanji(text.currentTarget.innerHTML) } });
         let baseUrl = window.location.href.replace(this.router.url, '');
         window.open(baseUrl + newRelativeUrl, '_blank');
     }
@@ -263,11 +263,19 @@ export class ReadingComponent implements OnInit, AfterViewInit {
         return name
     }
 
-    private resolveKanji(innnerHTML: string): string {
-        if (innnerHTML.includes("•")) {
-            return innnerHTML.replaceAll("<rt>•</rt>", "")
+    private resolveKanji(innerHTML: string): string {
+        let result = innerHTML.replaceAll("<ruby>", "").replaceAll("</ruby>", "");
+
+        if (result.includes("•")) {
+            return result.replaceAll("<rt>•</rt>", "")
         }
-        const res = innnerHTML.split("<rt>")[0]
-        return res
+        if (result.includes("<rt>")) {
+            const innerRubyPattern = /<rt>[ぁ-んァ-ン]+<\/rt>/gm;
+            let matches = [...result.matchAll(innerRubyPattern)];
+            matches.forEach((match) => {
+                result = result.replaceAll(match[0], '')
+            })
+        }
+        return result
     }
 }
