@@ -9,8 +9,8 @@
                     </div>
                     <hr class="chapter-reading_spacer">
                     <div class="chapter-reading_content-text">
-                        <ng-container *ngFor="let line of lines" [ngTemplateOutlet]="readedLines"
-                            [ngTemplateOutletContext]="{'line':line}">
+                        <ng-container *ngFor="let line of lines" [ngTemplateOutlet]="readableLines"
+                            [ngTemplateOutletContext]="{'line':line, 'depth': 0}">
                         </ng-container>
                     </div>
                     <hr class="chapter-reading_spacer bottom">
@@ -22,13 +22,13 @@
 </div>
 
 
-<ng-template #readedLines let-line="line">
+<ng-template #readableLines let-line="line" let-depth="depth">
     <ng-container *ngIf="line.isChoice; else simpleLine">
         <details class="chapter-reading_choice">
             <summary [innerHtml]="line.text"></summary>
-            <div class="chapter-reading_choice-content">
-                <ng-container *ngFor="let innerLine of line.innerLines" [ngTemplateOutlet]="readedLines"
-                    [ngTemplateOutletContext]="{'line': innerLine}">
+            <div class="chapter-reading_choice-content" [ngStyle]="{'--choiceDepth': depth+1}">
+                <ng-container *ngFor="let innerLine of line.innerLines" [ngTemplateOutlet]="readableLines"
+                    [ngTemplateOutletContext]="{'line': innerLine, 'depth': depth+1}">
                 </ng-container>
             </div>
         </details>

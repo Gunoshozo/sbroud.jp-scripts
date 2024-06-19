@@ -96,6 +96,7 @@
             min-height: 2rem;
             font-size: var(--reading-font-size, 1rem);
             line-height: calc(var(--reading-font-size, 1rem) + 0.5rem);
+            --choiceDepth: 0;
         }
     }
 
@@ -123,8 +124,9 @@
 
     &_bookmark-button {
         width: 0 !important;
-        transform: translateX(calc(-1*(var(--reading-font-size)* 2 + 2.5rem))) translateY(calc(var(--reading-font-size) - 4.5rem));
-        padding: calc(var(--reading-font-size) + 2rem) calc(var(--reading-font-size) + 1.5rem);
+        transform:  translateX(calc(-1*(var(--reading-font-size)* 3 + 2rem))) translateY(calc(var(--reading-font-size) * -1.5));
+        width: calc(var(--reading-font-size) * 3  + 2px + 2rem)!important;
+        height: calc(var(--reading-font-size) * 4)!important;
         position: absolute;
 
         use {
@@ -137,7 +139,8 @@
     }
 
     &_choice-content .chapter-reading_bookmark-button {
-        transform: translateX(calc(-1*(var(--reading-font-size) * 2 + 3.5rem + 1px))) translateY(calc(var(--reading-font-size) - 2.5rem));
+        transform:  translateX(calc(-1*(var(--reading-font-size)* 3 + 2rem +  1rem + 6px * var(--choiceDepth)*2))) translateY(calc(var(--reading-font-size) * -1.5));
+        width: calc(var(--reading-font-size) * 3  + 2px + 2rem + 1rem + 6px * var(--choiceDepth)* 2)!important;
     }
 
 
