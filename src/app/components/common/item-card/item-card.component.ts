@@ -40,7 +40,7 @@ export class ItemCardComponent implements OnInit {
 
     const hideSpoilersVar = localStorage.getItem(LocalStorageVariables.hideSpoilers);
 
-    if (this.spoiler && hideSpoilersVar === "true") {
+    if (this.spoiler && (hideSpoilersVar === "true" || !hideSpoilersVar)) {
       this.hiddenBySpoiler = !!this.spoiler;
       this.imageResource = LinkConsts.spoilerImg;
       this.name = TextConsts.spoilerPrompt;
