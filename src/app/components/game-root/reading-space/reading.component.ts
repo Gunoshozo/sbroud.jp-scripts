@@ -191,7 +191,7 @@ export class ReadingComponent implements OnInit, AfterViewInit {
                 return it.nativeElement.childNodes[0].childNodes[0].nodeName === "BUTTON"
             })?.nativeElement as HTMLElement;
 
-            /// go up the tree from inside the the choise and open up all details tags
+            /// go up the tree from inside the the choice and open up all details tags
             let currentEl: any = elRef;
             while (!currentEl.className.includes("chapter-reading_content-text")) {
                 currentEl = currentEl.parentElement;
@@ -200,12 +200,17 @@ export class ReadingComponent implements OnInit, AfterViewInit {
                 }
             }
 
-            //mumbo jumbo magic - need some timeout before scrolling to element
+            //mumbo jumbo magic - need some timeout before scrolling to element so the visuals will draw in time
             setTimeout(() => {
-                elRef.scrollIntoView();
+                this.scrollWithOffset(elRef, -15)
                 this.globalLoader.setGlobalLoader(false);
             }, 600)
         }
+    }
+
+    private scrollWithOffset(element: HTMLElement, offset: number): void {
+        const y = element.getBoundingClientRect().top + window.scrollY + offset;
+        window.scrollTo({ top: y }); 
     }
 
 
