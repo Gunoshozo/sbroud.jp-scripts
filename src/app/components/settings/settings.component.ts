@@ -84,6 +84,8 @@ export class SettingsComponent implements OnInit {
 		const hideSpoilersVar = localStorage.getItem(LocalStorageVariables.hideSpoilers);
 		if (hideSpoilersVar == null) {
 			this.controls["spoiler"] = new FormControl(true);
+			el.style.setProperty("--spoiler-color", "gray")
+			el.style.setProperty("--spoiler-background", "gray")
 		} else {
 			const val = hideSpoilersVar == 'true'
 			this.controls["spoiler"] = new FormControl(hideSpoilersVar == 'true');
