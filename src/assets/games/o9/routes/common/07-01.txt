@@ -39,13 +39,13 @@
 <span class="chapter-reading_char-name">？？？</span> : 悪魔に食べられちゃったか……。それとも――
 そこで、視線だけをあの張り紙に向ける。
 <span class="chapter-reading_char-name">？？？</span> : これから、食べられちゃうのかな
-意味の分からない言葉を僕へ告げると、もう一度微笑み、彼女はその場を去っていく。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-ど、どういうことでヤンス……？ <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-歩き去っていく後姿を見つめながら、あの女性がしていたネックレスを思い出していた。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-あのネックレスだけはどこかで見たことのある……。なんだっけ、<span class="chapter-reading_dict">オカルト</span>に関係してたような…… <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-あの形をどこかで見たことがある。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-逆三角形の下に三つの飾り。キリバサのネタ探しをしているときにそんな感じの話を見たことがあるんだ。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-思い出そうとして思い出せない、そんなもどかしい感情に支配されていると、横から声をかけられる。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+意味の分からない言葉を僕へ告げると、もう一度微笑み、彼女はその場を去っていく。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+ど、どういうことでヤンス……？ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+歩き去っていく後姿を見つめながら、あの女性がしていたネックレスを思い出していた。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+あのネックレスだけはどこかで見たことのある……。なんだっけ、<span class="chapter-reading_dict">オカルト</span>に関係してたような…… <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+あの形をどこかで見たことがある。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+逆三角形の下に三つの飾り。キリバサのネタ探しをしているときにそんな感じの話を見たことがあるんだ。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+思い出そうとして思い出せない、そんなもどかしい感情に支配されていると、横から声をかけられる。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
 <span class="chapter-reading_char-name">桐子</span> : ごめんね、待たせちゃって
 <span class="chapter-reading_char-name">悠太</span> : いえいえ、僕は大丈夫ですけど。……どうしたんです？
 桐子さんの息が荒い。走ってきたのかな。待ち合わせの時間までは、まだ時間はあるんだけどね。

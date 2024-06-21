@@ -1,16 +1,16 @@
 はあ……今日は疲れたな……
-家に帰ってくると、体が急にずっしりと重く感じた。自分で思っていた以上に疲れたみたいだ。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-そりゃそうだよ。一週間ぶりにブルゥムーンに行ったけど、ずっと緊張しっぱなしだったから。緊張を隠す為に必死で喋りまくってた。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-いつもとテンション違うっていうのは自覚してた。全身からイヤな汗が滲んでた。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-りょーたすとマスターはバカだからいいけど、みゅうポムには……ちょっと怪しまれたかもしれない。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-いつもの通り振る舞ったつもりだけど、怪しまれてないかな……？ <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-橋上教授が殺された日、僕がまさに教授に会いに行ったことを。りょーたすは今日、そのことについてはまったく触れなかったけど。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-いくらりょーたすがちょっとオバカで特殊な女子だからって気になってないわけがない。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-疑心暗鬼にばかりなって、なにも信じられなくなる。僕は思考を放棄するとコートを脱いでベッドに倒れ込んだ。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-……ひどく眠い。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-最近は眠りが浅くて、ずっと寝不足だ。昨日はゾン子に寝かせてもらえなかったし。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-このまま寝てしまいたい。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-でもすぐに、橋上教授の顔とか、金歯を引っこ抜いたときの感触とか、むせ返るほどの血の匂いが蘇ってきて、胸が苦しくなる。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+家に帰ってくると、体が急にずっしりと重く感じた。自分で思っていた以上に疲れたみたいだ。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+そりゃそうだよ。一週間ぶりにブルゥムーンに行ったけど、ずっと緊張しっぱなしだったから。緊張を隠す為に必死で喋りまくってた。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+いつもとテンション違うっていうのは自覚してた。全身からイヤな汗が滲んでた。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+りょーたすとマスターはバカだからいいけど、みゅうポムには……ちょっと怪しまれたかもしれない。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+いつもの通り振る舞ったつもりだけど、怪しまれてないかな……？ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+橋上教授が殺された日、僕がまさに教授に会いに行ったことを。りょーたすは今日、そのことについてはまったく触れなかったけど。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+いくらりょーたすがちょっとオバカで特殊な女子だからって気になってないわけがない。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+疑心暗鬼にばかりなって、なにも信じられなくなる。僕は思考を放棄するとコートを脱いでベッドに倒れ込んだ。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+……ひどく眠い。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+最近は眠りが浅くて、ずっと寝不足だ。昨日はゾン子に寝かせてもらえなかったし。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+このまま寝てしまいたい。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+でもすぐに、橋上教授の顔とか、金歯を引っこ抜いたときの感触とか、むせ返るほどの血の匂いが蘇ってきて、胸が苦しくなる。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
 <span class="chapter-reading_char-name">是如</span> : もしいつか父さんが死んだら、幽霊ＤＪになって話しかけてやるからな
 助けを求めるようにスカイセンサーを胸に乗せたら、父さんのことを思い出した。
 <span class="chapter-reading_char-name">悠太</span> : 父さん……
