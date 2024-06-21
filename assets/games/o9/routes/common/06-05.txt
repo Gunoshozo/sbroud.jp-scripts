@@ -188,18 +188,18 @@
 <span class="chapter-reading_char-name">悠太</span> : それはありがたい！
 <span class="chapter-reading_char-name">桐子</span> : じゃあ、私は仕事に戻るから
 そう言って桐子さんはＰＣを片付けて、マスターとりょーたすに会釈をすると、外へ飛び出していった。
-<span class="chapter-reading_char-name">悠太</span> : いやぁ、敏腕記者は言うことが違いますなぁ！　若い子に夢を与えてくれる！ <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">稜歌</span> : よかったね！　ガモタン！ <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">悠太</span> : うん、よかったよかった <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">マスターイズミン</span> : ガモタくん、水を差すようなことを言うけど、結局、水無瀬莉愛ちゃんの取材の手伝いをすることにしたの？ <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">悠太</span> : え、……あ <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-そういえば、否定しようとしたところで橋上教授の話を持ち出されて……。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">悠太</span> : あれ、僕って上手く誘導された感じ……？ <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">マスターイズミン</span> : 今更だけど、仕方がないわね <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">稜歌</span> : ガモタン、頑張ってね～！ <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-２人とも他人事のように言ってくれてさ……。ちょっとは協力するよとか言ってくれてもいいじゃないか……。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">悠太</span> : 前向きにとらえよう、うん。前向きに <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">マスターイズミン</span> : いいことね <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-そうだよ、ムムーの敏腕記者と一緒の行動ができるんだ。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-取材のコツとか道具とかいろいろ知ることができるだろうし？　もしかしたら強力なツテができるかもしれないし？ <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">悠太</span> : いやぁ、敏腕記者は言うことが違いますなぁ！　若い子に夢を与えてくれる！ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">稜歌</span> : よかったね！　ガモタン！ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">悠太</span> : うん、よかったよかった <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">マスターイズミン</span> : ガモタくん、水を差すようなことを言うけど、結局、水無瀬莉愛ちゃんの取材の手伝いをすることにしたの？ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">悠太</span> : え、……あ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+そういえば、否定しようとしたところで橋上教授の話を持ち出されて……。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">悠太</span> : あれ、僕って上手く誘導された感じ……？ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">マスターイズミン</span> : 今更だけど、仕方がないわね <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">稜歌</span> : ガモタン、頑張ってね～！ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+２人とも他人事のように言ってくれてさ……。ちょっとは協力するよとか言ってくれてもいいじゃないか……。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">悠太</span> : 前向きにとらえよう、うん。前向きに <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">マスターイズミン</span> : いいことね <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+そうだよ、ムムーの敏腕記者と一緒の行動ができるんだ。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+取材のコツとか道具とかいろいろ知ることができるだろうし？　もしかしたら強力なツテができるかもしれないし？ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
 それでも、痛い目に合うかもって考えたら、投げ出したくなるのはどうしようもなかった。

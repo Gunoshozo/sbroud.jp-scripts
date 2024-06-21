@@ -45,17 +45,17 @@
 <span class="chapter-reading_char-name">マスターイズミン</span> : いってらっしゃ～い♪　そして、またきてねぇん♪
 マスターの浮かべている笑顔が気になるが、今はあまり気にしないでおこう。
 <span class="chapter-reading_char-name">悠太</span> : それじゃ、また来ます
-<span class="chapter-reading_char-name">悠太</span> : う～ん、遅いなぁ……。りょーたす、まだかなぁ <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-ブルゥムーンを後にして、僕は吉祥寺駅にきていた。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-こうやって、駅前に１人で立っていると目立つような気がする。実際はそんなことないんだろうけど、周囲からの視線を感じてしまう。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-本当はカフェで待ち合わせをしてもよかった。桐子さんに言われた時間まで余裕もあるし…… <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-あんなところ、１人じゃあ入れませんがな…… <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-やっぱり僕みたいなヤツが１人で入るような場所じゃないって。どこか遠い世界に感じるよ。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-桐子さんがいれば、一緒に入ることができるから違和感を和らげることができる……ような気もするし。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-てか、店内で桐子さんを探すのも辛いでしょ…… <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-もし、桐子さんが先に来ていて、店内で待っていたら、練り歩いて彼女を見つけなければいけない。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">悠太</span> : 無理。そうなったら帰ります…… <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-人は多いだろうし。なんなのアイツみたいな視線を浴びせられたら死んじゃうよ……。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">悠太</span> : う～ん、遅いなぁ……。りょーたす、まだかなぁ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+ブルゥムーンを後にして、僕は吉祥寺駅にきていた。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+こうやって、駅前に１人で立っていると目立つような気がする。実際はそんなことないんだろうけど、周囲からの視線を感じてしまう。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+本当はカフェで待ち合わせをしてもよかった。桐子さんに言われた時間まで余裕もあるし…… <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+あんなところ、１人じゃあ入れませんがな…… <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+やっぱり僕みたいなヤツが１人で入るような場所じゃないって。どこか遠い世界に感じるよ。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+桐子さんがいれば、一緒に入ることができるから違和感を和らげることができる……ような気もするし。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+てか、店内で桐子さんを探すのも辛いでしょ…… <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+もし、桐子さんが先に来ていて、店内で待っていたら、練り歩いて彼女を見つけなければいけない。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">悠太</span> : 無理。そうなったら帰ります…… <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+人は多いだろうし。なんなのアイツみたいな視線を浴びせられたら死んじゃうよ……。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
 そんなことを考えていたら、視界が暗くなって。緊張と不安のあまり気絶したのかなって思った。
 <span class="chapter-reading_char-name">？？？</span> : だ～～れだ？
 え……？

@@ -1,14 +1,14 @@
-このままじっとしてなんていられない。今の僕でも、何か出来ることがあるはずだ。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-……でも、家の中でじっとしていても今更何も思いつかない。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-かといって、何の情報もないままブルゥムーンに行く気にはなれなかった。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-サライや桐子さんが情報を持って帰ってくるかもしれないのに、僕は手ブラなんて気まずすぎる。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-やって来たのは、いつもの公園。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-ぼんやりといつものベンチを眺めながら、ただひたすら考える。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-どれだけそうしていただろうか。ざり、と砂を踏む音が聞こえた。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-振り返った時、そこにいたのは…… <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">悠太</span> : あ…… <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-この前会った、<span class="chapter-reading_dict">ＦＢＩ</span>特殊捜査官と名乗ったあすにゃんだった。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-目が合った瞬間、僕は居心地の悪さを覚えてうつむく。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+このままじっとしてなんていられない。今の僕でも、何か出来ることがあるはずだ。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+……でも、家の中でじっとしていても今更何も思いつかない。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+かといって、何の情報もないままブルゥムーンに行く気にはなれなかった。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+サライや桐子さんが情報を持って帰ってくるかもしれないのに、僕は手ブラなんて気まずすぎる。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+やって来たのは、いつもの公園。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+ぼんやりといつものベンチを眺めながら、ただひたすら考える。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+どれだけそうしていただろうか。ざり、と砂を踏む音が聞こえた。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+振り返った時、そこにいたのは…… <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">悠太</span> : あ…… <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+この前会った、<span class="chapter-reading_dict">ＦＢＩ</span>特殊捜査官と名乗ったあすにゃんだった。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+目が合った瞬間、僕は居心地の悪さを覚えてうつむく。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
 <span class="chapter-reading_char-name">あすな</span> : 何か聞きたいことでもあるの？
 <span class="chapter-reading_char-name">悠太</span> : ……。君、僕の死体を調べたって言ってたよね。やっぱり……死んだの？
 <span class="chapter-reading_char-name">あすな</span> : ええ

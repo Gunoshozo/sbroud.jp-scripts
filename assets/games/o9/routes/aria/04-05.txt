@@ -1,17 +1,17 @@
-夜の営業が始まるから、とマスターに追い出された僕は、ふらふらと歩いていた。……暇だ。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-まっすぐ家に帰ったってごはんがあるわけじゃないし。<span class="chapter-reading_dict">すた豚</span>でも食べて帰ろうかと思ったけど、１人じゃいまいち気乗りがしない。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-……こんなとき、りょーたすが一緒だったらな。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">悠太</span> : 僕がいったい何したって言うんだよ <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-どうしてりょーたすが怒っちゃったのか、全然わからない。ぼーっとしながら歩いてると、向こうから歩いてきた人にぶつかりそうになった。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">悠太</span> : どわぁっっ！ <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-直前で避けたのはいいけど、勢い余って、後ろに倒れ込む。尻餅をついたせいで腰が痛い。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-おまけに後ろにゴミ箱があったらしく、思いっきり頭をぶつけた。あげく、ゴミ箱の上に乗っていた空き缶が落ちてきて、額に直撃する。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">悠太</span> : いたたた……なんだよ、なんなんだよ、もう…… <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-誰だよ、空き缶をゴミ箱にちゃんと捨てなかったヤツ！  <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-はぁ……今日って厄日じゃない？　朝から不吉なニュースは見るわ、サライと桐子さんまでそれを信じちゃってるわ。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-りょーたすは怒らせちゃうし、車には轢かれそうになるし、腰もおでこも痛いし。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-僕も……サライたちについていけばよかったのかな。いや、でも、僕が橋上教授の残した資料を見たって、何かわかるとは思えない。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-なんか、もっとこう手っ取り早くわかればいいのに。僕たちは死んでなんかいないって。 <span><img src="\assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+夜の営業が始まるから、とマスターに追い出された僕は、ふらふらと歩いていた。……暇だ。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+まっすぐ家に帰ったってごはんがあるわけじゃないし。<span class="chapter-reading_dict">すた豚</span>でも食べて帰ろうかと思ったけど、１人じゃいまいち気乗りがしない。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+……こんなとき、りょーたすが一緒だったらな。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">悠太</span> : 僕がいったい何したって言うんだよ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+どうしてりょーたすが怒っちゃったのか、全然わからない。ぼーっとしながら歩いてると、向こうから歩いてきた人にぶつかりそうになった。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">悠太</span> : どわぁっっ！ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+直前で避けたのはいいけど、勢い余って、後ろに倒れ込む。尻餅をついたせいで腰が痛い。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+おまけに後ろにゴミ箱があったらしく、思いっきり頭をぶつけた。あげく、ゴミ箱の上に乗っていた空き缶が落ちてきて、額に直撃する。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">悠太</span> : いたたた……なんだよ、なんなんだよ、もう…… <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+誰だよ、空き缶をゴミ箱にちゃんと捨てなかったヤツ！  <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+はぁ……今日って厄日じゃない？　朝から不吉なニュースは見るわ、サライと桐子さんまでそれを信じちゃってるわ。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+りょーたすは怒らせちゃうし、車には轢かれそうになるし、腰もおでこも痛いし。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+僕も……サライたちについていけばよかったのかな。いや、でも、僕が橋上教授の残した資料を見たって、何かわかるとは思えない。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+なんか、もっとこう手っ取り早くわかればいいのに。僕たちは死んでなんかいないって。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
 ……あ。
 顔を上げたら、紅ノ館の入り口が目に入った。そうだ、紅ノ亞里亞だ。呪いの専門家ってことは、<span class="chapter-reading_dict">オカルト</span>の専門家ってことでしょ？
 別に僕が死んでるとか幽霊だってことを信じてるわけじゃないけど、見えない『何か』と話せる彼女なら、わかることもあるかもしれない。
