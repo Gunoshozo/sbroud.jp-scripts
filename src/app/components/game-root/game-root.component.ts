@@ -1,21 +1,44 @@
-import { AfterViewInit, ChangeDetectorRef, Component, ElementRef, HostBinding, HostListener, Inject, OnInit, ViewChild } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
-import { Subject, distinctUntilChanged, map, share, startWith, switchMap, take, takeUntil } from 'rxjs';
+import { AfterViewInit, CUSTOM_ELEMENTS_SCHEMA, ChangeDetectorRef, Component, ElementRef, HostBinding, HostListener, Inject, OnInit, ViewChild } from '@angular/core';
+import { ActivatedRoute, RouterLink, RouterOutlet } from '@angular/router';
+import { Subject, distinctUntilChanged, map, share, startWith, switchMap, takeUntil } from 'rxjs';
 import { RestApiService } from '../../services/rest.service';
 import {
 	TuiThemeNightService,
 	TuiThemeService,
 } from '@taiga-ui/addon-doc/services';
-import { TuiBrightness, TuiDialogContext, TuiDialogService } from '@taiga-ui/core';
+import { TuiBrightness, TuiButtonModule, TuiDialogContext, TuiDialogModule, TuiDialogService, TuiHintModule, TuiRootModule } from '@taiga-ui/core';
 import { GameRootService } from './game-root.serviece';
 import { SakuraService } from '../../services/sakura.service';
 import { LocalStorageVariables } from '../../conts/general.const';
 import { PolymorpheusContent } from '@tinkoff/ng-polymorpheus';
 import { MobileService } from '../../services/mobile.service';
+import { NgClass, NgComponentOutlet, NgFor, NgIf } from '@angular/common';
+import { TuiActiveZoneModule } from '@taiga-ui/cdk';
+import { TuiSidebarModule } from '@taiga-ui/addon-mobile';
 
 @Component({
 	selector: 'game-root',
-	templateUrl: './game-root.component.html'
+	templateUrl: './game-root.component.html',
+	standalone: true,
+	imports: [
+		NgIf,
+		NgFor,
+		NgClass,
+		NgComponentOutlet,
+		RouterOutlet,
+		RouterLink,
+    	TuiDialogModule,
+		TuiSidebarModule,
+		TuiButtonModule,
+		TuiHintModule,
+		TuiActiveZoneModule
+	],
+	providers: [
+		RestApiService,
+		GameRootService,
+		SakuraService
+	],
+	schemas: [CUSTOM_ELEMENTS_SCHEMA]
 })
 export class GameRootComponent implements OnInit, AfterViewInit {
 
@@ -49,7 +72,6 @@ export class GameRootComponent implements OnInit, AfterViewInit {
 	constructor(private route: ActivatedRoute,
 		private rootService: GameRootService,
 		private apiService: RestApiService,
-		private mobileService: MobileService,
 		private sakura: SakuraService,
 		private cdr: ChangeDetectorRef,
 		@Inject(TuiDialogService) private readonly dialogs: TuiDialogService,
@@ -58,7 +80,7 @@ export class GameRootComponent implements OnInit, AfterViewInit {
 	) { }
 
 	public ngOnInit(): void {
-		this.isMobile = this.mobileService.isMobile();
+		this.isMobile = MobileService.isMobile();
 
 		this.sakura.bindSakura("game-root")
 

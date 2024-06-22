@@ -6,10 +6,17 @@ import { GameNameMapping } from '../../../conts/general.const';
 import { GameRootService } from '../game-root.serviece';
 import { RestApiService } from '../../../services/rest.service';
 import { GameConfig } from '../../../models/reading.models';
+import { TuiIslandModule } from '@taiga-ui/kit';
+import { TuiLinkModule } from '@taiga-ui/core';
 
 @Component({
     selector: 'supplementary',
-    templateUrl: './supplementary.component.html'
+    templateUrl: './supplementary.component.html',
+    standalone: true,
+    imports:[
+        TuiIslandModule,
+        TuiLinkModule
+    ]
 })
 export class SupplementaryPageComponent {
     public text: string = "";

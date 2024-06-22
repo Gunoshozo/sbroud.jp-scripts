@@ -1,9 +1,4 @@
 <div class="search-items">
-    <!-- <tui-primitive-textfield class="items-list_filter-field" [tuiTextfieldIcon]="'tuiIconSearchLarge'"
-        [tuiTextfieldFiller]="''" [tuiTextfieldCleaner]="true" [(value)]="searchString">
-        Search for text in scenarios
-        <input tuiTextfield />
-    </tui-primitive-textfield> -->
     <form class="items-list_filter-field" [formGroup]="searchForm">
         <tui-input [formControlName]="'search'" [tuiTextfieldIcon]="'tuiIconSearchLarge'" [tuiTextfieldCleaner]="true">
             Search for text in scenarios

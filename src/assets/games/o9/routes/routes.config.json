@@ -4,30 +4,30 @@
         {
             "name": "Common Route",
             "routerLink": "common",
-            "imgSrc": "assets/images/o9/common.png"
+            "imgSrc": "assets/images/o9/common.webp"
         },
         {
             "name": "Miyuu Route",
             "routerLink": "miyuu",
-            "imgSrc": "assets/images/o9/miyuu.png",
-            "alternativeImgs": ["assets/images/o9/miyuu1.png", "assets/images/o9/miyuu2.png"]
+            "imgSrc": "assets/images/o9/miyuu.webp",
+            "alternativeImgs": ["assets/images/o9/miyuu1.webp", "assets/images/o9/miyuu2.webp"]
         },
         {
             "name": "Aria Route",
             "routerLink": "aria",
-            "imgSrc": "assets/images/o9/aria.png",
-            "alternativeImgs": ["assets/images/o9/aria1.png"]
+            "imgSrc": "assets/images/o9/aria.webp",
+            "alternativeImgs": ["assets/images/o9/aria1.webp"]
         },
         {
             "name": "Touko Route",
             "routerLink": "touko",
-            "imgSrc": "assets/images/o9/touko.png",
-            "alternativeImgs": ["assets/images/o9/touko1.png", "assets/images/o9/touko2.png"]
+            "imgSrc": "assets/images/o9/touko.webp",
+            "alternativeImgs": ["assets/images/o9/touko1.webp", "assets/images/o9/touko2.webp"]
         },
         {
             "name": "True Story",
             "routerLink": "true",
-            "imgSrc": "assets/images/o9/true.png"
+            "imgSrc": "assets/images/o9/true.webp"
         }
     ]
 }

@@ -1,6 +1,6 @@
 import { HttpHeaders } from '@angular/common/http';
 import { AfterViewInit, ChangeDetectorRef, Component, ElementRef, OnInit, QueryList, ViewChildren } from '@angular/core';
-import { ActivatedRoute, Router } from '@angular/router';
+import { ActivatedRoute, Router, Routes } from '@angular/router';
 import { combineLatestWith, forkJoin, of, switchMap, tap } from 'rxjs';
 import { TextFormatter } from './helpers/text-formatter';
 import { GlobalLoaderService } from '../../../services/global-loader.service';
@@ -10,11 +10,30 @@ import { ChapterConfig, ChapterNav } from '../../../models/reading.models';
 import { RestApiService } from '../../../services/rest.service';
 import { LocalStorageVariables } from '../../../conts/general.const';
 import { ReadingLineComponent } from './components/readling-line/reading-line.component';
+import { NgFor, NgIf, NgStyle, NgTemplateOutlet } from '@angular/common';
+import { TuiElasticContainerModule, TuiIslandModule } from '@taiga-ui/kit';
+import { NavigationComponent } from './components/navigation/navigation.component';
 
 
 @Component({
     selector: 'reading-component',
-    templateUrl: './reading.component.html'
+    templateUrl: './reading.component.html',
+    standalone: true,
+    imports: [
+        NgFor,
+        NgIf,
+        NgStyle,
+        NgTemplateOutlet,
+        ReadingLineComponent,
+        NavigationComponent,
+        TuiElasticContainerModule,
+        TuiIslandModule
+    ],
+    providers: [
+        RestApiService,
+        GameRootService,
+        GlobalLoaderService
+    ]
 })
 export class ReadingComponent implements OnInit, AfterViewInit {
 

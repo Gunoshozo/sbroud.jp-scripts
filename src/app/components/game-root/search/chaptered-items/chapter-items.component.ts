@@ -5,11 +5,25 @@ import { ChapterConfig } from '../../../../models/reading.models';
 import { GlobalLoaderService } from '../../../../services/global-loader.service';
 import { RestApiService } from '../../../../services/rest.service';
 import { SearchableChapter } from '../../../models/search-config.model';
-import { FormGroup, FormControl } from '@angular/forms';
+import { FormGroup, FormControl, FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { TuiInputModule } from '@taiga-ui/kit';
+import { NgFor } from '@angular/common';
+import { RouterLink } from '@angular/router';
+import { TuiButtonModule, TuiTextfieldControllerModule } from '@taiga-ui/core';
 
 @Component({
 	selector: 'chapters-items',
-	templateUrl: './chapter-items.component.html'
+	templateUrl: './chapter-items.component.html',
+	standalone: true,
+	imports: [
+		FormsModule,
+		ReactiveFormsModule,
+		NgFor,
+		TuiInputModule,
+		TuiTextfieldControllerModule,
+		TuiButtonModule,
+		RouterLink,
+	]
 })
 export class ChapteredItemsComponent implements OnInit {
 

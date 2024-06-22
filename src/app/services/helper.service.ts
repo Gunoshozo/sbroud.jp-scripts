@@ -1,9 +1,7 @@
-import { Injectable } from "@angular/core";
 import { ChapterConfig, ChapterNav } from "../models/reading.models";
 
-@Injectable()
-export class HelperService {
-    public resolveChapterName(chapterConfig: ChapterConfig, chapterIndex: number): string {
+export class NameHelper {
+    public static resolveChapterName(chapterConfig: ChapterConfig, chapterIndex: number): string {
         if (chapterConfig.chapterOrder) {
             let chapterKey = chapterConfig.chapterOrder[chapterIndex]
             let chapter = chapterConfig.chapters[chapterKey];

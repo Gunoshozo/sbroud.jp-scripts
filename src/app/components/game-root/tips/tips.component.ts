@@ -5,17 +5,29 @@ import { GameNameMapping } from '../../../conts/general.const';
 import { Tip } from '../../../models/reading.models';
 import { GameRootService } from '../game-root.serviece';
 import { RestApiService } from '../../../services/rest.service';
+import { TuiAccordionModule, TuiIslandModule } from '@taiga-ui/kit';
+import { TuiPrimitiveTextfieldModule, TuiTextfieldControllerModule } from '@taiga-ui/core';
+import { NgFor, NgIf } from '@angular/common';
 
-@Directive({
-	selector: '.t-header'
-})
-export class AccoridonButton {
-}
+// @Directive({
+// 	selector: '.t-header'
+// })
+// export class AccoridonButton {
+// }
 
 
 @Component({
 	selector: 'app-tips',
-	templateUrl: './tips.component.html'
+	templateUrl: './tips.component.html',
+	standalone: true,
+	imports: [
+		NgIf,
+		NgFor,
+		TuiAccordionModule,
+		TuiIslandModule,
+		TuiPrimitiveTextfieldModule,
+		TuiTextfieldControllerModule
+	]
 })
 export class TipsComponent implements OnInit {
 

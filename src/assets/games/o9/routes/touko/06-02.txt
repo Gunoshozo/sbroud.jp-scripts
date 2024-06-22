@@ -3,18 +3,18 @@
 ヤバ……橋上教授の口から金歯を抜いた時のこと、思い出しそう……
 <span class="chapter-reading_char-name">桐子</span> : 私は棚に保管されている資料から目を通していくわ。我聞君は他の場所に置いてある資料をお願い
 <span class="chapter-reading_char-name">悠太</span> : は、はい……
-他の場所って言ってもこの研究室の中、本だらけだし。一週間いても絶対読み終わらないよ。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-僕は部屋の中を見回したあと、机の上に積んである資料を手にとってみる。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-……なにこれ、意味わかんないんですけど。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-カタカナと漢字多すぎ。霊界のこと語ってるっぽいけど内容ハードすぎでしょ。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-ごく普通のニートな男子高校生には理解不能。こんなの理解できるような天才だったら、世紀の大発明でもしてニート生活を満喫するよ。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">悠太</span> : ……サライがいてくれたらいいのに <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-本当、頭の良い人って難しく書いちゃうクセあるよね。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-この本に書かれてる<span class="chapter-reading_dict">ニコラ・テスラ</span>って人も、説明上手くないし。他の本にもこの名前が載ってたけど、理解不能。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-……ん？　ちょっと待ってよ。さっき開いた本にも<span class="chapter-reading_dict">ニコラ・テスラ</span>について載ってた。っていうか、この机の上にある本、ほとんどに…… <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_dict">ニコラ・テスラ</span>って……たしか、２０世紀の発明家だったっけ。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-今まで開いた本をもう一度見直してみる。そこには<span class="chapter-reading_dict">ニコラ・テスラ</span>という名前と一緒に、『<span class="chapter-reading_dict">世界システム</span>』という言葉も並んでいた。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-どうして橋上教授はこんなに<span class="chapter-reading_dict">ニコラ・テスラ</span>の本ばかり、集めてたんだろ？　しかも『<span class="chapter-reading_dict">世界システム</span>』についてばっかり…… <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+他の場所って言ってもこの研究室の中、本だらけだし。一週間いても絶対読み終わらないよ。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+僕は部屋の中を見回したあと、机の上に積んである資料を手にとってみる。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+……なにこれ、意味わかんないんですけど。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+カタカナと漢字多すぎ。霊界のこと語ってるっぽいけど内容ハードすぎでしょ。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+ごく普通のニートな男子高校生には理解不能。こんなの理解できるような天才だったら、世紀の大発明でもしてニート生活を満喫するよ。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">悠太</span> : ……サライがいてくれたらいいのに <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+本当、頭の良い人って難しく書いちゃうクセあるよね。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+この本に書かれてる<span class="chapter-reading_dict">ニコラ・テスラ</span>って人も、説明上手くないし。他の本にもこの名前が載ってたけど、理解不能。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+……ん？　ちょっと待ってよ。さっき開いた本にも<span class="chapter-reading_dict">ニコラ・テスラ</span>について載ってた。っていうか、この机の上にある本、ほとんどに…… <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="chapter-reading_dict">ニコラ・テスラ</span>って……たしか、２０世紀の発明家だったっけ。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+今まで開いた本をもう一度見直してみる。そこには<span class="chapter-reading_dict">ニコラ・テスラ</span>という名前と一緒に、『<span class="chapter-reading_dict">世界システム</span>』という言葉も並んでいた。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+どうして橋上教授はこんなに<span class="chapter-reading_dict">ニコラ・テスラ</span>の本ばかり、集めてたんだろ？　しかも『<span class="chapter-reading_dict">世界システム</span>』についてばっかり…… <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
 <span class="chapter-reading_char-name">悠太</span> : 桐子さん！　ここら辺、みんな<span class="chapter-reading_dict">ニコラ・テスラ</span>って人について書かれた本ばかりですよ
 <span class="chapter-reading_char-name">桐子</span> : ええ、こっちもよ。それにこれ見て、面白いものを見つけたの
 そう言って桐子さんが僕に見せたのは、分厚いファイル。どうやら教授が作ったスクラップブックらしい。

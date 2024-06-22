@@ -39,24 +39,24 @@
 <span class="chapter-reading_char-name">稜歌</span> : がんばってね～☆
 りょーたすに応援されながら、僕はブルゥムーンをあとにした。
 ブルゥムーンを出てから数十分。僕は<span class="chapter-reading_dict">ハモニカ横丁</span>の入口にいた。
-なんだか、異世界に飛び込むような気分だ。<span class="chapter-reading_dict">ハモニカ横丁</span>の通路に沿う形で設置されている看板を見上げつつ僕は思う。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-こんなに雰囲気って変わるのか…… <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">悠太</span> : ……よし <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-時間帯もあれなのか、サラリーマンの姿が多いように感じる。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-ひとり、またひとり、と吸い込まれていくように<span class="chapter-reading_dict">ハモニカ横丁</span>へ入っていく姿をみると、怖くなってくる。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-僕も大人になったら、来るようになるんだろうか。こういう場所でお酒を飲んだりするのかな。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-一歩一歩踏みしめるように通路を進んでいく。こんな時間に僕みたいな人間が歩いているのは不思議なのか、通り過ぎる人の視線が重い。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-やっぱり、りょーたすとかみゅうポムが来るべき場所じゃないよなぁ…… <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-本当に異世界へ迷い込んだみたいだ。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-……てか、インタビューって。……どうしよう？ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-考えてみたら、何をインタビューするとか計画を立てていない。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-誰か呪う……？ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-とはいっても、呪い殺したいような人なんて、僕にはいない。というか、悲しいけどそういう関わりってないんだよね。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-こうなったら現場に着いてから考えよう。今は、この異空間から抜け出さないと……。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">悠太</span> : ……あった <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-たどり着いた場所。控えめな看板が一つ。赤いポストが一つ。その隣に２階へのびる階段。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-階段には電球なんてなくて、薄暗い。ドアの前でぼーっと揺れる光が階段を長く感じさせる。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-僕は生唾を飲み込んで、２階へ上がっていく。ドアの前へたどり着くときには、精神が押しつぶされそうだった。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+なんだか、異世界に飛び込むような気分だ。<span class="chapter-reading_dict">ハモニカ横丁</span>の通路に沿う形で設置されている看板を見上げつつ僕は思う。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+こんなに雰囲気って変わるのか…… <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">悠太</span> : ……よし <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+時間帯もあれなのか、サラリーマンの姿が多いように感じる。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+ひとり、またひとり、と吸い込まれていくように<span class="chapter-reading_dict">ハモニカ横丁</span>へ入っていく姿をみると、怖くなってくる。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+僕も大人になったら、来るようになるんだろうか。こういう場所でお酒を飲んだりするのかな。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+一歩一歩踏みしめるように通路を進んでいく。こんな時間に僕みたいな人間が歩いているのは不思議なのか、通り過ぎる人の視線が重い。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+やっぱり、りょーたすとかみゅうポムが来るべき場所じゃないよなぁ…… <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+本当に異世界へ迷い込んだみたいだ。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+……てか、インタビューって。……どうしよう？ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+考えてみたら、何をインタビューするとか計画を立てていない。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+誰か呪う……？ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+とはいっても、呪い殺したいような人なんて、僕にはいない。というか、悲しいけどそういう関わりってないんだよね。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+こうなったら現場に着いてから考えよう。今は、この異空間から抜け出さないと……。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">悠太</span> : ……あった <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+たどり着いた場所。控えめな看板が一つ。赤いポストが一つ。その隣に２階へのびる階段。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+階段には電球なんてなくて、薄暗い。ドアの前でぼーっと揺れる光が階段を長く感じさせる。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+僕は生唾を飲み込んで、２階へ上がっていく。ドアの前へたどり着くときには、精神が押しつぶされそうだった。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
 ……よし、行こう。
 僕は改めて決心し、ドアノブに触れる。それがやけに冷たく感じて、凍っているんじゃないかって思うほど。でも、僕はドアを開けた。
 <span class="chapter-reading_char-name">悠太</span> : あのー……

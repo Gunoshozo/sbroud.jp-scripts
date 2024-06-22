@@ -1,10 +1,21 @@
 import { Component, HostBinding, Inject } from "@angular/core";
 import { TuiThemeService, TuiThemeNightService } from "@taiga-ui/addon-doc";
 import { SakuraService } from "../../services/sakura.service";
+import { TuiHintModule, TuiSvgModule } from "@taiga-ui/core";
+import { TuiIslandModule } from "@taiga-ui/kit";
+import { HeaderControlsComponent } from "../common/header-controls/header-controls.component";
 
 @Component({
     selector: 'gen-info',
-    templateUrl: './general-info.component.html'
+    templateUrl: './general-info.component.html',
+    standalone: true,
+    imports:[
+        HeaderControlsComponent,
+
+        TuiSvgModule,
+        TuiHintModule,
+        TuiIslandModule
+    ]
 })
 export class GeneralInfoComponent {
 

@@ -1,5 +1,5 @@
 export class LinkConsts {
-    public static readonly spoilerImg = 'assets/images/common/spoiler_big.png';
+    public static readonly spoilerImg = 'assets/images/common/spoiler_big.webp';
 }
 
 export class TextConsts {

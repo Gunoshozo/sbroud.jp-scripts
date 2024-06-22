@@ -1,18 +1,36 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute, Router } from '@angular/router';
+import { ActivatedRoute, Router, RouterLink } from '@angular/router';
 import { combineLatestWith, switchMap, of, tap } from 'rxjs';
 import { GameNameMapping, LocalStorageVariables } from '../../../conts/general.const';
-import { GameItem, ChapterNav, ChapterConfig } from '../../../models/reading.models';
-import { GameRootService } from '../game-root.serviece';
+import { GameItem, ChapterConfig, ChapterNav } from '../../../models/reading.models';
 import { RestApiService } from '../../../services/rest.service';
+import { GameRootService } from '../game-root.serviece';
+import { ItemCardComponent } from '../../common/item-card/item-card.component';
+import { NgClass, NgFor, NgIf, NgStyle } from '@angular/common';
+import { TuiButtonModule } from '@taiga-ui/core';
+
 
 @Component({
     selector: 'chapter-navigation',
-    templateUrl: './chapter-navigation.component.html'
+    templateUrl: './chapter-navigation.component.html',
+    standalone: true,
+    imports: [
+        ItemCardComponent,
+        NgIf,
+        NgFor,
+        NgClass,
+        NgStyle,
+        RouterLink,
+        TuiButtonModule
+    ],
+    providers: [
+        RestApiService,
+        GameRootService
+    ]
 })
 export class ChapterNavigationComponent implements OnInit {
 
-    constructor(private route: ActivatedRoute, private router: Router, private gameRootService: GameRootService, private restApiService: RestApiService, private apiService: RestApiService) { }
+    constructor(private route: ActivatedRoute, private router: Router, private gameRootService: GameRootService, private restApiService: RestApiService) { }
 
     //modes routed chapters, routless chapters, route select
     public _items: GameItem[] = [];
@@ -28,7 +46,7 @@ export class ChapterNavigationComponent implements OnInit {
     ngOnInit(): void {
         const observables = [this.route.paramMap]
         if (!GameNameMapping.mapping) {
-            observables.push(this.apiService.get("nameMapping").pipe(tap((file) => {
+            observables.push(this.restApiService.get("nameMapping").pipe(tap((file) => {
                 GameNameMapping.mapping = file;
             })))
         }

@@ -1,11 +1,19 @@
 import { Component, HostBinding, Inject } from "@angular/core";
+import { RouterLink } from "@angular/router";
 import { TuiThemeService, TuiThemeNightService } from "@taiga-ui/addon-doc";
-import { TuiBrightness } from "@taiga-ui/core";
+import { TuiBrightness, TuiButtonModule, TuiHintModule, TuiLinkModule } from "@taiga-ui/core";
 import { startWith, map, distinctUntilChanged, share } from "rxjs";
 
 @Component({
     selector: 'footer-controls',
-    templateUrl: './footer-controls.component.html'
+    templateUrl: './footer-controls.component.html',
+	standalone: true,
+	imports: [
+		RouterLink,
+		TuiHintModule,
+		TuiLinkModule,
+		TuiButtonModule
+	]
 })
 export class FooterControlsComponent {
 

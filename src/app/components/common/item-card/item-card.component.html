@@ -5,7 +5,7 @@
     [tuiHintShowDelay]="600"
     tuiHintPointer (click)="hiddenBySpoiler && toggleSpoiler($event)">
     <div class="item-card-container" [ngClass]="{'spoiler': hiddenBySpoiler}">
-        <img class="item-card-image" [src]="imageResource" />
+        <img class="item-card-image" [src]="imageResource" [alt]="!hideTip && name"/>
         <div class="item-card-title">
             <div *ngIf="(name || subName) && !hideName" class="item-card-title-container">
                 <h2 class="item-card-title_name">

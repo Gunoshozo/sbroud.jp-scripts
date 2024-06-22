@@ -5,10 +5,19 @@ import { GlobalLoaderService } from '../../../services/global-loader.service';
 import { RestApiService } from '../../../services/rest.service';
 import { SearchConfig } from '../../models/search-config.model';
 import { GameRootService } from '../game-root.serviece';
+import { NgIf } from '@angular/common';
+import { ChapteredItemsComponent } from './chaptered-items/chapter-items.component';
+import { RoutedItemsComponent } from './routed-items/routed-items.component';
+import { TuiButtonModule } from '@taiga-ui/core';
 
 @Component({
 	selector: 'app-search',
-	templateUrl: './search.component.html'
+	templateUrl: './search.component.html',
+	standalone: true,
+	imports: [
+		NgIf,
+		ChapteredItemsComponent,
+		RoutedItemsComponent]
 })
 export class SearchComponent implements OnInit {
 

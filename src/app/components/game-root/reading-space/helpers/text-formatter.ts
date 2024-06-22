@@ -1,8 +1,6 @@
 import { ReadableLine } from "../models/lines.model"
 
 export class TextFormatter {
-
-
     public static preprocessTextString(text: string): ReadableLine[] {
         let result: ReadableLine[] = []
         const lines = text.split("\n");
