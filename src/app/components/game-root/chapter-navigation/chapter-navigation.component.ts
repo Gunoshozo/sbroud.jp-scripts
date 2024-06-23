@@ -8,6 +8,8 @@ import { GameRootService } from '../game-root.serviece';
 import { ItemCardComponent } from '../../common/item-card/item-card.component';
 import { NgClass, NgFor, NgIf, NgStyle } from '@angular/common';
 import { TuiButtonModule } from '@taiga-ui/core';
+import { NameHelper } from '../../../helpers/name-helper';
+import { HttpHeaders } from '@angular/common/http';
 
 
 @Component({
@@ -24,8 +26,7 @@ import { TuiButtonModule } from '@taiga-ui/core';
         TuiButtonModule
     ],
     providers: [
-        RestApiService,
-        GameRootService
+        RestApiService
     ]
 })
 export class ChapterNavigationComponent implements OnInit {
@@ -71,6 +72,11 @@ export class ChapterNavigationComponent implements OnInit {
                         pathParams: {
                             "gameName": this.gameName,
                             "routeName": params[1].get('routeName')
+                        },
+                        requestOptions: {
+                            headers: new HttpHeaders({
+                                "Content-Encoding": 'gzip'
+                            }),
                         }
                     }).pipe(
                         switchMap((chaptersResponse: ChapterConfig) => {
@@ -80,26 +86,19 @@ export class ChapterNavigationComponent implements OnInit {
                             let chaptersOrder = chaptersResponse.chapterOrder;
 
                             if (chaptersOrder) {
-                                chaptersOrder.forEach((it) => {
-                                    let chapter = entries[it]
-                                    let number = it
-                                    if (/^\d+[A-Za-z0-9\-_]*$/gm.test(number)) {
-                                        number += ": "
-                                    } else {
-                                        number = ""
-                                    }
+                                chaptersOrder.forEach((it, index: number) => {
+                                    const name = NameHelper.resolveChapterName(chaptersResponse, index)
                                     chapters.push({
-                                        name: chapter && chapter.name && `${number}${chapter.name}` || `Chapter ${it}`,
+                                        name: name,
                                         routerLink: `${it}`
                                     })
                                 });
                             } else {
                                 for (let index = 1; index <= chaptersResponse.total; index++) {
-                                    const number = `${index}`
-                                    const chapter: ChapterNav = chaptersResponse.chapters[number];
+                                    const name = NameHelper.resolveChapterName(chaptersResponse, index)
                                     chapters.push({
-                                        name: chapter && chapter.name && `${number}: ${chapter.name}` || `Chapter ${number}`,
-                                        routerLink: `${number}`
+                                        name: name,
+                                        routerLink: `${index}`
                                     })
                                 }
                             }

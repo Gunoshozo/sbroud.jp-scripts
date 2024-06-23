@@ -25,7 +25,7 @@ export class FooterControlsComponent {
 		return res;
 	}
 
-    
+
 	readonly change$ = this.night;
 
 	readonly night$ = this.change$.pipe(

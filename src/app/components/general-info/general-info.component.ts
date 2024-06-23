@@ -4,17 +4,18 @@ import { SakuraService } from "../../services/sakura.service";
 import { TuiHintModule, TuiSvgModule } from "@taiga-ui/core";
 import { TuiIslandModule } from "@taiga-ui/kit";
 import { HeaderControlsComponent } from "../common/header-controls/header-controls.component";
+import { FooterControlsComponent } from "../common/footer-controls/footer-controls.component";
 
 @Component({
     selector: 'gen-info',
     templateUrl: './general-info.component.html',
     standalone: true,
-    imports:[
+    imports: [
         HeaderControlsComponent,
-
+        FooterControlsComponent,
         TuiSvgModule,
         TuiHintModule,
-        TuiIslandModule
+        TuiIslandModule,
     ]
 })
 export class GeneralInfoComponent {

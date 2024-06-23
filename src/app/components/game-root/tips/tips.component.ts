@@ -8,12 +8,7 @@ import { RestApiService } from '../../../services/rest.service';
 import { TuiAccordionModule, TuiIslandModule } from '@taiga-ui/kit';
 import { TuiPrimitiveTextfieldModule, TuiTextfieldControllerModule } from '@taiga-ui/core';
 import { NgFor, NgIf } from '@angular/common';
-
-// @Directive({
-// 	selector: '.t-header'
-// })
-// export class AccoridonButton {
-// }
+import { HttpHeaders } from '@angular/common/http';
 
 
 @Component({
@@ -85,6 +80,11 @@ export class TipsComponent implements OnInit {
 				return this.restApiService.get("tips", {
 					pathParams: {
 						"gameName": this.gameName
+					},
+					requestOptions: {
+						headers: new HttpHeaders({
+							"Content-Encoding": 'gzip'
+						})
 					}
 				})
 			})

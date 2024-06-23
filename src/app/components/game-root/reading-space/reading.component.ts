@@ -1,7 +1,7 @@
 import { HttpHeaders } from '@angular/common/http';
 import { AfterViewInit, ChangeDetectorRef, Component, ElementRef, OnInit, QueryList, ViewChildren } from '@angular/core';
-import { ActivatedRoute, Router, Routes } from '@angular/router';
-import { combineLatestWith, forkJoin, of, switchMap, tap } from 'rxjs';
+import { ActivatedRoute, Router } from '@angular/router';
+import { combineLatestWith, forkJoin, map, of, switchMap, tap } from 'rxjs';
 import { TextFormatter } from './helpers/text-formatter';
 import { GlobalLoaderService } from '../../../services/global-loader.service';
 import { GameRootService } from '../game-root.serviece';
@@ -30,9 +30,7 @@ import { NavigationComponent } from './components/navigation/navigation.componen
         TuiIslandModule
     ],
     providers: [
-        RestApiService,
-        GameRootService,
-        GlobalLoaderService
+        RestApiService
     ]
 })
 export class ReadingComponent implements OnInit, AfterViewInit {
@@ -113,14 +111,22 @@ export class ReadingComponent implements OnInit, AfterViewInit {
 
                 let observable: any = {
                     "config": routeChanged ?
-                        this.restApiService.get(uriChapterConf, { pathParams: { "gameName": this.gameName, "routeName": params[1].get('routeName') } })
+                        this.restApiService.get(uriChapterConf, {
+                            pathParams: { "gameName": this.gameName, "routeName": params[1].get('routeName') },
+                            requestOptions: {
+                                headers: new HttpHeaders({
+                                    "Content-Encoding": 'gzip'
+                                }),
+                            }
+                        })
                         : of(this.chapterData),
 
                     "chapter": this.restApiService.get(uriChapterFile, {
-                        pathParams: { "gameName": this.gameName, "routeName": params[1].get('routeName'), "file": `${this.chapter}.txt` },
+                        pathParams: { "gameName": this.gameName, "routeName": params[1].get('routeName'), "file": `${this.chapter}.txt.gz` },
                         requestOptions: {
                             headers: new HttpHeaders({
-                                "Accept": "application/json;charset=utf-8"
+                                "Accept": "application/json;charset=utf-8",
+                                "Content-Encoding": 'gzip'
                             }),
                             responseType: 'text'
                         }
@@ -229,7 +235,7 @@ export class ReadingComponent implements OnInit, AfterViewInit {
 
     private scrollWithOffset(element: HTMLElement, offset: number): void {
         const y = element.getBoundingClientRect().top + window.scrollY + offset;
-        window.scrollTo({ top: y }); 
+        window.scrollTo({ top: y });
     }
 
 

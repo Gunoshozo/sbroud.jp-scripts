@@ -7,16 +7,13 @@ import { Subject, distinctUntilChanged, map, share, startWith, takeUntil } from 
 import { TuiThemeNightService, TuiThemeService } from '@taiga-ui/addon-doc';
 import { TuiBrightness, TuiDialogModule, TuiLoaderModule, TuiRootModule, TuiThemeNightModule } from '@taiga-ui/core';
 import { RouterOutlet } from '@angular/router';
-import { CommonModule} from '@angular/common';
-import { HttpClientModule } from '@angular/common/http';
-import { BrowserModule } from '@angular/platform-browser';
+import { CommonModule } from '@angular/common';
 
 @Component({
 	selector: 'app-root',
 	templateUrl: './app.component.html',
 	standalone: true,
-	imports:[
-		HttpClientModule,
+	imports: [
 		CommonModule,
 		RouterOutlet,
 		TuiRootModule,

@@ -8,6 +8,11 @@
     (tuiActiveZoneChange)="toggle($event)">
     <div *tuiSidebar="sideBarOpen; direction: 'left'" class="root" [ngClass]="{'dark': night.value}">
       <div class="game-root_panel">
+        <a *ngIf="toChaptersLink" [routerLink]="[toChaptersLink]"class="game-root_side-panel-button">
+          <button appearance="custom" tuiButton type="button" (click)="onNavigate($event)">
+            Back to Route Chapters
+        </button>
+        </a>
         <a *ngFor="let item of menuItems" [routerLink]="[item.link]" class="game-root_side-panel-button">
           <button appearance="custom" tuiButton type="button" (click)="onNavigate($event)">
             {{item.name}}
@@ -66,6 +71,11 @@
           <button appearance="custom" tuiButton type="button" (click)="onNavigate($event)">
             Search
           </button>
+        </a>
+        <a *ngIf="toChaptersLink" [routerLink]="[toChaptersLink]"class="game-root_side-panel-button">
+          <button appearance="custom" tuiButton type="button" (click)="onNavigate($event)">
+            Back to Route Chapters
+        </button>
         </a>
         <a *ngIf="bookmarkLink" [routerLink]="[bookmarkLink]" [queryParams]="{toBookmark: true}" class="game-root_side-panel-button">
           <button appearance="custom" tuiButton type="button" (click)="onNavigate($event)">

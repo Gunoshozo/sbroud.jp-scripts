@@ -32,10 +32,10 @@ export class ReadingLineComponent {
 
     constructor() { }
 
-    @HostBinding("class")
-    public get _classes() {
-        return ["chapter-reading_line"]
-    }
+    // @HostBinding("class")
+    // public get _classes() {
+    //     return ["chapter-reading_line"]
+    // }
 
     onHover(val: boolean): void {
         if (!val) {

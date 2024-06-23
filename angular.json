@@ -27,11 +27,17 @@
             "inlineStyleLanguage": "less",
             "assets": [
               "src/favicon.ico",
-              "src/assets",
+              "src/assets/images",
+              "src/assets/styles",
               {
                 "glob": "**/*",
                 "input": "node_modules/@taiga-ui/icons/src",
                 "output": "assets/taiga-ui/icons"
+              },
+              {
+                "glob": "**/*",
+                "input": "dist/replace-assets",
+                "output": "/assets"
               }
             ],
             "styles": [

@@ -24,7 +24,7 @@ export class HeaderControlsComponent {
 		return res;
 	}
 
-    
+
 	readonly change$ = this.night;
 
 	readonly night$ = this.change$.pipe(

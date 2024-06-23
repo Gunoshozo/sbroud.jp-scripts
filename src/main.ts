@@ -9,8 +9,9 @@ import { TUI_SANITIZER, TuiRootModule } from '@taiga-ui/core';
 import { NgDompurifySanitizer } from '@tinkoff/ng-dompurify';
 import { SakuraService } from './app/services/sakura.service';
 import { provideRouter } from '@angular/router';
-import { APP_ROUTES } from './app/app-routing.module';
+import { APP_ROUTES } from './app/app-routes';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations'
+import { provideHttpClient, withFetch } from '@angular/common/http';
 
 if (environment.production) {
   enableProdMode();
@@ -20,6 +21,7 @@ bootstrapApplication(AppComponent, {
   providers: [
     importProvidersFrom([BrowserAnimationsModule]),
     importProvidersFrom(TuiRootModule),
+    provideHttpClient(withFetch()),
     GameRootService,
     GlobalLoaderService,
     { provide: TUI_SANITIZER, useClass: NgDompurifySanitizer },

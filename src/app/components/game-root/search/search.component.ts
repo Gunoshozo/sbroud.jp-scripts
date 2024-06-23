@@ -8,7 +8,6 @@ import { GameRootService } from '../game-root.serviece';
 import { NgIf } from '@angular/common';
 import { ChapteredItemsComponent } from './chaptered-items/chapter-items.component';
 import { RoutedItemsComponent } from './routed-items/routed-items.component';
-import { TuiButtonModule } from '@taiga-ui/core';
 
 @Component({
 	selector: 'app-search',

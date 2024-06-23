@@ -1,4 +1,4 @@
-<div #chapterLine (mouseover)="onHover(true)" (mouseout)="onHover(false)">
+<div class="chapter-reading_line" (mouseover)="onHover(true)" (mouseout)="onHover(false)">
     <button *ngIf="hoveredLine || isBookmark"
             class="chapter-reading_bookmark-button" 
             [ngClass]="{'active': isBookmark}"

@@ -1,6 +1,6 @@
 import { AfterViewInit, CUSTOM_ELEMENTS_SCHEMA, ChangeDetectorRef, Component, ElementRef, HostBinding, HostListener, Inject, OnInit, ViewChild } from '@angular/core';
-import { ActivatedRoute, RouterLink, RouterOutlet } from '@angular/router';
-import { Subject, distinctUntilChanged, map, share, startWith, switchMap, takeUntil } from 'rxjs';
+import { ActivatedRoute, NavigationEnd, ParamMap, Router, RouterLink, RouterOutlet } from '@angular/router';
+import { Subject, distinctUntilChanged, filter, map, of, share, startWith, switchMap, takeUntil } from 'rxjs';
 import { RestApiService } from '../../services/rest.service';
 import {
 	TuiThemeNightService,
@@ -11,10 +11,11 @@ import { GameRootService } from './game-root.serviece';
 import { SakuraService } from '../../services/sakura.service';
 import { LocalStorageVariables } from '../../conts/general.const';
 import { PolymorpheusContent } from '@tinkoff/ng-polymorpheus';
-import { MobileService } from '../../services/mobile.service';
+import { MobileService } from '../../helpers/mobile-helper';
 import { NgClass, NgComponentOutlet, NgFor, NgIf } from '@angular/common';
 import { TuiActiveZoneModule } from '@taiga-ui/cdk';
 import { TuiSidebarModule } from '@taiga-ui/addon-mobile';
+import { ReadingComponent } from './reading-space/reading.component';
 
 @Component({
 	selector: 'game-root',
@@ -27,7 +28,7 @@ import { TuiSidebarModule } from '@taiga-ui/addon-mobile';
 		NgComponentOutlet,
 		RouterOutlet,
 		RouterLink,
-    	TuiDialogModule,
+		TuiDialogModule,
 		TuiSidebarModule,
 		TuiButtonModule,
 		TuiHintModule,
@@ -63,6 +64,8 @@ export class GameRootComponent implements OnInit, AfterViewInit {
 
 	public isMobile: boolean = false;
 
+	public toChaptersLink: string = "";
+
 	public bookmarkLink: string = "";
 
 	private gameName: string = "";
@@ -70,6 +73,7 @@ export class GameRootComponent implements OnInit, AfterViewInit {
 	private unsubscribe: Subject<void> = new Subject();
 
 	constructor(private route: ActivatedRoute,
+		private router: Router,
 		private rootService: GameRootService,
 		private apiService: RestApiService,
 		private sakura: SakuraService,
@@ -77,7 +81,19 @@ export class GameRootComponent implements OnInit, AfterViewInit {
 		@Inject(TuiDialogService) private readonly dialogs: TuiDialogService,
 		@Inject(TuiThemeService) readonly theme: TuiThemeService,
 		@Inject(TuiThemeNightService) readonly night: TuiThemeNightService
-	) { }
+	) {
+		this.router.events
+			.pipe(
+				filter((e): e is NavigationEnd => e instanceof NavigationEnd)
+			).subscribe(() => {
+				const childParams = this.route.firstChild?.snapshot.params;
+				if (childParams?.['chapterNumber'] && childParams?.['routeName']) {
+					this.toChaptersLink = `routes/${childParams?.['routeName']}`
+				} else {
+					this.toChaptersLink = "";
+				}
+			})
+	}
 
 	public ngOnInit(): void {
 		this.isMobile = MobileService.isMobile();
@@ -98,8 +114,8 @@ export class GameRootComponent implements OnInit, AfterViewInit {
 		})
 
 		this.route.paramMap.pipe(
-			switchMap((res) => {
-				this.gameName = res.get("gameName") || ""
+			switchMap((parameters: ParamMap) => {
+				this.gameName = parameters.get("gameName") || ""
 
 				this.initBookmarkLink()
 

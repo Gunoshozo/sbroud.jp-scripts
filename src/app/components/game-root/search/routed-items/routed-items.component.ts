@@ -6,7 +6,7 @@ import { GlobalLoaderService } from '../../../../services/global-loader.service'
 import { RestApiService } from '../../../../services/rest.service';
 import { SearchableRoute, SearchableChapter } from '../../../models/search-config.model';
 import { FormGroup, FormControl, FormsModule, ReactiveFormsModule } from '@angular/forms';
-import { NameHelper } from '../../../../services/helper.service';
+import { NameHelper } from '../../../../helpers/name-helper';
 import { NgClass, NgFor } from '@angular/common';
 import { RouterLink } from '@angular/router';
 import { TuiCarouselModule, TuiInputModule } from '@taiga-ui/kit';
@@ -17,7 +17,7 @@ import { TuiButtonModule, TuiTextfieldControllerModule } from '@taiga-ui/core';
 	selector: 'routed-items',
 	templateUrl: './routed-items.component.html',
 	standalone: true,
-	imports:[
+	imports: [
 		NgFor,
 		NgClass,
 		RouterLink,
@@ -82,6 +82,11 @@ export class RoutedItemsComponent implements OnInit {
 							pathParams: {
 								"gameName": this.gameName,
 								"routeName": it.routerLink
+							},
+							requestOptions: {
+								headers: new HttpHeaders({
+									"Content-Encoding": 'gzip'
+								})
 							}
 						})
 				)
@@ -97,10 +102,10 @@ export class RoutedItemsComponent implements OnInit {
 				this.initialItems[index].items = entry[1]
 			});
 			this.filteredItems = this.initialItems;
-			
+
 			const ciel = Math.ceil(window.innerWidth / 500);
 			this.carouselCount = Math.max(Math.min(ciel, this.filteredItems?.length), 1)
-			
+
 			this.globalLoaderService.setGlobalLoader(false);
 		})
 	}
@@ -132,11 +137,12 @@ export class RoutedItemsComponent implements OnInit {
 							pathParams: {
 								"gameName": this.gameName,
 								"routeName": routeLink,
-								"file": `${fileName}.txt`
+								"file": `${fileName}.txt.gz`
 							},
 							requestOptions: {
 								headers: new HttpHeaders({
-									"Accept": "application/json;charset=utf-8"
+									"Accept": "application/json;charset=utf-8",
+									"Content-Encoding": 'gzip'
 								}),
 								responseType: 'text'
 							}
