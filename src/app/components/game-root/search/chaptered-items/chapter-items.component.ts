@@ -50,11 +50,6 @@ export class ChapteredItemsComponent implements OnInit {
 		this.restApi.get("nonRoutedGameChapterConfig", {
 			pathParams: {
 				"gameName": this.gameName
-			},
-			requestOptions: {
-				headers: new HttpHeaders({
-					"Content-Encoding": 'gzip'
-				})
 			}
 		}).pipe(
 			switchMap((resChapterConfig: ChapterConfig) => {
@@ -73,11 +68,10 @@ export class ChapteredItemsComponent implements OnInit {
 					this.initialItems[index].routerLink = `../chapters/${index + 1}`
 
 					observables.push(this.restApi.get("nonRoutedChapterFile", {
-						pathParams: { "gameName": this.gameName, "file": `${index + 1}.txt.gz` },
+						pathParams: { "gameName": this.gameName, "file": `${index + 1}.txt` },
 						requestOptions: {
 							headers: new HttpHeaders({
-								"Accept": "application/json;charset=utf-8",
-								"Content-Encoding": 'gzip'
+								"Accept": "application/json;charset=utf-8"
 							}),
 							responseType: 'text'
 						}

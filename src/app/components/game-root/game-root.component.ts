@@ -15,7 +15,6 @@ import { MobileService } from '../../helpers/mobile-helper';
 import { NgClass, NgComponentOutlet, NgFor, NgIf } from '@angular/common';
 import { TuiActiveZoneModule } from '@taiga-ui/cdk';
 import { TuiSidebarModule } from '@taiga-ui/addon-mobile';
-import { ReadingComponent } from './reading-space/reading.component';
 
 @Component({
 	selector: 'game-root',

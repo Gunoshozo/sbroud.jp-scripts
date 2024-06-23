@@ -9,6 +9,7 @@ import { TuiAccordionModule, TuiIslandModule } from '@taiga-ui/kit';
 import { TuiPrimitiveTextfieldModule, TuiTextfieldControllerModule } from '@taiga-ui/core';
 import { NgFor, NgIf } from '@angular/common';
 import { HttpHeaders } from '@angular/common/http';
+import { GlobalLoaderService } from '../../../services/global-loader.service';
 
 
 @Component({
@@ -55,7 +56,7 @@ export class TipsComponent implements OnInit {
 
 	public isDraw: boolean = false;
 
-	public constructor(private activeRoute: ActivatedRoute, private router: Router, private restApiService: RestApiService, private gameRootService: GameRootService) { }
+	public constructor(private activeRoute: ActivatedRoute, private router: Router, private restApiService: RestApiService, private gameRootService: GameRootService, private globalLoader: GlobalLoaderService) { }
 
 	public ngOnInit(): void {
 		const observables: any = {
@@ -80,11 +81,6 @@ export class TipsComponent implements OnInit {
 				return this.restApiService.get("tips", {
 					pathParams: {
 						"gameName": this.gameName
-					},
-					requestOptions: {
-						headers: new HttpHeaders({
-							"Content-Encoding": 'gzip'
-						})
 					}
 				})
 			})
@@ -102,6 +98,7 @@ export class TipsComponent implements OnInit {
 			},
 			error: () => {
 				this.router.navigate(["/error"])
+				this.globalLoader.setGlobalLoader(false);
 			}
 		})
 	}

@@ -8,17 +8,11 @@ const projectname = 'sbroud.jp-scripts'
 const serveOut = './dist/replace-assets/games'
 
 const clear = () =>
-    gulp.src('./dist', { read: false }, { allowEmpty: true }).pipe(clean());
+    gulp.src('./dist', { read: false, allowEmpty: true }).pipe(clean());
 
 const uglifyJson = () =>
-    gulp.src('./src/assets/games/**/!(tips|chapters\.config).json')
+    gulp.src('./src/assets/games/**/*.json')
         .pipe(jsonMinify())
-        .pipe(gulp.dest(serveOut));
-
-const compressJsons = () =>
-    gulp.src(['./src/assets/games/**/tips.json', './src/assets/games/**/chapters.config.json'])
-        .pipe(jsonMinify())
-        .pipe(gzip({ append: true }))
         .pipe(gulp.dest(serveOut));
 
 const uglifyHtml = () =>
@@ -26,21 +20,14 @@ const uglifyHtml = () =>
         .pipe(htmlmin({ collapseWhitespace: true }))
         .pipe(gulp.dest(serveOut));
 
-const compressTxt = () =>
-    gulp.src('./src/assets/games/**/*.txt')
-        .pipe(gzip({ append: true }))
-        .pipe(gulp.dest(serveOut));
-
-
-
 
 gulp.task("minify:build", (done) => {
-    return gulp.series(uglifyJson, compressJsons, uglifyHtml, compressTxt)(done)
+    return gulp.series(uglifyJson, uglifyHtml)(done)
 }
 )
 
 gulp.task("minify:serve", (done) => {
-    return gulp.series(clear, uglifyJson, compressJsons, uglifyHtml, compressTxt)(done)
+    return gulp.series(clear, uglifyJson, uglifyHtml)(done)
 }
 )
 

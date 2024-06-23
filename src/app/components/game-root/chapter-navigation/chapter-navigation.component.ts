@@ -72,11 +72,6 @@ export class ChapterNavigationComponent implements OnInit {
                         pathParams: {
                             "gameName": this.gameName,
                             "routeName": params[1].get('routeName')
-                        },
-                        requestOptions: {
-                            headers: new HttpHeaders({
-                                "Content-Encoding": 'gzip'
-                            }),
                         }
                     }).pipe(
                         switchMap((chaptersResponse: ChapterConfig) => {

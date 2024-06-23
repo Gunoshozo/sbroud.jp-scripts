@@ -111,22 +111,14 @@ export class ReadingComponent implements OnInit, AfterViewInit {
 
                 let observable: any = {
                     "config": routeChanged ?
-                        this.restApiService.get(uriChapterConf, {
-                            pathParams: { "gameName": this.gameName, "routeName": params[1].get('routeName') },
-                            requestOptions: {
-                                headers: new HttpHeaders({
-                                    "Content-Encoding": 'gzip'
-                                }),
-                            }
-                        })
+                        this.restApiService.get(uriChapterConf, { pathParams: { "gameName": this.gameName, "routeName": params[1].get('routeName') } })
                         : of(this.chapterData),
 
                     "chapter": this.restApiService.get(uriChapterFile, {
-                        pathParams: { "gameName": this.gameName, "routeName": params[1].get('routeName'), "file": `${this.chapter}.txt.gz` },
+                        pathParams: { "gameName": this.gameName, "routeName": params[1].get('routeName'), "file": `${this.chapter}.txt` },
                         requestOptions: {
                             headers: new HttpHeaders({
-                                "Accept": "application/json;charset=utf-8",
-                                "Content-Encoding": 'gzip'
+                                "Accept": "application/json;charset=utf-8"
                             }),
                             responseType: 'text'
                         }

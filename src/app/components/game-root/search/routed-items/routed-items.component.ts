@@ -82,11 +82,6 @@ export class RoutedItemsComponent implements OnInit {
 							pathParams: {
 								"gameName": this.gameName,
 								"routeName": it.routerLink
-							},
-							requestOptions: {
-								headers: new HttpHeaders({
-									"Content-Encoding": 'gzip'
-								})
 							}
 						})
 				)
@@ -137,12 +132,11 @@ export class RoutedItemsComponent implements OnInit {
 							pathParams: {
 								"gameName": this.gameName,
 								"routeName": routeLink,
-								"file": `${fileName}.txt.gz`
+								"file": `${fileName}.txt`
 							},
 							requestOptions: {
 								headers: new HttpHeaders({
 									"Accept": "application/json;charset=utf-8",
-									"Content-Encoding": 'gzip'
 								}),
 								responseType: 'text'
 							}
