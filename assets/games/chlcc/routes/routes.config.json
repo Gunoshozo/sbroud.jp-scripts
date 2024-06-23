@@ -1,1 +1,53 @@
-{"headerLabel":"Chaos;Head Love Chu★Chu! routes","items":[{"name":"Common Route","routerLink":"common","imgSrc":"assets/images/chlcc/takumi_solid.webp"},{"name":"Rimi Route","routerLink":"rimi","imgSrc":"assets/images/chlcc/rimi_solid.webp","alternativeImgs":["assets/images/chlcc/rimi_solid1.webp","assets/images/chlcc/rimi_solid2.webp"]},{"name":"Yua Route","routerLink":"yua","imgSrc":"assets/images/chlcc/yua_solid.webp","alternativeImgs":["assets/images/chlcc/yua_solid2.webp"]},{"name":"Mia Route","routerLink":"mia","spoiler":true,"imgSrc":"assets/images/chlcc/mia_solid.webp","alternativeImgs":["assets/images/chlcc/mia_solid2.webp"]},{"name":"Ayase Route","routerLink":"ayase","imgSrc":"assets/images/chlcc/ayase_solid.webp","alternativeImgs":["assets/images/chlcc/ayase_solid1.webp"]},{"name":"Sena Route","routerLink":"sena","imgSrc":"assets/images/chlcc/sena_solid.webp","alternativeImgs":["assets/images/chlcc/sena_solid3.webp","assets/images/chlcc/sena_solid2.webp"]},{"name":"Kozue Route","routerLink":"kozue","imgSrc":"assets/images/chlcc/kozue_solid.webp","alternativeImgs":["assets/images/chlcc/kozue_solid2.webp"]},{"name":"Nanami Route","routerLink":"nanami","imgSrc":"assets/images/chlcc/nanami_solid.webp","alternativeImgs":["assets/images/chlcc/nanami_solid2.webp"]}]}
+{
+    "headerLabel": "Chaos;Head Love Chu★Chu! routes",
+    "items": [
+        {
+            "name": "Common Route",
+            "routerLink": "common",
+            "imgSrc": "assets/images/chlcc/takumi_solid.png"
+        },
+        {
+            "name": "Rimi Route",
+            "routerLink": "rimi",
+            "imgSrc": "assets/images/chlcc/rimi_solid.png",
+            "alternativeImgs": ["assets/images/chlcc/rimi_solid1.png", "assets/images/chlcc/rimi_solid2.png"]
+        },
+        {
+            "name": "Yua Route",
+            "routerLink": "yua",
+            "imgSrc": "assets/images/chlcc/yua_solid.png",
+            "alternativeImgs": ["assets/images/chlcc/yua_solid2.png"]
+        },
+        {
+            "name": "Mia Route",
+            "routerLink": "mia",
+            "spoiler": true,
+            "imgSrc": "assets/images/chlcc/mia_solid.png",
+            "alternativeImgs": ["assets/images/chlcc/mia_solid2.png"]
+        },
+        {
+            "name": "Ayase Route",
+            "routerLink": "ayase",
+            "imgSrc": "assets/images/chlcc/ayase_solid.png",
+            "alternativeImgs": ["assets/images/chlcc/ayase_solid1.png"]
+        },
+        {
+            "name": "Sena Route",
+            "routerLink": "sena",
+            "imgSrc": "assets/images/chlcc/sena_solid.png",
+            "alternativeImgs": ["assets/images/chlcc/sena_solid3.png", "assets/images/chlcc/sena_solid2.png"]
+        },
+        {
+            "name": "Kozue Route",
+            "routerLink": "kozue",
+            "imgSrc": "assets/images/chlcc/kozue_solid.png",
+            "alternativeImgs": ["assets/images/chlcc/kozue_solid2.png"]
+        },
+        {
+            "name": "Nanami Route",
+            "routerLink": "nanami",
+            "imgSrc": "assets/images/chlcc/nanami_solid.png",
+            "alternativeImgs": ["assets/images/chlcc/nanami_solid2.png"]
+        }
+    ]
+}
