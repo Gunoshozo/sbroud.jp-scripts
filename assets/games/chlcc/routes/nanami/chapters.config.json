@@ -1,13 +1,1 @@
-{
-    "total": 9,
-    "chapters": {
-        "1": {
-            "prev": [
-                {
-                    "route": "common",
-                    "index": 10
-                }
-            ]
-        }
-    }
-}
+{"total":9,"chapters":{"1":{"prev":[{"route":"common","index":10}]}}}

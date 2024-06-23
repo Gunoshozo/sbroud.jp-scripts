@@ -1,21 +1,21 @@
 <span class="chapter-reading_char-name">悠太</span> : 仕事のあとは疲れがきますなぁ～
-でも、りょーたすの手作りが飲めるって考えるとそんな疲れも吹っ飛ぶ。というか早く飲みたいでござる。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-緊張じゃないけど、なんかソワソワするよ。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">稜歌</span> : できたよぉ～☆　りょーたす特製のジュースなのだ～！ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-おぉ、ついに！　何はともあれりょーたすの手作りっていうだけでレアだから！ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">稜歌</span> : どうぞ、召し上がれ～☆ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-そういってテーブルの上に置かれたのは、グラスいっぱいに入っているドロッとした液体と小皿に盛られた小さな野菜？　 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">悠太</span> : これ……。らっきょう？　ジュースにらっきょうなの？ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">稜歌</span> : らっきょうじゃないよ～☆　クルクリゴの実なのだ～！ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">悠太</span> : く、くる、なんて？ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">マスターイズミン</span> : クルクリゴの実よ。それって、植物のタネなの。美味しいからジュースと一緒にどうかしらって <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">悠太</span> : へぇ、そんなのもあるんだ。じゃあ、いただきます <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-小さならっきょうのような果実。らっきょうっぽいし、この実も大丈夫だろう。 <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-ふむふむ、ふむ？　らっきょうとは違って、中に粒々がある……？ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">悠太</span> : しかも、ちょっと冷えてる？ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">マスターイズミン</span> : それは冷蔵庫に入れてたからよ。効果が減少するらしいから冷蔵保存してたの <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">悠太</span> : なるほど <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">稜歌</span> : ジュースも飲んでみて～♪ <span><img src="assets\images\o9\mmm-trigger.png" alt="" class="inline-icon"></span>
+でも、りょーたすの手作りが飲めるって考えるとそんな疲れも吹っ飛ぶ。というか早く飲みたいでござる。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+緊張じゃないけど、なんかソワソワするよ。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">稜歌</span> : できたよぉ～☆　りょーたす特製のジュースなのだ～！ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+おぉ、ついに！　何はともあれりょーたすの手作りっていうだけでレアだから！ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">稜歌</span> : どうぞ、召し上がれ～☆ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+そういってテーブルの上に置かれたのは、グラスいっぱいに入っているドロッとした液体と小皿に盛られた小さな野菜？　 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">悠太</span> : これ……。らっきょう？　ジュースにらっきょうなの？ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">稜歌</span> : らっきょうじゃないよ～☆　クルクリゴの実なのだ～！ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">悠太</span> : く、くる、なんて？ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">マスターイズミン</span> : クルクリゴの実よ。それって、植物のタネなの。美味しいからジュースと一緒にどうかしらって <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">悠太</span> : へぇ、そんなのもあるんだ。じゃあ、いただきます <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+小さならっきょうのような果実。らっきょうっぽいし、この実も大丈夫だろう。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+ふむふむ、ふむ？　らっきょうとは違って、中に粒々がある……？ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">悠太</span> : しかも、ちょっと冷えてる？ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">マスターイズミン</span> : それは冷蔵庫に入れてたからよ。効果が減少するらしいから冷蔵保存してたの <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">悠太</span> : なるほど <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="chapter-reading_char-name">稜歌</span> : ジュースも飲んでみて～♪ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
 <span class="chapter-reading_char-name">悠太</span> : う、うん……
 え、何？　めっちゃ誘導されているような気がするんだけど。マスターは何も言わないし、りょーたすは笑顔だし、どういうこと？
 <span class="chapter-reading_char-name">悠太</span> : 毎度のことだけど、やけにドロッとしてませんか……？

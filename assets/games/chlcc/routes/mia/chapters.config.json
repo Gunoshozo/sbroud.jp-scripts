@@ -1,13 +1,1 @@
-{
-    "total": 8,
-    "chapters": {
-        "1": {
-            "prev": [
-                {
-                    "route": "yua",
-                    "index": 1
-                }
-            ]
-        }
-    }
-}
+{"total":8,"chapters":{"1":{"prev":[{"route":"yua","index":1}]}}}
