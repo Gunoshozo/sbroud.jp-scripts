@@ -1,1 +1,10 @@
-[{"name":"Chapters","link":"/games/d6/chapters"},{"name":"Walkthrough","link":"/games/d6/walkthrough"}]
+[
+    {
+        "name": "Chapters",
+        "link": "/games/d6/chapters"
+    },
+    {
+        "name": "Walkthrough",
+        "link": "/games/d6/walkthrough"
+    }
+]
