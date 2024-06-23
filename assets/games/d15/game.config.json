@@ -1,1 +1,14 @@
-[{"name":"Parts","link":"/games/d15/routes"},{"name":"Tips","link":"/games/d15/tips"},{"name":"Walkthrough","link":"/games/d15/walkthrough"}]
+[
+    {
+        "name": "Parts",
+        "link": "/games/d15/routes"
+    },
+    {
+        "name": "Tips",
+        "link": "/games/d15/tips"
+    },
+    {
+        "name": "Walkthrough",
+        "link": "/games/d15/walkthrough"
+    }
+]

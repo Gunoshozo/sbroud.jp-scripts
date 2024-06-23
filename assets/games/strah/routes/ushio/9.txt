@@ -1,0 +1,62 @@
+<span class="chapter-reading_char-name">網代慎平</span>: ハァ、ハァ……。
+<span class="chapter-reading_char-name">網代慎平</span>: （凸村さんの言ってた通りだ。　コバマート、シャッター閉まってる……）
+<span class="chapter-reading_char-name">小舟澪</span>: …………。
+<span class="chapter-reading_char-name">網代慎平</span>: ……澪。
+<span class="chapter-reading_char-name">小舟澪</span>: 慎ちゃん……。
+<span class="chapter-reading_char-name">網代慎平</span>: ……昨日も葬儀来てくれてたのにな。小早川さんとこ……。
+<span class="chapter-reading_char-name">小舟澪</span>: ……うん……。
+<span class="chapter-reading_char-name">小舟澪</span>: ごめん。店……飛び出しちゃって。
+<span class="chapter-reading_char-name">網代慎平</span>: ええよ。
+<span class="chapter-reading_char-name">小舟澪</span>: しおりちゃん……最近様子おかしかったんよ。
+<span class="chapter-reading_char-name">網代慎平</span>: ああ、ショックで言葉しゃべれんようになったって……。
+<span class="chapter-reading_char-name">小舟澪</span>: ちゃうねん。
+<span class="chapter-reading_char-name">網代慎平</span>: え？
+<span class="chapter-reading_char-name">小舟澪</span>: その前から……。先週かな……変なこと言うとったん……。
+<span class="chapter-reading_char-name">小舟澪</span>: タカノス山でな、虫取りしてるときに見たって。
+<span class="chapter-reading_char-name">網代慎平</span>: ……見た？何を？
+<span class="chapter-reading_char-name">小舟澪</span>: 自分にそっくりの……女の子。
+<span class="chapter-reading_char-name">小舟澪</span>: ……その次の日からな。
+<span class="chapter-reading_char-name">小舟澪</span>: 学校とか通学路とか……ずうっと見られてる気ィするって……。
+<span class="chapter-reading_char-name">網代慎平</span>: それって……何？<span class="chapter-reading_dict">ドッペルゲンガー</span>……的な？
+<span class="chapter-reading_char-name">網代慎平</span>: （もう一人の自分――　ドッペルゲンガーを見た人は死ぬって　何かの本で読んだことがあるが……）
+<span class="chapter-reading_char-name">網代慎平</span>: （急にそんな話をされても　どう反応していいか……）
+<span class="chapter-reading_char-name">男の声</span>: そらおまん、影やいしょ……。
+<span class="chapter-reading_char-name">網代慎平</span>: ……え？
+<span class="chapter-reading_char-name">根津銀次郎</span>: …………。
+<span class="chapter-reading_char-name">網代慎平</span>: ……な、なあ、澪。あの人、誰やっけ……？
+<span class="chapter-reading_char-name">小舟澪</span>: <span class="chapter-reading_dict">根津さん</span>よ。猟師の……。
+<span class="chapter-reading_char-name">根津銀次郎</span>: そん子が見た言うんはな。影の病、いうやっちゃ……。
+<span class="chapter-reading_char-name">網代慎平</span>: ……影……？
+<span class="chapter-reading_char-name">根津銀次郎</span>: この島に伝わる風土病みたいなモンや。
+<span class="chapter-reading_char-name">根津銀次郎</span>: 近頃は見たっちゅう者は少ななったが……。戦前まではようあった。
+<span class="chapter-reading_char-name">根津銀次郎</span>: 影の病に罹ったら、影を見るようになる……。
+<span class="chapter-reading_char-name">根津銀次郎</span>: 影を見た者は死ぬ。影に殺されるんや。
+<span class="chapter-reading_char-name">小舟澪</span>: …………っ！
+<span class="chapter-reading_char-name">根津銀次郎</span>: そんで、殺した者のふりして、その家の者も皆殺しにする。そういう言い伝えや……。
+<span class="chapter-reading_char-name">根津銀次郎</span>: せやさけ、病み人はヒルコ様にお祓いしてもろたとか。儂の爺さんが言うとったわァ……。
+<span class="chapter-reading_char-name">網代慎平</span>: （行ってしまった……）
+<span class="chapter-reading_char-name">網代慎平</span>: 何だ……？<span class="chapter-reading_dict">今の話</span>……。
+<span class="chapter-reading_char-name">小舟澪</span>: ねえ慎ちゃん。私もな……小っちゃい頃、おばあちゃんから聞いたことあるねん……。
+<span class="chapter-reading_char-name">網代慎平</span>: 影の話？
+<span class="chapter-reading_char-name">小舟澪</span>: うん……。慎ちゃん、知らん？
+<span class="chapter-reading_char-name">網代慎平</span>: いいや……でも、なんかそういう……迷信やろ？
+<span class="chapter-reading_char-name">小舟澪</span>: うん……そやけどな……。私見たんよ……お姉ちゃんの影。
+<span class="chapter-reading_char-name">網代慎平</span>: …………！
+<span class="chapter-reading_char-name">小舟澪</span>: お姉ちゃんが亡くなる三日前な。私ら一緒に、<span class="chapter-reading_dict">万年青浜</span>のゴミ拾い大会行ったんよ。その時――
+<span class="chapter-reading_char-name">小舟潮</span>: あれ見て、澪！
+<span class="chapter-reading_char-name">小舟澪</span>: え？
+<span class="chapter-reading_char-name">もう１人の潮</span>: …………。
+<span class="chapter-reading_char-name">網代慎平</span>: ……アホか！！言うてええ冗談と悪い冗談があるぞ！！
+<span class="chapter-reading_char-name">網代慎平</span>: <span class="chapter-reading_dict">潮の影</span>を見ただなんて……！
+<span class="chapter-reading_char-name">小舟澪</span>: ホンマやもんっ！！でも目の前ですぐ消えて……。お……お姉ちゃんは三日後にっ……！！
+<span class="chapter-reading_char-name">小舟澪</span>: ううっ……しおりちゃんたちが……心配……！！
+<span class="chapter-reading_char-name">網代慎平</span>: （落ち着け落ち着け落ち着け……。　フカンしろ……。影の病だって！？　バカバカしい話じゃないか！）
+<span class="chapter-reading_char-name">網代慎平</span>: （けど……小早川家が失踪したのは事実……。　潮の死に、わからない所があるのも事実だ……）
+<span class="chapter-reading_char-name">網代慎平</span>: （だいたい、かわいい義妹の言うことを　信じられないとか……　おまえの血ィは何色や、網代慎平！！）
+<span class="chapter-reading_char-name">網代慎平</span>: ……澪。今の話……誰かにしゃべったか？
+<span class="chapter-reading_char-name">小舟澪</span>: ……ううん。
+<span class="chapter-reading_char-name">網代慎平</span>: …………。
+<span class="chapter-reading_char-name">網代慎平</span>: 影のこと、ヒルコ様に行って聞いてみよか。
+<span class="chapter-reading_char-name">小舟澪</span>: えっ！？
+<span class="chapter-reading_char-name">網代慎平</span>: さっきのおっさん言うてたやろ。お祓いのことよォ……せやから……。
+<span class="chapter-reading_char-name">小舟澪</span>: うん、ありがとう慎ちゃん。

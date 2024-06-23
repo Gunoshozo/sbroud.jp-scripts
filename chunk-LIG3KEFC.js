@@ -1,1 +1,0 @@
-var $=class{static resolveChapterName(a,s){if(a.chapterOrder){let t=a.chapterOrder[s],e=a.chapters[t],r=t;return/^\d+[A-Za-z0-9\-_]*$/gm.test(r)?r+=": ":r="",e&&e.name&&`${r}${e.name}`||!!r&&`Chapter ${r}`||`Chapter ${s+1}`}else{let t=s,e=a.chapters[t];return e&&e.name&&`${t}: ${e.name}`||`Chapter ${t}`}}};export{$ as a};
