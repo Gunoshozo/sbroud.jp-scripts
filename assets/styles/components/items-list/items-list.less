@@ -1,6 +1,8 @@
 .items-list {
 
     &_body {
+        --container-width: 80vw;
+
         background-color: var(--background);
         display: flex;
         flex-direction: column;
@@ -26,7 +28,8 @@
         gap: 2rem !important;
         padding: 32px;
         z-index: 1;
-        max-width: 80vw;
+        max-width: var(--container-width);
+        min-width:  var(--container-width);
 
         @media screen and (max-width: 720px) {
             grid-template-columns: repeat(1, minmax(0, 1fr));
