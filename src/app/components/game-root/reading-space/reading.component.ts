@@ -10,7 +10,7 @@ import { ChapterConfig, ChapterNav } from '../../../models/reading.models';
 import { RestApiService } from '../../../services/rest.service';
 import { LocalStorageVariables } from '../../../conts/general.const';
 import { ReadingLineComponent } from './components/readling-line/reading-line.component';
-import { NgFor, NgIf, NgStyle, NgTemplateOutlet } from '@angular/common';
+import { NgStyle, NgTemplateOutlet } from '@angular/common';
 import { TuiElasticContainerModule, TuiIslandModule } from '@taiga-ui/kit';
 import { NavigationComponent } from './components/navigation/navigation.component';
 
@@ -20,15 +20,13 @@ import { NavigationComponent } from './components/navigation/navigation.componen
     templateUrl: './reading.component.html',
     standalone: true,
     imports: [
-        NgFor,
-        NgIf,
-        NgStyle,
-        NgTemplateOutlet,
-        ReadingLineComponent,
-        NavigationComponent,
-        TuiElasticContainerModule,
-        TuiIslandModule
-    ],
+    NgStyle,
+    NgTemplateOutlet,
+    ReadingLineComponent,
+    NavigationComponent,
+    TuiElasticContainerModule,
+    TuiIslandModule
+],
     providers: [
         RestApiService
     ]
@@ -259,6 +257,7 @@ export class ReadingComponent implements OnInit, AfterViewInit {
     }
 
     private openTip(text: any): void {
+        console.log("openTip")
         let newRelativeUrl = this.router.createUrlTree([`/games/${this.gameName}/tips`], { queryParams: { filter: this.resolveKanji(text.currentTarget.innerHTML) } });
         let baseUrl = window.location.href.replace(this.router.url, '');
         window.open(baseUrl + newRelativeUrl, '_blank');
@@ -292,7 +291,7 @@ export class ReadingComponent implements OnInit, AfterViewInit {
             return result.replaceAll("<rt>•</rt>", "")
         }
         if (result.includes("<rt>")) {
-            const innerRubyPattern = /<rt>[ぁ-んァ-ン]+<\/rt>/gm;
+            const innerRubyPattern = /<rt>[ぁ-んァ-ン・ー]+<\/rt>/gm;
             let matches = [...result.matchAll(innerRubyPattern)];
             matches.forEach((match) => {
                 result = result.replaceAll(match[0], '')

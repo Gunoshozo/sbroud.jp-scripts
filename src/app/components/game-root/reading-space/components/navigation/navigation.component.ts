@@ -1,7 +1,7 @@
 import { Component, HostBinding, Input } from "@angular/core";
 import { Subject } from "rxjs";
 import { ChapterConfig, ChapterNav, NavItem, RouteConfig } from "../../../../../models/reading.models";
-import { NgClass, NgFor, NgIf } from "@angular/common";
+import { NgClass } from "@angular/common";
 import { TuiLinkModule } from "@taiga-ui/core";
 import { RouterLink } from "@angular/router";
 
@@ -10,12 +10,10 @@ import { RouterLink } from "@angular/router";
     templateUrl: './navigation.component.html', 
     standalone: true,
     imports: [
-        NgIf,
-        NgFor,
-        NgClass,
-        TuiLinkModule,
-        RouterLink
-    ]
+    NgClass,
+    TuiLinkModule,
+    RouterLink
+]
 })
 export class NavigationComponent {
 

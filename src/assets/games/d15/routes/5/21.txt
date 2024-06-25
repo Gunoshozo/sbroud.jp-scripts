@@ -14,7 +14,7 @@
 <span class="chapter-reading_char-name">世津茅早</span> : 「なにがどうしようもないの……？」
 <span class="chapter-reading_char-name">世津茅早</span> : 「ほんとうにできることは、ひとつもないの？」
 <span class="chapter-reading_char-name">世津茅早</span> : 「どんなことなら、できるの」
-<command><li>逆らわないこと</li></command>
+&lt;command&gt;&lt;&lt;li&gt;逆らわないこと&lt;/li&gt;&lt;/command&gt;&lt;
 <span class="chapter-reading_char-name">世津茅早</span> : 「わたし、考えたことない」
 一度も、ない。
 オマエを待ってた──そう言ってくれた、高槻東吾。

@@ -12,7 +12,7 @@ import { SakuraService } from '../../services/sakura.service';
 import { LocalStorageVariables } from '../../conts/general.const';
 import { PolymorpheusContent } from '@tinkoff/ng-polymorpheus';
 import { MobileService } from '../../helpers/mobile-helper';
-import { NgClass, NgComponentOutlet, NgFor, NgIf } from '@angular/common';
+import { NgClass, NgComponentOutlet } from '@angular/common';
 import { TuiActiveZoneModule } from '@taiga-ui/cdk';
 import { TuiSidebarModule } from '@taiga-ui/addon-mobile';
 
@@ -21,18 +21,16 @@ import { TuiSidebarModule } from '@taiga-ui/addon-mobile';
 	templateUrl: './game-root.component.html',
 	standalone: true,
 	imports: [
-		NgIf,
-		NgFor,
-		NgClass,
-		NgComponentOutlet,
-		RouterOutlet,
-		RouterLink,
-		TuiDialogModule,
-		TuiSidebarModule,
-		TuiButtonModule,
-		TuiHintModule,
-		TuiActiveZoneModule
-	],
+    NgClass,
+    NgComponentOutlet,
+    RouterOutlet,
+    RouterLink,
+    TuiDialogModule,
+    TuiSidebarModule,
+    TuiButtonModule,
+    TuiHintModule,
+    TuiActiveZoneModule
+],
 	providers: [
 		RestApiService,
 		GameRootService,

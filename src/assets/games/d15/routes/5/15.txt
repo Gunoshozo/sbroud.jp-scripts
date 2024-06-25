@@ -86,5 +86,5 @@
 <span class="chapter-reading_char-name">世津茅早</span> : 「知ってて見てたら、同じ」
 でも、どうするのがいいのか、わからない。自分のするべきことを、自分で考えたことなんて一度もない。
 わたしはいつだって、誰かの言う通りにしていただけ。
-<command><li>逆らわないこと</li><li>逆らわないこと</li><li>逆らわないこと</li></command>
+&lt;command&gt;&lt;&lt;li&gt;逆らわないこと&lt;/li&gt;&lt;li&gt;逆らわないこと&lt;/li&gt;&lt;li&gt;逆らわないこと&lt;/li&gt;&lt;/command&gt;&lt;
 ただ、そればっかり。

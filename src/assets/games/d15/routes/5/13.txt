@@ -1,5 +1,5 @@
 <span class="chapter-reading_char-name">世津茅早</span> : 「ん…………」
-<img src="morning" loop="infinite" />……朝。
+&lt;img src=&quot;morning&quot; loop=&quot;infinite&quot; /&gt;……朝。
 ここは、与えられた住まい。柔らかなベッドの上。
 なのに、体が重い。休めた気がしない。
 いつもならコンクリートむき出しの地面に、毛布ひとつでだって眠れるのに。

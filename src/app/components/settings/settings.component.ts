@@ -3,7 +3,7 @@ import {
 	TuiThemeNightService,
 	TuiThemeService,
 } from '@taiga-ui/addon-doc/services';
-import { TuiBrightness, TuiLabelModule } from '@taiga-ui/core';
+import { TuiBrightness, TuiLabelModule, TuiLinkModule } from '@taiga-ui/core';
 import { startWith, map, distinctUntilChanged, share } from 'rxjs';
 import { SakuraService } from '../../services/sakura.service';
 import { FormControl, FormGroup, FormsModule, ReactiveFormsModule } from '@angular/forms';
@@ -12,7 +12,7 @@ import { TuiIslandModule, TuiKeySteps, TuiSliderModule, TuiToggleModule } from '
 import { GlobalLoaderService } from '../../services/global-loader.service';
 import { GameItem } from '../../models/reading.models';
 import { ItemCardComponent } from '../common/item-card/item-card.component';
-import { NgFor } from '@angular/common';
+
 import { HeaderControlsComponent } from '../common/header-controls/header-controls.component';
 import { FooterControlsComponent } from '../common/footer-controls/footer-controls.component';
 
@@ -21,17 +21,17 @@ import { FooterControlsComponent } from '../common/footer-controls/footer-contro
 	templateUrl: './settings.component.html',
 	standalone: true,
 	imports: [
-		FormsModule,
-		ReactiveFormsModule,
-		ItemCardComponent,
-		NgFor,
-		HeaderControlsComponent,
-		FooterControlsComponent,
-		TuiLabelModule,
-		TuiIslandModule,
-		TuiToggleModule,
-		TuiSliderModule
-	]
+    FormsModule,
+    ReactiveFormsModule,
+    ItemCardComponent,
+    HeaderControlsComponent,
+    FooterControlsComponent,
+	TuiLinkModule,
+    TuiLabelModule,
+    TuiIslandModule,
+    TuiToggleModule,
+    TuiSliderModule
+]
 })
 export class SettingsComponent implements OnInit {
 
@@ -76,6 +76,7 @@ export class SettingsComponent implements OnInit {
 		@Inject(TuiThemeNightService) readonly night: TuiThemeNightService) { }
 
 	ngOnInit(): void {
+		window.scroll(0, 0);
 		this.globalLoaderService.setGlobalLoader(true);
 	}
 

@@ -7,7 +7,7 @@ import { GameRootService } from '../game-root.serviece';
 import { RestApiService } from '../../../services/rest.service';
 import { TuiAccordionModule, TuiIslandModule } from '@taiga-ui/kit';
 import { TuiPrimitiveTextfieldModule, TuiTextfieldControllerModule } from '@taiga-ui/core';
-import { NgFor, NgIf } from '@angular/common';
+
 import { HttpHeaders } from '@angular/common/http';
 import { GlobalLoaderService } from '../../../services/global-loader.service';
 
@@ -17,16 +17,13 @@ import { GlobalLoaderService } from '../../../services/global-loader.service';
 	templateUrl: './tips.component.html',
 	standalone: true,
 	imports: [
-		NgIf,
-		NgFor,
-		TuiAccordionModule,
-		TuiIslandModule,
-		TuiPrimitiveTextfieldModule,
-		TuiTextfieldControllerModule
-	]
+    TuiAccordionModule,
+    TuiIslandModule,
+    TuiPrimitiveTextfieldModule,
+    TuiTextfieldControllerModule
+]
 })
 export class TipsComponent implements OnInit {
-
 
 	public _tipsList: Tip[] = [];
 

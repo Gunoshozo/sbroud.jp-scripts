@@ -1,21 +1,21 @@
 <div class="items-list_body">
-    <div class="items-list_scroll">
-        <div *ngIf="_routes && hasImages; then routes else buttons"></div>
-    </div>
-</div>
-
-<ng-template #routes>
-    <div class="items-list_container">
-        <item-card *ngFor="let item of _items" [name]="item.name" [link]="item.routerLink" [imageResource]="item.imgSrc"
-            [spoiler]="item.spoiler"></item-card>
-    </div>
-</ng-template>
-
-<ng-template #buttons>
-    <div [ngClass]="_items.length > 20? 'search-items-grid': 'items-list_container'"
-         [ngStyle]="_items.length == 1? {'grid-template-columns': 'none'}: {}">
-        <a *ngFor="let item of _items" [routerLink]="item.routerLink">
+  <div class="items-list_scroll">
+    @if (_routes && hasImages) {
+      <div class="items-list_container">
+        @for (item of _items; track item) {
+          <item-card [name]="item.name" [link]="item.routerLink" [imageResource]="item.imgSrc"
+          [spoiler]="item.spoiler"></item-card>
+        }
+      </div>
+    } @else {
+      <div [ngClass]="_items.length > 20? 'search-items-grid': 'items-list_container'"
+        [ngStyle]="_items.length == 1? {'grid-template-columns': 'none'}: {}">
+        @for (item of _items; track item) {
+          <a [routerLink]="item.routerLink">
             <button appearance="custom" class="items-list_item-button" tuiButton type="button">
-                {{item.name}}</button></a>
+            {{item.name}}</button></a>
+          }
+        </div>
+      }
     </div>
-</ng-template>
+  </div>

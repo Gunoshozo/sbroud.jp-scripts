@@ -42,7 +42,7 @@
 <span class="chapter-reading_char-name">妹尾梓</span> : 「で、いまどうなってるの。答えて」
 <span class="chapter-reading_char-name">世津茅早</span> : 「……周りに、ひとがいるので」
 皮膚に、嫌な汗がじんわり滲む。
-<li>逆らわないこと</li><li>逆らわないこと</li><li>逆らわないこと</li>
+&lt;li&gt;逆らわないこと&lt;/li&gt;&lt;li&gt;逆らわないこと&lt;/li&gt;&lt;li&gt;逆らわないこと&lt;/li&gt;
 ──ちがう。
 --choice 従わなきゃ
 従わなきゃ。ひょっとして、誰かに見られているかもしれない。

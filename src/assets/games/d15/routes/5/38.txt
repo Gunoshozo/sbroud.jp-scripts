@@ -13,7 +13,7 @@
 <span class="chapter-reading_char-name">高槻東吾</span> : 「……………………………………………………」
 <span class="chapter-reading_char-name">世津茅早</span> : 「……あ」
 ちがう……ひょっとして。
-これ、<bgsound src="waltz" /> 歌？
+これ、&lt;bgsound src=&quot;waltz&quot; /&gt; 歌？
 頭の中で旋律、必死に思い出して、なぞってみて。
 やっぱり、そうだった。でも音、全然違う。
 <span class="chapter-reading_char-name">世津茅早</span> : 「…………へたくそ」
@@ -80,11 +80,11 @@
 <span class="chapter-reading_char-name">高槻東吾</span> : 「茅早」
 息継ぎの合間にまた、声がした。
 ……死にそう。
-このひとは、<content_name src="高槻東吾">
-<element><li>逞しく大きな上背</li>
-<li>太い骨</li><li>力強い肉質</li>
-<li>血色のいい肌</li></element></content>
-<result>特別</result>まぶしくて。
+このひとは、&lt;content_name src=&quot;高槻東吾&quot;&gt;
+&lt;element&gt;&lt;li&gt;逞しく大きな上背&lt;/li&gt;
+&lt;li&gt;太い骨&lt;/li&gt;&lt;li&gt;力強い肉質&lt;/li&gt;
+&lt;li&gt;血色のいい肌&lt;/li&gt;&lt;/element&gt;</content>
+&lt;result&gt;特別&lt;/result&gt;まぶしくて。
 だから目の縁がじんわり水気を含んで、痛む。
 むき出しになった神経の束を掴まれてるみたいに。背骨を直に掴まれてるみたいに。
 体の真ん中が熱くて、痛い。
@@ -119,7 +119,7 @@
 静かに言ったあと、大きな背中がこっちを向いた。
 三歩半くらいの距離、ぼうっと眺めてから、追いかけた。急に動いたから足がもつれそうになったけど、転びはしなかった。
 背中も、振り返らなかった。
-耳許からはいつもの<bgsound src="waltz" /> 歌が聞こえて、<bgsound src="wave" />波の音がしてる。いつもと一緒。
+耳許からはいつもの&lt;bgsound src=&quot;waltz&quot; /&gt; 歌が聞こえて、&lt;bgsound src=&quot;wave&quot; /&gt;波の音がしてる。いつもと一緒。
 でもわたしは、いつもと一緒じゃない。全然一緒じゃ、なかった。
 ──でも、ほんとうは波の形だって、ひとつも一緒じゃない。波の音だって、ほんとうは、ひとつも一緒じゃない。
 そんなこと、……とっくに知ってた。知らないふりをしていたけど、知ってた。

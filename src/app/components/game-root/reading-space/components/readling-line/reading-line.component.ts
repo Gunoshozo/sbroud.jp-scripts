@@ -1,7 +1,7 @@
 import { Component, EventEmitter, HostBinding, Input, Output } from "@angular/core";
 import { ReadableLine } from "../../models/lines.model";
 import { TuiButtonModule, TuiHintModule } from "@taiga-ui/core";
-import { NgClass, NgIf } from "@angular/common";
+import { NgClass } from "@angular/common";
 
 
 @Component({
@@ -9,11 +9,10 @@ import { NgClass, NgIf } from "@angular/common";
     templateUrl: './reading-line.component.html',
     standalone: true,
     imports: [
-        NgIf,
-        NgClass,
-        TuiHintModule,
-        TuiButtonModule
-    ]
+    NgClass,
+    TuiHintModule,
+    TuiButtonModule
+]
 })
 export class ReadingLineComponent {
 
@@ -32,10 +31,10 @@ export class ReadingLineComponent {
 
     constructor() { }
 
-    // @HostBinding("class")
-    // public get _classes() {
-    //     return ["chapter-reading_line"]
-    // }
+    @HostBinding("class")
+    public get _classes() {
+        return ["chapter-reading_line"]
+    }
 
     onHover(val: boolean): void {
         if (!val) {

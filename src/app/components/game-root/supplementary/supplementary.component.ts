@@ -23,6 +23,7 @@ export class SupplementaryPageComponent {
     public constructor(private route: ActivatedRoute, private router: Router, private apiService: RestApiService, private gameRootService: GameRootService) { }
 
     public ngOnInit(): void {
+        window.scroll(0, 0);
         const observables = [this.route.paramMap]
         if (!GameNameMapping.mapping) {
             observables.push(this.apiService.get("nameMapping").pipe(tap((file) => {

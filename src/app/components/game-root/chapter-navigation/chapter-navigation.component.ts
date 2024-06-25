@@ -6,7 +6,7 @@ import { GameItem, ChapterConfig, ChapterNav } from '../../../models/reading.mod
 import { RestApiService } from '../../../services/rest.service';
 import { GameRootService } from '../game-root.serviece';
 import { ItemCardComponent } from '../../common/item-card/item-card.component';
-import { NgClass, NgFor, NgIf, NgStyle } from '@angular/common';
+import { NgClass, NgStyle } from '@angular/common';
 import { TuiButtonModule } from '@taiga-ui/core';
 import { NameHelper } from '../../../helpers/name-helper';
 import { HttpHeaders } from '@angular/common/http';
@@ -17,14 +17,12 @@ import { HttpHeaders } from '@angular/common/http';
     templateUrl: './chapter-navigation.component.html',
     standalone: true,
     imports: [
-        ItemCardComponent,
-        NgIf,
-        NgFor,
-        NgClass,
-        NgStyle,
-        RouterLink,
-        TuiButtonModule
-    ],
+    ItemCardComponent,
+    NgClass,
+    NgStyle,
+    RouterLink,
+    TuiButtonModule
+],
     providers: [
         RestApiService
     ]
@@ -45,6 +43,7 @@ export class ChapterNavigationComponent implements OnInit {
     private easterEggs = true;
 
     ngOnInit(): void {
+        window.scroll(0, 0);
         const observables = [this.route.paramMap]
         if (!GameNameMapping.mapping) {
             observables.push(this.restApiService.get("nameMapping").pipe(tap((file) => {

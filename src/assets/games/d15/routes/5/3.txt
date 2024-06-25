@@ -59,13 +59,13 @@
 <span class="chapter-reading_char-name">妹尾梓</span> : 「のみ込みが早くて助かるわ。それに引き替えあのおじいちゃん、状況全っ然把握してないから驚いちゃう」
 <span class="chapter-reading_char-name">妹尾梓</span> : 「ったく、なんなのよ……うまくいってたのに、また１からやり直しとか、めんどくさすぎ」
 <span class="chapter-reading_char-name">妹尾梓</span> : 「ああ、そうだ。アンタ、今後の報告は香藤じゃなくてわたしに直接して。むしろ香藤も見張んなさい」
-<span class="chapter-reading_char-name">妹尾梓</span> : 「あの女、<span class="chapter-reading_dict"><ruby>反<rt>アンチ・ユージェニック,6</rt></ruby>優良遺伝子派</span>気取っちゃって、超ウザい。どうせまた生徒たちにちょっかいかける気でしょ」
+<span class="chapter-reading_char-name">妹尾梓</span> : 「あの女、<span class="chapter-reading_dict"><ruby>反優良遺伝子派<rt>アンチ・ユージェニック</rt></ruby></span>気取っちゃって、超ウザい。どうせまた生徒たちにちょっかいかける気でしょ」
 <span class="chapter-reading_char-name">妹尾梓</span> : 「おかしなことしてたら、すぐ報告すんのよ」
 <span class="chapter-reading_char-name">世津茅早</span> : 「わかりました」
 <span class="chapter-reading_char-name">妹尾梓</span> : 「それから、忘れてないと思うけどもう一回言っとく」
 <span class="chapter-reading_char-name">妹尾梓</span> : 「あんたは人間のクズだからここにいるの。それを忘れて調子に乗らないでね」
 <span class="chapter-reading_char-name">世津茅早</span> : 「はい」
-<command><li>逆らわないこと</li>\k
-<li>逆らわないこと</li>\k
-<li>逆らわないこと</li>
-</command>
+&lt;command&gt;&lt;li&gt;逆らわないこと&lt;/li&gt;\k
+&lt;li&gt;逆らわないこと&lt;/li&gt;\k
+&lt;li&gt;逆らわないこと&lt;/li&gt;
+&lt;/command&gt;

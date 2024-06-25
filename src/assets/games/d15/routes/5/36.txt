@@ -38,12 +38,12 @@
 あの、黒い格好をした彼は今ごろなにをしているんだろう。
 <span class="chapter-reading_char-name">世津茅早</span> : 「このひとはいったい、なに……？」
 所長は、特別だと言ったけど。
-<content_name src="高槻東吾">
-<element><li>逞しく大きな上背</li>
-<li>太い骨</li><li>力強い肉質</li>
-<li>血色のいい肌</li></element></content>
+&lt;content_name src=&quot;高槻東吾&quot;&gt;
+&lt;element&gt;&lt;li&gt;逞しく大きな上背&lt;/li&gt;
+&lt;li&gt;太い骨&lt;/li&gt;&lt;li&gt;力強い肉質&lt;/li&gt;
+&lt;li&gt;血色のいい肌&lt;/li&gt;&lt;/element&gt;&lt;/content&gt;
 だから──
-<result>特別</result>
+&lt;result&gt;特別&lt;/result&gt;
 <span class="chapter-reading_char-name">世津茅早</span> : 「そういう、ことなの……？」
 耳を澄ませる。ヘッドフォンを外した耳に、じわりと、嫌な音が染みている。
 でも、打ち消すように、力強い音がする。

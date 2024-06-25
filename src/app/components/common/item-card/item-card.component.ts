@@ -1,26 +1,19 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { LinkConsts, LocalStorageVariables, TextConsts } from '../../../conts/general.const';
 import { TuiHintModule } from '@taiga-ui/core';
-import { NgClass, NgIf } from '@angular/common';
+import { NgClass } from '@angular/common';
 import { RouterLink } from '@angular/router';
 
 @Component({
   selector: 'item-card',
   templateUrl: './item-card.component.html',
   standalone: true,
-  imports: [TuiHintModule,
-    NgIf,
-    NgClass,
-    RouterLink
-  ]
+  imports: [TuiHintModule, NgClass, RouterLink]
 })
 export class ItemCardComponent implements OnInit {
 
   @Input()
   public name: string = "";
-
-  @Input()
-  public subName: string = "";
 
   @Input()
   public link: string = "";

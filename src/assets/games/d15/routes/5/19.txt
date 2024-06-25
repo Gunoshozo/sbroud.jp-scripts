@@ -1,5 +1,5 @@
-<bgsound src="waltz"　volume="-1000" />歌のボリュームをほんの少し、下げる。
-引いた音の代わりに打ち寄せてくる<bgsound src="wave" /> 波の砕ける音と──小さな気配。
+&lt;bgsound src=&quot;waltz&quot;　volume=&quot;-1000&quot; /&gt;歌のボリュームをほんの少し、下げる。
+引いた音の代わりに打ち寄せてくる&lt;bgsound src=&quot;wave&quot; /&gt; 波の砕ける音と──小さな気配。
 わたしは、息を詰めて、立ち上がる。
 <span class="chapter-reading_char-name">黒ずくめの男</span> : 「行け」
 <span class="chapter-reading_char-name">黒ずくめの男</span> : 「気づかずに寮へ戻るといい」

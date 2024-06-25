@@ -23,6 +23,7 @@ export class ErrorComponent implements AfterViewInit {
   constructor(private sakura: SakuraService) { }
 
   ngAfterViewInit(): void {
+    window.scroll(0, 0);
     this.sakura.bindSakura("error")
   }
 }

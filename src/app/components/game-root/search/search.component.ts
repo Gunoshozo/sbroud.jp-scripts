@@ -5,7 +5,7 @@ import { GlobalLoaderService } from '../../../services/global-loader.service';
 import { RestApiService } from '../../../services/rest.service';
 import { SearchConfig } from '../../models/search-config.model';
 import { GameRootService } from '../game-root.serviece';
-import { NgIf } from '@angular/common';
+
 import { ChapteredItemsComponent } from './chaptered-items/chapter-items.component';
 import { RoutedItemsComponent } from './routed-items/routed-items.component';
 
@@ -14,9 +14,9 @@ import { RoutedItemsComponent } from './routed-items/routed-items.component';
 	templateUrl: './search.component.html',
 	standalone: true,
 	imports: [
-		NgIf,
-		ChapteredItemsComponent,
-		RoutedItemsComponent]
+    ChapteredItemsComponent,
+    RoutedItemsComponent
+]
 })
 export class SearchComponent implements OnInit {
 
@@ -35,6 +35,7 @@ export class SearchComponent implements OnInit {
 	}
 
 	public ngOnInit(): void {
+		window.scroll(0, 0);
 		this.gameRootService.pushHeader("Search");
 
 		this.route.parent?.paramMap.pipe(

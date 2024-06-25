@@ -4,10 +4,11 @@ import {
 } from '@angular/core';
 import { GlobalLoaderService } from './services/global-loader.service';
 import { Subject, distinctUntilChanged, map, share, startWith, takeUntil } from 'rxjs';
-import { TuiThemeNightService, TuiThemeService } from '@taiga-ui/addon-doc';
+
 import { TuiBrightness, TuiDialogModule, TuiLoaderModule, TuiRootModule, TuiThemeNightModule } from '@taiga-ui/core';
 import { RouterOutlet } from '@angular/router';
 import { CommonModule } from '@angular/common';
+import { TuiThemeService, TuiThemeNightService } from '@taiga-ui/addon-doc';
 
 @Component({
 	selector: 'app-root',

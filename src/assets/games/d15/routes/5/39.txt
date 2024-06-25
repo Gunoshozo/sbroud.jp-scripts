@@ -35,10 +35,10 @@
 そんなの知ってたのに、……なんだかいまさら悲しくなって。
 だから、元気になると言って一花がくれたそれを、口の中に放り込んだ。
 <span class="chapter-reading_char-name">世津茅早</span> : 「……あまい」
-<li>溶けていく</li>
-<li>しみていく</li>
-<li>おいしい</li>
-<li>うれしい</li>
+&lt;li&gt;溶けていく&lt;/li&gt;
+&lt;li&gt;しみていく&lt;/li&gt;
+&lt;li&gt;おいしい&lt;/li&gt;
+&lt;li&gt;うれしい&lt;/li&gt;
 <span class="chapter-reading_char-name">世津茅早</span> : 「…………すき」
 わたしはやっぱり、人間のできそこない。
 どうして、言えないんだろう。

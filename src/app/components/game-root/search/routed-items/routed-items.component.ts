@@ -7,7 +7,7 @@ import { RestApiService } from '../../../../services/rest.service';
 import { SearchableRoute, SearchableChapter } from '../../../models/search-config.model';
 import { FormGroup, FormControl, FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { NameHelper } from '../../../../helpers/name-helper';
-import { NgClass, NgFor } from '@angular/common';
+import { NgClass } from '@angular/common';
 import { RouterLink } from '@angular/router';
 import { TuiCarouselModule, TuiInputModule } from '@taiga-ui/kit';
 import { TuiButtonModule, TuiTextfieldControllerModule } from '@taiga-ui/core';
@@ -18,16 +18,15 @@ import { TuiButtonModule, TuiTextfieldControllerModule } from '@taiga-ui/core';
 	templateUrl: './routed-items.component.html',
 	standalone: true,
 	imports: [
-		NgFor,
-		NgClass,
-		RouterLink,
-		FormsModule,
-		ReactiveFormsModule,
-		TuiCarouselModule,
-		TuiInputModule,
-		TuiTextfieldControllerModule,
-		TuiButtonModule
-	]
+    NgClass,
+    RouterLink,
+    FormsModule,
+    ReactiveFormsModule,
+    TuiCarouselModule,
+    TuiInputModule,
+    TuiTextfieldControllerModule,
+    TuiButtonModule
+]
 })
 export class RoutedItemsComponent implements OnInit {
 

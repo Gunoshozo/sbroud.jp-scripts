@@ -1,4 +1,4 @@
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「……というわけで、偶然と誤解が生んだ悲劇とされる\n<span class="chapter-reading_dict"><ruby>核<rt>ニュークメテオ,2</rt></ruby>帚星</span>は奇しくも現在の地球にとって重要なターニングポイントとなったわけですが──」
+<span class="chapter-reading_char-name">香藤瑞希</span> : 「……というわけで、偶然と誤解が生んだ悲劇とされる\n<span class="chapter-reading_dict"><ruby>核帚星<rt>ニュークメテオ</rt></ruby></span>は奇しくも現在の地球にとって重要なターニングポイントとなったわけですが──」
 <span class="chapter-reading_char-name">香藤瑞希</span> : 「──こらそこ！」
 <span class="chapter-reading_char-name">高槻東吾</span> : 「痛ッ！」
 なにかが俺の頭めがけて飛んできた。
@@ -16,19 +16,19 @@
 しかも、このちょっとした砂嵐のせいで機械の調子が悪いらしく、冷房の利きもイマイチときている。
 これじゃ授業が面倒な俺でなくたって、気が遠くなる。
 昨日パンツに、明日は土砂降り、なんて軽口を叩いたが、まさか猛暑に大風とはな。
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「というわけで、高槻くん。きみの言葉で<ruby>核<rt>ニュークメテオ,2</rt></ruby>帚星について、自分なりに説明してみてください」
+<span class="chapter-reading_char-name">香藤瑞希</span> : 「というわけで、高槻くん。きみの言葉で<ruby>核帚星<rt>ニュークメテオ</rt></ruby>について、自分なりに説明してみてください」
 <span class="chapter-reading_char-name">高槻東吾</span> : 「核爆発」
 <span class="chapter-reading_char-name">香藤瑞希</span> : 「２００文字程度で」
 <span class="chapter-reading_char-name">高槻東吾</span> : 「……………………」
 <span class="chapter-reading_char-name">香藤瑞希</span> : 「まったく。いい？　もう一度言うから耳かっぽじって聞きなさいよ」
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「<ruby>核<rt>ニュークメテオ,2</rt></ruby>帚星は高槻くんの言う通り、世界規模で起きた核爆発の総称です」
+<span class="chapter-reading_char-name">香藤瑞希</span> : 「<ruby>核帚星<rt>ニュークメテオ</rt></ruby>は高槻くんの言う通り、世界規模で起きた核爆発の総称です」
 <span class="chapter-reading_char-name">香藤瑞希</span> : 「最初の引き金は、誤爆によるものだとする説もありますが、本当のことは不明です」
 <span class="chapter-reading_char-name">香藤瑞希</span> : 「ですが、その一撃は各国に疑惑や恐慌を巻き起こすきっかけとしては充分でした」
 <span class="chapter-reading_char-name">香藤瑞希</span> : 「次々と誘爆や誤爆があり、たった一時間足らずで世界中が戦域・戦術核兵器の業火に呑み込まれました」
 <span class="chapter-reading_char-name">香藤瑞希</span> : 「全部で約九百メガトンもの核掃射だったと言われています」
 <span class="chapter-reading_char-name">香藤瑞希</span> : 「膨大な量の煙と塵が成層圏にまで達し、地球をすっかり覆ってしまったせいで、地表では半年以上もの間、擬似氷河期──核の冬が訪れました」
 いまさらそんな寝物語を引っ張り出してきて、俺たちになにを考えさせようっていうんだ？　香藤は。
-何メガトンとか何パーセントとか、そんな数字は知らないが、<ruby>核<rt>ニュークメテオ,2</rt></ruby>帚星のことを知らないヤツなんざここにはひとりもいない。
+何メガトンとか何パーセントとか、そんな数字は知らないが、<ruby>核帚星<rt>ニュークメテオ</rt></ruby>のことを知らないヤツなんざここにはひとりもいない。
 <span class="chapter-reading_char-name">香藤瑞希</span> : 「核そのものの被害で亡くなった方も大勢いましたが、外界の植物が次々に枯死したことで、凍死や餓死による死者が相次ぎました」
 <span class="chapter-reading_char-name">香藤瑞希</span> : 「その中でかろうじて生きながらえたのは、全人口の約３５パーセントです」
 <span class="chapter-reading_char-name">香藤瑞希</span> : 「復興を推し進め、なんとか経済が軌道に乗ったとされる現在も世界中にその爪痕は残っているし、世界の総人口も実はさほど当時と変わっていません」

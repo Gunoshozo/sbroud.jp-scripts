@@ -1,11 +1,11 @@
 今日も、いる。見張りのひとたち。
 見張られてるのはわたしじゃないのに、重たい。
-抜けるような<background-image:(A blue sky); ">空の下、あのひとたちの黒い姿はひどく不自然で。
-<empty>静かな教室。</empty>
-<bgsound src="silent" loop="infinite" balance="0" volume="0" />いつもどおりに窓辺の席に腰掛けて、外を見る。
+抜けるような&lt;background-image:(A blue sky); &quot;&gt;空の下、あのひとたちの黒い姿はひどく不自然で。
+&lt;empty&gt;静かな教室。&lt;/empty&gt;
+&lt;bgsound src=&quot;silent&quot; loop=&quot;infinite&quot; balance=&quot;0&quot; volume=&quot;0&quot; /&gt;いつもどおりに窓辺の席に腰掛けて、外を見る。
 シープ……生徒たちが少ない。
 香藤先生以外の教師もここ数日休みがちらしいと昨日、寮で耳にした。たぶん、教師レベルの職員には詳細が伝わっていない。
-<Infection>不安は、簡単に伝染する。</Infection>そして<amplification>かさを増していく。</amplification>
+&lt;Infection&gt;不安は、簡単に伝染する。&lt;/Infection&gt;そして&lt;amplification&gt;かさを増していく。&lt;/amplification&gt;
 <span class="chapter-reading_char-name">白大輔</span> : 「おはよう。……あれ、今日は妙に人数が少ないな」
 <span class="chapter-reading_char-name">高槻東吾</span> : 「だから、このアチーのにやる気満々なのはオマエくらいだっての」
 <span class="chapter-reading_char-name">高槻東吾</span> : 「ふぁ……あ。俺もお手々繋いで仲良く遅刻すりゃよかった」
@@ -31,16 +31,16 @@
 <span class="chapter-reading_char-name">倭一花</span> : 「うん。菓、みんなが顔を見せてくれたらすごく喜ぶと思う」
 <span class="chapter-reading_char-name">倭一花</span> : 「特に指示がなければ、私、今日は早退して菓についててあげるつもり。ひとりじゃ不安だろうし」
 <span class="chapter-reading_char-name">陸七生</span> : 「外がアレだしねー……おっと、あんまりデカい声で言うとヤバいか」
-ヘッドフォンに触れて、ボリュームを<bgsound src="waltz" volume="-100" /> 上げる。
-いつもの歌で<bgsound src="pleasant_voice"　volume="-10000" />体が満ちる。少しだけ、安心する。
+ヘッドフォンに触れて、ボリュームを&lt;bgsound src=&quot;waltz&quot; volume=&quot;-100&quot; /&gt; 上げる。
+いつもの歌で&lt;bgsound src=&quot;pleasant_voice&quot;　volume=&quot;-10000&quot; /&gt;体が満ちる。少しだけ、安心する。
 見張らなくていいって、言われた。昨日。だったら、聞こえなくてもいい……聞いていたくない。
 この子たちのとがった声は少し痛くて、空気と一緒に吸い込むたびに胸の奥がぎゅうっとする。
-<object data="watashi" type="human">
+&lt;object data=&quot;watashi&quot; type=&quot;human&quot;&gt;
 わたしはここに、いなくていい。できるだけ消えていればいい。
-<object data="0" type="air" width="0" height="0"></object></object>
+&lt;object data=&quot;0&quot; type=&quot;air&quot; width=&quot;0&quot; height=&quot;0&quot;&gt;&lt;/object&gt;&lt;/object&gt;
 ……でも、じゃあ、わたしはなんのためにここにいるんだろう。
 見張らなくていい、それなら学園に来なくたってよかったのかもしれない。
-なのに、わたしはまだ<command><li>シープの群れに潜み、その動向を逐次報告するように</li></command>自分ではなにも考えられなくて、他にはどうしようも──
+なのに、わたしはまだ&lt;command&gt;&lt;&lt;li&gt;シープの群れに潜み、その動向を逐次報告するように&lt;/li&gt;&lt;/command&gt;&lt;自分ではなにも考えられなくて、他にはどうしようも──
 <span class="chapter-reading_char-name">高槻東吾</span> : 「オイ、聞いてンのか」
 <span class="chapter-reading_char-name">世津茅早</span> : 「────っ」
 驚いた。すごく。

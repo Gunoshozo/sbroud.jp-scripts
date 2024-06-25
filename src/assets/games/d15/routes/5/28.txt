@@ -68,7 +68,7 @@
 <span class="chapter-reading_char-name">仁和菓</span> : 「……陸くん」
 <span class="chapter-reading_char-name">倭一花</span> : 「菓、焦っちゃダメ」
 <span class="chapter-reading_char-name">仁和菓</span> : 「…………うん」
-<variety_moved src="classmate" />
+&lt;variety_moved src=&quot;classmate&quot; /&gt;
 仁和菓は寂しそうに頷いてからこちらを見て、倭一花は小さく手を振った。
 <span class="chapter-reading_char-name">高槻東吾</span> : 「チビ。……サンキューな」
 高槻東吾は──わたしの横をすり抜けて、軽く肩を叩いた。
