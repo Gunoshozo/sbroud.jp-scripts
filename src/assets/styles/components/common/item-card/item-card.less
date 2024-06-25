@@ -38,9 +38,19 @@
 
             .item-card-title_name {
                 line-height: 1.5rem;
-                
+
                 margin: 0;
             }
         }
     }
 }
+
+chapter-navigation, .games{
+    .items-list_container {
+        //optimization for CLS, hardcoded proportions since images for chapter nav are 2:1
+        .item-card-image {
+            min-width: calc((var(--container-width) - 2rem) * 0.5);
+            min-height: calc((var(--container-width) - 2rem) * 0.25);
+        }
+    }
+} 

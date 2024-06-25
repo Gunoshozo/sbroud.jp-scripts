@@ -89,28 +89,31 @@
             </div>
         </div>
     </button>
-    <a [routerLink]="'/games'">
-        <button icon="tuiIconHomeLarge" tuiIconButton appearance="icon" tuiHint="To game list"
+    <a [routerLink]="'/games'" aria-label="To Game List">
+        <button icon="tuiIconHomeLarge" tuiIconButton appearance="icon" tuiHint="To Game List" aria-label="To Game List"
             tuiHintAppearance="onDark">
         </button>
     </a>
-    <a [routerLink]="'search'">
-        <button icon="tuiIconSearchLarge" tuiIconButton appearance="icon" tuiHint="Search" tuiHintAppearance="onDark">
+    <a [routerLink]="'search'" aria-label="Search">
+        <button icon="tuiIconSearchLarge" tuiIconButton appearance="icon" tuiHint="Search" aria-label="Search"
+         tuiHintAppearance="onDark">
         </button>
     </a>
     <div class="spacer"></div>
     <h2 class="game-root_header-text" [innerHTML]="displayName"></h2>
     <div class="spacer"></div>
-    <button icon="tuiIconHelpCircleLarge" tuiIconButton appearance="icon" tuiHint="Game Info" tuiHintAppearance="onDark"
+    <button icon="tuiIconHelpCircleLarge" tuiIconButton appearance="icon" tuiHint="Game Info" aria-label="Game Info"
+        tuiHintAppearance="onDark"
         (click)="showGameHelp(dialogTemplate)">
     </button>
-    <a [routerLink]="'/settings'">
-        <button icon="tuiIconSettingsLarge" tuiIconButton appearance="icon" tuiHint="Global Settings"
+    <a [routerLink]="'/settings'"  aria-label="Global Settings">
+        <button icon="tuiIconSettingsLarge" tuiIconButton appearance="icon" tuiHint="Global Settings" aria-label="Global Settings"
             tuiHintAppearance="onDark">
         </button>
     </a>
     <button [icon]="night.value? 'tuiIconSunLarge': 'tuiIconMoonLarge' " tuiIconButton appearance="icon"
-        [tuiHint]="this.night.value?'Switch to light mode':'Switch to night mode'" tuiHintAppearance="onDark"
+        [tuiHint]="this.night.value?'Switch to light mode':'Switch to night mode'" aria-label="Switch mode"
+        tuiHintAppearance="onDark"
         (click)="night.toggle()">
     </button>
     }
