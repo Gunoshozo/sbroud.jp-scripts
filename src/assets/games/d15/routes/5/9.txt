@@ -25,8 +25,8 @@
 &lt;command&gt;&lt;&lt;li&gt;シープの群れに潜み、その動向を逐次報告するように&lt;/li&gt;&lt;/command&gt;&lt;
 ……わたしの役割はもう、終わったのかもしれない。
 あのひとは、ポリスの偉い人間で。
-&lt;li&gt;%0#00d3d3d3;逆らわないこと</span>&lt;/li&gt;&lt;li&gt;%0#00d3d3d3;逆らわないこと</span>&lt;/li&gt;&lt;li&gt;%0#00d3d3d3;逆らわないこと</span>&lt;/li&gt;
+&lt;li&gt;逆らわないこと</span>&lt;/li&gt;&lt;li&gt;逆らわないこと</span>&lt;/li&gt;&lt;li&gt;逆らわないこと</span>&lt;/li&gt;
 わたしは、セルの住人。
-&lt;li&gt;%0#00d3d3d3;逆らわないこと</span>&lt;/li&gt;&lt;li&gt;%0#00d3d3d3;逆らわないこと</span>&lt;/li&gt;&lt;li&gt;%0#00d3d3d3;逆らわないこと</span>&lt;/li&gt;
+&lt;li&gt;逆らわないこと</span>&lt;/li&gt;&lt;li&gt;逆らわないこと</span>&lt;/li&gt;&lt;li&gt;逆らわないこと</span>&lt;/li&gt;
 そして、ここの子たちは、羊。
 逆らうことが許されない──羊たち。

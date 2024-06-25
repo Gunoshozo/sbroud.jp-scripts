@@ -226,7 +226,7 @@
 <span class="chapter-reading_char-name">倭一花</span> : 「私、たくさん努力した、うんとがんばったわ。ちゃんといい子にしたじゃない！」
 <span class="chapter-reading_char-name">倭一花</span> : 「先生の言うこともきいたし、友だちの面倒だっていっぱい見て、学校の成績だって人一倍がんばって……みんな、そんな私を褒めたじゃない！」
 <span class="chapter-reading_char-name">倭一花</span> : 「なのにどうして！？　どうして私の邪魔ばっかりするの！？　私が妬ましいの！？」
-<span class="chapter-reading_char-name">妹尾梓</span> : 「あんたたち%0#00ff0000;クローン</span>はここで人間のために死ぬの！」
+<span class="chapter-reading_char-name">妹尾梓</span> : 「あんたたちクローン</span>はここで人間のために死ぬの！」
 <span class="chapter-reading_char-name">倭一花</span> : 「ちがう、私たち……私は！！」
 <span class="chapter-reading_char-name">倭一花</span> : 「私は、特別なの……ッ！」
 <span class="chapter-reading_char-name">倭一花</span> : 「ハァ……ハァ……ハ、ッァ」
