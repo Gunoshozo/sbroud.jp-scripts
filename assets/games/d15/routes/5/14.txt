@@ -98,7 +98,7 @@
 たぶんこんなの、生まれて、はじめて。
 <span class="chapter-reading_char-name">世津茅早</span> : 「……はい。世津です」
 <span class="chapter-reading_char-name">妹尾梓</span> : 「昼過ぎたらこっち来て」
-&lt;command&gt;&lt;&lt;li&gt;%0#00d3d3d3;シープの群れに潜み、その動向を逐次報告するように</span>&lt;/li&gt;&lt;/command&gt;&lt;
-&lt;li&gt;%0#00d3d3d3;逆らわないこと</span>&lt;/li&gt;&lt;li&gt;%0#00d3d3d3;逆らわないこと</span>&lt;/li&gt;&lt;li&gt;%0#00d3d3d3;逆らわないこと</span>&lt;/li&gt;
+&lt;command&gt;&lt;&lt;li&gt;シープの群れに潜み、その動向を逐次報告するように</span>&lt;/li&gt;&lt;/command&gt;&lt;
+&lt;li&gt;逆らわないこと</span>&lt;/li&gt;&lt;li&gt;逆らわないこと</span>&lt;/li&gt;&lt;li&gt;逆らわないこと</span>&lt;/li&gt;
 でもわたしはあの子たちを、否定したくない。
 あの子たちとわたしは……とても似ている。
