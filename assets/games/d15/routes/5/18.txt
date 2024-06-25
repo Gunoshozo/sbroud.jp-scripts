@@ -8,24 +8,24 @@
 ここには誰も、いない。警備すらいない。海からはシープ……生徒が脱出できないとわかってるから。
 ここから日本は遠くて、泳いでいくのは無理。ましてノイズの半径より向こうへ出たら最後、動けなくて溺れてしまう。
 みんな、目に見えない檻に、閉じ込められてる──。
-ヘッドフォンから流れる<bgsound src="waltz" />
+ヘッドフォンから流れる&lt;bgsound src=&quot;waltz&quot; /&gt;
 日本まで続く、海。
 波打ち際で、ひとり。どこにいても変わらない、わたし。
 変わらないと思ったから、ペリフェリエスを引き受けた。
-どこへ行っても、<command><li>逆らわないこと</li>
-<li>逆らわないこと</li>
-<li>逆らわないこと</li></command>
+どこへ行っても、&lt;command&gt;&lt;&lt;li&gt;逆らわないこと&lt;/li&gt;
+&lt;li&gt;逆らわないこと&lt;/li&gt;
+&lt;li&gt;逆らわないこと&lt;/li&gt;&lt;/command&gt;&lt;
 それだけのことだと思っていたから。
 家族はありがとうといった。泣きも笑いもしない。ただ、いってらっしゃいとだけ。
 笑ったり、しない。したことない。わたしだけじゃない。みんながそう。笑うことなんて知らないから。
-思ったとおり。ここは<bgsound src="waltz" /> 歌も、
-<bgsound src="wave" /> 波も、
-<embed src="ocean" />海も、全部いつもどおり。
-なのに──<refrain>
-『笑えば案外かわいいぞ』</refrain>
+思ったとおり。ここは&lt;bgsound src=&quot;waltz&quot; /&gt; 歌も、
+&lt;bgsound src=&quot;wave&quot; /&gt; 波も、
+&lt;embed src=&quot;ocean&quot; /&gt;海も、全部いつもどおり。
+なのに──&lt;refrain&gt;
+『笑えば案外かわいいぞ』&lt;/refrain&gt;
 <span class="chapter-reading_char-name">世津茅早</span> : 「わたしだけ、……いつもと違う。あのひとのせい」
 ほかにもっと、考えなきゃいけないことがあるはずなのに。
-<bgsound src="waltz"　volume="-10000" />遠のいて、
-ほかには<bgsound src="Tohgo_voice"　volume="0" />なんにも、聞こえなくなる。
+&lt;bgsound src=&quot;waltz&quot;　volume=&quot;-10000&quot; /&gt;遠のいて、
+ほかには&lt;bgsound src=&quot;Tohgo_voice&quot;　volume=&quot;0&quot; /&gt;なんにも、聞こえなくなる。
 聞こえなくなって、見えなくなる。
 <span class="chapter-reading_char-name">世津茅早</span> : 「……あのひとのせいで」

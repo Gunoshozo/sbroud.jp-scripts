@@ -97,13 +97,14 @@
             line-height: calc(var(--reading-font-size, 1rem) + 0.5rem);
             --choiceDepth: 0;
         }
-        &-header{
+        &-header {
             text-align: center;
         }
     }
 
     &_line {
         white-space: break-spaces;
+        word-break: break-word;
         display: flex;
         flex-direction: row;
         margin: 1em 0;
@@ -126,9 +127,9 @@
 
     &_bookmark-button {
         width: 0 !important;
-        transform:  translateX(calc(-1*(var(--reading-font-size)* 3 + 2rem))) translateY(calc(var(--reading-font-size) * -1.5));
-        width: calc(var(--reading-font-size) * 3  + 2px + 2rem)!important;
-        height: calc(var(--reading-font-size) * 4)!important;
+        transform: translateX(calc(-1*(var(--reading-font-size)* 3 + 2rem))) translateY(calc(var(--reading-font-size) * -1.5));
+        width: calc(var(--reading-font-size) * 3 + 2px + 2rem) !important;
+        height: calc(var(--reading-font-size) * 4) !important;
         position: absolute;
 
         use {
@@ -141,8 +142,8 @@
     }
 
     &_choice-content .chapter-reading_bookmark-button {
-        transform:  translateX(calc(-1*(var(--reading-font-size)* 3 + 2rem +  1rem + 6px * var(--choiceDepth)*2))) translateY(calc(var(--reading-font-size) * -1.5));
-        width: calc(var(--reading-font-size) * 3  + 2px + 2rem + 1rem + 6px * var(--choiceDepth)* 2)!important;
+        transform: translateX(calc(-1*(var(--reading-font-size)* 3 + 2rem + 1rem + 6px * var(--choiceDepth)*2))) translateY(calc(var(--reading-font-size) * -1.5));
+        width: calc(var(--reading-font-size) * 3 + 2px + 2rem + 1rem + 6px * var(--choiceDepth)* 2) !important;
     }
 
 

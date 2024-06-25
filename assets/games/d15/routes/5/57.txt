@@ -62,8 +62,8 @@
 誰かが隣にいてくれるという、幸せ。
 <span class="chapter-reading_char-name">世津茅早</span> : 「せめて感ずる音の鼓動　耳の奥は心ですか～」
 誰かが聞いていてくれる、嬉しさ。
-いつもの<bgsound src="waltz" /> 歌、そして微かな<bgsound src="wave" />波、<bgsound src="wind" />風、
-でも<condition="no_solitude" />ここにいるのはわたしと、歌と、波と、風だけじゃない。
+いつもの&lt;bgsound src=&quot;waltz&quot; /&gt; 歌、そして微かな&lt;bgsound src=&quot;wave&quot; /&gt;波、&lt;bgsound src=&quot;wind&quot; /&gt;風、
+でも&lt;condition=&quot;no_solitude&quot; /&gt;ここにいるのはわたしと、歌と、波と、風だけじゃない。
 <span class="chapter-reading_char-name">世津茅早</span> : 「居住区からこっそり離れて海に行くと、ラジオで日本の電波が拾えたからよく聞いてた歌なの」
 <span class="chapter-reading_char-name">世津茅早</span> : 「ゴミ捨て場にあったラジオで、音はがさがさしてたし、誰が歌ってるのかもわからないし、タイトルも知らない」
 <span class="chapter-reading_char-name">高槻東吾</span> : 「そうか。でもいい歌だな」

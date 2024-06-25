@@ -42,7 +42,7 @@
 <span class="chapter-reading_char-name">高槻東吾</span> : 「似非ジゴロ」
 <span class="chapter-reading_char-name">陸七生</span> : 「大いなる誤解です」
 とはいえ、このままじゃ埒があかないのも事実。あまり詮索せずに協力してくれそうな子って言ったら……。
-<span class="chapter-reading_char-name">陸七生</span> : 「んー……当たり障りのない子かあ。ええと、<ruby>加奈<rt>かな</rt></ruby><ruby>子<rt>こ</rt></ruby>ちゃん……<ruby>弥<rt>やよい,1</rt></ruby>生ちゃん、いや<ruby>希恵<rt>きえ</rt></ruby>ちゃん、<ruby>春<rt>かすが,1</rt></ruby>日ちゃん……あ、<ruby>百<rt>ももえ,1</rt></ruby>萌ちゃんでもいいかも」
+<span class="chapter-reading_char-name">陸七生</span> : 「んー……当たり障りのない子かあ。ええと、<ruby>加奈<rt>かな</rt></ruby><ruby>子<rt>こ</rt></ruby>ちゃん……<ruby>弥生<rt>やよい</rt></ruby>ちゃん、いや<ruby>希恵<rt>きえ</rt></ruby>ちゃん、<ruby>春日<rt>かすが</rt></ruby>ちゃん……あ、<ruby>百萌<rt>ももえ</rt></ruby>ちゃんでもいいかも」
 <span class="chapter-reading_char-name">高槻東吾</span> : 「やっぱ女のストックいっぱいあンじゃねえか、出し惜しみすんな」
 <span class="chapter-reading_char-name">陸七生</span> : 「そういう言い方いくない」
 <span class="chapter-reading_char-name">白大輔</span> : 「……倭や仁和じゃダメなのか。あとは後藤とか、櫟井とか」

@@ -51,10 +51,10 @@
 <span class="chapter-reading_char-name">高槻東吾</span> : 「デュナミス・ベースへ行けって命令されて来たのか」
 <span class="chapter-reading_char-name">世津茅早</span> : 「そう。わたしは半人前だから、手当が少なくて家族は生活が苦しい」
 <span class="chapter-reading_char-name">世津茅早</span> : 「でも、ペリフェリエスになってデュナミス・ベースに来れば、家族が手厚くしてもらえる。今年はきっと寒い思いをせずに冬を越せるはず」
-<li>憐憫</li>
-<li>哀惜</li>
-<li>遺憾</li>
-<li>憂思</li>
+&lt;li&gt;憐憫&lt;/li&gt;
+&lt;li&gt;哀惜&lt;/li&gt;
+&lt;li&gt;遺憾&lt;/li&gt;
+&lt;li&gt;憂思&lt;/li&gt;
 一斉にぶつかってくる、優しい刃。
 ……いらない。
 こんなものは、必要ない。やめてほしい。自分が可哀想だなんて思いたくない。でないと、
@@ -84,7 +84,7 @@
 <span class="chapter-reading_char-name">世津茅早</span> : 「わたしも、あなたたちも、同じ」
 <span class="chapter-reading_char-name">世津茅早</span> : 「お願いだから、わたしだけを可哀想にしないで」
 いままで命令されることに慣れていた。なにを言われても平気だった。
-<command><li>逆らわないこと</li></command>
+&lt;command&gt;&lt;&lt;li&gt;逆らわないこと&lt;/li&gt;&lt;/command&gt;&lt;
 けれども、それは、とても簡単で。勇気なんかひとかけらもいらない。楽で、安全で、逆らおうなんて思いもしなかった。
 自分の姿を、自分で見ることはできない。だからこの子たちが蹂躙される様を見下ろして初めて、理解した。
 これは、不当で理不尽な仕打ち。

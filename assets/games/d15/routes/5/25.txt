@@ -7,7 +7,7 @@
 <span class="chapter-reading_char-name">？？？</span> : 「しかし、テロリストは捕らえていないと聞いているが」
 <span class="chapter-reading_char-name">國府津忠男</span> : 「時間の問題でありましょう。現状、さしたる被害も受けておりません」
 <span class="chapter-reading_char-name">？？？</span> : 「いずれにしろ、國府津くんにはこちらへ一度戻ってもらわねばならん」
-<span class="chapter-reading_char-name">？？？</span> : 「きみはクレイドルバンクシステムの長とも言うべき、<span class="chapter-reading_dict"><ruby>健<rt>ソポス,4</rt></ruby>康衛生庁</span>の重鎮だ。我々の政策を国民にアピールしてもらう必要がある」
+<span class="chapter-reading_char-name">？？？</span> : 「きみはクレイドルバンクシステムの長とも言うべき、<span class="chapter-reading_dict"><ruby>健康衛生庁<rt>ソポス</rt></ruby></span>の重鎮だ。我々の政策を国民にアピールしてもらう必要がある」
 <span class="chapter-reading_char-name">？？？</span> : 「そちらの調整は妹尾くんに任せてよいのかね」
 <span class="chapter-reading_char-name">妹尾梓</span> : 「はい。すでに燃料補給態勢と、ヘリポートの整備は完了しております。受け入れはすぐにでも可能です」
 <span class="chapter-reading_char-name">？？？</span> : 「有能な秘書を持ったな、國府津くん」

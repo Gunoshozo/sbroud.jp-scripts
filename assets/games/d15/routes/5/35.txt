@@ -2,8 +2,8 @@
 でも、特別辛いと思ったことはないし、自分が不幸だとも思わなかった。
 病気も、わたしより深刻なひとはいくらでもいたし、そもそも働き手になれない人間は結果的に誰かの荷物を重くしていたのだから、嫌われても仕方ないことだった。
 ジロジロ見られたり、なにか文句を言われたりするほうがよほど疲れる。ひとりだったお陰で、誰にも見つからずに海辺に出ることも簡単だった。
-おんぼろのラジオで歌を<bgsound src="waltz" /> 聴きながら、併せて歌うのが好きだった。
-海は大きくて<embed src="ocean" />打ち寄せる波の音も<bgsound src="wave" />心地よくて。
+おんぼろのラジオで歌を&lt;bgsound src=&quot;waltz&quot; /&gt; 聴きながら、併せて歌うのが好きだった。
+海は大きくて&lt;embed src=&quot;ocean&quot; /&gt;打ち寄せる波の音も&lt;bgsound src=&quot;wave&quot; /&gt;心地よくて。
 ……海が好きだったなんて、たったいま、気がついた──
 <span class="chapter-reading_char-name">世津茅早</span> : 「ん……」
 <span class="chapter-reading_char-name">高槻東吾</span> : 「目ェ覚めたか、チビ」

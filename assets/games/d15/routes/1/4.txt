@@ -22,7 +22,7 @@
 <span class="chapter-reading_char-name">高槻東吾</span> : 「………………」
 仕方なく俺は、しぶしぶ席に着く。なにしろこの女教師、本当に殴る。容赦なく、しかも、手になにを持っていようがおかまいなしに、だ。
 <span class="chapter-reading_char-name">香藤瑞希</span> : 「改めて、おはようございます。元気なみんなにまた会えて先生嬉しいわ。……卒業まであと半年になるけど、精一杯がんばるからよろしくね」
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「さて、今日から新学期よ。いろいろ伝達事項があるから聞いて頂戴。まず、来週日本から<span class="chapter-reading_dict"><ruby>転<rt>ペリフェリエス,2</rt></ruby>校生</span>が来ます」
+<span class="chapter-reading_char-name">香藤瑞希</span> : 「さて、今日から新学期よ。いろいろ伝達事項があるから聞いて頂戴。まず、来週日本から<span class="chapter-reading_dict"><ruby>転校生<rt>ペリフェリエス</rt></ruby></span>が来ます」
 <span class="chapter-reading_char-name">香藤瑞希</span> : 「これについてはみんなの方がきっと詳しいわね。毎年のことみたいだし。例年どおり、仲良く２週間を過ごしてください」
 <span class="chapter-reading_char-name">香藤瑞希</span> : 「みんなも日本のことについてもっと知りたい時期だろうし。ペリフェリエスにも、きみたちが日々どう過ごしていて、何を考えているのかを教えてあげて」
 <span class="chapter-reading_char-name">香藤瑞希</span> : 「ちなみに今年のペリフェリエスは女の子よ。女子は寮生活を一緒にすることになるから、生活面からもいろいろ助けてあげてね」

@@ -1,6 +1,6 @@
-<command><li>香藤瑞希の部屋へ行き、生活の指示を仰ぐこと</li>
-<li>けれども、報告は妹尾梓を優先すること</li>
-<li>香藤瑞希も見張ること</li></command>
+&lt;command&gt;&lt;li&gt;香藤瑞希の部屋へ行き、生活の指示を仰ぐこと&lt;/li&gt;
+&lt;li&gt;けれども、報告は妹尾梓を優先すること&lt;/li&gt;
+&lt;li&gt;香藤瑞希も見張ること&lt;/li&gt;&lt;/command&gt;
 <span class="chapter-reading_char-name">香藤瑞希</span> : 「いらっしゃい、茅早ちゃん。待ってたわよ」
 <span class="chapter-reading_char-name">香藤瑞希</span> : 「どう？　ビックリした？」
 <span class="chapter-reading_char-name">世津茅早</span> : 「いえ」
@@ -48,16 +48,16 @@
 ここへ来て、当たり前と思っていたことが決して当たり前ではなく、単なる差別なのだと分かってしまった。
 生まれ持った遺伝子で、わたしは未来を絶たれているとハッキリ知ってしまった。
 知っていたのではない、識っていただけだったのだと知った。
-<li>欲</li>
-<li>嫉妬</li>
-<li>絶望</li>
+&lt;li&gt;欲&lt;/li&gt;
+&lt;li&gt;嫉妬&lt;/li&gt;
+&lt;li&gt;絶望&lt;/li&gt;
 全部、暴露されてしまった。それまでは、考えることなんて、ひとつだったのに。
-<command><li>逆らわないこと</li>\k
-<li>逆らわないこと</li>\k
-<li>逆らわないこと</li></command>
+&lt;command&gt;&lt;li&gt;逆らわないこと&lt;/li&gt;
+&lt;li&gt;逆らわないこと&lt;/li&gt;
+&lt;li&gt;逆らわないこと&lt;/li&gt;&lt;/command&gt;
 たったこれだけでよかったのに。
-<li>優越</li>
-<li>劣等</li>
+&lt;li&gt;優越&lt;/li&gt;
+&lt;li&gt;劣等&lt;/li&gt;
 気持ちが揺れて、胸が悪くなる。
 <span class="chapter-reading_char-name">世津茅早</span> : 「先生の言うこと、たぶん、少しわかります」
 <span class="chapter-reading_char-name">香藤瑞希</span> : 「ありがとう。そのひと言だけでもすごく嬉しい」

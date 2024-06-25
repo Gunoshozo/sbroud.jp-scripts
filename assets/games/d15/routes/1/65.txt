@@ -85,7 +85,7 @@
 ったく、いったい誰がどこまで読んでンだ？　あんなもん。
 しかも、なんでいちいち書いてねえ生徒の名前まで覚えてンだよ。
 …………書いてねえのが俺ひとりだけだから覚えてンのか、くっそ。
-<span class="chapter-reading_char-name">妹尾梓</span> : 「東吾くん、こちらはデュナミス・ベース所長の<ruby>國府<rt>こう</rt></ruby><ruby>津忠<rt>づただお,1</rt></ruby>男先生よ」
+<span class="chapter-reading_char-name">妹尾梓</span> : 「東吾くん、こちらはデュナミス・ベース所長の<ruby>國府津<rt>こうづ</rt></ruby><ruby>忠男<rt>ただお</rt></ruby>先生よ」
 <span class="chapter-reading_char-name">高槻東吾</span> : 「所長…………？」
 <span class="chapter-reading_char-name">妹尾梓</span> : 「<span class="chapter-reading_dict">デュナミス・ベースで一番偉いひと</span>。研究所の所長でもあるし、学園長代理も務めておられるわ」
 <span class="chapter-reading_char-name">妹尾梓</span> : 「ちなみにわたし、<span class="chapter-reading_dict">先生の助手兼秘書</span>を任されてます。改めてよろしくね」

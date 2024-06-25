@@ -23,11 +23,11 @@
 <span class="chapter-reading_char-name">倭一花</span> : 「そうね、……そうよね」
 <span class="chapter-reading_char-name">倭一花</span> : 「じゃあ、ちょっと立ち話をさせてくれる？　瑞希先生はどうしてるの？」
 <span class="chapter-reading_char-name">世津茅早</span> : 「直接聞けばいい」
-<command><li>クローンたちを観察し、その振る舞いを報告すること</li>
-<li>命令についてクローンには他言しないこと</li>
-<li>クローンとの交流は極力避けること</li>
-<li>その他、フォルム担当者の命令に従うこと</li>
-<li>……逆らわない、こと</li></command>
+&lt;command&gt;&lt;&lt;li&gt;クローンたちを観察し、その振る舞いを報告すること&lt;/li&gt;
+&lt;li&gt;命令についてクローンには他言しないこと&lt;/li&gt;
+&lt;li&gt;クローンとの交流は極力避けること&lt;/li&gt;
+&lt;li&gt;その他、フォルム担当者の命令に従うこと&lt;/li&gt;
+&lt;li&gt;……逆らわない、こと&lt;/li&gt;&lt;/command&gt;&lt;
 <span class="chapter-reading_char-name">倭一花</span> : 「あいにく先生の連絡先は知らない。生徒から教師へプライベートな連絡はできないし、個人として関わり合いを持つことはできない」
 <span class="chapter-reading_char-name">倭一花</span> : 「それがここのルール。誰もが疑いもしなかった──ううん、たとえ疑ったとしてもなぜだか口にできなかった暗黙のルール」
 <span class="chapter-reading_char-name">倭一花</span> : 「たぶん、ひととクローンを区別して線引きしておきたい人間側の意識が、そういう不文律になったんじゃないかしら」
@@ -52,7 +52,7 @@
 <span class="chapter-reading_char-name">倭一花</span> : 「それに……たくさん失敗はしたけど、あれはその都度のベストだって考えることにしたわ。だからね」
 そのとき、倭一花はいままで見た中で一番、きれいな顔をした。
 <span class="chapter-reading_char-name">倭一花</span> : 「だからいまは最高の私だし、いままでで一番本気」
-<li>クローンとの交流は極力避けること</li>
+&lt;li&gt;クローンとの交流は極力避けること&lt;/li&gt;
 なんでなのか、少しだけ理由がわかった気がした。
 検体で、遺伝子に傷をつけてはいけないから──たぶん、本当はそういう意味じゃない。
 <span class="chapter-reading_char-name">倭一花</span> : 「瑞希先生のこと、教えてくれてありがとう」
