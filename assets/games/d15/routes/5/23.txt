@@ -2,39 +2,39 @@
 香藤先生のことはひと言も通達されないまま、時折別の教員がやってきて、様子を見ては去って行くだけ。
 生徒たちはもう、誰ひとり先生のことを口にしない。たぶん、なにかおかしいとわかっていても、口にできないでいる。
 諦めたり、見なかったことにしたり、してる。よくわかる。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「おい、チビ」
-<span class="chapter-reading_char-name">世津茅早</span> : 「……っ！」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「なんてツラしてンだよ。他の連中、そろそろみんな帰っちまうぞ」
+<span class="name">高槻東吾</span> : 「おい、チビ」
+<span class="name">世津茅早</span> : 「……っ！」
+<span class="name">高槻東吾</span> : 「なんてツラしてンだよ。他の連中、そろそろみんな帰っちまうぞ」
 また……高槻東吾。
-<span class="chapter-reading_char-name">世津茅早</span> : 「あなたも、帰ったらいい」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「オマエ、どうせ暇だろ」
+<span class="name">世津茅早</span> : 「あなたも、帰ったらいい」
+<span class="name">高槻東吾</span> : 「オマエ、どうせ暇だろ」
 --choice 暇だけど
-<span class="chapter-reading_char-name">世津茅早</span> : 「暇だけど、だからなに」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「ちょっと付き合え」
-<span class="chapter-reading_char-name">世津茅早</span> : 「どこへ」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「いちいちつっかかンなよ、可愛くねえな」
-<span class="chapter-reading_char-name">世津茅早</span> : 「あなたこそいちいち近寄らないで。不自然だから」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「見張られてるってんなら、連中ン中で俺が一番見張られてンだろ。いまさらだ」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「そんなしょっちゅうビクビクしてられっかよ。肩凝ってたまんねえ」
-<span class="chapter-reading_char-name">世津茅早</span> : 「あなたがよくても、わたしが困る」
+<span class="name">世津茅早</span> : 「暇だけど、だからなに」
+<span class="name">高槻東吾</span> : 「ちょっと付き合え」
+<span class="name">世津茅早</span> : 「どこへ」
+<span class="name">高槻東吾</span> : 「いちいちつっかかンなよ、可愛くねえな」
+<span class="name">世津茅早</span> : 「あなたこそいちいち近寄らないで。不自然だから」
+<span class="name">高槻東吾</span> : 「見張られてるってんなら、連中ン中で俺が一番見張られてンだろ。いまさらだ」
+<span class="name">高槻東吾</span> : 「そんなしょっちゅうビクビクしてられっかよ。肩凝ってたまんねえ」
+<span class="name">世津茅早</span> : 「あなたがよくても、わたしが困る」
 もし昨日の先生みたいにあなたが連れて行かれたら、わたし、どうしたらいいの。
 あなたの友だちに、いったいなんて言えばいいの。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「じゃあ勝手に困れ」
-<span class="chapter-reading_char-name">世津茅早</span> : 「っ！　さわらないで」
+<span class="name">高槻東吾</span> : 「じゃあ勝手に困れ」
+<span class="name">世津茅早</span> : 「っ！　さわらないで」
 --choiceEnd
 --choice 暇じゃない
-<span class="chapter-reading_char-name">世津茅早</span> : 「暇じゃないから」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「フォルムにパシリでもすンのか？　なんのためだ」
+<span class="name">世津茅早</span> : 「暇じゃないから」
+<span class="name">高槻東吾</span> : 「フォルムにパシリでもすンのか？　なんのためだ」
 別に、そんな予定はなかったけど。そう思われて当然な気がしたから、否定するのをやめた。
-<span class="chapter-reading_char-name">世津茅早</span> : 「あなたに関係ない。あなたはまっすぐ寮に帰ったらいい」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「行くなよ」
+<span class="name">世津茅早</span> : 「あなたに関係ない。あなたはまっすぐ寮に帰ったらいい」
+<span class="name">高槻東吾</span> : 「行くなよ」
 急に目の中、覗きこまれて──思わず怖じけた。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「行かねえでいいから、俺と来い」
-<span class="chapter-reading_char-name">世津茅早</span> : 「っ！　さわらないで」
+<span class="name">高槻東吾</span> : 「行かねえでいいから、俺と来い」
+<span class="name">世津茅早</span> : 「っ！　さわらないで」
 --choiceEnd
 いきなり手を取られて、ビックリして。引っ込めようとしたけど、間に合わなかった。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「なんでだよ」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「大勢ひとがいてガヤガヤしてりゃ、見張ってたって何してるかまでわからねぇだろ。いいから来い」
-<span class="chapter-reading_char-name">世津茅早</span> : 「！　ちょっと」
+<span class="name">高槻東吾</span> : 「なんでだよ」
+<span class="name">高槻東吾</span> : 「大勢ひとがいてガヤガヤしてりゃ、見張ってたって何してるかまでわからねぇだろ。いいから来い」
+<span class="name">世津茅早</span> : 「！　ちょっと」
 乱暴にぐいっと引っ張られて、転げそうになりながら立ち上がった。
 強くて、ビックリして、それ以上どうにもならなかった。

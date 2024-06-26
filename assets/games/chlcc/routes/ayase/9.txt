@@ -15,7 +15,7 @@
 “そもそもＦＥＳの詞はかなりダークな世界観だから、アニメと合わないだろ”
 そんな一部のアンチ意見が、ネット上では今もよく書き込まれている。
 だけど、全体で見れば、おおむね好意的に受け取られているらしい。
-ましてや、かつて日本中を恐怖のどん底に突き落とした『<span class="chapter-reading_dict">ニュージェネ事件</span>』の最中、予言者とまで噂されたバンドであり、なおかつボーカルが美少女となれば――
+ましてや、かつて日本中を恐怖のどん底に突き落とした『<span class="dict">ニュージェネ事件</span>』の最中、予言者とまで噂されたバンドであり、なおかつボーカルが美少女となれば――
 マスコミや、サブカル好きのマニアたちの注目度が高くなるのも当然と言えた。
 もはや、ＦＥＳ――あやせは、僕の手の届かない場所へ、上り詰めようとしている。
 学校での授業を終えて、帰路についた。
@@ -23,25 +23,25 @@
 ＫＵＲＥＮＡＩビルは倒壊してしまったから、別のアパートを借りた。
 結局、実家には戻らなかった。
 それは、家族云々の問題というよりも、むしろ――
-<span class="chapter-reading_char-name">あやせ</span>:「おかえりなさい」
-<span class="chapter-reading_char-name">拓巳</span>:「ただいま」
+<span class="name">あやせ</span>:「おかえりなさい」
+<span class="name">拓巳</span>:「ただいま」
 あやせと、こうして一緒に暮らすことにしたから。
 いわゆるひとつの、同棲ってやつ？
-ふひひ、すごくね？　この歳で同棲とか、<span class="chapter-reading_dict">リア充</span>にもほどがあるよね。
-<span class="chapter-reading_char-name">拓巳</span>:「って、あやせ、キッチンに星来フィギュアを置くなって、何度言ったらわかるんだよぅ！」
-<span class="chapter-reading_char-name">あやせ</span>:「拓巳が早く帰ってきてくれなくて、寂しかったのよ」
+ふひひ、すごくね？　この歳で同棲とか、<span class="dict">リア充</span>にもほどがあるよね。
+<span class="name">拓巳</span>:「って、あやせ、キッチンに星来フィギュアを置くなって、何度言ったらわかるんだよぅ！」
+<span class="name">あやせ</span>:「拓巳が早く帰ってきてくれなくて、寂しかったのよ」
 それは、淡々と言うべきセリフじゃないわけだが。
 あやせはＦＥＳとしてメジャーデビューを果たし、今や日本中が注目する新進気鋭のアーティスト。
 そして、僕のカノジョ。
-<span class="chapter-reading_char-name">拓巳</span>:「で、なにを作ってるんだ？」
-<span class="chapter-reading_char-name">あやせ</span>:「今日の夕食は、チョコレートグラタンよ」
-<span class="chapter-reading_char-name">拓巳</span>:「なん……だと……？」
+<span class="name">拓巳</span>:「で、なにを作ってるんだ？」
+<span class="name">あやせ</span>:「今日の夕食は、チョコレートグラタンよ」
+<span class="name">拓巳</span>:「なん……だと……？」
 毎日、こうしてチョコレートを使った創作料理（？）を食べさせられるのは、玉に瑕だけど。
 僕らはこうして日々、想い出を紡いでいく。
 楽しくて、穏やかで、優しい想い出を。
-<span class="chapter-reading_char-name">拓巳</span>:「ね、ねえ、なんかちょっと、焦げ臭くない？」
-<span class="chapter-reading_char-name">あやせ</span>:「そんなはずはないわ」
-<span class="chapter-reading_char-name">拓巳</span>:「いや、煙出てるって！」
-<span class="chapter-reading_char-name">あやせ</span>:「……邪心の妄想に惑わされてはいけないわ、拓巳」
-<span class="chapter-reading_char-name">拓巳</span>:「あやせこそ、現実を認めてくれー！」
+<span class="name">拓巳</span>:「ね、ねえ、なんかちょっと、焦げ臭くない？」
+<span class="name">あやせ</span>:「そんなはずはないわ」
+<span class="name">拓巳</span>:「いや、煙出てるって！」
+<span class="name">あやせ</span>:「……邪心の妄想に惑わされてはいけないわ、拓巳」
+<span class="name">拓巳</span>:「あやせこそ、現実を認めてくれー！」
 穏やか……なのかは、ちょっと自信がないけど。

@@ -10,9 +10,9 @@
 携帯……携帯をどこへ置いたっけ。
 ……着信、なし。電話もメールもなし。
 ……………………。
-<span class="chapter-reading_char-name">留守番電話</span> : 「留守番電話サービスに接続します」
-<span class="chapter-reading_char-name">留守番電話</span> : 「メッセージを３０秒以内で、どうぞ」
-<span class="chapter-reading_char-name">倭一花</span> : 「何度もごめんなさい、倭です。これを聴いたら連絡してね。待ってます」
+<span class="name">留守番電話</span> : 「留守番電話サービスに接続します」
+<span class="name">留守番電話</span> : 「メッセージを３０秒以内で、どうぞ」
+<span class="name">倭一花</span> : 「何度もごめんなさい、倭です。これを聴いたら連絡してね。待ってます」
 暇だな……。
 ほかにやること、ないし。
 ……なんだか、すごく眠たい。

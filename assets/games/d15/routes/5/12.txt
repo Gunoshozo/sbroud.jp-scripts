@@ -11,5 +11,5 @@
 &lt;li&gt;その他、フォルム担当者の命令に従うこと&lt;/li&gt;
 &lt;li&gt;……逆らわない、こと&lt;/li&gt;&lt;/command&gt;&lt;
 わたしは、義務と引き替えにものを与えられた。日本にいる家族にも。だから、間違っていないはず。
-<span class="chapter-reading_char-name">世津茅早</span> : 「まちがってない」
+<span class="name">世津茅早</span> : 「まちがってない」
 なのに、どうしてこんなに、息が詰まるんだろう。

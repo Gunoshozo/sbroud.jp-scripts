@@ -6,37 +6,37 @@
 一方、僕は梨深たちと合流した。
 今日のライブの意図については、梨深を通して事前に伝えてある……んだけど、セナやこずぴぃ、七海あたりが、やたらと不機嫌そうな態度で僕を取り囲んできた。
 三次元女子５人に同時に囲まれるなんて、まさにハーレム状態だけど、空気が殺伐としすぎて台無しだ！　台無しだＹＯ！
-<span class="chapter-reading_char-name">梢</span>:「うぷー。こずぴぃも、あやしゃんのお歌、聴きたいのーにー」
-<span class="chapter-reading_char-name">優愛</span>:「西條くん以外は中に入ってはいけないと、岸本さんが言ったそうですが、どうしてなんでしょうね……」
-<span class="chapter-reading_char-name">七海</span>:「ナナたちは入れてもらえないなんて、おにぃのバカ！」
-<span class="chapter-reading_char-name">セナ</span>:「気に入らないが、理解はした」
-<span class="chapter-reading_char-name">セナ</span>:「岸本は、下手に私たちの妄想がシンクロして、計画を台無しにされたくないんだろう」
-セナも大概、<span class="chapter-reading_dict">中二病</span>だよな。
+<span class="name">梢</span>:「うぷー。こずぴぃも、あやしゃんのお歌、聴きたいのーにー」
+<span class="name">優愛</span>:「西條くん以外は中に入ってはいけないと、岸本さんが言ったそうですが、どうしてなんでしょうね……」
+<span class="name">七海</span>:「ナナたちは入れてもらえないなんて、おにぃのバカ！」
+<span class="name">セナ</span>:「気に入らないが、理解はした」
+<span class="name">セナ</span>:「岸本は、下手に私たちの妄想がシンクロして、計画を台無しにされたくないんだろう」
+セナも大概、<span class="dict">中二病</span>だよな。
 僕、おとこのこだけど、“計画”だとかってサラッと口に出して言えちゃうおんなのひとって……。
-<span class="chapter-reading_char-name">セナ</span>:「だが、もし狙い通りに行かず、逃げられそうになったら――」
-<span class="chapter-reading_char-name">拓巳</span>:「斬っちゃダメだ」
-<span class="chapter-reading_char-name">セナ</span>:「いいや。斬る」
+<span class="name">セナ</span>:「だが、もし狙い通りに行かず、逃げられそうになったら――」
+<span class="name">拓巳</span>:「斬っちゃダメだ」
+<span class="name">セナ</span>:「いいや。斬る」
 ホント、セナはチャンバラごっこがしたいだけちゃうんかと。
-そもそも<span class="chapter-reading_dict">ディソード</span>は本来、斬ったり突いたりするものじゃないだろ。
-<span class="chapter-reading_char-name">梨深</span>:「もし斬ろうとしたら、蒼井さんも恥ずかしい目に遭うと思うな。たはは」
-<span class="chapter-reading_char-name">セナ</span>:「例の“見えない攻撃”か……」
-<span class="chapter-reading_char-name">セナ</span>:「くっ、星来。女の敵め」
-<span class="chapter-reading_char-name">梨深</span>:「星来ちゃんも女の子だよ」
+そもそも<span class="dict">ディソード</span>は本来、斬ったり突いたりするものじゃないだろ。
+<span class="name">梨深</span>:「もし斬ろうとしたら、蒼井さんも恥ずかしい目に遭うと思うな。たはは」
+<span class="name">セナ</span>:「例の“見えない攻撃”か……」
+<span class="name">セナ</span>:「くっ、星来。女の敵め」
+<span class="name">梨深</span>:「星来ちゃんも女の子だよ」
 “見えない攻撃は僕の妄想の産物かも”という可能性については、セナには黙っておいた方がよさそうだ。
-<span class="chapter-reading_char-name">拓巳</span>:「星来を否定したら、いけないんだ」
-<span class="chapter-reading_char-name">拓巳</span>:「僕は、星来を受け入れる」
-<span class="chapter-reading_char-name">拓巳</span>:「<span class="chapter-reading_dict">リア充</span>は目指さない。僕はオタで、オタなりの生き方がある」
-<span class="chapter-reading_char-name">拓巳</span>:「それがこの世界から抜け出す方法だって、あやせに教えてもらった」
+<span class="name">拓巳</span>:「星来を否定したら、いけないんだ」
+<span class="name">拓巳</span>:「僕は、星来を受け入れる」
+<span class="name">拓巳</span>:「<span class="dict">リア充</span>は目指さない。僕はオタで、オタなりの生き方がある」
+<span class="name">拓巳</span>:「それがこの世界から抜け出す方法だって、あやせに教えてもらった」
 セナは、戸惑いの表情を浮かべている。
-<span class="chapter-reading_char-name">拓巳</span>:「僕と、あやせを、信じてほしい……」
-<span class="chapter-reading_char-name">梨深</span>:「あたしは信じるよ」
-<span class="chapter-reading_char-name">梨深</span>:「今は、タクと岸本さんに賭けたい」
-<span class="chapter-reading_char-name">セナ</span>:「元より、そのつもりだ」
-<span class="chapter-reading_char-name">セナ</span>:「星来を斬らなければいいんだろう。こらえるさ」
-<span class="chapter-reading_char-name">優愛</span>:「西條くん、そろそろ始まる時間じゃないですか？」
+<span class="name">拓巳</span>:「僕と、あやせを、信じてほしい……」
+<span class="name">梨深</span>:「あたしは信じるよ」
+<span class="name">梨深</span>:「今は、タクと岸本さんに賭けたい」
+<span class="name">セナ</span>:「元より、そのつもりだ」
+<span class="name">セナ</span>:「星来を斬らなければいいんだろう。こらえるさ」
+<span class="name">優愛</span>:「西條くん、そろそろ始まる時間じゃないですか？」
 すでに周囲に客の姿はなかった。
 時計を見ると、開演時間を１分ほど過ぎている。
-<span class="chapter-reading_char-name">梨深</span>:「タク。岸本さんと星来ちゃんのこと、よろしくね」
+<span class="name">梨深</span>:「タク。岸本さんと星来ちゃんのこと、よろしくね」
 梨深の言葉に、僕は力強くうなずいた。
 ホール内に足を踏み入れる。
 人いきれのせいで、ムッとするような熱気に包まれる。
@@ -45,8 +45,8 @@
 それなのに、誰もがじっと目を閉じ、ステージが始まるのを厳かに待っている。
 女性客の中には、まるで祈りを捧げるかのように両手を組み合わせている人までいた。
 ――儀式だ。
-あやせは、ライブのことを<span class="chapter-reading_dict">黒ミサ</span>だとか儀式だと呼んでいた。
-これがファンタズムの世界であり、<span class="chapter-reading_dict">儲</span>もそれをわきまえているんだ。
+あやせは、ライブのことを<span class="dict">黒ミサ</span>だとか儀式だと呼んでいた。
+これがファンタズムの世界であり、<span class="dict">儲</span>もそれをわきまえているんだ。
 それだけ、ファンタズムとＦＥＳは、愛されているということ。
 いや、愛と言うよりもむしろ――
 “崇拝”
@@ -64,12 +64,12 @@
 以前、あやせが学校の屋上から飛び降りて入院したとき、ファンタズムは解散すると言っていた。
 つい数日前まで、歌うことに“意味がなくなった”と考えていたほどだし。
 でも今、ファンタズムはここに復活する。
-<span class="chapter-reading_dict">ニュージェネ事件</span>を予言していると騒がれ、渋谷の若者たちを虜にしたあのゴシックパンクバンドが、戻ってくるんだ。
+<span class="dict">ニュージェネ事件</span>を予言していると騒がれ、渋谷の若者たちを虜にしたあのゴシックパンクバンドが、戻ってくるんだ。
 この世界が現実か心象世界かは関係ない。
 自分でも驚くほど、高揚していた。
 テンション上がってきた。
 だから、苦手な人混みも耐えられているのかもしれない。
-ふひひ<span class="chapter-reading_dict">ｗ</span>やっべ<span class="chapter-reading_dict">ｗ</span>自分の中の<span class="chapter-reading_dict">中二病</span>成分が一気に増幅されて爆裂しちゃった感じだよ<span class="chapter-reading_dict">ｗｗｗ</span>
+ふひひ<span class="dict">ｗ</span>やっべ<span class="dict">ｗ</span>自分の中の<span class="dict">中二病</span>成分が一気に増幅されて爆裂しちゃった感じだよ<span class="dict">ｗｗｗ</span>
 こんなことになったのも、まわりの連中が悪いんだからな。
 みんなサクラと思われてもしょうがない。
 とにかく僕はこの雰囲気に呑まれてしまっている。
@@ -84,7 +84,7 @@
 荘厳な雰囲気の中――
 あやせの歌声が、こだました。
 ステージ上の照明がたかれて、ＦＥＳが顕現する。
-手には<span class="chapter-reading_dict">ディソード</span>。漆黒の衣装に身を包んで。
+手には<span class="dict">ディソード</span>。漆黒の衣装に身を包んで。
 歌う。
 歌っている。
 それを見ただけで、全身に鳥肌が立った。
@@ -102,22 +102,22 @@
 切なささえ感じさせる彼女の歌声が、僕の心を揺さぶってくる。
 ＦＥＳとして構成される岸本あやせのすべてが、愛おしい。
 あやせは、歌っていてこそ、美しい。
-<span class="chapter-reading_dict">中二病</span>だろうがなんだろうが、知ったことじゃない。
+<span class="dict">中二病</span>だろうがなんだろうが、知ったことじゃない。
 ファンタズムだからどうとかも、関係ない。
 ＦＥＳであり、岸本あやせであるからこそ、僕はここまで、惹かれているんだ。
-<span class="chapter-reading_char-name">あやせ</span>:「拓巳――」
+<span class="name">あやせ</span>:「拓巳――」
 突然、あやせの声が頭の中に響いた。
 今、あやせは歌っているはずなのに。
 まるで、心に直接、語りかけられているような……。
 そうか、これは、以前のこずぴぃと同じだ。
-<span class="chapter-reading_dict">ギガロマニアックス</span>の力。あやせは心の声を、僕に投げかけてきている。
+<span class="dict">ギガロマニアックス</span>の力。あやせは心の声を、僕に投げかけてきている。
 あやせと目が合った。
 あやせは、ステージの上から濡れた瞳で僕を見つめている。
 その手を、僕に差し伸べるような仕草をする。
 ステージの上と、下。
 歌う側と、聴く側。
 でも今、僕とあやせ――ＦＥＳの心は、確かに繋がっているんだ。
-<span class="chapter-reading_char-name">あやせ</span>:「私を見てくれている？」
+<span class="name">あやせ</span>:「私を見てくれている？」
 ああ、見てるよ。
 僕も、やっと気付いた。
 今なら、はっきりと言えるよ。
@@ -125,21 +125,21 @@
 ＦＥＳと岸本あやせが同時に存在している君が、好きだ。
 君はＦＥＳだけでもなく、岸本あやせだけでもない。
 その両方なんだ。
-<span class="chapter-reading_char-name">あやせ</span>:「ありがとう」
-<span class="chapter-reading_char-name">あやせ</span>:「拓巳のおかげで、また歌うことができたわ」
-<span class="chapter-reading_char-name">あやせ</span>:「拓巳に見てもらえること、聴いてもらえることが、私にとって一番の喜びなのよ」
+<span class="name">あやせ</span>:「ありがとう」
+<span class="name">あやせ</span>:「拓巳のおかげで、また歌うことができたわ」
+<span class="name">あやせ</span>:「拓巳に見てもらえること、聴いてもらえることが、私にとって一番の喜びなのよ」
 ずっと、君の歌声を聴いていたい。
 この身を任せてしまいたい。
 とても心地いいんだ。
 君の歌声を聴いているだけで、涙が出てくるくらいに。
-<span class="chapter-reading_char-name">あやせ</span>:「大好きよ、拓巳」
-<span class="chapter-reading_char-name">あやせ</span>:「これからも、私は歌っていく」
-<span class="chapter-reading_char-name">あやせ</span>:「だけどこの<span class="chapter-reading_dict">黒ミサ</span>は、私の復活であると同時に、拓巳のため、そして、星来のためのステージでもあるのよ」
-<span class="chapter-reading_char-name">あやせ</span>:「さあ、拓巳」
-<span class="chapter-reading_char-name">あやせ</span>:「始めましょう。召喚の儀式を」
+<span class="name">あやせ</span>:「大好きよ、拓巳」
+<span class="name">あやせ</span>:「これからも、私は歌っていく」
+<span class="name">あやせ</span>:「だけどこの<span class="dict">黒ミサ</span>は、私の復活であると同時に、拓巳のため、そして、星来のためのステージでもあるのよ」
+<span class="name">あやせ</span>:「さあ、拓巳」
+<span class="name">あやせ</span>:「始めましょう。召喚の儀式を」
 僕は力強くうなずいた。
 骨にまで響いてくるドラムのリズムが、まるで僕を奮い立たせてくれるようだ。
-熱狂するファンタズムの<span class="chapter-reading_dict">儲</span>たちに囲まれて。
+熱狂するファンタズムの<span class="dict">儲</span>たちに囲まれて。
 僕はその場で目を閉じた。
 そうすると、あやせの歌声がよりはっきりと僕の脳に浸透してくる。
 その旋律を頭に刻み付けながら、星来のことを妄想した。
@@ -152,7 +152,7 @@
 あやせが、ＦＥＳという存在を切り離せなかったように。
 僕は、星来を否定しない。
 これからも、星来に欲情する。ハァハァする。フィギュアを買い続ける。
-なにが<span class="chapter-reading_dict">リア充</span>だ。なにが<span class="chapter-reading_dict">脱オタ</span>だ。
+なにが<span class="dict">リア充</span>だ。なにが<span class="dict">脱オタ</span>だ。
 そんなの、僕の本質じゃとうてい無理な話だった。
 僕はどこまで行ってもオタで。
 そんな僕が初めて好きになったキャラが、星来だった。
@@ -164,7 +164,7 @@
 出てきてくれ。
 僕を、受け入れてくれ。
 星来――！
-<span class="chapter-reading_char-name">拓巳</span>:「星来ぁーっ！」
+<span class="name">拓巳</span>:「星来ぁーっ！」
 ざわ、と周囲にどよめきが起こった。
 明らかにホールの空気が変わった。
 僕が叫んだことに、じゃない。
@@ -172,7 +172,7 @@
 超常的な現象が起きたときの、畏怖にも似た戦慄。
 絶句し、息を呑む気配があちこちでしている。
 僕は確信して、ゆっくりと目を開けた。
-<span class="chapter-reading_char-name">拓巳</span>:「あ……！」
+<span class="name">拓巳</span>:「あ……！」
 そこに星来がいた。
 ステージ上で歌うあやせの正面に、舞い降りるかのようにして。
 あやせが伸ばした手と、星来が伸ばした手。
@@ -204,44 +204,44 @@
 行こう。
 僕の大好きなふたりの女神のところへ。
 ＦＥＳに引き上げられて、ステージに上がった。
-<span class="chapter-reading_char-name">あやせ</span>:「拓巳、キミの邪心は、とても清く、澄み切っているわね」
+<span class="name">あやせ</span>:「拓巳、キミの邪心は、とても清く、澄み切っているわね」
 あえてしつこく言わせてもらえば、日本語でＯＫ。
-<span class="chapter-reading_char-name">星来</span>:「タッキー、あたしのこと呼んでくれて、ありがとね♪」
+<span class="name">星来</span>:「タッキー、あたしのこと呼んでくれて、ありがとね♪」
 星来の声。すごく久しぶりに聞けた気がする。
-<span class="chapter-reading_char-name">星来</span>:「やっと、タッキーのところに戻って来られたよ」
-<span class="chapter-reading_char-name">拓巳</span>:「ごめん、星来。僕が、間違ってた」
-<span class="chapter-reading_char-name">拓巳</span>:「もう<span class="chapter-reading_dict">脱オタ</span>をしようと思ったりしないよ」
-<span class="chapter-reading_char-name">星来</span>:「うん♪」
-<span class="chapter-reading_char-name">あやせ</span>:「さあ、拓巳。祝福のキスを受けて」
-<span class="chapter-reading_char-name">拓巳</span>:「祝福のキス？」
-<span class="chapter-reading_char-name">あやせ</span>:「星来の口づけで、拓巳はこの世界から抜け出せるのよ」
-<span class="chapter-reading_char-name">拓巳</span>:「そうなの！？」
+<span class="name">星来</span>:「やっと、タッキーのところに戻って来られたよ」
+<span class="name">拓巳</span>:「ごめん、星来。僕が、間違ってた」
+<span class="name">拓巳</span>:「もう<span class="dict">脱オタ</span>をしようと思ったりしないよ」
+<span class="name">星来</span>:「うん♪」
+<span class="name">あやせ</span>:「さあ、拓巳。祝福のキスを受けて」
+<span class="name">拓巳</span>:「祝福のキス？」
+<span class="name">あやせ</span>:「星来の口づけで、拓巳はこの世界から抜け出せるのよ」
+<span class="name">拓巳</span>:「そうなの！？」
 星来がニコニコしながらうなずいた。
 それが“枷”を真に解放する条件だったのか。
 なんというデタラメな条件だよ。
-ふひひ、さすが僕。<span class="chapter-reading_dict"><ruby>ＧＪ<rt>グッジョブ</rt></ruby></span>。
-<span class="chapter-reading_dict">脱オタ</span>はやめたけど、<span class="chapter-reading_dict">リア充</span>になるのはあきらめないぜ！
-というか既に僕は<span class="chapter-reading_dict">リア充</span>だったぜ！
+ふひひ、さすが僕。<span class="dict"><ruby>ＧＪ<rt>グッジョブ</rt></ruby></span>。
+<span class="dict">脱オタ</span>はやめたけど、<span class="dict">リア充</span>になるのはあきらめないぜ！
+というか既に僕は<span class="dict">リア充</span>だったぜ！
 なにしろあやせとチュッチュできる仲の上に、星来を交えての３人での妄想プレイだって可能なんだからな！　まさに勝ち組！
 左右から、星来とあやせが腕を組んできた。
 と言うか、密着してきた。
 星来の柔らかい胸の弾力は、紛れもなく実体があるように感じる。
 歌い終わった直後のせいか、あやせの方は息が弾み、胸が上下している。
 なんという両手に華状態。
-ステージ下では、ファンタズム<span class="chapter-reading_dict">儲</span>たちが拳を突き上げて、なお熱狂していた。
+ステージ下では、ファンタズム<span class="dict">儲</span>たちが拳を突き上げて、なお熱狂していた。
 背後で、ファンタズムのメンバーたちがギターをかき鳴らし、ドラムがめちゃくちゃに叩かれる。
-<span class="chapter-reading_char-name">あやせ</span>:「これで<span class="chapter-reading_dict">黒ミサ</span>は完成するわ」
-<span class="chapter-reading_char-name">あやせ</span>:「魂のレベルは上昇し、上位階層へと移行するのよ」
-<span class="chapter-reading_char-name">あやせ</span>:「幻惑に囚われた英雄の物語は、ここで完結」
-<span class="chapter-reading_char-name">あやせ</span>:「けれど、英雄譚は続いていく」
-<span class="chapter-reading_char-name">あやせ</span>:「私も、拓巳と一緒にその詩編を紡いでいきたい」
-<span class="chapter-reading_char-name">拓巳</span>:「あやせの歌があれば、僕は、頑張れると思う……」
-<span class="chapter-reading_char-name">あやせ</span>:「……嬉しい」
+<span class="name">あやせ</span>:「これで<span class="dict">黒ミサ</span>は完成するわ」
+<span class="name">あやせ</span>:「魂のレベルは上昇し、上位階層へと移行するのよ」
+<span class="name">あやせ</span>:「幻惑に囚われた英雄の物語は、ここで完結」
+<span class="name">あやせ</span>:「けれど、英雄譚は続いていく」
+<span class="name">あやせ</span>:「私も、拓巳と一緒にその詩編を紡いでいきたい」
+<span class="name">拓巳</span>:「あやせの歌があれば、僕は、頑張れると思う……」
+<span class="name">あやせ</span>:「……嬉しい」
 さて。それじゃあそろそろ、儀式を終わりにしよう。
 僕はキスを受け入れるべく、身構えた。
-<span class="chapter-reading_char-name">拓巳</span>:「来い！」
-<span class="chapter-reading_char-name">星来</span>:「タッキー、大好きだよ、ぼけなす☆」
-<span class="chapter-reading_char-name">あやせ</span>:「拓巳に、大いなる意志の導きを」
+<span class="name">拓巳</span>:「来い！」
+<span class="name">星来</span>:「タッキー、大好きだよ、ぼけなす☆」
+<span class="name">あやせ</span>:「拓巳に、大いなる意志の導きを」
 ふたりの唇の、温かで柔らかな感触を、頬に感じ。
 直後に、音が消え。
 光が消え。

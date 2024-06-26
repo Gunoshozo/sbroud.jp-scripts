@@ -2,20 +2,20 @@
 ……家。そう、わたしにとって、初めての家。そして部屋。
 たとえかりそめであっても。
 柔らかに沈んでいく、ちっぽけなカラダ。うずくまるだけの、役に立たないカラダ。
-<span class="chapter-reading_char-name">世津茅早</span> : 「わたし、なにをしているの」
+<span class="name">世津茅早</span> : 「わたし、なにをしているの」
 寝なければ。
 疲れている、だから、寝なければ。
 寝なければダメ。疲れた頭とお腹の空いた体では、ろくなことができない。
-<span class="chapter-reading_char-name">世津茅早</span> : 「でも、……だって」
+<span class="name">世津茅早</span> : 「でも、……だって」
 無理、わたしにはなにもできっこない、仕方ない、どうしようもない──
-<span class="chapter-reading_char-name">世津茅早</span> : 「ほんとうに、そうなの」
+<span class="name">世津茅早</span> : 「ほんとうに、そうなの」
 無理、なにもできっこない、仕方ない、どうしようもない──
-<span class="chapter-reading_char-name">世津茅早</span> : 「なにが無理なの」
-<span class="chapter-reading_char-name">世津茅早</span> : 「なにがどうしようもないの……？」
-<span class="chapter-reading_char-name">世津茅早</span> : 「ほんとうにできることは、ひとつもないの？」
-<span class="chapter-reading_char-name">世津茅早</span> : 「どんなことなら、できるの」
+<span class="name">世津茅早</span> : 「なにが無理なの」
+<span class="name">世津茅早</span> : 「なにがどうしようもないの……？」
+<span class="name">世津茅早</span> : 「ほんとうにできることは、ひとつもないの？」
+<span class="name">世津茅早</span> : 「どんなことなら、できるの」
 &lt;command&gt;&lt;&lt;li&gt;逆らわないこと&lt;/li&gt;&lt;/command&gt;&lt;
-<span class="chapter-reading_char-name">世津茅早</span> : 「わたし、考えたことない」
+<span class="name">世津茅早</span> : 「わたし、考えたことない」
 一度も、ない。
 オマエを待ってた──そう言ってくれた、高槻東吾。
 おかえりなさい──笑顔で迎えてくれた、香藤瑞希。

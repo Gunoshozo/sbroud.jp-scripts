@@ -23,24 +23,24 @@
 ここでの明日はわたしの過去に、なった。
 なにも、変わらない。
 終わらない、一度きりの旅。永遠と引き替えの自由。
-<span class="chapter-reading_char-name">警備員Ａ</span> : 「こっちだ、さっさと来い」
+<span class="name">警備員Ａ</span> : 「こっちだ、さっさと来い」
 頷く、わたし。それが正しい。
 世界は完成され、完結し、正しく、何度も、繰り返される。
-<span class="chapter-reading_char-name">警備員Ｂ</span> : 「──貴様、何者だ！」
-<span class="chapter-reading_char-name">世津茅早</span> : 「……………………」
+<span class="name">警備員Ｂ</span> : 「──貴様、何者だ！」
+<span class="name">世津茅早</span> : 「……………………」
 目が、合う。でも言葉をかわしはしない。
 それが、ルール。
-<span class="chapter-reading_char-name">警備員Ａ</span> : 「なにをしてる、捕らえろ！」
-<span class="chapter-reading_char-name">警備員Ｂ</span> : 「貴様、なぜ逃がした！?」
-<span class="chapter-reading_char-name">世津茅早</span> : 「捕まえろって命令、されてないから」
-<span class="chapter-reading_char-name">警備員Ｂ</span> : 「チッ……！」
-<span class="chapter-reading_char-name">警備員Ｂ</span> : 「──こちらヘリポート、日本からの輸送完了。ただし、島内に不審者侵入の可能性あり。捜索を要求する」
-<span class="chapter-reading_char-name">警備員Ｂ</span> : 「繰り返す、島内に不審者侵入の可能性あり」
+<span class="name">警備員Ａ</span> : 「なにをしてる、捕らえろ！」
+<span class="name">警備員Ｂ</span> : 「貴様、なぜ逃がした！?」
+<span class="name">世津茅早</span> : 「捕まえろって命令、されてないから」
+<span class="name">警備員Ｂ</span> : 「チッ……！」
+<span class="name">警備員Ｂ</span> : 「──こちらヘリポート、日本からの輸送完了。ただし、島内に不審者侵入の可能性あり。捜索を要求する」
+<span class="name">警備員Ｂ</span> : 「繰り返す、島内に不審者侵入の可能性あり」
 &lt;li&gt;逆らわないこと&lt;/li&gt;\k
 &lt;li&gt;逆らわないこと&lt;/li&gt;\k
 &lt;li&gt;逆らわないこと&lt;/li&gt;
 &lt;li&gt;いつもと一緒、いつだって一緒&lt;/li&gt;
-<span class="chapter-reading_char-name">世津茅早</span> : 「じゃあまた、あんなことになる……」
+<span class="name">世津茅早</span> : 「じゃあまた、あんなことになる……」
 でも、わたしは命令に従っただけ。
 そのために来たから、そうしただけ。
 ただ、それだけ。
