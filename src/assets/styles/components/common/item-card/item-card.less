@@ -45,12 +45,16 @@
     }
 }
 
-chapter-navigation, .games{
-    .items-list_container {
-        //optimization for CLS, hardcoded proportions since images for chapter nav are 2:1
-        .item-card-image {
-            min-width: calc((var(--container-width) - 2rem) * 0.5);
-            min-height: calc((var(--container-width) - 2rem) * 0.25);
+chapter-navigation,
+.games {
+    .items-list_container .item-card-image {
+        //optimization for CLS, hardcoded proportions since images are 2:1
+        min-width: calc((var(--container-width) - 2rem) * 0.5);
+        min-height: calc((var(--container-width) - 2rem) * 0.25);
+
+        @media screen and (max-width: 720px) {
+            min-width: calc(var(--container-width));
+            min-height: calc(var(--container-width) * 0.5);
         }
     }
-} 
+}

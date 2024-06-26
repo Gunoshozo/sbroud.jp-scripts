@@ -1,7 +1,7 @@
 目が、覚めた。
-<span class="chapter-reading_char-name">世津茅早</span> : 「……まだ、夜」
+<span class="name">世津茅早</span> : 「……まだ、夜」
 もうこれで二度目。<ruby>輾転<rt>てんてん</rt></ruby>としては目が覚める。なんだか胸に石でもつまってるみたいで、背中までしんみり痛い。
-<span class="chapter-reading_char-name">世津茅早</span> : 「月、出てる……」
+<span class="name">世津茅早</span> : 「月、出てる……」
 窓から半分顔を覗かせて、冴え冴えとしている。
 無理に眠ろうとして失敗するぐらいなら、と。着替えた。
 寮の外を巡回する警備の目を盗んで、外へ出た。
@@ -23,9 +23,9 @@
 &lt;embed src=&quot;ocean&quot; /&gt;海も、全部いつもどおり。
 なのに──&lt;refrain&gt;
 『笑えば案外かわいいぞ』&lt;/refrain&gt;
-<span class="chapter-reading_char-name">世津茅早</span> : 「わたしだけ、……いつもと違う。あのひとのせい」
+<span class="name">世津茅早</span> : 「わたしだけ、……いつもと違う。あのひとのせい」
 ほかにもっと、考えなきゃいけないことがあるはずなのに。
 &lt;bgsound src=&quot;waltz&quot;　volume=&quot;-10000&quot; /&gt;遠のいて、
 ほかには&lt;bgsound src=&quot;Tohgo_voice&quot;　volume=&quot;0&quot; /&gt;なんにも、聞こえなくなる。
 聞こえなくなって、見えなくなる。
-<span class="chapter-reading_char-name">世津茅早</span> : 「……あのひとのせいで」
+<span class="name">世津茅早</span> : 「……あのひとのせいで」

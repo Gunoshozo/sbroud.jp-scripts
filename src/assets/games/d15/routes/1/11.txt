@@ -4,64 +4,64 @@
 人影が見当たらないというだけなのに、いつもと様相が違いすぎて、まるで知らない場所に迷い込んだようなおかしな気分にさせられる。
 がらんとしたキャンパスは、やけに広い。
 自分が当たり前だと思っているものなんて案外狭い範囲のことなのだ、と思い知らされる。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「さっさと確認して、帰るぞ」
+<span class="name">高槻東吾</span> : 「さっさと確認して、帰るぞ」
 わざと声に出してみたが、いっこうに落ち着かない。俺は自然と足を速めて校舎へ向かう。──と、
-<span class="chapter-reading_char-name">高槻東吾</span> : 「うわ……っ！　ンだよ、脅かすなよ」
+<span class="name">高槻東吾</span> : 「うわ……っ！　ンだよ、脅かすなよ」
 見ると、校舎の裏手に大きな資材がアレコレ積んである。よく目を凝らすとちらほらと人影もあった。
 そういや、工事がどうとか言ってたな。確かに、休みの日なら多少うるさくても問題はない。
 つうか、授業中にコレだったら確実に俺はサボる。もしくは耳栓して寝る。
-<span class="chapter-reading_char-name">？？？</span> : 「あら、珍しいわねー」
+<span class="name">？？？</span> : 「あら、珍しいわねー」
 声に驚いて振り返ると、担任の香藤だった。
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「東吾くんがお休みの日に学校へ来るなんて、いったいどうしたの？」
+<span class="name">香藤瑞希</span> : 「東吾くんがお休みの日に学校へ来るなんて、いったいどうしたの？」
 --choice 教科書を取りに来た
 海パンを取りに来た、とはなんとなく言いづらい。ここはひとつ、もっともらしいことを言ってみることにした。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「……教室に、教科書置き忘れたんで」
+<span class="name">高槻東吾</span> : 「……教室に、教科書置き忘れたんで」
 すると、香藤がぱちりと大きくまばたいた。
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「わざわざ教科書を取りに来たの？」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「……まあ」
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「お休みなのに、東吾くんが？」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「はあ」
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「………………」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「………………」
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「東吾くん」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「……なんスか」
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「たとえ冗談でも、きみが言うと嵐が来そうだからやめなさい」
+<span class="name">香藤瑞希</span> : 「わざわざ教科書を取りに来たの？」
+<span class="name">高槻東吾</span> : 「……まあ」
+<span class="name">香藤瑞希</span> : 「お休みなのに、東吾くんが？」
+<span class="name">高槻東吾</span> : 「はあ」
+<span class="name">香藤瑞希</span> : 「………………」
+<span class="name">高槻東吾</span> : 「………………」
+<span class="name">香藤瑞希</span> : 「東吾くん」
+<span class="name">高槻東吾</span> : 「……なんスか」
+<span class="name">香藤瑞希</span> : 「たとえ冗談でも、きみが言うと嵐が来そうだからやめなさい」
 やはり、無理のある言い訳だったようだ。
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「それより、進路計画書は？　進んでる？」
+<span class="name">香藤瑞希</span> : 「それより、進路計画書は？　進んでる？」
 しかも、とんだやぶ蛇だ。
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「いい？　一応言っておくけど、クラスで提出してないのはきみだけよ」
+<span class="name">香藤瑞希</span> : 「いい？　一応言っておくけど、クラスで提出してないのはきみだけよ」
 --choiceEnd
 --choice 先生に会いに来た
 海パンを取りに来た、とはなんとなく言いづらい。ここはひとつ、もっともらしいことを言ってみることにした。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「先生がいるんじゃねえかと思ったんで」
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「東吾くんが、私に会いに……？」
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「あ、ひょっとして進路計画書を持って来てくれたかな？　それともなにか相談ある？」
+<span class="name">高槻東吾</span> : 「先生がいるんじゃねえかと思ったんで」
+<span class="name">香藤瑞希</span> : 「東吾くんが、私に会いに……？」
+<span class="name">香藤瑞希</span> : 「あ、ひょっとして進路計画書を持って来てくれたかな？　それともなにか相談ある？」
 香藤がやけに嬉しそうにそう言った。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「や、その……」
+<span class="name">高槻東吾</span> : 「や、その……」
 あんまり嬉しそうだったんで、思わず、どもってしまった。
 計画表なんて、いまのいままで存在そのものを忘れてたし。
 すると、そんな俺の思惑を見抜いたのか、香藤は肩をすくめて盛大なため息をついた。
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「そうよねー。もし書き上げたとしたって、わざわざお休みの日に持って来たりするわけないわよねー」
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「いい？　一応言っておくけど、クラスで提出してないのはきみだけよ」
+<span class="name">香藤瑞希</span> : 「そうよねー。もし書き上げたとしたって、わざわざお休みの日に持って来たりするわけないわよねー」
+<span class="name">香藤瑞希</span> : 「いい？　一応言っておくけど、クラスで提出してないのはきみだけよ」
 --choiceEnd
-<span class="chapter-reading_char-name">高槻東吾</span> : 「……すんません」
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「まあ、私は別にいいんだけど」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「いいんスか？」
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「コラ、そこで喜ばない」
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「出さないと、そのうち私よりもっと怖いひとが出てくるわよ。それこそ、フォルムの偉いひととか」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「………………」
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「こんなこと私が言うのはなんだけど、とりあえず適当に書いて、出すだけ出してサッパリしちゃったらどう？」
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「いつまでも私にぐちゃぐちゃ言われたって、東吾くんも鬱陶しいでしょ？」
+<span class="name">高槻東吾</span> : 「……すんません」
+<span class="name">香藤瑞希</span> : 「まあ、私は別にいいんだけど」
+<span class="name">高槻東吾</span> : 「いいんスか？」
+<span class="name">香藤瑞希</span> : 「コラ、そこで喜ばない」
+<span class="name">香藤瑞希</span> : 「出さないと、そのうち私よりもっと怖いひとが出てくるわよ。それこそ、フォルムの偉いひととか」
+<span class="name">高槻東吾</span> : 「………………」
+<span class="name">香藤瑞希</span> : 「こんなこと私が言うのはなんだけど、とりあえず適当に書いて、出すだけ出してサッパリしちゃったらどう？」
+<span class="name">香藤瑞希</span> : 「いつまでも私にぐちゃぐちゃ言われたって、東吾くんも鬱陶しいでしょ？」
 出せと言っているのか、どうでもいいと言っているのか判断に苦しむ説得だな、オイ。
-<span class="chapter-reading_char-name">香藤瑞希</span> : 「とにかく私も立場上、出さなくていいわよーとは言えないし、早めになんとかしてくれると助かるわ。じゃあよろしくね」
+<span class="name">香藤瑞希</span> : 「とにかく私も立場上、出さなくていいわよーとは言えないし、早めになんとかしてくれると助かるわ。じゃあよろしくね」
 そう言って、香藤は教員棟の方へ去っていった。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「……ふう」
+<span class="name">高槻東吾</span> : 「……ふう」
 香藤が遠ざかったとたん、思わずため息が出た。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「あんなもん、他の連中はいったいなにを書いて出してンだ？」
+<span class="name">高槻東吾</span> : 「あんなもん、他の連中はいったいなにを書いて出してンだ？」
 白あたりは、聞かれてもいない壮大な人生設計を書いていそうな気がするが、陸とか……ましてや後藤とか。
 いや、後藤は後藤で壮大ななにかを書いているような気もするな……想像の斜め上を行くようなヤツを。
 倭あたりは、そつなく、しっかり書き込んでいるんだろうという気がする。でもって仁和は『倭と一緒で』とかなんとか、ひと言だったりしてな。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「……にしたって、なんも書けねえ俺よかマシか」
+<span class="name">高槻東吾</span> : 「……にしたって、なんも書けねえ俺よかマシか」
 香藤の言うとおりだ。本当は適当に書いて、出しちまえばいい。
 計画書、なんて名前がついているが、所詮は希望。実際希望どおりに進学したり、就職したりできるかどうかとは別モノだ。
 ……それくらい、わかってる。
@@ -79,9 +79,9 @@
 俺は、貢献しろなどと言われても、なにをすればいいのか検討もつかない。
 別に卑下するわけじゃない。平たく考えて──考えれば考えるほど、俺は“世間”とやらの役にはとても立ちそうにない。
 だってそうだろ？　俺が嫌々ながらも毎日やっていることと言えば、くさくさしながら学校と寮を往復しているぐらいしかないのだから。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「……誰かが適当に決めてくれりゃいいのに」
+<span class="name">高槻東吾</span> : 「……誰かが適当に決めてくれりゃいいのに」
 誰が聞いているわけでもないのに、つい口を次いでぼやき声が出てしまった。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「こんなこと、うっかり白が聞きつけたらすかさず説教を始めるだろーな……」
+<span class="name">高槻東吾</span> : 「こんなこと、うっかり白が聞きつけたらすかさず説教を始めるだろーな……」
 せいぜい気をつけよう。いまの俺でも、一応それくらいならできそうだ。
 校舎の中へ一歩入ると、外よりもずっとひっそりしていた。
 ……当然か。休みの日にグラウンド目指してくる連中はいても、教室へやってくるヤツは滅多にいないだろう。
@@ -101,12 +101,12 @@
 まるで、水槽に落ちた宝石のようだと、思った。
 ……待てよ、こいつは確か……？
 そんな、バカなことが……。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「おい……」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「…………っ！」
+<span class="name">高槻東吾</span> : 「おい……」
+<span class="name">高槻東吾</span> : 「…………っ！」
 声をかけようと口を開いたとき、急に音が空気をつんざいた。
 俺は飛び上がらんばかりに驚いて、廊下を振り返る。
 それが、このひと気のない校舎を工事する音だと気づくまで、一拍、二拍。
 そのわずかな間、俺の耳朶は、叩きつけるような心音だけでいっぱいに満たされ。
 二度三度またたき、脅かすんじゃねえよと胸の内で悪態をつきながら大きく息を吐き出して、もう一度正面に向き直った。
 ──だが、すでに、
-<span class="chapter-reading_dict">そこには、なんの痕跡もなくなっていた</span>。
+<span class="dict">そこには、なんの痕跡もなくなっていた</span>。

@@ -13,7 +13,7 @@ import { TuiLinkModule } from '@taiga-ui/core';
     selector: 'supplementary',
     templateUrl: './supplementary.component.html',
     standalone: true,
-    imports:[
+    imports: [
         TuiIslandModule,
         TuiLinkModule
     ]
@@ -46,12 +46,17 @@ export class SupplementaryPageComponent {
                     this.apiService.get("gameConfig", { pathParams: { "gameName": gameName } }).pipe(
                         tap((config: GameConfig[]) => {
                             const foundConfig: GameConfig | undefined = config.find((it: GameConfig) => it.link.includes(this.router.url))
-                            const header = `${(GameNameMapping.mapping[gameName] && GameNameMapping.mapping[gameName] + ' ') || ''}${foundConfig ? foundConfig.name : 'Something idk??'}`
+                            const header = `${(GameNameMapping.mapping[gameName] && GameNameMapping.mapping[gameName] + ' ') || ''}${foundConfig ? foundConfig.name : ''}`
                             this.gameRootService.pushHeader(header)
                         }))
                 ])
             })
-        ).subscribe(() => {
+        ).subscribe({
+            next: () => {
+            },
+            error: () => {
+                this.router.navigate(["/error"])
+            }
         })
     }
 }

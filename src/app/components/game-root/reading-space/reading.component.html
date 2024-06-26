@@ -4,9 +4,6 @@
       <tui-island class="chapter-reading_content-island">
         <tui-elastic-container>
           <navigation [bottom]="false" [navigationData]="navigationData"></navigation>
-          @for (item of navigations; track item) {
-          <div> {{item}} </div>
-          }
           <hr class="chapter-reading_spacer">
           <div class="chapter-reading_content-text">
             @for (line of lines; track line) {

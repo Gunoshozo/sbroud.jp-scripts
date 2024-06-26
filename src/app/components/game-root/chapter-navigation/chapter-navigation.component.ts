@@ -17,12 +17,12 @@ import { HttpHeaders } from '@angular/common/http';
     templateUrl: './chapter-navigation.component.html',
     standalone: true,
     imports: [
-    ItemCardComponent,
-    NgClass,
-    NgStyle,
-    RouterLink,
-    TuiButtonModule
-],
+        ItemCardComponent,
+        NgClass,
+        NgStyle,
+        RouterLink,
+        TuiButtonModule
+    ],
     providers: [
         RestApiService
     ]
@@ -105,29 +105,35 @@ export class ChapterNavigationComponent implements OnInit {
                         })
                     )
                 }
-            })).subscribe((response: any) => {
-                if (this.easterEggs && response?.items.some((it: GameItem) => it.alternativeImgs)) {
-                    this._items = response?.items.map((it: GameItem) => {
-                        if (it.alternativeImgs) {
-                            if (Math.random() > 0.75) {
-                                if (it.alternativeImgs.length > 1) {
-                                    it.imgSrc = this.selectRandom(it.alternativeImgs)
-                                } else {
-                                    it.imgSrc = it.alternativeImgs[0]
+            })).subscribe(
+                {
+                    next: (response: any) => {
+                        if (this.easterEggs && response?.items.some((it: GameItem) => it.alternativeImgs)) {
+                            this._items = response?.items.map((it: GameItem) => {
+                                if (it.alternativeImgs) {
+                                    if (Math.random() > 0.75) {
+                                        if (it.alternativeImgs.length > 1) {
+                                            it.imgSrc = this.selectRandom(it.alternativeImgs)
+                                        } else {
+                                            it.imgSrc = it.alternativeImgs[0]
+                                        }
+                                    }
                                 }
-                            }
+                                return it
+                            })
+                        } else {
+                            this._items = response?.items
                         }
-                        return it
-                    })
-                } else {
-                    this._items = response?.items
-                }
-                this.hasImages = !!this._items?.some(it => !!it.imgSrc)
+                        this.hasImages = !!this._items?.some(it => !!it.imgSrc)
 
-                if (response.headerLabel) {
-                    this.gameRootService.pushHeader(response.headerLabel);
-                }
-            });
+                        if (response.headerLabel) {
+                            this.gameRootService.pushHeader(response.headerLabel);
+                        }
+                    },
+                    error: () => {
+                        this.router.navigate(["/error"])
+                    }
+                });
     }
 
     private selectRandom(arr: any[]): any {

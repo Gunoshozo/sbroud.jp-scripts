@@ -1,4 +1,4 @@
-<span class="chapter-reading_char-name">来栖乃々</span>:「............」
+<span class="name">来栖乃々</span>:「............」
 ーー眠れない.
 ーーどれだけ目を閉じていても眠れない.
 ひかりは隣ですやすやと寝息を立てている.
@@ -18,7 +18,7 @@
 再びひかりが繋げてくれた拓留との日々は温かくて眩しくて.
 彼女にもう一度喜びを与えてくれた.
 だけど今,彼女の能力が拓留を苦しめている.
-<span class="chapter-reading_char-name">来栖乃々</span>:「我が儘なんだ......私......」
+<span class="name">来栖乃々</span>:「我が儘なんだ......私......」
 自分が真実を告げればすべては収まる.
 わかっている.
 わかってはいるけれど,きっと心のどこかでそれを恐れているのだ.
@@ -38,7 +38,7 @@
 我が儘で欲深くて.
 それが本当の自分.
 結局.
-<span class="chapter-reading_char-name">来栖乃々</span>:「私が一番大事なのは私なんだ......」
-<span class="chapter-reading_char-name">来栖乃々</span>:「ねえ,ひかり......」
-<span class="chapter-reading_char-name">来栖乃々</span>:「私,どうしたらいい?」
-<span class="chapter-reading_char-name">来栖乃々</span>:「どうしたら......」
+<span class="name">来栖乃々</span>:「私が一番大事なのは私なんだ......」
+<span class="name">来栖乃々</span>:「ねえ,ひかり......」
+<span class="name">来栖乃々</span>:「私,どうしたらいい?」
+<span class="name">来栖乃々</span>:「どうしたら......」

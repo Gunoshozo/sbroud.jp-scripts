@@ -31,7 +31,6 @@ export class ChapteredItemsComponent implements OnInit {
 
 	public filteredItems: SearchableChapter[] = [];
 
-
 	public searchForm: FormGroup = new FormGroup({
 		"search": new FormControl("")
 	});

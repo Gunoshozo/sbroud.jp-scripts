@@ -11,10 +11,6 @@ export class TextFormatter {
             } else if (it.includes("--choice")) {
                 choiceCurve++;
             }
-
-            if (choiceCurve < 0) {
-                console.error("wrong folding")
-            }
         })
 
         result = this.collectLines(lines, 0)[0]

@@ -37,8 +37,6 @@ export class ReadingComponent implements OnInit, AfterViewInit {
 
     public lines: ReadableLine[];
 
-    public navigations: any[];
-
     public gameName: string;
 
     public routeData: any;
@@ -147,7 +145,7 @@ export class ReadingComponent implements OnInit, AfterViewInit {
                     this.gameRootService.pushHeader(this.name);
 
                     setTimeout(() => {
-                        Array.prototype.slice.call(document.getElementsByClassName("chapter-reading_dict"))
+                        Array.prototype.slice.call(document.getElementsByClassName("dict"))
                             .forEach((it: Element) => {
                                 it.addEventListener("click", this.openTip.bind(this))
                             })
@@ -257,7 +255,6 @@ export class ReadingComponent implements OnInit, AfterViewInit {
     }
 
     private openTip(text: any): void {
-        console.log("openTip")
         let newRelativeUrl = this.router.createUrlTree([`/games/${this.gameName}/tips`], { queryParams: { filter: this.resolveKanji(text.currentTarget.innerHTML) } });
         let baseUrl = window.location.href.replace(this.router.url, '');
         window.open(baseUrl + newRelativeUrl, '_blank');
@@ -291,7 +288,7 @@ export class ReadingComponent implements OnInit, AfterViewInit {
             return result.replaceAll("<rt>•</rt>", "")
         }
         if (result.includes("<rt>")) {
-            const innerRubyPattern = /<rt>[ぁ-んァ-ン・ー]+<\/rt>/gm;
+            const innerRubyPattern = /<rt>(.*?)<\/rt>/gm;
             let matches = [...result.matchAll(innerRubyPattern)];
             matches.forEach((match) => {
                 result = result.replaceAll(match[0], '')

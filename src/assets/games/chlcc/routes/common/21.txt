@@ -2,16 +2,16 @@
 そもそも、この世界から脱出しなくちゃいけない道理もない。
 むしろ、僕にとってはこの世界の方が居心地がいいんだ。
 ずっとここにいたって、誰にも迷惑をかけないじゃないか。
-<span class="chapter-reading_dict">ギガロマニアックス</span>としての力もなくしちゃったわけだし。
-目が覚めて現実へ戻れたとしても、第二、第三の<span class="chapter-reading_dict">野呂瀬</span>が僕の前に現れないとも限らない。
+<span class="dict">ギガロマニアックス</span>としての力もなくしちゃったわけだし。
+目が覚めて現実へ戻れたとしても、第二、第三の<span class="dict">野呂瀬</span>が僕の前に現れないとも限らない。
 そのとき、僕はどうやって自分を守ればいいんだ？
 守る術なんてないよ。
 梨深たちに守ってもらう？
 いいや、期待薄だね。
 梨深はバカで秘密主義で、僕を混乱させるだけ混乱させてひとりで空回りするし。
-七海や優愛は<span class="chapter-reading_dict">ギガロマニアックス</span>としての実力は未知数だし。
+七海や優愛は<span class="dict">ギガロマニアックス</span>としての実力は未知数だし。
 あやせはデンパだし。
-セナとこずぴぃは、<span class="chapter-reading_dict">ディソード</span>をチャンバラごっこの道具にしか使わないし。<span class="chapter-reading_dict">中二病</span>かよ。
+セナとこずぴぃは、<span class="dict">ディソード</span>をチャンバラごっこの道具にしか使わないし。<span class="dict">中二病</span>かよ。
 そんな連中に守ってもらえるって期待する方が、バカげてる。
 だったら、この閉じた殻の中で、ぬくぬくと平穏な夢を見続けている方が、ずっといいんじゃないか？
 僕にとって都合のいいことだけが起こる、妄想の世界。
@@ -33,100 +33,100 @@
 満足したら、目を覚まして本気出す。
 もし、抜け出せなくなったら？
 それはそれで仕方ないとあきらめてもいいかもね。
-<span class="chapter-reading_char-name">エリン？</span>:「おぬしは実に馬鹿じゃな」
+<span class="name">エリン？</span>:「おぬしは実に馬鹿じゃな」
 目を開けると、僕の部屋だった。
 ＰＣモニタの中から、エリンがニヤニヤしながらこっちを見ている。
-<span class="chapter-reading_char-name">エリン</span>:「しかし、それでこそ西條拓巳であるとも言える」
-<span class="chapter-reading_char-name">拓巳</span>:「僕を決めつけないでくれ」
-<span class="chapter-reading_char-name">エリン</span>:「おぬしこそ、己を決めつけておるではないか」
-<span class="chapter-reading_char-name">エリン</span>:「己を否定することで、逆説的に己を固定してしまっておるんじゃ」
-<span class="chapter-reading_char-name">拓巳</span>:「日本語でＯＫ」
-<span class="chapter-reading_char-name">エリン</span>:「おぬしが<span class="chapter-reading_dict">リア充</span>になどなれるわけがなかろう、どたわけ☆」
-<span class="chapter-reading_char-name">拓巳</span>:「それはすごく分かりやすい」
-<span class="chapter-reading_char-name">拓巳</span>:「ちょっと屋上に行こうか。久々にキレちまったぜ」
-<span class="chapter-reading_char-name">エリン</span>:「ここはすでに屋上じゃ」
-<span class="chapter-reading_char-name">拓巳</span>:「いいからモニタから出てこい」
-<span class="chapter-reading_char-name">エリン</span>:「それより、姉様がおぬしに会いたがっておる」
-<span class="chapter-reading_char-name">拓巳</span>:「え……？　会ってくれるの？」
-<span class="chapter-reading_char-name">エリン</span>:「今のおぬしならばのぅ」
+<span class="name">エリン</span>:「しかし、それでこそ西條拓巳であるとも言える」
+<span class="name">拓巳</span>:「僕を決めつけないでくれ」
+<span class="name">エリン</span>:「おぬしこそ、己を決めつけておるではないか」
+<span class="name">エリン</span>:「己を否定することで、逆説的に己を固定してしまっておるんじゃ」
+<span class="name">拓巳</span>:「日本語でＯＫ」
+<span class="name">エリン</span>:「おぬしが<span class="dict">リア充</span>になどなれるわけがなかろう、どたわけ☆」
+<span class="name">拓巳</span>:「それはすごく分かりやすい」
+<span class="name">拓巳</span>:「ちょっと屋上に行こうか。久々にキレちまったぜ」
+<span class="name">エリン</span>:「ここはすでに屋上じゃ」
+<span class="name">拓巳</span>:「いいからモニタから出てこい」
+<span class="name">エリン</span>:「それより、姉様がおぬしに会いたがっておる」
+<span class="name">拓巳</span>:「え……？　会ってくれるの？」
+<span class="name">エリン</span>:「今のおぬしならばのぅ」
 “今の”って、どういう意味なんだろう。
 これまでは、僕がどれだけ望んでも、星来は会いに来てくれなかった。
-<span class="chapter-reading_char-name">エリン</span>:「考えてみるがよい。姉様が生まれた理由を」
-<span class="chapter-reading_char-name">エリン</span>:「おぬしは、己を否定しようとするあまり、そんな当たり前のことすら忘れてしまっていたんじゃ」
-<span class="chapter-reading_char-name">拓巳</span>:「星来が、生まれた理由……」
-<span class="chapter-reading_char-name">拓巳</span>:「僕の、星来への純愛？」
-<span class="chapter-reading_char-name">エリン</span>:「気取るな、どたわけ☆　なにが純愛じゃ、キモいわ」
-<span class="chapter-reading_char-name">拓巳</span>:「お前、いつか殺す……」
-<span class="chapter-reading_char-name">エリン</span>:「童貞の劣情と、エロ妄想。そうじゃろう？」
-<span class="chapter-reading_char-name">拓巳</span>:「うわ。そんな、身も蓋もない……」
-<span class="chapter-reading_char-name">エリン</span>:「されど、本当のことじゃ」
-<span class="chapter-reading_char-name">エリン</span>:「まったく、姉様はあれほどおぬしのことを慕っとると言うのに」
-<span class="chapter-reading_char-name">エリン</span>:「三次元女になどうつつを抜かしおって」
-<span class="chapter-reading_char-name">拓巳</span>:「星来は、僕を殺そうとした」
+<span class="name">エリン</span>:「考えてみるがよい。姉様が生まれた理由を」
+<span class="name">エリン</span>:「おぬしは、己を否定しようとするあまり、そんな当たり前のことすら忘れてしまっていたんじゃ」
+<span class="name">拓巳</span>:「星来が、生まれた理由……」
+<span class="name">拓巳</span>:「僕の、星来への純愛？」
+<span class="name">エリン</span>:「気取るな、どたわけ☆　なにが純愛じゃ、キモいわ」
+<span class="name">拓巳</span>:「お前、いつか殺す……」
+<span class="name">エリン</span>:「童貞の劣情と、エロ妄想。そうじゃろう？」
+<span class="name">拓巳</span>:「うわ。そんな、身も蓋もない……」
+<span class="name">エリン</span>:「されど、本当のことじゃ」
+<span class="name">エリン</span>:「まったく、姉様はあれほどおぬしのことを慕っとると言うのに」
+<span class="name">エリン</span>:「三次元女になどうつつを抜かしおって」
+<span class="name">拓巳</span>:「星来は、僕を殺そうとした」
 あの、井乃頭線のトンネルで。
-<span class="chapter-reading_char-name">エリン</span>:「おぬしが二次元を否定しようとした。そこにつけ込まれただけじゃ」
-<span class="chapter-reading_dict">ノアⅡ</span>か……。
-<span class="chapter-reading_char-name">エリン</span>:「見る者によって、見え方も変わる」
-<span class="chapter-reading_char-name">エリン</span>:「ある者にとっては、巨大な羽虫の大群だったやもしれん」
-<span class="chapter-reading_char-name">エリン</span>:「またある者にとっては、黒服にサングラスをかけたエージェントだったやもしれん」
-<span class="chapter-reading_char-name">エリン</span>:「その者にとって“なにが恐怖や動揺の対象となるのか”」
-<span class="chapter-reading_char-name">拓巳</span>:「…………」
-<span class="chapter-reading_char-name">エリン</span>:「否定したのはおぬしの方なんじゃよ、西條拓巳」
-<span class="chapter-reading_char-name">拓巳</span>:「だって、いつまでも、引きこもってちゃ、いられない」
-<span class="chapter-reading_char-name">星来</span>:「無理しないで、タッキー」
+<span class="name">エリン</span>:「おぬしが二次元を否定しようとした。そこにつけ込まれただけじゃ」
+<span class="dict">ノアⅡ</span>か……。
+<span class="name">エリン</span>:「見る者によって、見え方も変わる」
+<span class="name">エリン</span>:「ある者にとっては、巨大な羽虫の大群だったやもしれん」
+<span class="name">エリン</span>:「またある者にとっては、黒服にサングラスをかけたエージェントだったやもしれん」
+<span class="name">エリン</span>:「その者にとって“なにが恐怖や動揺の対象となるのか”」
+<span class="name">拓巳</span>:「…………」
+<span class="name">エリン</span>:「否定したのはおぬしの方なんじゃよ、西條拓巳」
+<span class="name">拓巳</span>:「だって、いつまでも、引きこもってちゃ、いられない」
+<span class="name">星来</span>:「無理しないで、タッキー」
 いつの間にか、すぐ横に、星来が立っていた。
 僕は、自分でも意外なことに、驚かなかった。
-<span class="chapter-reading_char-name">エリン</span>:「引きこもり禁止なのは、現実での話じゃ」
-<span class="chapter-reading_char-name">エリン</span>:「この世界においては、引きこもりもクソもない」
-<span class="chapter-reading_char-name">星来</span>:「だって、この世界にいるってことはさ、引きこもってるのと、同じ意味っしょ？」
-<span class="chapter-reading_char-name">エリン</span>:「なぜおぬしは、この世界に引きこもった？」
-<span class="chapter-reading_char-name">エリン</span>:「なにか、心残りがあったんじゃろう？」
-<span class="chapter-reading_char-name">拓巳</span>:「枷……」
+<span class="name">エリン</span>:「引きこもり禁止なのは、現実での話じゃ」
+<span class="name">エリン</span>:「この世界においては、引きこもりもクソもない」
+<span class="name">星来</span>:「だって、この世界にいるってことはさ、引きこもってるのと、同じ意味っしょ？」
+<span class="name">エリン</span>:「なぜおぬしは、この世界に引きこもった？」
+<span class="name">エリン</span>:「なにか、心残りがあったんじゃろう？」
+<span class="name">拓巳</span>:「枷……」
 星来は、枷。
 だから僕は、目覚めることができずにいる。
 星来を殺さないと、目覚めることはできない。
-<span class="chapter-reading_char-name">エリン</span>:「三次元に騙されるでないわ、どたわけ☆」
-<span class="chapter-reading_char-name">星来</span>:「あたしは、ずっとタッキーに会いたかったんよ？　ぼけなす☆」
-<span class="chapter-reading_char-name">エリン</span>:「心のままに、己を見つめるがいい」
-<span class="chapter-reading_char-name">星来</span>:「あたしを見て、タッキー」
-<span class="chapter-reading_char-name">拓巳</span>:「僕は……」
-<span class="chapter-reading_char-name">エリン</span>:「おぬしは」
-<span class="chapter-reading_char-name">星来</span>:「あなたは」
-<span class="chapter-reading_char-name">エリン</span>:「三次元よりも」
-<span class="chapter-reading_char-name">星来</span>:「二次元の方が」
-<span class="chapter-reading_char-name">星来・エリン(星)</span>:「大好きだ」
-<span class="chapter-reading_char-name">星来・エリン(エ)</span>:「大好きだ」
+<span class="name">エリン</span>:「三次元に騙されるでないわ、どたわけ☆」
+<span class="name">星来</span>:「あたしは、ずっとタッキーに会いたかったんよ？　ぼけなす☆」
+<span class="name">エリン</span>:「心のままに、己を見つめるがいい」
+<span class="name">星来</span>:「あたしを見て、タッキー」
+<span class="name">拓巳</span>:「僕は……」
+<span class="name">エリン</span>:「おぬしは」
+<span class="name">星来</span>:「あなたは」
+<span class="name">エリン</span>:「三次元よりも」
+<span class="name">星来</span>:「二次元の方が」
+<span class="name">星来・エリン(星)</span>:「大好きだ」
+<span class="name">星来・エリン(エ)</span>:「大好きだ」
 目の錯覚だろうか？
 それともデッドスポットに誰かの妄想が埋め込まれたのか。
 星来とエリンの見分けが付かなくなってきている。
 認識の境界が、曖昧になっている。
 “個”を固定できない。
 なにが起きてる？
-<span class="chapter-reading_char-name">星来・エリン(星)</span>:「自分の身体、見てみたら？」
-<span class="chapter-reading_char-name">星来・エリン(エ)</span>:「自分の身体、見てみたら？」
-<span class="chapter-reading_char-name">星来・エリン(星)</span>:「きっと、面白いからさ♪」
-<span class="chapter-reading_char-name">星来・エリン(エ)</span>:「きっと、面白いからさ♪」
+<span class="name">星来・エリン(星)</span>:「自分の身体、見てみたら？」
+<span class="name">星来・エリン(エ)</span>:「自分の身体、見てみたら？」
+<span class="name">星来・エリン(星)</span>:「きっと、面白いからさ♪」
+<span class="name">星来・エリン(エ)</span>:「きっと、面白いからさ♪」
 見なくても、分かった。
 僕の身体は、溶け出していた。
 アイスクリームが溶けるように、世界へと、染み出していた。
 僕と、世界との、認識の境界が、崩れてきている。
-<span class="chapter-reading_char-name">星来・エリン(星)</span>:「この世界はさ、最初から、ひとつなんよ」
-<span class="chapter-reading_char-name">星来・エリン(エ)</span>:「この世界はさ、最初から、ひとつなんよ」
+<span class="name">星来・エリン(星)</span>:「この世界はさ、最初から、ひとつなんよ」
+<span class="name">星来・エリン(エ)</span>:「この世界はさ、最初から、ひとつなんよ」
 あのときと、同じだ。
-<span class="chapter-reading_dict">ノアⅡ</span>を破壊するために、<span class="chapter-reading_dict">野呂瀬</span>の元に乗り込んだとき。
+<span class="dict">ノアⅡ</span>を破壊するために、<span class="dict">野呂瀬</span>の元に乗り込んだとき。
 ヤツの妄想攻撃を食らって、僕は人の形を失いかけた。
 そのときと同じことが、また起きている？
 いや、同じように見えるけど、違う気がする。
-<span class="chapter-reading_char-name">星来・エリン(星)</span>:「あたしとエリンも」
-<span class="chapter-reading_char-name">星来・エリン(エ)</span>:「あたしとエリンも」
-<span class="chapter-reading_char-name">星来・エリン(星)</span>:「あたしと……タッキーも」
-<span class="chapter-reading_char-name">星来・エリン(エ)</span>:「あたしと……タッキーも」
+<span class="name">星来・エリン(星)</span>:「あたしとエリンも」
+<span class="name">星来・エリン(エ)</span>:「あたしとエリンも」
+<span class="name">星来・エリン(星)</span>:「あたしと……タッキーも」
+<span class="name">星来・エリン(エ)</span>:「あたしと……タッキーも」
 今さら、エリンの言葉の意味を悟った。
 ――星来オルジェルは、遍在している。
 当然だよな。
 星来は、僕の妄想から生まれた。僕の妄想の中でしか生きられない。
 この世界も、僕の妄想から生まれた。
-<span class="chapter-reading_char-name">星来</span>:「一緒になろう？」
+<span class="name">星来</span>:「一緒になろう？」
 溶けていく。
 エリンは星来へと。
 星来は僕へと。
@@ -134,19 +134,19 @@
 遍在していく。
 まるで現実としか思えない、星来の温もり。感触。
 僕の中へと入ってくる。僕を優しく抱擁する。
-<span class="chapter-reading_char-name">星来</span>:「タッキーと、こうしてひとつに戻れるのをさ、あたし、ずっと望んでたんだよ」
-<span class="chapter-reading_char-name">梨深</span>:「タク！　やめて！」
-<span class="chapter-reading_char-name">七海</span>:「おにぃ！　ナナを置いていかないで！」
-<span class="chapter-reading_char-name">セナ</span>:「西條、早まるな！」
-<span class="chapter-reading_char-name">梢</span>:「拓巳しゃん！　待つのらー！」
-<span class="chapter-reading_char-name">あやせ</span>:「邪心を振り払って、拓巳！」
-<span class="chapter-reading_char-name">優愛</span>:「行っちゃダメです、西條くん！」
+<span class="name">星来</span>:「タッキーと、こうしてひとつに戻れるのをさ、あたし、ずっと望んでたんだよ」
+<span class="name">梨深</span>:「タク！　やめて！」
+<span class="name">七海</span>:「おにぃ！　ナナを置いていかないで！」
+<span class="name">セナ</span>:「西條、早まるな！」
+<span class="name">梢</span>:「拓巳しゃん！　待つのらー！」
+<span class="name">あやせ</span>:「邪心を振り払って、拓巳！」
+<span class="name">優愛</span>:「行っちゃダメです、西條くん！」
 声が聞こえる。
 いや、声、なのかな？
 僕の耳に届くのは、ノイズだけ。
-<span class="chapter-reading_char-name">星来</span>:「嬉しい……」
+<span class="name">星来</span>:「嬉しい……」
 認識できる“声”は、星来だけ。
-<span class="chapter-reading_char-name">星来</span>:「あたしを、選んでくれたんだね」
+<span class="name">星来</span>:「あたしを、選んでくれたんだね」
 選んだんだろうか？
 きっと、選んだんだろう。
 でないと、世界に溶け込むような状況にはならない。
@@ -161,7 +161,7 @@
 わずかなくすぐったさを感じつつ、視線は青空に釘付けになっている。
 いくつも連なる、大きな雲。
 それらが急速に集まり、人の形へと変化していく。
-はじめは、<span class="chapter-reading_dict">錯視</span>かと思った。でも、違う。
+はじめは、<span class="dict">錯視</span>かと思った。でも、違う。
 やがて密集した雲は、微妙な凹凸を形作っていき――
 雲に色が付き――
 星来の姿に変貌する。
@@ -183,14 +183,14 @@
 星来が――空が――落ちてくる。
 天と地の空隙は消失し。
 僕と星来は口づけを交わした。
-<span class="chapter-reading_char-name">星来</span>:「んぅ……」
+<span class="name">星来</span>:「んぅ……」
 星来の舌が蠢き、僕の口に侵入し、甘い唾液が流し込まれてくる。
-<span class="chapter-reading_char-name">星来</span>:「はぁ……んっ……」
+<span class="name">星来</span>:「はぁ……んっ……」
 僕の舌が絡み取られ、強く吸いつかれた。
-<span class="chapter-reading_char-name">星来</span>:「ちゅ……っ……」
+<span class="name">星来</span>:「ちゅ……っ……」
 僕の口を犯していた星来の舌がようやく引っ込むと、今度は唇を優しく噛まれた。
-<span class="chapter-reading_char-name">星来</span>:「はぁ……はぁ……」
-<span class="chapter-reading_char-name">星来</span>:「もう、離さないでね、タッキー」
+<span class="name">星来</span>:「はぁ……はぁ……」
+<span class="name">星来</span>:「もう、離さないでね、タッキー」
 星来の柔らかな肉体が、僕に覆い被さる。
 そして――融合していく。
 僕の中に、星来が入ってくる。
@@ -212,6 +212,6 @@
 羊水の中にいるかのような、温かな浮遊感。
 僕の中にすべての<ruby>混沌<rt>カオス</rt></ruby>が収まり。
 世界は無となり。
-<span class="chapter-reading_char-name">星来</span>:「大好き」
+<span class="name">星来</span>:「大好き」
 そんな、愛おしい声を聞きながら。
 僕は、膝を抱えて、眠りについた。

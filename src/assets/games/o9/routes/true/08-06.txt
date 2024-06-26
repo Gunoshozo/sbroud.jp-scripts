@@ -13,7 +13,7 @@
 なんで、止めてくれなかったのさって。なんで、こんなことに巻き込んだんだって。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
 だって、橋上教授の死体をみつけたとき、死体から金歯の鍵を抜いたとき、そして……自分が死んだってわかったとき。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
 僕は本当に怖かったんだ。ヘタレって言われようが、なんだろうが、怖いものは怖い。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">悠太</span> : でも……わかっちゃうんだよね <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">悠太</span> : でも……わかっちゃうんだよね <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
 アヴェリーヌが、お父さんのために一生懸命だっていうのはさ。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
 僕だって父さんのことが好きだったし、父さんが『八福神の会』なんてものに関わってるって知ったときは何かの間違いだと思った。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
 真実を知った今、父さんの誰かを助けたいって思いを利用してた『八福神の会』には怒りしかないし。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
@@ -22,7 +22,7 @@
 殺された父さんはスカンジウム定着の手術を受けてなかったんだろう。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
 だから２５６人の中にはいないし、僕と父さんは同じ『幽霊』なのに会うことができない。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
 こんなとき、父さんならなんて言うのかな。『女の子が困ってるんだ、助けてやらないでどうする』くらい言うかな？ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">悠太</span> : ……父さんに、会いたいなあ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">悠太</span> : ……父さんに、会いたいなあ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
 空を見上げる。風が吹いて、ざぁっと街路樹を揺らした。梢の音は、ちょっとラジオの電波に似てる。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
 ざぁっ、ざぁって、周波数が合う前の、ノイズ音。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
 ふと、このまま普通の『幽霊』になってしまえば、もう１度父さんに会えるのかな、なんて思った。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
@@ -37,6 +37,6 @@
 ……懐かしいな。ここで初めてりょーたすと会ったんだっけ。
 いきなりすべり台の上から降りてきてさ。『ウルトラＣ！』って。
 いや～、あのときのりょーたすの胸の感触。あれこそ、まさにウルトラＣだったよね……って。
-<span class="chapter-reading_char-name">悠太</span> : りょーたす！？
+<span class="name">悠太</span> : りょーたす！？
 僕は思わず目を丸くして叫んだ。
 だって、思い出のすべり台の上には、りょーたすが膝を抱えて座っていたから。

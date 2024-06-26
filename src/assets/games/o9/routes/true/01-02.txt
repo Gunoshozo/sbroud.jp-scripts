@@ -11,20 +11,20 @@
 最近は眠りが浅くて、ずっと寝不足だ。昨日はゾン子に寝かせてもらえなかったし。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
 このまま寝てしまいたい。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
 でもすぐに、橋上教授の顔とか、金歯を引っこ抜いたときの感触とか、むせ返るほどの血の匂いが蘇ってきて、胸が苦しくなる。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
-<span class="chapter-reading_char-name">是如</span> : もしいつか父さんが死んだら、幽霊ＤＪになって話しかけてやるからな
+<span class="name">是如</span> : もしいつか父さんが死んだら、幽霊ＤＪになって話しかけてやるからな
 助けを求めるようにスカイセンサーを胸に乗せたら、父さんのことを思い出した。
-<span class="chapter-reading_char-name">悠太</span> : 父さん……
+<span class="name">悠太</span> : 父さん……
 そう呟くと、突然、
-<span class="chapter-reading_char-name">ゾン子</span> : アンタ、バカぁ！？
-<span class="chapter-reading_char-name">悠太</span> : うわぁっ！？
+<span class="name">ゾン子</span> : アンタ、バカぁ！？
+<span class="name">悠太</span> : うわぁっ！？
 スカイセンサーからゾン子の怒鳴り声が響いた。びっくりしてスカイセンサーを取り落としそうになる。
-<span class="chapter-reading_char-name">悠太</span> : な、なんだよ、いきなり！　さっきは黙ってたくせに！！
-<span class="chapter-reading_char-name">ゾン子</span> : 黙ってるに決まってるでしょ！
-<span class="chapter-reading_char-name">悠太</span> : なんで！
-<span class="chapter-reading_char-name">ゾン子</span> : 他の人にワタシの存在バラしてどうすんのよ！
-<span class="chapter-reading_char-name">ゾン子</span> : 『ラジオから美少女の声が聞こえてきて喋ることができるんです』、って本気で言ってるイタい男子高校生がいたら通報間違いなしでしょ？
-<span class="chapter-reading_char-name">悠太</span> : ……確かに
-<span class="chapter-reading_char-name">ゾン子</span> : 通報されたら最後よ。あの事件だってアンタは無実だとしても、状況証拠があるんだから
+<span class="name">悠太</span> : な、なんだよ、いきなり！　さっきは黙ってたくせに！！
+<span class="name">ゾン子</span> : 黙ってるに決まってるでしょ！
+<span class="name">悠太</span> : なんで！
+<span class="name">ゾン子</span> : 他の人にワタシの存在バラしてどうすんのよ！
+<span class="name">ゾン子</span> : 『ラジオから美少女の声が聞こえてきて喋ることができるんです』、って本気で言ってるイタい男子高校生がいたら通報間違いなしでしょ？
+<span class="name">悠太</span> : ……確かに
+<span class="name">ゾン子</span> : 通報されたら最後よ。あの事件だってアンタは無実だとしても、状況証拠があるんだから
 ゾン子の言葉に、ゾッとした。
 ……あの日、血に濡れたナイフを掴んでしまった感触が、手に蘇る。
 このまま……捕まっちゃうのかな……僕？
@@ -37,21 +37,21 @@
 だけど、調べるしかない。もしかしたら、金歯鍵の鍵穴について、つながる情報があるかもしれない。
 だから、思い切ってエンターキーを押した。
 しばらくして、画面にずらずらと検索結果が並ぶ。そのうちの１つをクリックすると、キリバサにつながった。
-そういえば数ヶ月前に橋上教授がテレビで『<span class="chapter-reading_dict">オカルト</span>はあります』的なことを言い出したときに一度、簡単に取り上げてたっけ。
-<span class="chapter-reading_char-name">398:</span> : ロン毛橋上死亡記念まきこ
-<span class="chapter-reading_char-name">400:</span> : <span class="chapter-reading_dict">オカルト</span>あるならゾンビにでもなって復活してみろｗｗｗ
-<span class="chapter-reading_char-name">415:</span> : 橋上ざまあああああああ
-<span class="chapter-reading_char-name">417:</span> : 結局<span class="chapter-reading_dict">オカルト</span>はあったの？　なかったの？
-<span class="chapter-reading_char-name">420:</span> : こいついちいち論点ずらししたり議論はぐらかしたりして
-<span class="chapter-reading_char-name">420:</span> : 話聞いててイライラするんだよな\n死んでくれて清々したわ
-<span class="chapter-reading_char-name">422:</span> : <span class="chapter-reading_dict">オカルト</span>はなかったでＦＡ
+そういえば数ヶ月前に橋上教授がテレビで『<span class="dict">オカルト</span>はあります』的なことを言い出したときに一度、簡単に取り上げてたっけ。
+<span class="name">398:</span> : ロン毛橋上死亡記念まきこ
+<span class="name">400:</span> : <span class="dict">オカルト</span>あるならゾンビにでもなって復活してみろｗｗｗ
+<span class="name">415:</span> : 橋上ざまあああああああ
+<span class="name">417:</span> : 結局<span class="dict">オカルト</span>はあったの？　なかったの？
+<span class="name">420:</span> : こいついちいち論点ずらししたり議論はぐらかしたりして
+<span class="name">420:</span> : 話聞いててイライラするんだよな\n死んでくれて清々したわ
+<span class="name">422:</span> : <span class="dict">オカルト</span>はなかったでＦＡ
 この数日で付いた最新のコメントは数えるぐらいで、しかもどれも人間性を疑うようなクズコメントばかりだった。
 バサラーがここまで品性下劣な連中だらけだったなんて、ガッカリだよ。これじゃトイレの落書き以下じゃないか。
 ……たいした情報はないな。……ん？
 がっくりして検索サイトに戻ろうと思ったそのとき、１つの書き込みが目に止まった。
-<span class="chapter-reading_char-name">どーも銭形です</span> : 橋上の事件だけど
-<span class="chapter-reading_char-name">どーも銭形です</span> : 去年の冬コミマで売ってた女向けのエロ同人で\nすごく似てるシチュがあったの思い出したんだよね
-<span class="chapter-reading_char-name">どーも銭形です</span> : 園梨々花の『昏い水の底』ってやつ\nなんか関係あるのかな？
+<span class="name">どーも銭形です</span> : 橋上の事件だけど
+<span class="name">どーも銭形です</span> : 去年の冬コミマで売ってた女向けのエロ同人で\nすごく似てるシチュがあったの思い出したんだよね
+<span class="name">どーも銭形です</span> : 園梨々花の『昏い水の底』ってやつ\nなんか関係あるのかな？
 なに言ってんだこいつ、って最初は思った。
 事実、そのコメントには特に誰もなにも反応してない。面倒だからスルーしてるのかも。
 でも、気になった。それが唯一の建設的な書き込みだったっていうのもある。

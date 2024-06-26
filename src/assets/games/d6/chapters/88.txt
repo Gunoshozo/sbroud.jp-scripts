@@ -1,20 +1,20 @@
 追わなくちゃ。
-<span class="chapter-reading_char-name">ジョー</span> : 「うわっ……！」
+<span class="name">ジョー</span> : 「うわっ……！」
 半分倒壊してる階段を駆け下りようとしたら、降り落ちてきた瓦礫に邪魔された。
-<span class="chapter-reading_char-name">ジョー</span> : 「くっ……！」
+<span class="name">ジョー</span> : 「くっ……！」
 おまけに、おなかの傷が……
-<span class="chapter-reading_char-name">ジョー</span> : 「やば……広がって来たのかな……」
+<span class="name">ジョー</span> : 「やば……広がって来たのかな……」
 服にじんわりと染み出してきた赤いものを見て、背筋にざわついたものが走った。
-<span class="chapter-reading_char-name">ジョー</span> : 「でも、シーナと父さんが……助けないと……」
+<span class="name">ジョー</span> : 「でも、シーナと父さんが……助けないと……」
 思ったより失血してるみたいで、動くと少しくらくらしたけど、二、三度瞬きしたら、なんとかなった。
-<span class="chapter-reading_char-name">ジョー</span> : 「っ……く……」
-<span class="chapter-reading_char-name">ジョー</span> : 「そう、だ……助けを……」
+<span class="name">ジョー</span> : 「っ……く……」
+<span class="name">ジョー</span> : 「そう、だ……助けを……」
 辺りを見回したけど、どこにも何もない。非常用の電話も備え付けられていない。
-<span class="chapter-reading_char-name">ジョー</span> : 「あ……」
+<span class="name">ジョー</span> : 「あ……」
 携帯も持っていない。
-<span class="chapter-reading_char-name">ジョー</span> : 「っ……」
+<span class="name">ジョー</span> : 「っ……」
 ここは、かなりの地下。階段を上って、助けを呼んでというのは、いくらなんでも時間がかかりすぎる。
-<span class="chapter-reading_char-name">ジョー</span> : 「……僕しかいない」
+<span class="name">ジョー</span> : 「……僕しかいない」
 地下に向かって伸びている半壊した階段を見て、僕は意を決した。
 あちこちが倒壊し、普通に下りることの出来ない階段を駆け下りようとした、その時。
 がくん、と体がひっかかった。
@@ -22,129 +22,129 @@
 くるん、と視界が半回転した。
 階段を見ていたはずなのに、僕は天井を見ている。
 そして……
-<span class="chapter-reading_char-name">ジョー</span> : 「つっ……！」
+<span class="name">ジョー</span> : 「つっ……！」
 僕は、床に倒れ込んだ。
 でもどうしてか、思ったより痛くない。
 なんで……
-<span class="chapter-reading_char-name">？？？</span> : 「つっ……」
+<span class="name">？？？</span> : 「つっ……」
 僕の体の下から声がした。
-<span class="chapter-reading_char-name">ジョー</span> : 「えっ……」
-<span class="chapter-reading_char-name">アユミ</span> : 「……ぅ…………」
-<span class="chapter-reading_char-name">ジョー</span> : 「アユミ！？」
-<span class="chapter-reading_char-name">アユミ</span> : 「ジョーさま……。良かった、間に合って……」
+<span class="name">ジョー</span> : 「えっ……」
+<span class="name">アユミ</span> : 「……ぅ…………」
+<span class="name">ジョー</span> : 「アユミ！？」
+<span class="name">アユミ</span> : 「ジョーさま……。良かった、間に合って……」
 アユミが僕の下で倒れていた。
 僕の手首は、アユミに強く握られている。
 どうして……
-<span class="chapter-reading_char-name">ジョー</span> : 「あ……」
+<span class="name">ジョー</span> : 「あ……」
 今、風景がひっくり返ったのは、アユミが僕を強く引っ張ったからだと気づいた。
 しかも、アユミは自分をクッションにして、僕と共に倒れ込んだんだ。
-<span class="chapter-reading_char-name">アユミ</span> : 「マリヲから色々と聞いて、慌てて探しに来ました」
-<span class="chapter-reading_char-name">アユミ</span> : 「そうしたら、ジョーさまが、あの中に入ろうとされていたので……」
-<span class="chapter-reading_char-name">ジョー</span> : 「そ、それは、その……あっ……！」
+<span class="name">アユミ</span> : 「マリヲから色々と聞いて、慌てて探しに来ました」
+<span class="name">アユミ</span> : 「そうしたら、ジョーさまが、あの中に入ろうとされていたので……」
+<span class="name">ジョー</span> : 「そ、それは、その……あっ……！」
 いつまでもアユミの上に乗っかっているわけにはいかないと思った僕は、慌てて飛び退いた。
-<span class="chapter-reading_char-name">ジョー</span> : 「っ……」
-<span class="chapter-reading_char-name">アユミ</span> : 「ど、どうしました、ジョーさま……あっ！　お怪我を……！」
-<span class="chapter-reading_char-name">ジョー</span> : 「な、なんでもない。ちょっとかすり傷しただけ。それより、手伝って」
-<span class="chapter-reading_char-name">アユミ</span> : 「えっ……何をですか？」
-<span class="chapter-reading_char-name">ジョー</span> : 「この下に、シーナが……それと、父さんが……！」
-<span class="chapter-reading_char-name">アユミ</span> : 「ええっ……！？」
+<span class="name">ジョー</span> : 「っ……」
+<span class="name">アユミ</span> : 「ど、どうしました、ジョーさま……あっ！　お怪我を……！」
+<span class="name">ジョー</span> : 「な、なんでもない。ちょっとかすり傷しただけ。それより、手伝って」
+<span class="name">アユミ</span> : 「えっ……何をですか？」
+<span class="name">ジョー</span> : 「この下に、シーナが……それと、父さんが……！」
+<span class="name">アユミ</span> : 「ええっ……！？」
 階段を一目見るなり、アユミは顔色を変えた。
-<span class="chapter-reading_char-name">アユミ</span> : 「そんなお怪我をしているジョーさまが、ここを下りるのは無理です。私が行きます」
-<span class="chapter-reading_char-name">ジョー</span> : 「そんな……君だって危ない！　僕が……」
-<span class="chapter-reading_char-name">？？？</span> : 「そっちに、ジョーくんがいるの！？」
+<span class="name">アユミ</span> : 「そんなお怪我をしているジョーさまが、ここを下りるのは無理です。私が行きます」
+<span class="name">ジョー</span> : 「そんな……君だって危ない！　僕が……」
+<span class="name">？？？</span> : 「そっちに、ジョーくんがいるの！？」
 （この声……コバヤカワさん？）
-<span class="chapter-reading_char-name">ダテ</span> : 「ちょっと……どうしたんだい、そのおなか！」
-<span class="chapter-reading_char-name">ジョー</span> : 「ダテさん。ど、どうして、ここに……？」
-<span class="chapter-reading_char-name">コバヤカワ</span> : 「あなたのお父様に会うために来たの。爆発音がしたから、強引に入れてもらったわ。それより、いったい、これは……」
-<span class="chapter-reading_char-name">アユミ</span> : 「ジョーさま、危ない！」
+<span class="name">ダテ</span> : 「ちょっと……どうしたんだい、そのおなか！」
+<span class="name">ジョー</span> : 「ダテさん。ど、どうして、ここに……？」
+<span class="name">コバヤカワ</span> : 「あなたのお父様に会うために来たの。爆発音がしたから、強引に入れてもらったわ。それより、いったい、これは……」
+<span class="name">アユミ</span> : 「ジョーさま、危ない！」
 アユミは僕を抱きしめると、跳んだ。
-<span class="chapter-reading_char-name">ダテ</span> : 「わっ！」
-<span class="chapter-reading_char-name">ジョー</span> : 「くっ……！」
+<span class="name">ダテ</span> : 「わっ！」
+<span class="name">ジョー</span> : 「くっ……！」
 天井が崩れ、土煙と風が僕たちを襲う。
-<span class="chapter-reading_char-name">ダテ</span> : 「コバヤカワさん！　下がって！」
-<span class="chapter-reading_char-name">ジョー</span> : 「けっ、けほ、かはっ……！　く……あうっ……！」
-<span class="chapter-reading_char-name">アユミ</span> : 「ジョーさま……」
+<span class="name">ダテ</span> : 「コバヤカワさん！　下がって！」
+<span class="name">ジョー</span> : 「けっ、けほ、かはっ……！　く……あうっ……！」
+<span class="name">アユミ</span> : 「ジョーさま……」
 （こ、困ったな……咳き込むと傷に響く）
 僕はふらふらと立ち上がって、階段を確認した。
 今の崩壊で、地下への入り口が半分ほどになった。
-<span class="chapter-reading_char-name">アユミ</span> : 「待ってください！　まだ地下へ行こうと思ってるんですか！？」
-<span class="chapter-reading_char-name">ジョー</span> : 「うん。だって、行かなくちゃ……」
-<span class="chapter-reading_char-name">ジョー</span> : 「行かなくちゃ、父さんは……シーナはどうなるんだよ！」
-<span class="chapter-reading_char-name">コバヤカワ</span> : 「まさか、この下に人がいるの！？」
-<span class="chapter-reading_char-name">ジョー</span> : 「は、はい……」
-<span class="chapter-reading_char-name">ダテ</span> : 「コバヤカワさん、これヤバイんじゃ……」
-<span class="chapter-reading_char-name">コバヤカワ</span> : 「そうね。これだけ壊れていたら……」
-<span class="chapter-reading_char-name">コバヤカワ</span> : 「それと……あなた、ちょっとこの子、支えておいて」
-<span class="chapter-reading_char-name">アユミ</span> : 「はい！」
+<span class="name">アユミ</span> : 「待ってください！　まだ地下へ行こうと思ってるんですか！？」
+<span class="name">ジョー</span> : 「うん。だって、行かなくちゃ……」
+<span class="name">ジョー</span> : 「行かなくちゃ、父さんは……シーナはどうなるんだよ！」
+<span class="name">コバヤカワ</span> : 「まさか、この下に人がいるの！？」
+<span class="name">ジョー</span> : 「は、はい……」
+<span class="name">ダテ</span> : 「コバヤカワさん、これヤバイんじゃ……」
+<span class="name">コバヤカワ</span> : 「そうね。これだけ壊れていたら……」
+<span class="name">コバヤカワ</span> : 「それと……あなた、ちょっとこの子、支えておいて」
+<span class="name">アユミ</span> : 「はい！」
 背後から胸に腕を絡め、アユミが僕を支える。
 コバヤカワさんは上着を脱ぐと、僕のおなかに巻き付け、きつく結んだ。
-<span class="chapter-reading_char-name">？？？</span> : 「つっ……」
-<span class="chapter-reading_char-name">コバヤカワ</span> : 「我慢なさい。応急処置よ。このまま運ぶわ」
-<span class="chapter-reading_char-name">ジョー</span> : 「えっ……どこに？」
-<span class="chapter-reading_char-name">コバヤカワ</span> : 「上に決まってるでしょう。ここは危険よ」
-<span class="chapter-reading_char-name">ジョー</span> : 「い、いやだ！　すぐに助けに行かなくちゃ！　シーナと、父さんが……」
-<span class="chapter-reading_char-name">アユミ</span> : 「行っては駄目です！　ジョーさま！」
+<span class="name">？？？</span> : 「つっ……」
+<span class="name">コバヤカワ</span> : 「我慢なさい。応急処置よ。このまま運ぶわ」
+<span class="name">ジョー</span> : 「えっ……どこに？」
+<span class="name">コバヤカワ</span> : 「上に決まってるでしょう。ここは危険よ」
+<span class="name">ジョー</span> : 「い、いやだ！　すぐに助けに行かなくちゃ！　シーナと、父さんが……」
+<span class="name">アユミ</span> : 「行っては駄目です！　ジョーさま！」
 下に向かおうとしたら、アユミに腕を掴まれ、引き止められた。
-<span class="chapter-reading_char-name">ダテ</span> : 「うわっ、また、崩れて……」
-<span class="chapter-reading_char-name">ジョー</span> : 「くっ……！」
-<span class="chapter-reading_char-name">ダテ</span> : 「これ、本当に危険ですよ！　コバヤカワさん！」
-<span class="chapter-reading_char-name">コバヤカワ</span> : 「わかってるわ！　全員待避！　ここも、もう崩れるわ！」
-<span class="chapter-reading_char-name">ジョー</span> : 「いやだ、離せ！　手を離して、アユミ！」
-<span class="chapter-reading_char-name">アユミ</span> : 「だ、駄目です、ジョーさま！　ジョーさまも下敷きになっちゃう……！」
-<span class="chapter-reading_char-name">ジョー</span> : 「それでもいい！　シーナが……父さんが……」
-<span class="chapter-reading_char-name">ジョー</span> : 「シーナっ……」
-<span class="chapter-reading_char-name">ジョー</span> : 「シーナ！　シーナ！！　シーナ！！」
-<span class="chapter-reading_char-name">アユミ</span> : 「くっ……ジョーさま、お願いです！　こっちへ……！」
-<span class="chapter-reading_char-name">コバヤカワ</span> : 「何してるの、さっさとしなさい！」
-<span class="chapter-reading_char-name">ジョー</span> : 「わぁぁぁぁぁ！！」
+<span class="name">ダテ</span> : 「うわっ、また、崩れて……」
+<span class="name">ジョー</span> : 「くっ……！」
+<span class="name">ダテ</span> : 「これ、本当に危険ですよ！　コバヤカワさん！」
+<span class="name">コバヤカワ</span> : 「わかってるわ！　全員待避！　ここも、もう崩れるわ！」
+<span class="name">ジョー</span> : 「いやだ、離せ！　手を離して、アユミ！」
+<span class="name">アユミ</span> : 「だ、駄目です、ジョーさま！　ジョーさまも下敷きになっちゃう……！」
+<span class="name">ジョー</span> : 「それでもいい！　シーナが……父さんが……」
+<span class="name">ジョー</span> : 「シーナっ……」
+<span class="name">ジョー</span> : 「シーナ！　シーナ！！　シーナ！！」
+<span class="name">アユミ</span> : 「くっ……ジョーさま、お願いです！　こっちへ……！」
+<span class="name">コバヤカワ</span> : 「何してるの、さっさとしなさい！」
+<span class="name">ジョー</span> : 「わぁぁぁぁぁ！！」
 引きずられる。
-<span class="chapter-reading_char-name">ジョー</span> : 「いやだ！　もう、シーナと離れないって決めたんだ！　僕は諦めないって決めたんだ！　シーナと……」
+<span class="name">ジョー</span> : 「いやだ！　もう、シーナと離れないって決めたんだ！　僕は諦めないって決めたんだ！　シーナと……」
 コバヤカワさんが僕の肩に手をかけて、アユミと一緒に引っ張る。
-<span class="chapter-reading_char-name">ジョー</span> : 「っ……」
-<span class="chapter-reading_char-name">ジョー</span> : 「ずっと一緒だって……約束したんだぁぁぁ！！」
-<span class="chapter-reading_char-name">ダテ</span> : 「もうすぐ崩れます！　早く行きましょう！」
-<span class="chapter-reading_char-name">コバヤカワ</span> : 「わかってるわよ！　あなたも手伝って！」
-<span class="chapter-reading_char-name">ダテ</span> : 「はいっ！」
-<span class="chapter-reading_char-name">ジョー</span> : 「あああああーーーー！！！！」
-<span class="chapter-reading_char-name">ジョー</span> : 「あっ……」
+<span class="name">ジョー</span> : 「っ……」
+<span class="name">ジョー</span> : 「ずっと一緒だって……約束したんだぁぁぁ！！」
+<span class="name">ダテ</span> : 「もうすぐ崩れます！　早く行きましょう！」
+<span class="name">コバヤカワ</span> : 「わかってるわよ！　あなたも手伝って！」
+<span class="name">ダテ</span> : 「はいっ！」
+<span class="name">ジョー</span> : 「あああああーーーー！！！！」
+<span class="name">ジョー</span> : 「あっ……」
 とうとう……地下室への入り口は塞がってしまった。
-<span class="chapter-reading_char-name">ジョー</span> : 「あっ……シーナ……シーナ！　シーナ、シーナ、シーナ！」
-<span class="chapter-reading_char-name">ジョー</span> : 「……っあ、あ、ああっ……！」
-<span class="chapter-reading_char-name">ジョー</span> : 「いやだ、こんなのっ……」
-<span class="chapter-reading_char-name">ジョー</span> : 「なんで、手を離したんだよ！　なんで、戻っちゃったんだよ！？」
-<span class="chapter-reading_char-name">ジョー</span> : 「どうして、僕を置いていったんだよっ……！？」
+<span class="name">ジョー</span> : 「あっ……シーナ……シーナ！　シーナ、シーナ、シーナ！」
+<span class="name">ジョー</span> : 「……っあ、あ、ああっ……！」
+<span class="name">ジョー</span> : 「いやだ、こんなのっ……」
+<span class="name">ジョー</span> : 「なんで、手を離したんだよ！　なんで、戻っちゃったんだよ！？」
+<span class="name">ジョー</span> : 「どうして、僕を置いていったんだよっ……！？」
 ずっと一緒だって言って、笑ってくれたじゃないか。
 ずっと一緒だって言って、うんって言ってくれたじゃないか。
 それなのに――
-<span class="chapter-reading_char-name">ジョー</span> : 「シーナ！！」
-<span class="chapter-reading_char-name">コバヤカワ</span> : 「うっ……！」
-<span class="chapter-reading_char-name">アユミ</span> : 「ジョーさまっ……！」
-<span class="chapter-reading_char-name">ジョー</span> : 「シーナ！！　シーナ！　シーナ！」
-<span class="chapter-reading_char-name">ダテ</span> : 「ごめんよ、ジョーくん」
+<span class="name">ジョー</span> : 「シーナ！！」
+<span class="name">コバヤカワ</span> : 「うっ……！」
+<span class="name">アユミ</span> : 「ジョーさまっ……！」
+<span class="name">ジョー</span> : 「シーナ！！　シーナ！　シーナ！」
+<span class="name">ダテ</span> : 「ごめんよ、ジョーくん」
 ダテさんも僕を引っ張る。
-<span class="chapter-reading_char-name">ジョー</span> : 「やめろ！　僕の邪魔をしないで！　僕は、シーナを……！」
-<span class="chapter-reading_char-name">ジョー</span> : 「シーナを助けなくちゃいけないんだ！」
+<span class="name">ジョー</span> : 「やめろ！　僕の邪魔をしないで！　僕は、シーナを……！」
+<span class="name">ジョー</span> : 「シーナを助けなくちゃいけないんだ！」
 地下室への入り口が、どんどん遠くなる。
-<span class="chapter-reading_char-name">ジョー</span> : 「いやだっ……」
+<span class="name">ジョー</span> : 「いやだっ……」
 引っ張られて、瓦礫が増えて……
-<span class="chapter-reading_char-name">ジョー</span> : 「シーナ！　出てきて……シーナ！」
+<span class="name">ジョー</span> : 「シーナ！　出てきて……シーナ！」
 土埃で、見えなくなっていく……
-<span class="chapter-reading_char-name">ジョー</span> : 「シーナ！」
+<span class="name">ジョー</span> : 「シーナ！」
 君に向かって伸ばした手も、土埃に紛れて、見えなくなって……
-<span class="chapter-reading_char-name">ジョー</span> : 「っ……」
+<span class="name">ジョー</span> : 「っ……」
 見えなく……なって……
-<span class="chapter-reading_char-name">ジョー</span> : 「あっ……あ、ああ……」
-<span class="chapter-reading_char-name">ジョー</span> : 「シーナ……」
-<span class="chapter-reading_char-name">ジョー</span> : 「シーーーナーーーー！！！」
+<span class="name">ジョー</span> : 「あっ……あ、ああ……」
+<span class="name">ジョー</span> : 「シーナ……」
+<span class="name">ジョー</span> : 「シーーーナーーーー！！！」
 シーナは、戻ってこなかった……
-<span class="chapter-reading_char-name">シーナ</span> : 「……シーナね。ジョーくんとずっと一緒にいたいの」
-<span class="chapter-reading_char-name">ジョー</span> : 「……僕もだよ、シーナ……」
-<span class="chapter-reading_char-name">シーナ</span> : 「じゃあ、シーナとジョーくんは、ずっと一緒にいられるの？」
+<span class="name">シーナ</span> : 「……シーナね。ジョーくんとずっと一緒にいたいの」
+<span class="name">ジョー</span> : 「……僕もだよ、シーナ……」
+<span class="name">シーナ</span> : 「じゃあ、シーナとジョーくんは、ずっと一緒にいられるの？」
 そうだよ……ずっと一緒にいる……
-<span class="chapter-reading_char-name">ジョー</span> : 「ずっと、一緒にいると決めたんだ。だから……」
+<span class="name">ジョー</span> : 「ずっと、一緒にいると決めたんだ。だから……」
 だから……だから、帰って来て……
 手錠なんかなくても、ずっと手を繋いで……
 いつでも、どこでも君と一緒……
 僕は、君と……
 ずっと…………
-<span class="chapter-reading_char-name">ジョー</span> : 「シーーーナーーーー！！！」
+<span class="name">ジョー</span> : 「シーーーナーーーー！！！」

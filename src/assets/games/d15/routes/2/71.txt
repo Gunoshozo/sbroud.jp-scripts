@@ -18,31 +18,31 @@
 でも、いままでなにをしてたんだったかしら？
 ……まあ、いいわ。とにかく起きなくちゃ。床で寝転ぶなんて。それに、もう一度眠るならベッドへ行きたい。
 まだ少しゆらゆらする頭を押さえつつ、私は起き上がって────
-<span class="chapter-reading_char-name">倭一花</span> : 「────ッ！」
-<span class="chapter-reading_char-name">倭一花</span> : 「……いない」
+<span class="name">倭一花</span> : 「────ッ！」
+<span class="name">倭一花</span> : 「……いない」
 どういうこと？
-<span class="chapter-reading_char-name">倭一花</span> : 「どうして……？　だって、誰もいないじゃない！」
-<span class="chapter-reading_char-name">世津茅早</span> : 「しぬよ」
-<span class="chapter-reading_char-name">倭一花</span> : 「……黙りなさいよ」
-<span class="chapter-reading_char-name">世津茅早</span> : 「あなた、しぬよ」
-<span class="chapter-reading_char-name">倭一花</span> : 「うるさい……うるさいのよっ！！」
-<span class="chapter-reading_char-name">倭一花</span> : 「なんであんたが私の部屋にいるの！　出てって！　さっさと出て行きなさいよ！」
-<span class="chapter-reading_char-name">世津茅早</span> : 「あなたにできることはないし」
-<span class="chapter-reading_char-name">倭一花</span> : 「やめて、うるさい！！」
-<span class="chapter-reading_char-name">世津茅早</span> : 「忠告はしたから、あとは自分で考えて」
-<span class="chapter-reading_char-name">倭一花</span> : 「うるさいって……言ってるでしょ！！」
-<span class="chapter-reading_char-name">倭一花</span> : 「うるさい、うるさい……黙れェえっ！！」
+<span class="name">倭一花</span> : 「どうして……？　だって、誰もいないじゃない！」
+<span class="name">世津茅早</span> : 「しぬよ」
+<span class="name">倭一花</span> : 「……黙りなさいよ」
+<span class="name">世津茅早</span> : 「あなた、しぬよ」
+<span class="name">倭一花</span> : 「うるさい……うるさいのよっ！！」
+<span class="name">倭一花</span> : 「なんであんたが私の部屋にいるの！　出てって！　さっさと出て行きなさいよ！」
+<span class="name">世津茅早</span> : 「あなたにできることはないし」
+<span class="name">倭一花</span> : 「やめて、うるさい！！」
+<span class="name">世津茅早</span> : 「忠告はしたから、あとは自分で考えて」
+<span class="name">倭一花</span> : 「うるさいって……言ってるでしょ！！」
+<span class="name">倭一花</span> : 「うるさい、うるさい……黙れェえっ！！」
 投げた。いろんなものを、部屋にあるものを片っ端からぶつけてやった。
 それから、思いっきりなぐってやった。
-<span class="chapter-reading_char-name">倭一花</span> : 「ハア……ハァ……ッ、ハア……」
+<span class="name">倭一花</span> : 「ハア……ハァ……ッ、ハア……」
 それっきり、彼女のおしゃべりはやんだ。
 私の望みどおりに。
-<span class="chapter-reading_char-name">倭一花</span> : 「ハァ……ッ、アハ……あははは！　どう！？　これでもまだなにか言うつもり！？」
-<span class="chapter-reading_char-name">倭一花</span> : 「なにか言ってみなさいよ！！　ホラ！！」
+<span class="name">倭一花</span> : 「ハァ……ッ、アハ……あははは！　どう！？　これでもまだなにか言うつもり！？」
+<span class="name">倭一花</span> : 「なにか言ってみなさいよ！！　ホラ！！」
 返事もない。
-<span class="chapter-reading_char-name">倭一花</span> : 「あはははは、これであんなことは二度と言えない！　ざまあみろ！　アハハははは！」
+<span class="name">倭一花</span> : 「あはははは、これであんなことは二度と言えない！　ざまあみろ！　アハハははは！」
 おかしくて、おかしくて、笑いが止まらない。
 あんまり笑いすぎて、内臓が痙攣しているのがわかる。
 それに、酸素が行き渡らない……頭が痛い。
-<span class="chapter-reading_char-name">倭一花</span> : 「そうよ、だって、いなくなるんだから……あんたなんか……ッ！！　あんたなんか、この島にはいらないのよ！！　消えちゃえ！　アハ、あはははは！」
+<span class="name">倭一花</span> : 「そうよ、だって、いなくなるんだから……あんたなんか……ッ！！　あんたなんか、この島にはいらないのよ！！　消えちゃえ！　アハ、あはははは！」
 すごく、頭が、痛い。

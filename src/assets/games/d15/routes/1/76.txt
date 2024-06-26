@@ -6,9 +6,9 @@
 回る──まわる、まわる、まわる。
 否、海が連れてきた風が、力ずくで、回す。
 羽根はただ命じられるままに回る。同じ場所で、何度も、意味などなく、グルグル、グルグル、回って回って、まわって────
-<span class="chapter-reading_char-name">高槻東吾</span> : 「う…………」
+<span class="name">高槻東吾</span> : 「う…………」
 わずかなうめき声に身体が震えて、目が、開いた。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「ここは……どこだ？」
+<span class="name">高槻東吾</span> : 「ここは……どこだ？」
 薄暗い。よく見えない。だが、知らない場所だとわかる。こんなにおいは知らない。
 長いことひとのいない部屋特有のにおいがする。ホコリのにおいだろうか。だが、不潔な感じはしない。
 順序立てて考えてみてから、自分が案外落ち着いているとわかって、少しだけホッとした。
@@ -34,7 +34,7 @@
 とにかく、いまの自分は怪我などしていないし、五体満足であることは間違いない。
 立ち上がって、周囲をキョロキョロ見回した。
 一応、扉らしきものがある。試しにノブを握って回すとなんなく開く。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「……当たり前か」
+<span class="name">高槻東吾</span> : 「……当たり前か」
 思わず独りごちて笑っちまった。こんな状況、こんな場所で鍵がかかっていたりしたら、まるで監禁だ。
 そこで、ふいと仁和のことを思い出した。俺は仁和を捜して、外へ出たんだった。
 ひょっとして、仁和も俺と同じような状態で別の部屋にいるんじゃないか？
@@ -45,13 +45,13 @@
 ……やっぱり思い出せない。
 仕方がないので、まずは倭に連絡しようとアドレス帳を開きかけた。
 が、画面の隅に“圏外”の表示を見つけて、ため息がもれた。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「これだけ四方を囲まれてりゃ、電波が届かなくても仕方ないか……ん？」
+<span class="name">高槻東吾</span> : 「これだけ四方を囲まれてりゃ、電波が届かなくても仕方ないか……ん？」
 着信と留守電のマーク、両方が画面にあった。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「倭のヤツ、痺れを切らしたっぽいな」
-<span class="chapter-reading_char-name">倭一花</span> : 「高槻くん？　倭です。気づいたら連絡してね」
-<span class="chapter-reading_char-name">倭一花</span> : 「倭です。なにかあったのかな？　\n菓からもまだ連絡がないです。心配してます。\n私もついていけばよかった……でも、待ってます」
+<span class="name">高槻東吾</span> : 「倭のヤツ、痺れを切らしたっぽいな」
+<span class="name">倭一花</span> : 「高槻くん？　倭です。気づいたら連絡してね」
+<span class="name">倭一花</span> : 「倭です。なにかあったのかな？　\n菓からもまだ連絡がないです。心配してます。\n私もついていけばよかった……でも、待ってます」
 仁和から連絡があった、という報告を少し期待したけれど、やっぱりまだらしい。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「よし、行くか」
+<span class="name">高槻東吾</span> : 「よし、行くか」
 近くにいる可能性も高いしな。
 廊下も部屋と同様に薄暗い。オマケに、しんとしている。
 こんな場所、初めてだ。でも、どこなのか予想がついた。
@@ -63,7 +63,7 @@
 かといって、いざというときを考えると不潔にしておくわけにいかないから、清潔にはしているんだろう。そう考えると辻褄があう。
 俺はまた、ひとつホッとして息をついた。知らない場所でもなんでもない、どのみちデュナミス・ベースにいるのだ。
 俺が寝ている間に、別世界へ連れて来られたと言うならともかく。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「そんなわけねえしな」
+<span class="name">高槻東吾</span> : 「そんなわけねえしな」
 にしても、ひとつぐらい明かりをつけておいてほしいもんだ。寝てる相手に電気がもったいねえと思ったのかもしれないが。
 壁にスイッチでもないかと見回しつつ、廊下を進む──と、前方に薄く扉が開いている部屋があった。
 誰かいるんだろうか？
@@ -77,11 +77,11 @@
 ……さっきの部屋とは違うな。
 なんだかデカイものが置いてある。あれはなんだ？　横に長いシルエットしかわからない。
 首を傾げていると、ふと、壁にスイッチらしきものがあることに気づいた。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「…………なんだこりゃ」
+<span class="name">高槻東吾</span> : 「…………なんだこりゃ」
 電気がついてもよくわからなかった。
 長いものを置く台？　だろうか。上には袋に入ったもんが乗せてあるし。
 よくわからないまま、台に近づいてみた。思ったよりデカい。おそらく俺が両腕を広げたよりも幅がある。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「ンだよ。こんなもんがあるなら、さっきの部屋にも置いといてくれりゃ──」
+<span class="name">高槻東吾</span> : 「ンだよ。こんなもんがあるなら、さっきの部屋にも置いといてくれりゃ──」
 床に寝なくてすんだじゃねえか。
 そう言おうとして、なぜだか急に、ギクリとした。
 奥にある、あの袋。
@@ -112,7 +112,7 @@
 よく知っているものが。
 でも、全然別のものが。
 中に、無造作に、ぎゅうぎゅうと、詰め込まれていた。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「なんだ…………？　これ」
+<span class="name">高槻東吾</span> : 「なんだ…………？　これ」
 よく、見た。
 目をこれ以上ないほど開いて。
 呼吸もせず。
@@ -131,7 +131,7 @@
 落ちていたのは、メガネだった。
 メガネだ。
 俺は、そのメガネをよく知っていた。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「白…………」
+<span class="name">高槻東吾</span> : 「白…………」
 無意識で呟いた自分の声に、俺は驚愕した。
 白、つくも、ツクモ──ダイスケ。大輔。
 幼なじみ。クラスメイト。腐れ縁。口うるさくて、頭が硬くて、やかましい男の名前。
@@ -142,12 +142,12 @@
 この、
 汚くて、グチャグチャで、子供が工作かなにかに失敗したみたいな、この、塊──────────────────────────────────────
 白、大輔。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「ぅ、あっ…………っ」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「ぐ、ぁ……っはあ…………ッ！」
+<span class="name">高槻東吾</span> : 「ぅ、あっ…………っ」
+<span class="name">高槻東吾</span> : 「ぐ、ぁ……っはあ…………ッ！」
 吐いた。
 胃の中から絞り出すように、吐いた。なにもかも。残らず。
 やがて出すものがなくなっても、えずきが止まらずに、胃液だけ垂れ流した。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「は、っ……あ、あ……っ、く」
+<span class="name">高槻東吾</span> : 「は、っ……あ、あ……っ、く」
 痙攣が収まらない。
 身体をまっすぐ立てておけず、腹を抱えたまま床に額をこすりつけ、ぬかづいた。
 身体中の水分すべてが、出口を求めてさかまいているような気がした。
@@ -156,68 +156,68 @@
 これが、俺の知りたかったモノ。
 俺が、知ろうとしたモノ。
 なんとしてでももぎ取りたいと、俺が望んで、手を伸ばして、つかんだモノ。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「……は、は、はは、アハハ、ハハハハハハ、アハハハハハハハハ！」
+<span class="name">高槻東吾</span> : 「……は、は、はは、アハハ、ハハハハハハ、アハハハハハハハハ！」
 全部、俺が望んだことだ。
 望み通りになった。
 やあ、これで満足か？　望みが叶って嬉しいか？
 ──ああ、面白くてしょうがねえ。
 バカバカしくて、腹がよじれて、中身を全部ぶちまけちまいたい。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「なにやってンだよこんなトコで……\nなにやってンだよ……ッ！」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「…………白！！」
+<span class="name">高槻東吾</span> : 「なにやってンだよこんなトコで……\nなにやってンだよ……ッ！」
+<span class="name">高槻東吾</span> : 「…………白！！」
 なんでだ、どうしてだ、どうして、どうして──こんなことになってる！？
-<span class="chapter-reading_char-name">高槻東吾</span> : 「誰がやった……いったい、誰がやった！？」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「誰だ、……誰だ！！」
+<span class="name">高槻東吾</span> : 「誰がやった……いったい、誰がやった！？」
+<span class="name">高槻東吾</span> : 「誰だ、……誰だ！！」
 誰が、俺の、幼なじみに、こんなバカバカしいこと────
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「なんだ、ウジじゃねえか」
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「ウジ虫ってのはこれだから始末が悪ィ。すぐにわいて来やがる」
+<span class="name">宮藤一咲</span> : 「なんだ、ウジじゃねえか」
+<span class="name">宮藤一咲</span> : 「ウジ虫ってのはこれだから始末が悪ィ。すぐにわいて来やがる」
 どこからともなく声がした。
 部屋には誰もいない。
 いないが、俺の、知っている声がした。
 知っている声が、笑いながら、言った、嗤いながら、おかしくてたまらないと嗤いながら、言った。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「宮藤！！」
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「先生って言えよウジ虫」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「オ、マエ──オマエ……ッ！」
+<span class="name">高槻東吾</span> : 「宮藤！！」
+<span class="name">宮藤一咲</span> : 「先生って言えよウジ虫」
+<span class="name">高槻東吾</span> : 「オ、マエ──オマエ……ッ！」
 うまく、言葉が繋がらない。言いたいことが形にならない。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「やったのか……コレを、やったのか！」
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「ああん？」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「オマエが、コレを、やったのか！！　やったのは、オマエなのか！！」
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「聞いてどうすんだ？　ン？」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「答えろ！　オマエがやったのか！！」
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「ンなこと、いちいち訊かなくてもテメエ知ってンだろ？」
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「それとも、なにか。わざわざ訊きたいのか？　そういうシュミか」
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「俺に決まってンだろう。俺以外に誰がやるんだよ、こんな小汚ねえコトをよ」
+<span class="name">高槻東吾</span> : 「やったのか……コレを、やったのか！」
+<span class="name">宮藤一咲</span> : 「ああん？」
+<span class="name">高槻東吾</span> : 「オマエが、コレを、やったのか！！　やったのは、オマエなのか！！」
+<span class="name">宮藤一咲</span> : 「聞いてどうすんだ？　ン？」
+<span class="name">高槻東吾</span> : 「答えろ！　オマエがやったのか！！」
+<span class="name">宮藤一咲</span> : 「ンなこと、いちいち訊かなくてもテメエ知ってンだろ？」
+<span class="name">宮藤一咲</span> : 「それとも、なにか。わざわざ訊きたいのか？　そういうシュミか」
+<span class="name">宮藤一咲</span> : 「俺に決まってンだろう。俺以外に誰がやるんだよ、こんな小汚ねえコトをよ」
 嗤って、言った。嗤ってヘラヘラ笑って、嗤って、そんなコトはくだらないと、つまらねえと、吐き捨てるように──嗤って。
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「残りカスは腐るだけだ。どうせ捨てる。後始末をどうしようが俺の勝手だろうが」
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「なんならいまから理科の授業でもするか？　もっとも、中は取ったり捨てたりした残骸だけどなァ。ハハハ」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「…………らうな」
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「聞こえねえな」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「笑うな！　笑うな、笑うなわらうなわらうな──笑うな！！」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「痛てえんだよ！！　やめろよ！　バカにすんのもいい加減にしろ！」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「なんでだよ、どうしてだよ……なんでこんなことすんだよ！！　なんでコイツじゃなきゃいけなかったんだよ！！」
-<span class="chapter-reading_char-name">高槻東吾</span> : 「コイツは、選ばれたんだろ！？\n選ばれて日本に────」
+<span class="name">宮藤一咲</span> : 「残りカスは腐るだけだ。どうせ捨てる。後始末をどうしようが俺の勝手だろうが」
+<span class="name">宮藤一咲</span> : 「なんならいまから理科の授業でもするか？　もっとも、中は取ったり捨てたりした残骸だけどなァ。ハハハ」
+<span class="name">高槻東吾</span> : 「…………らうな」
+<span class="name">宮藤一咲</span> : 「聞こえねえな」
+<span class="name">高槻東吾</span> : 「笑うな！　笑うな、笑うなわらうなわらうな──笑うな！！」
+<span class="name">高槻東吾</span> : 「痛てえんだよ！！　やめろよ！　バカにすんのもいい加減にしろ！」
+<span class="name">高槻東吾</span> : 「なんでだよ、どうしてだよ……なんでこんなことすんだよ！！　なんでコイツじゃなきゃいけなかったんだよ！！」
+<span class="name">高槻東吾</span> : 「コイツは、選ばれたんだろ！？\n選ばれて日本に────」
 声が、なぜか、止まった。
 喉がカラカラで、かすかすして、頭ン中が真っ白で、言いたいコトが全部吹き飛んで、背骨沿いに震えが立ち上ってきた。
 声なんか、でるはずがなかった。
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「続きはどうした」
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「威勢がよかったわりに尻すぼみじゃねえか、ああ？　センセーが聞いててやるから言ってみな？」
-<span class="chapter-reading_char-name">仁和菓</span> : 「先生……やめて、やめて！」
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「……どうしても言えねえなら、俺が言ってやろう」
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「選ばれたから、ここへ来たんだよ」
-<span class="chapter-reading_char-name">仁和菓</span> : 「やめて、それ以上……高槻くんにひどいこと言わないで……せんせい、おねがい……！」
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「僕は日本の未来のために尽くすことを誇りに思います、とかなんとか言ってたぞ？」
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「だったら、願ったり叶ったりだろうが」
-<span class="chapter-reading_char-name">仁和菓</span> : 「せんせい……っ！」
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「ビービーうるせえぞこのガキ！」
-<span class="chapter-reading_char-name">仁和菓</span> : 「高槻くん、お願い、帰って……帰ってください」
-<span class="chapter-reading_char-name">仁和菓</span> : 「なにも言わないで、早く帰ってください……一花ちゃんをひとりにしないで」
+<span class="name">宮藤一咲</span> : 「続きはどうした」
+<span class="name">宮藤一咲</span> : 「威勢がよかったわりに尻すぼみじゃねえか、ああ？　センセーが聞いててやるから言ってみな？」
+<span class="name">仁和菓</span> : 「先生……やめて、やめて！」
+<span class="name">宮藤一咲</span> : 「……どうしても言えねえなら、俺が言ってやろう」
+<span class="name">宮藤一咲</span> : 「選ばれたから、ここへ来たんだよ」
+<span class="name">仁和菓</span> : 「やめて、それ以上……高槻くんにひどいこと言わないで……せんせい、おねがい……！」
+<span class="name">宮藤一咲</span> : 「僕は日本の未来のために尽くすことを誇りに思います、とかなんとか言ってたぞ？」
+<span class="name">宮藤一咲</span> : 「だったら、願ったり叶ったりだろうが」
+<span class="name">仁和菓</span> : 「せんせい……っ！」
+<span class="name">宮藤一咲</span> : 「ビービーうるせえぞこのガキ！」
+<span class="name">仁和菓</span> : 「高槻くん、お願い、帰って……帰ってください」
+<span class="name">仁和菓</span> : 「なにも言わないで、早く帰ってください……一花ちゃんをひとりにしないで」
 一花ちゃん────倭。
 ぼうっと聞いていた俺は、そのひと言で我に返った。
-<span class="chapter-reading_char-name">高槻東吾</span> : 「仁和か！？　宮藤と一緒にいンのか！？　なんでだ！！」
-<span class="chapter-reading_char-name">仁和菓</span> : 「ごめんなさい…………ほんとに、ごめんなさ、きゃあっ！」
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「ジタバタすんじゃねえよウジ共が」
-<span class="chapter-reading_char-name">仁和菓</span> : 「せんせい……わたしだけにしてください、おねがい」
-<span class="chapter-reading_char-name">仁和菓</span> : 「わたし先生に叱られたいんです、蹴ってもいいです。もっともっといっぱい叱られたいです、だから……だから、高槻くんは帰してあげて……っ」
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「うるせえ！」
-<span class="chapter-reading_char-name">仁和菓</span> : 「きゃう……っ」
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「勘違いするんじゃねえ、オマエらはな、選ぶ権利なんざないんだよ！」
-<span class="chapter-reading_char-name">宮藤一咲</span> : 「ホラ、ウジ虫。おなじ目に遭いたくなかったらさっさと逃げろ！　ハハハ！」
+<span class="name">高槻東吾</span> : 「仁和か！？　宮藤と一緒にいンのか！？　なんでだ！！」
+<span class="name">仁和菓</span> : 「ごめんなさい…………ほんとに、ごめんなさ、きゃあっ！」
+<span class="name">宮藤一咲</span> : 「ジタバタすんじゃねえよウジ共が」
+<span class="name">仁和菓</span> : 「せんせい……わたしだけにしてください、おねがい」
+<span class="name">仁和菓</span> : 「わたし先生に叱られたいんです、蹴ってもいいです。もっともっといっぱい叱られたいです、だから……だから、高槻くんは帰してあげて……っ」
+<span class="name">宮藤一咲</span> : 「うるせえ！」
+<span class="name">仁和菓</span> : 「きゃう……っ」
+<span class="name">宮藤一咲</span> : 「勘違いするんじゃねえ、オマエらはな、選ぶ権利なんざないんだよ！」
+<span class="name">宮藤一咲</span> : 「ホラ、ウジ虫。おなじ目に遭いたくなかったらさっさと逃げろ！　ハハハ！」

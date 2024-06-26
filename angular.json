@@ -27,7 +27,8 @@
             "inlineStyleLanguage": "less",
             "assets": [
               "src/favicon.ico",
-              "src/assets",
+              "src/assets/games",
+              "src/assets/images",
               {
                 "glob": "**/*",
                 "input": "node_modules/@taiga-ui/icons/src",
@@ -35,7 +36,7 @@
               },
               {
                 "glob": "**/*",
-                "input": "dist/replace-assets",
+                "input": "./replace-assets",
                 "output": "/assets"
               }
             ],
