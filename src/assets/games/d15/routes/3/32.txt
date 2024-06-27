@@ -1,0 +1,61 @@
+<span class="name">倭一花</span> : 「これ……なんで菓にこんなメールが……？」
+<span class="name">後藤眞波</span> : 「そんなのあたしだってわからないよ。だから一花に相談しようと思って」
+<span class="name">倭一花</span> : 「いたずら、にしては度が過ぎてるし、この画像はどう見ても……」
+<span class="name">後藤眞波</span> : 「ホンモノ、だよね……」
+<span class="name">倭一花</span> : 「それで、菓はどこに行ったの？」
+<span class="name">後藤眞波</span> : 「わかんないけど、すっごく急いでた」
+<span class="name">倭一花</span> : 「どうして止めなかったのよ。あの子、私にも言わないで行くなんて……」
+<span class="name">後藤眞波</span> : 「ごめん……こんな、こんな事になるとわかってたら…」
+<span class="name">倭一花</span> : 「そ、そうよね……ごめんなさい、眞波を責めたって意味がないのに」
+<span class="name">倭一花</span> : 「菓、最近なにか隠し事してる気がしてたの。私が信用できなかったってことかも……」
+<span class="name">後藤眞波</span> : 「そんなことない！」
+<span class="name">倭一花</span> : 「私、いつの間にか菓に嫌われていたのかも……」
+<span class="name">後藤眞波</span> : 「違うよ！　このたんは一花が大好きだよ」
+<span class="name">倭一花</span> : 「だったら……」
+<span class="name">後藤眞波</span> : 「きっと、大好きな一花ちゃんに迷惑かけたくない！　とかって、このたんならそう言うと思う」
+<span class="name">倭一花</span> : 「……」
+<span class="name">後藤眞波</span> : 「それよか、これからどうするかだよ。このメアド、一花は知ってる？」
+<span class="name">倭一花</span> : 「さあ……私は見たことがないと思う。大体誰がこんな酷いメールを送ってきたのかしら……」
+<span class="name">後藤眞波</span> : 「こうなったら男子たちにも聞いてみようか？」
+<span class="name">倭一花</span> : 「そうね。私達だけじゃ不安だわ」
+そう言って一花ちゃんは、さっそく携帯で電話をかけはじめた。
+こんな早い時間にみんな起きてるといいんだけど……。
+<span class="name">倭一花</span> : 「だめ、誰も出ない」
+<span class="name">後藤眞波</span> : 「朝早いし、まだ寝てるよねぇ」
+<span class="name">倭一花</span> : 「仕方ないわ、直接行きましょう」
+<span class="name">後藤眞波</span> : 「……そうだね、行こう！」
+<span class="name">世津茅早</span> : 「…………」
+<span class="name">後藤眞波</span> : 「あ……」
+<span class="name">倭一花</span> : 「世津さん……？　なにかあった？　休みの日に制服なんか着て」
+<span class="name">世津茅早</span> : 「……別に」
+<span class="name">倭一花</span> : 「そう……お騒がせしてごめんなさい」
+<span class="name">世津茅早</span> : 「…………」
+茅早ちゃんは意味ありげな視線をこちらに投げかけると、静かにあたし達の元を離れていった。
+<span class="name">倭一花</span> : 「……さ、行こう眞波」
+<span class="name">後藤眞波</span> : 「ちょっと一花、どうしちゃったのよ急にー！」
+<span class="name">倭一花</span> : 「………別に」
+<span class="name">後藤眞波</span> : 「さっき、茅早ちゃんにも相談した方がよかったんじゃ？」
+<span class="name">後藤眞波</span> : 「頭よさそーだし、ホラ、日本仕込みのなんかすごいこと知ってるかも」
+<span class="name">倭一花</span> : 「あの子と菓はなんの関係もないでしょう」
+<span class="name">倭一花</span> : 「菓だってプライベートなことを勝手に広められたと知ったら、後で嫌な気分になるに決まってるわ」
+<span class="name">後藤眞波</span> : 「そ、それはそうかもしんないけど……」
+<span class="name">倭一花</span> : 「それより行くわよ」
+<span class="name">後藤眞波</span> : 「う、うん……」
+……茅早ちゃん。まだひと言も話せてないな。
+あの子はあたしたちの知らないことを知ってるはずなのに。
+<span class="name">倭一花</span> : 「待って、そういえば……」
+<span class="name">後藤眞波</span> : 「どしたの？」
+<span class="name">倭一花</span> : 「今日も外出禁止令が出るとしたら、やっかいね」
+<span class="name">後藤眞波</span> : 「なんで？」
+<span class="name">倭一花</span> : 「出歩いたら怒られるでしょ」
+<span class="name">倭一花</span> : 「まだ６時前……放送が入るとしたら７時、外出禁止令が出るならそのときに指示があるはずだから……」
+<span class="name">後藤眞波</span> : 「じゃ、いまなら外に出ても別に悪くないってことじゃん！」
+<span class="name">倭一花</span> : 「警備のひとたちに見つかったら、いくら屁理屈言っても連れ戻されるでしょうけどね」
+<span class="name">後藤眞波</span> : 「じゃ、見つからなきゃいい！」
+<span class="name">倭一花</span> : 「…………クス、そうね。眞波のそういうところ、こういう時だけは頼もしいわ」
+<span class="name">後藤眞波</span> : 「だけってのが、余計！　で、あたし抜け道知ってるから、とりあえず外に出るまでは誰にも見つからないよ」
+<span class="name">倭一花</span> : 「抜け道？」
+<span class="name">後藤眞波</span> : 「こっちこっち！」
+<span class="name">倭一花</span> : 「へえ、こんなところから外に出られたのね……知らなかったわ」
+<span class="name">後藤眞波</span> : 「まーねー！　寮長さえも知らないことを知ってるあたし。こういうことは任せといてよ！」
+<span class="name">倭一花</span> : 「そうね。先を急ぎましょう。ここで警備の人たちに見つかったら元も子もないわ」

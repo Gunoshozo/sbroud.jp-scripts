@@ -1,0 +1,111 @@
+--choice If Have Key Tip 2度目のＥＮＤ
+<span class="name">網代慎平</span>: …………。
+<span class="name">網代慎平</span>: （……これで２回目だ。　また時間が戻った）
+<span class="name">網代慎平</span>: （オレは、死んだのか……？　だとしたら、なんで戻るんだよ……）
+--choiceEnd
+--choice Else If Have Key Tip １度目のＥＮＤ
+<span class="name">網代慎平</span>: …………。
+<span class="name">網代慎平</span>: （思わぬ再会だったな……）
+<span class="name">網代慎平</span>: （……しかし、小弓場さんと話す前に覚えた　あの既視感はなんだったんだ？）
+<span class="name">網代慎平</span>: （さっきの人の時も何か変だったし……。　やっぱり疲れてるのかな）
+--choiceEnd
+--choice Else
+<span class="name">船内アナウンス</span>: ――ご乗船、ありがとうございました。
+<span class="name">網代慎平</span>: …………。
+<span class="name">網代慎平</span>: ……変わってないなぁ。２年前と、ぜんぜん……。
+<span class="name">網代慎平</span>: …………。
+--choiceEnd
+<span class="name">小舟澪</span>: おおーーーい！！
+<span class="name">網代慎平</span>: ……ん？
+<span class="name">小舟澪</span>: おかえり慎ちゃん！！長旅お疲れさまあああ～～～～～！！
+--choice If Have Key Tip 2度目のＥＮＤ
+<span class="name">網代慎平</span>: （まただ……またこの光景だ！）
+<span class="name">網代慎平</span>: （フカンしろ、フカンしろ！！　声が聞こえただろ……潮の声が……！！）
+<span class="name">網代慎平</span>: （あいつがオレに頼んでるんだ。　澪のことを……守れって！！）
+<span class="name">小舟澪</span>: ……あ、あれっ？ブレーキがっ……あああああああっ！？
+--choice If Action ○/A
+<span class="name">網代慎平</span>: …………！
+<span class="name">網代慎平</span>: （たしか澪のブレーキは細工されていたはず……！）
+<span class="name">網代慎平</span>: （は、早く澪を止めないと――）
+<span class="name">網代慎平</span>: あっ……！！
+<span class="name">網代慎平</span>: （しまった、出遅れた！　間に合わない……！！）
+<span class="name">小舟澪</span>: わあああああああっ！！
+<span class="name">網代慎平</span>: （クソッ……何やってんだオレは！！　もっと早く動いておけば……！）
+<span class="name">網代慎平</span>: 澪ーーーーーッ！！大丈夫かっ！？
+<span class="name">小舟澪</span>: ……ブクブクブクブク……。
+<span class="name">小舟澪</span>: ――ぷはッ！
+<span class="name">小舟澪</span>: あ、あははは……！ごめん慎ちゃん、びっくりさして……！
+<span class="name">網代慎平</span>: 大丈夫か！？ケガは！？
+<span class="name">小舟澪</span>: えっ？あァ、全然平気！海に落ちただけやし。
+<span class="name">小舟澪</span>: それにほら！ちょっと汗かいたから……水浴びしょか思て！！
+<span class="name">網代慎平</span>: …………！
+<span class="name">網代慎平</span>: ははは……。元気そうでなによりかよ……。
+<span class="name">網代慎平</span>: （前とほぼ同じセリフ……。　やっぱり、本当にループしてるのか）
+<span class="name">網代慎平</span>: ほら、上がってこい。手貸すから。
+<span class="name">小舟澪</span>: ……ありがと。
+<span class="name">網代慎平</span>: ……海、しょっぱかったか？
+<span class="name">小舟澪</span>: へっ？　あ、うん……。……なんでそんなこと聞くん？
+<span class="name">網代慎平</span>: いや……なんでもない。
+--choiceEnd
+--choice Else If Action L1/L
+<span class="name">網代慎平</span>: 澪ッ！！
+<span class="name">小舟澪</span>: 慎ちゃんッ！！危な――
+<span class="name">網代慎平</span>: オレに……まかしとけっ！！
+<span class="name">網代慎平</span>: あっ……！！
+<span class="name">小舟澪</span>: 慎ちゃん！！
+<span class="name">網代慎平</span>: （うぅっ……。　な、なんとか澪は守ったけど……）
+<span class="name">網代慎平</span>: （オレ……泳げないんだった……）
+<span class="name">網代慎平</span>: （ここ、かなり深いよな？　このままだとヤバイ……）
+<span class="name">小舟澪</span>: …………！！
+<span class="name">網代慎平</span>: （まず、い……。　意識……が……）
+<span class="name">網代慎平</span>: …………。
+<span class="name">小舟澪</span>: 慎ちゃんっ！！
+<span class="name">小舟澪</span>: 慎ちゃん！慎ちゃん、しっかり！
+<span class="name">網代慎平</span>: み、澪……。ケガはないか……？
+<span class="name">小舟澪</span>: ……うんっ。ありがと、慎ちゃん！
+<span class="name">網代慎平</span>: でも、結局おまえに助けられてしもたからなァ。情けないわ……。
+<span class="name">小舟澪</span>: そんなことあらへんよ！体張って助けてくれたやん！
+<span class="name">小舟澪</span>: とにかくゴメン！なんでかブレーキが利かんくて……。
+<span class="name">網代慎平</span>: まあ、怪我してやんなら、良かったわ。
+<span class="name">小舟澪</span>: あっ、慎ちゃんこそ怪我してない？
+<span class="name">網代慎平</span>: 大丈夫や。でも、ずぶ濡れになってもたわ。
+<span class="name">小舟澪</span>: 夏やし、歩いてたら乾くと思うけど……。とりあえずうち行こっ。
+<span class="name">網代慎平</span>: そうやな。
+--choiceEnd
+--choiceEnd
+--choice Else
+--choice If Have Key Tip １度目のＥＮＤ
+<span class="name">網代慎平</span>: …………！！
+<span class="name">網代慎平</span>: （ウソだろ……。　<span class="dict">デジャヴ</span>って……こういうのを言うんだろうか――）
+--choiceEnd
+--choice Else
+<span class="name">網代慎平</span>: <span class="dict">澪</span>！
+<span class="name">網代慎平</span>: （思っていたより元気そうで安心……じゃなくて！）
+<span class="name">網代慎平</span>: お、おいっ！飛ばし過ぎだぞ！！ブレーキッ！！
+<span class="name">小舟澪</span>: ……あ、あれっ？ブレーキがっ……あああああああっ！？
+--choiceEnd
+<span class="name">網代慎平</span>: ちょ、澪！？
+<span class="name">網代慎平</span>: お、おい、大丈夫か？
+<span class="name">小舟澪</span>: ……ブクブクブクブク……。
+<span class="name">小舟澪</span>: ――ぷはッ！
+<span class="name">小舟澪</span>: あ、あははは……！ごめん慎ちゃん、びっくりさして……！
+<span class="name">網代慎平</span>: はぁ……何やってんの？
+<span class="name">小舟澪</span>: ちょっと汗かいたから……水浴びしょか思て！！
+<span class="name">網代慎平</span>: 元気そうでなによりかよ……。
+--choice If Have Key Tip １度目のＥＮＤ
+<span class="name">網代慎平</span>: （さっき飛び込んだ時の澪……。　パンツのガラまで同じだった）
+<span class="name">網代慎平</span>: 澪、ブレーキはどうした？かからんかったんか？
+<span class="name">小舟澪</span>: うん……！ちゃんとかけたのにィ～ッ！おかしいな～～～……。
+<span class="name">網代慎平</span>: （どういうことだ、何か故障でも……？）
+<span class="name">網代慎平</span>: っ！？
+<span class="name">網代慎平</span>: （<span class="dict">ブレーキ</span>のワイヤーに　切れ込みを入れたような跡が……！？）
+<span class="name">網代慎平</span>: （これじゃ、ブレーキを強く握れば　千切れてしまって当然だ）
+<span class="name">網代慎平</span>: （海に落ちたから良かったものの、　下手すれば命に関わる大事故になってた　かもしれない！）
+<span class="name">網代慎平</span>: （いたずらでは済まされへんぞ。　一体誰がこんなことを――）
+<span class="name">小舟澪</span>: 慎ちゃーん？手ェぐらい貸してくれてもええやん！
+<span class="name">網代慎平</span>: あ、ああ！ごめん……。
+--choiceEnd
+<span class="name">網代慎平</span>: ほら、上がってこい。
+<span class="name">小舟澪</span>: ……ありがと。
+<span class="name">小舟澪</span>: ……しょっぱいなぁ、<span class="dict">海</span>。
+--choiceEnd

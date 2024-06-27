@@ -1,0 +1,87 @@
+<span class="name">網代慎平</span>: 潮っ！！
+<span class="name">網代慎平</span>: ………………むに？
+<span class="name">？？？</span>: …………。
+<span class="name">網代慎平</span>: あー、っと……。
+<span class="name">網代慎平</span>: （こ、この感触……もしかして？）
+<span class="name">？？？</span>: ………………。
+<span class="name">網代慎平</span>: ……わああああっ！？
+<span class="name">網代慎平</span>: えっ！！？あ……！
+<span class="name">網代慎平</span>: ごめんなさい、ごめんなさいっ！！そそそそんなつもりはっ……！！
+<span class="name">？？？</span>: …………。
+<span class="name">網代慎平</span>: （お、怒ってる……？　そりゃ当たり前だよな。　早く誤解を解かないと！）
+--choice If Have Key Tip １度目のＥＮＤ
+<span class="name">網代慎平</span>: （……あれ？　なんか、少し前にもこんなことが……）
+<span class="name">網代慎平</span>: （って、いやいや。　今は謝るのが先だっ！）
+--choiceEnd
+<span class="name">網代慎平</span>: あ、あのっ！今のはわざとじゃなくて――
+<span class="name">網代慎平</span>: いぃっ……たぁあああァ～～～ッ！！
+<span class="name">網代慎平</span>: す……すみませんでしたっ……！！
+<span class="name">？？？</span>: はぁ……。
+--choice If Have Key Tip １度目のＥＮＤ
+<span class="name">？？？</span>: …………。
+<span class="name">？？？</span>: 大丈夫か……？
+<span class="name">網代慎平</span>: えっ？
+<span class="name">？？？</span>: ずいぶんうなされていたが……。悪い夢でも見たのかい？
+<span class="name">網代慎平</span>: ……ゆ、夢……？
+<span class="name">網代慎平</span>: （あ……この人……。　会ったことが……！？）
+<span class="name">網代慎平</span>: （どういうことだ……？　この人が撃たれて……澪が二人いて）
+<span class="name">網代慎平</span>: （それからどうなったんだ？　オレはどうしてフェリーに……）
+<span class="name">？？？</span>: …………。
+<span class="name">網代慎平</span>: あ、あの……。
+<span class="name">網代慎平</span>: 鉄砲で撃たれたことって……あ、あります？
+<span class="name">？？？</span>: は？
+<span class="name">？？？</span>: キミ……本当に大丈夫か？
+<span class="name">網代慎平</span>: あ……いや何でも……。
+<span class="name">網代慎平</span>: （やばい！　今のオレ、めちゃくちゃ不審者だ！　このままだと通報されるかも……）
+--choiceEnd
+<span class="name">？？？</span>: 早く目を覚ましたまえ。
+<span class="name">網代慎平</span>: （行ってしまった……）
+<span class="name">網代慎平</span>: （通報されなくてすんだけど……　本当に申し訳ないことしてしまったな）
+--choice If Have Key Tip １度目のＥＮＤ
+<span class="name">網代慎平</span>: （……それにしても）
+<span class="name">網代慎平</span>: （オレ、さっきの人にビンタされるの……　初めてじゃないような？）
+<span class="name">網代慎平</span>: （いや、そんなわけないか。　なに考えてんだよ、オレは）
+<span class="name">網代慎平</span>: （それにしても、頬がじんじんする。　ビンタって、こんなに痛かったんやな。　頬、腫れてもうてるかも……）
+<span class="name">網代慎平</span>: （鏡は……持ってない。　スマホのカメラで見てみるか）
+<span class="name">網代慎平</span>: ……あれ？
+<span class="name">網代慎平</span>: （７月……２２日？　これ、昨日の日付だよな？）
+<span class="name">網代慎平</span>: （壊れた……んだよな？　まさか、そんな……）
+<span class="name">網代慎平</span>: ……あのっ、すみません。ちょっといいですか？
+<span class="name">横にいた少女</span>: ……はいっ？な、なんでしょう……？
+<span class="name">網代慎平</span>: ええと……今日の日付って、７月２３日で合ってますよね……？
+<span class="name">横にいた少女</span>: えっ？え、ええと……。
+<span class="name">横にいた少女</span>: いえ……２２日だと思いますけど。違いましたかね……？
+<span class="name">網代慎平</span>: …………！？
+<span class="name">網代慎平</span>: そ……そう、でしたね。
+<span class="name">網代慎平</span>: すみません、勘違いでした！失礼します……！
+<span class="name">横にいた少女</span>: あ、はい……。
+<span class="name">網代慎平</span>: …………。
+<span class="name">網代慎平</span>: （そうだ。　あれは夢だったんだ）
+<span class="name">網代慎平</span>: （２３日に、澪から潮の影の話を聞いて、　それからヒルコ様に行って……）
+<span class="name">網代慎平</span>: （澪が二人いて、澪が澪に殺され、　たぶんオレも拳銃で……）
+<span class="name">網代慎平</span>: …………。
+<span class="name">網代慎平</span>: ……ばかばかしい。そんなわけないよな。
+<span class="name">網代慎平</span>: （ちょっと考えればわかることだ。　そんなこと現実にあるわけないじゃないか）
+<span class="name">網代慎平</span>: （そういえば、昨日の夜……。　あれを読みながら眠ったんだった）
+<span class="name">網代慎平</span>: （――南雲竜之介『<span class="dict">沼男</span>』）
+<span class="name">網代慎平</span>: （家族や友人が、　瓜二つのニセモノに入れ替わっている……）
+<span class="name">網代慎平</span>: （そんな妄想に取り憑かれた少女が主人公の、　和歌山市を舞台にしたホラーミステリ）
+<span class="name">網代慎平</span>: （こんなのを読みながら眠ってしまったから　悪い夢を見たに違いない……）
+<span class="name">網代慎平</span>: （やっぱり、潮の件で　相当参ってるみたいだ……）
+--choiceEnd
+--choice Else
+<span class="name">網代慎平</span>: …………。
+<span class="name">網代慎平</span>: （いてて……　頬がじんじんする……）
+<span class="name">網代慎平</span>: （変な夢見たせいで、　危うく人生終了するとこだった……）
+<span class="name">網代慎平</span>: （落ち着け落ち着け……。　こ、こんな時は、　自分を<span class="dict">フカン</span>で見て落ち着け……）
+<span class="name">網代慎平</span>: （突然の電話と睡眠不足で疲れてただけだ……。　深呼吸をして落ち着いて……）
+<span class="name">網代慎平</span>: …………。
+<span class="name">網代慎平</span>: （そういえば、　ビンタされるん……生まれて初めてだよな？）
+<span class="name">網代慎平</span>: …………。
+<span class="name">網代慎平</span>: ……うん、落ち着いてきた。
+--choiceEnd
+<span class="name">船内アナウンス</span>: まもなく、日都ヶ島に到着します。
+<span class="name">網代慎平</span>: おっ、そろそろだな……。
+<span class="name">網代慎平</span>: （和歌山県和歌山市、　紀淡海峡に浮かぶ『<span class="dict">日都ヶ島</span>』。　うしろに見えるのは淡路島だ）
+<span class="name">網代慎平</span>: （オレは２年ぶりに、この故郷に帰って来た――）
+<span class="name">網代慎平</span>: （――幼なじみの、　小舟潮の葬儀に参列するために）

@@ -1,0 +1,49 @@
+<span class="name">後藤眞波</span> : 「あっれー、デカくん！　なにしてんのっ？」
+<span class="name">高槻東吾</span> : 「なんだ、オマエか」
+<span class="name">後藤眞波</span> : 「奇遇だねぇ、そうだ、これから一緒にデートでもどう？」
+<span class="name">高槻東吾</span> : 「なんでだよ。そんなヒマねえよ」
+<span class="name">後藤眞波</span> : 「ケチ」
+<span class="name">高槻東吾</span> : 「……つーかオマエ、前からヘンだとは知ってたけど、最近さらにおかしいだろ」
+<span class="name">後藤眞波</span> : 「はい？　マジ？　さらにおかしいってナニ？」
+<span class="name">高槻東吾</span> : 「拾い食いでもしたんだろ」
+<span class="name">後藤眞波</span> : 「あのねー……はー、まぁいいや。デカくんがあたしのコトを心配してくれるだけで嬉しい」
+<span class="name">高槻東吾</span> : 「バカか。心配とかじゃねえ……そんで、ついでに聞きたいことがあんだけど」
+<span class="name">後藤眞波</span> : 「あたしに？　なんでも聞いてよ！」
+<span class="name">高槻東吾</span> : 「オマエ、今朝一人で起きられたってマジなのか」
+<span class="name">後藤眞波</span> : 「マジマジ、いつだってあたしは一人で起きてるし」
+<span class="name">高槻東吾</span> : 「……そりゃそーだろうけど、俺が訊いてるのはそういコトじゃねえ」
+<span class="name">後藤眞波</span> : 「うわっ、そのおっかない顔もイイ！　カッコイイ！」
+<span class="name">高槻東吾</span> : 「うぜーな……」
+<span class="name">後藤眞波</span> : 「ねえねえ、どうせだし途中まで一緒に帰ろ！」
+<span class="name">高槻東吾</span> : 「……勝手にしろ」
+<span class="name">後藤眞波</span> : 「そうだ！　手、繋いでいい？」
+<span class="name">高槻東吾</span> : 「断る」
+<span class="name">後藤眞波</span> : 「じゃあ袖掴んでいい？」
+<span class="name">高槻東吾</span> : 「触るな」
+<span class="name">後藤眞波</span> : 「ブレザーの裾でいい！」
+<span class="name">高槻東吾</span> : 「よせ」
+<span class="name">後藤眞波</span> : 「もー！　デカくんのケチー！」
+<span class="name">高槻東吾</span> : 「ったく……」
+<span class="name">後藤眞波</span> : 「……デカくんって、海好きだよね」
+<span class="name">高槻東吾</span> : 「海？　好きとか嫌いとか、ねーよ」
+<span class="name">後藤眞波</span> : 「デカくん、たまに浜辺で海を見てるじゃん」
+<span class="name">高槻東吾</span> : 「……なんで知ってんだよ」
+<span class="name">後藤眞波</span> : 「何回か見たことあるんだ。だから海が好きなのかなって」
+<span class="name">高槻東吾</span> : 「海を見てるんじゃねえ……あの向こうにあるものを見てえだけだ」
+<span class="name">後藤眞波</span> : 「海の向こうには日本があるんだよ」
+<span class="name">高槻東吾</span> : 「ああ、そうだな」
+<span class="name">高槻東吾</span> : 「けど、行ったこともねーし、どんなところなのか見たこともない」
+<span class="name">後藤眞波</span> : 「うん……どんななんだろうね？　日本。あたしも、行ってみたい」
+<span class="name">高槻東吾</span> : 「卒業すりゃ行けるだろ」
+デカくんや他の子たちはそう信じているだろう。
+……あたしたちもそう信じていた。
+<span class="name">高槻東吾</span> : 「んじゃ、俺はこっちだから」
+<span class="name">後藤眞波</span> : 「うん、ありがと！」
+<span class="name">高槻東吾</span> : 「……オマエ、本当に大丈夫か？」
+<span class="name">後藤眞波</span> : 「……あたしは平気だよ」
+<span class="name">高槻東吾</span> : 「ならいいけど……オマエみたいなのでもよ、様子おかしいと気になるから。なんかあったら言えよ」
+<span class="name">後藤眞波</span> : 「デカくん……」
+<span class="name">高槻東吾</span> : 「んじゃな」
+……今にも泣き出してしまいそうなのを必死にこらえて笑顔を作った。
+デカくんが背を向けた瞬間、涙がこぼれてしまいそうだった。
+いつだって、やさしい。高槻東吾っていうひとは、そういうひと。

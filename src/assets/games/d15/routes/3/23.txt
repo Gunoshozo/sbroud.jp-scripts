@@ -1,0 +1,71 @@
+<span class="name">倭一花</span> : 「高槻くん、ちょっといい？」
+<span class="name">高槻東吾</span> : 「ん？　なんか用か？」
+<span class="name">倭一花</span> : 「用ってほどのことじゃないけど……最近、色々あったけど体調とか崩してない？」
+<span class="name">高槻東吾</span> : 「なんともねーな。元々頑丈なタチだ」
+<span class="name">倭一花</span> : 「そうね。それならいいんだけど」
+こうして見てると、デカくんと一花ちゃんってお似合いかも。
+お互い、まだまだ距離は感じてるみたいだけど、どこか通じ合ってる部分も出てきてるみたいで……。
+正直、ちょっとだけ嫉妬。
+でも、一花ちゃんやみんながデカくんを幸せにしてくれるなら、その方が嬉しい。
+<span class="name">高槻東吾</span> : 「んで、それだけか？」
+<span class="name">倭一花</span> : 「あのね、お願いがあるの。図書館で調べ物をしたいんだけど、つき合ってもらえないかしら……？」
+<span class="name">高槻東吾</span> : 「図書館？　俺なんかを連れてっても意味ねーだろ」
+<span class="name">倭一花</span> : 「そんなことないわ。それに、図書館って案外楽しいのよ？」
+<span class="name">後藤眞波</span> : 「エッヘッヘ！　お２人さん、イイ雰囲気じゃーないですか！」
+<span class="name">高槻東吾</span> : 「また鬱陶しいのが現れやがった」
+<span class="name">倭一花</span> : 「……そうだ。眞波も一緒に行かない？」
+<span class="name">後藤眞波</span> : 「あたし？　図書館？」
+<span class="name">倭一花</span> : 「そう」
+<span class="name">後藤眞波</span> : 「……でも、いいの？」
+<span class="name">倭一花</span> : 「もちろん」
+<span class="name">後藤眞波</span> : 「そっか。じゃ、あたしも一緒に行く！」
+<span class="name">倭一花</span> : 「でも、あまり騒がないでね。図書館で大きな声は厳禁よ」
+<span class="name">後藤眞波</span> : 「はーい！」
+<span class="name">高槻東吾</span> : 「……つーか、俺の意思は完全にムシかよ」
+<span class="name">後藤眞波</span> : 「はー……図書館なんて滅多に来ないから、なんか威圧されちゃう……」
+<span class="name">高槻東吾</span> : 「本なんてもンは、ようするに綺麗に印刷しただけのメモ帳だ。過剰にビビる必要なんかねーんだよ」
+<span class="name">倭一花</span> : 「ずいぶん斬新な意見ね」
+<span class="name">後藤眞波</span> : 「まぁいいや。教科書だけでも目が回るあたしには関係ないことだしねー」
+<span class="name">後藤眞波</span> : 「とりあえず一花は調べ物しちゃいなよ。あたし待ってるから」
+<span class="name">倭一花</span> : 「わかった。できるだけ早く終わらせるから大人しくしてるのよ」
+<span class="name">後藤眞波</span> : 「わかってますって！」
+……とりあえず、あたしはその辺の適当な本を一冊取ってテーブルについた。
+といっても、本なんか読んでる気分じゃないし……。
+ページをぱらぱらめくっても、中身は頭に入ってこない。
+こうしてる間にも……と、気ばかりあせるけど、だからといって打開策はなにもない。
+……本当、自分で自分が嫌になってくる。
+<span class="name">後藤眞波</span> : 「はぁ～……」
+<span class="name">高槻東吾</span> : 「なにため息なんかついてんだ。眠いのか？」
+<span class="name">倭一花</span> : 「眞波、授業中も居眠りしてなかった？」
+<span class="name">後藤眞波</span> : 「うーん。最近寝不足なんだ」
+<span class="name">倭一花</span> : 「夜更かしするからよ」
+<span class="name">後藤眞波</span> : 「そうかも。そんで、調べモノはもうおしまい？」
+<span class="name">倭一花</span> : 「ううん、他の資料も探したいし、向こうに移動しましょう」
+<span class="name">後藤眞波</span> : 「はーい」
+<span class="name">後藤眞波</span> : 「んん？　あれって茅早ちゃんじゃない？」
+<span class="name">世津茅早</span> : 「……」
+<span class="name">倭一花</span> : 「あら、本当ね。彼女もお勉強かしら？」
+<span class="name">高槻東吾</span> : 「どこまでも根暗なヤツだな」
+<span class="name">後藤眞波</span> : 「ちょっと声かけてみよっか？」
+<span class="name">倭一花</span> : 「そうね……世津さん、こんにちは」
+<span class="name">世津茅早</span> : 「……こんにちは」
+茅早ちゃんの手元を覗き込むと、童話やおとぎ話の本ばかりノートに書き写しているのがわかった。
+意外と言ったらおかしいけど、茅早ちゃんはこういう本が好きなのかな。
+<span class="name">倭一花</span> : 「お勉強の邪魔しちゃった？」
+<span class="name">世津茅早</span> : 「……別に、勉強じゃない」
+それだけ言うと、彼女は席を立ち、さっさと図書館から出ていってしまった。
+<span class="name">高槻東吾</span> : 「なんだありゃ。どういう態度だ」
+<span class="name">倭一花</span> : 「……まぁ、まだ慣れてないんでしょう。仕方ないわよ」
+<span class="name">後藤眞波</span> : 「なんか避けられてるのかな？」
+<span class="name">倭一花</span> : 「そんなことは無いと思うけど……内気な子なんでしょう」
+<span class="name">高槻東吾</span> : 「内気ねえ。なんか一言言いたいことがある、ってツラに見えるんだけどな」
+<span class="name">後藤眞波</span> : 「どうして？」
+<span class="name">高槻東吾</span> : 「顔がブスくれてんだろ」
+<span class="name">倭一花</span> : 「……あ、あったあった。この本だわ」
+<span class="name">後藤眞波</span> : 「見つかった？」
+<span class="name">倭一花</span> : 「うん。つき合わせちゃってごめんね。ありがとう」
+<span class="name">高槻東吾</span> : 「じゃー帰るか」
+<span class="name">倭一花</span> : 「お礼に、２人にカフェでなにかご馳走するわ」
+<span class="name">高槻東吾</span> : 「おい、マジかよ？」
+<span class="name">後藤眞波</span> : 「やたー！」
+<span class="name">倭一花</span> : 「行きましょう」

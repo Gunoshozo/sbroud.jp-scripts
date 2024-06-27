@@ -1,0 +1,1100 @@
+<span class="name">？？？</span> : 「ちょっと、待ちな……」
+<span class="name">ジョー</span> : 「え……」
+この声……
+<span class="name">ジョー</span> : 「あっ……」
+<span class="name">アユミ</span> : 「えっ……！？」
+間違いない……
+<span class="name">ジョー</span> : 「ヒナコ……さん？」
+<span class="name">ヒナコ</span> : 「おうよ」
+<span class="name">ジョー</span> : 「な、なんで……どうして……！？」
+<span class="name">？？？</span> : 「病院を抜け出してきたんですよ。止めたのですけどね……」
+<span class="name">ジョー</span> : 「ヤスさんまで！？」
+<span class="name">ヤス</span> : 「どうしても行くって、きかなくて……」
+<span class="name">ルミ</span> : 「さっすがルミたんのお姉さまでしょ！」
+<span class="name">ジョー</span> : 「ルミさん……」
+<span class="name">キューティー</span> : 「っていうか、動けるのが不思議だって、お医者様が言ってる体なのよ」
+<span class="name">ジョー</span> : 「キューティーさんまで……みんな、どうしてここが……」
+<span class="name">？？？</span> : 「皆さん、あなたたちのことを心配して、いてもたってもいられなくなったんですよ」
+背後からの声に、慌てて振り向いた。
+<span class="name">アユミ</span> : 「あっ……！」
+<span class="name">マキ</span> : 「動かないでください」
+マキさんは、アユミさんの喉元にコンバット・ナイフを押し当てた。
+<span class="name">アユミ</span> : 「っ……」
+<span class="name">マキ</span> : 「やはり、あなたはただ者ではなかったのですね」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ジョー</span> : 「マキさん、何を……」
+<span class="name">ヒナコ</span> : 「あたいが、そいつを逃がすなって頼んだからだよ」
+<span class="name">ジョー</span> : 「ヒナコさん……？　いったい、何がどうなってるの？」
+<span class="name">ヤス</span> : 「夜明け前まで、姐御は意識不明でした」
+<span class="name">ルミ</span> : 「明け方少しして、目を覚ましたから、状況をちょろっと説明したら……」
+<span class="name">ヒナコ</span> : 「さっすがにド頭に来たんだよ。目の前でタツ殺されて、あたいも、こんな怪我させられちまってな」
+<span class="name">ルミ</span> : 「それでね、ジョーちんたちが脱走したかもって、シマヅのおっさんから教えてもらったのを、ヤッくんに言ってー」
+<span class="name">ヤス</span> : 「マキさん、キューティーさんと私とで、あなたたちの行方を捜していました」
+<span class="name">キューティー</span> : 「そしたら、アタシのお店に、あなたたちを捜して警察が来たって、アサミちゃんから聞かされたのよ」
+<span class="name">ヤス</span> : 「それで、あなたたちが、まだそう遠くへは行ってないと判断しました」
+<span class="name">マキ</span> : 「パトカーのサイレンが鳴っていない方向に焦点を絞って、捜していたんですよ」
+<span class="name">ジョー</span> : 「え、どうして……？」
+<span class="name">マキ</span> : 「あなたたちは、あの音を避けて行動しているだろうと思ったので」
+<span class="name">ジョー</span> : 「あ……うん。そうしてた」
+<span class="name">キューティー</span> : 「警察が来た時に飲んでたうちの常連の人たちも気になって、帰り道、ちょっと注意して、この辺り歩いてたらしいのよ」
+<span class="name">キューティー</span> : 「それで、ジョーくんとシーナちゃんを、この辺りで見たような気がするって連絡をくれたから、慌てて来たってわけ」
+<span class="name">ルミ</span> : 「そしたら、ホントにジョーちんいたから、マジびびったよ！」
+<span class="name">ヒナコ</span> : 「……さらわれて生死不明だって、ヤスから聞かされていたアユミもな……」
+<span class="name">ジョー</span> : 「あっ……」
+ヒナコさんたちが、こちらに向かって歩いてくる。
+<span class="name">ヒナコ</span> : 「つっ……」
+<span class="name">ヤス</span> : 「傷が痛むのでしょう……。だから、休んでいてくださいと……」
+<span class="name">ヒナコ</span> : 「るせぇ……血ぃ流すの怖がってて女やってられっか。黙ってついてこい」
+<span class="name">ヤス</span> : 「はっ！　失礼しました！」
+<span class="name">ジョー</span> : 「う、ううっ……」
+<span class="name">ヒナコ</span> : 「ん？」
+<span class="name">ジョー</span> : 「ヒナコさん、良かった……ヒナコさん、ちゃんと生きてた……」
+<span class="name">ジョー</span> : 「け、警察で、一命を取り留めたって聞いてたけど……ジンナイ先生や、タツさんみたいなことになったらって思って、こ、怖かった……良かった、ほんと、良かった……！」
+<span class="name">ヒナコ</span> : 「心配かけてすまなかったね。もう大丈夫だ。安心しな」
+<span class="name">ジョー</span> : 「は、はい……」
+<span class="name">ヒナコ</span> : 「あのクソガキ、わざと急所はずしてやがってさ……だけど、血は派手に流れるとこ狙いやがったから、ちょっと復活に手間取っただけさ」
+<span class="name">ヤス</span> : 「ちょっとどころではなかったんですが……」
+<span class="name">ヒナコ</span> : 「さっきから、ぐだぐだマジうっせーぞ。このあたいになんか文句あんのかい？」
+<span class="name">ヤス</span> : 「文句はありませんが……」
+<span class="name">ヒナコ</span> : 「このくらい、なんでもねぇつってんだろ。前に、肋骨折った時だって、ピンピンしてたろ？」
+<span class="name">ヤス</span> : 「あの時と今回では、レベルが……」
+<span class="name">ヒナコ</span> : 「ったく、ガタガタうっせぇんだよ！　ただでさえイラついてんだ。次なんか言ったら、ガソリンで、うがいさせっからな」
+<span class="name">ヤス</span> : 「オ、押ッ忍！」
+<span class="name">ヒナコ</span> : 「で、ジョー。姉貴はどうした？」
+<span class="name">ジョー</span> : 「っ……うう……」
+<span class="name">ヒナコ</span> : 「落ち着いて、何があったか言ってみな」
+<span class="name">ジョー</span> : 「でも……」
+<span class="name">ヒナコ</span> : 「いいから、言えって言ってんだろ！」
+<span class="name">ジョー</span> : 「ひっ……！」
+荒々しいヒナコさんの声に、身を竦め、手で頭をかばった。
+<span class="name">ヒナコ</span> : 「手錠がないね……」
+<span class="name">ジョー</span> : 「あ……」
+ふわり、と頭に何かがふれた。
+ヒナコさんの手だ。
+<span class="name">ヒナコ</span> : 「いいから言ってみな。誰もジョーを責めたりしないから」
+ヒナコさんは、僕の頭に優しく手を置いて、同じくらいの優しい声で、僕に語りかけた。
+<span class="name">ジョー</span> : 「……う、う～……！」
+<span class="name">ヒナコ</span> : 「なんだって……」
+<span class="name">ヤス</span> : 「大姉貴たちの人格が、全部消えて……」
+<span class="name">キューティー</span> : 「一番最後に出てきた人格の粃ちゃん……！？　なんなの？　なんなの、それ！？」
+<span class="name">ヒナコ</span> : 「で、粃ってのが姉貴の中に潜んでたのを、こいつは知っていた、と……」
+<span class="name">アユミ</span> : 「うっ……」
+<span class="name">マキ</span> : 「それだけではなく、マリヲという者と行動を共にされているのですよね」
+<span class="name">ヤス</span> : 「しかも、ジョーくんの父親のことも知っている」
+<span class="name">アユミ</span> : 「わ、私は……」
+<span class="name">ヒナコ</span> : 「なあ、アユミ」
+<span class="name">アユミ</span> : 「はい……」
+<span class="name">ヒナコ</span> : 「あたいは、あんたをダチだと思ってたんだよ」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ヒナコ</span> : 「だけど、騙されてたんだねぇ……」
+<span class="name">アユミ</span> : 「それは、その……」
+<span class="name">ヒナコ</span> : 「……あたいが、すっげぇ怒ってるの……わかるかい？」
+<span class="name">アユミ</span> : 「はい、わかります……」
+<span class="name">ヒナコ</span> : 「あたいは、こーいう真っ向勝負じゃねぇやり方は、死ぬほど嫌いだ。そんなことでタツが死んだのも、マジむかついてる」
+<span class="name">ヒナコ</span> : 「タツだけじゃねぇ。ジンナイ先生だって……」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ヒナコ</span> : 「あの二人は、こんなことの犠牲になるために、生きてたんじゃねぇんだよ！！」
+<span class="name">アユミ</span> : 「っ……」
+<span class="name">ヒナコ</span> : 「姉貴の件だって、そうだ！　そんなヤバイ状態だったんなら、なんですぐ相談してくれなかったんだよ！」
+<span class="name">ヒナコ</span> : 「あたいらが、薄情に見えたのかい！？　それとも、バカだからアテになんねぇと思ったか！？」
+<span class="name">ヒナコ</span> : 「だったら、ジンナイ先生を信用すりゃ良かったんだよ！　それでも駄目だったのか！？」
+<span class="name">アユミ</span> : 「私……私は……」
+<span class="name">？？？</span> : 「やめろぉぉぉ！！」
+声がしたと思った瞬間――
+その声の主はもう、僕たちのそばで凶刃を振り回していた。
+それを弾いたのは、ヤスさんの特殊警棒だ。
+<span class="name">マリヲ</span> : 「チッ！」
+弾かれた力を利用して、マリヲは、拘束されているアユミさんのそばに舞い降りた。
+<span class="name">マリヲ</span> : 「やっぱり一緒に帰りたいと思って、ここへ来て良かった！　お姉さまを離せ！」
+今度はマキさんに向かってナイフを振り回す。
+<span class="name">マキ</span> : 「くっ……！」
+少しひるんだマキさんを、アユミさんは見逃さなかった。
+<span class="name">アユミ</span> : 「ごめんなさい……」
+アユミさんは、マキさんの腕の中から、するりと抜けると……
+<span class="name">ジョー</span> : 「えっ！？」
+僕の方へ突進して来た。
+<span class="name">マキ</span> : 「させません！」
+アユミさんより先に僕のところへ来たマキさんは、素早く、僕の襟首を掴むと……
+<span class="name">マキ</span> : 「パス！」
+<span class="name">ジョー</span> : 「え……わぁ！」
+僕を放り投げた。
+<span class="name">ジョー</span> : 「ぐぅ！」
+落ちたところは、ルミさんのすぐそばだった。
+<span class="name">ルミ</span> : 「ＯＫ、確保ー！」
+キリッとした顔のルミさんが、僕のおなかの上に俯せで乗っかかってきた。
+（む、胸が、胸がっ……！）
+<span class="name">アユミ</span> : 「あ……ジョーさま！」
+僕の元へ来ようとした、アユミさんの前に……
+<span class="name">キューティー</span> : 「ふんっ！」
+<span class="name">ジョー</span> : 「あっ……」
+両手を広げたキューティーさんが立ちはだかった。
+<span class="name">キューティー</span> : 「あんた、さっきのヒナコ姐の話聞いて、何にも思わなかったの！？」
+<span class="name">アユミ</span> : 「っ……！」
+キューティーさんの言葉に、アユミさんが足を止める。
+<span class="name">マリヲ</span> : 「あっ……お姉さま！？」
+動くのをやめてしまったアユミさんに気を取られ、マリヲも動きを止めた。
+<span class="name">マリヲ</span> : 「っ！？」
+<span class="name">ヤス</span> : 「ちっ！」
+マリヲの背後で、ヤスさんが警棒を振り落とした。
+野生動物のように危険を察知したマリヲは、間一髪で避け、床を蹴る。
+でも、着地点には……
+<span class="name">ヒナコ</span> : 「ひゅうぅ……」
+肩幅に足を開いて軽く腰を落とし、拳を作ったヒナコさんが待ち構えていた。
+<span class="name">マキ</span> : 「くっ……！」
+<span class="name">ヒナコ</span> : 「はぁぁぁぁ！！！」
+<span class="name">マリヲ</span> : 「つあっ！！」
+ヒナコさんのパンチは、中空にいるマリヲのおなかにめり込んだ。
+<span class="name">マリヲ</span> : 「ぐ、う、けほっ、けほっ！」
+まともにパンチを受けたマリヲは、バランスを崩して床に転げ落ちた。
+<span class="name">マキ</span> : 「ここまでです」
+すかさず、マリヲの体をマキさんが押さえつける。
+<span class="name">マリヲ</span> : 「けほっ、かっ……ぐっ……くそっ……くそぉぉぉ！」
+<span class="name">キューティー</span> : 「ふ～……やれやれだわ～」
+キューティーさんの方を見ると、アユミさんもキューティーさんに押さえつけられていた。
+<span class="name">アユミ</span> : 「……っ」
+<span class="name">ヒナコ</span> : 「ふう……」
+<span class="name">ヤス</span> : 「お疲れ様っス！」
+<span class="name">ヒナコ</span> : 「おう」
+<span class="name">ルミ</span> : 「あぁん、ひっさしぶりに見た。ヒナコお姉さまの必殺ワンパン！　かぁっこいー！」
+<span class="name">ジョー</span> : 「ほんと、すごい……」
+<span class="name">マリヲ</span> : 「くそっ……離せ！　離せよ！」
+<span class="name">マキ</span> : 「暴れないでください。わたくしも多少心得があるので、腱のひとつやふたつ切ることは造作ないですよ」
+<span class="name">マリヲ</span> : 「ハッ！　言ってろよ！」
+<span class="name">マキ</span> : 「まずは、この愛らしい歯を、麻酔なしで一本ずつ抜いてしまってもよろしいでしょうか。ヒナコ姐さん」
+<span class="name">ヒナコ</span> : 「まあ、待ちなって。おい」
+<span class="name">マリヲ</span> : 「なんだよ！？」
+<span class="name">ヒナコ</span> : 「色々と、やってくれたなぁ？　クソガキ」
+<span class="name">マリヲ</span> : 「それがどうしたってのさ？　生きてても死んでても大して影響のない奴を殺したって、どうってことないだろ？」
+<span class="name">ジョー</span> : 「マリヲ……なんてことを……！」
+<span class="name">ヒナコ</span> : 「そーいうてめえは、どうなんだい？　あたいらと大差ねぇだろ。お前だって生きてても死んでても、この世に大した影響なんてないんじゃねぇのか？」
+<span class="name">マリヲ</span> : 「どうだっていいだろ、クソ女！　また肩にナイフ突き立ててあげようか？」
+<span class="name">マキ</span> : 「喋らせる必要があるのでしたら、歯ではなく、指の爪をはぐところから始めますか？」
+<span class="name">ジョー</span> : 「知らなかった……マキさんって、すごく物騒……」
+<span class="name">ルミ</span> : 「うん……怖いね……」
+<span class="name">ヒナコ</span> : 「まあまあ、待て待て」
+押さえこまれているマリヲのそばに、ヒナコさんは歩み寄った。
+<span class="name">ヒナコ</span> : 「お前、アユミの連れなんだよな？」
+<span class="name">マリヲ</span> : 「それがなんだよ？」
+<span class="name">ヒナコ</span> : 「じゃあ、お前も何か知ってんだろ？　ジョーやシーナの姉貴のこと」
+<span class="name">マリヲ</span> : 「だったら、何？」
+<span class="name">ヒナコ</span> : 「話せ」
+<span class="name">マリヲ</span> : 「ハッ！　誰が話してやるか！」
+<span class="name">ヒナコ</span> : 「絶対か？」
+<span class="name">マリヲ</span> : 「ああ、絶対だ！　っていうか、こんなことしてタダで済むと思うなよ。お姉さまに危害を加える奴は死んでも許さない……！」
+<span class="name">アユミ</span> : 「マリヲ……」
+<span class="name">ヒナコ</span> : 「へー」
+ヒナコさんは、マリヲとアユミさんを交互に見て、うんうんと頷いた。
+<span class="name">ヒナコ</span> : 「お前、あいつのことが好きなのか？」
+ヒナコさんは、キューティーさんに捕まっているアユミさんを指さした。
+<span class="name">マリヲ</span> : 「う……」
+<span class="name">マリヲ</span> : 「そうだよ！　好きだよ。大好きだ！　何か悪いか！　お姉さまはボクのすべてだ！　それの何が悪い！　だからお姉さまを離せ！」
+<span class="name">ヒナコ</span> : 「そーかい、そーかい」
+ヒナコさんは、その答えに満足したのか、楽しげな笑みを浮かべ、アユミさんに視線を移した。
+<span class="name">マリヲ</span> : 「っ！　お姉さまに酷いことするんだったら、ボクにしろ！！」
+その笑みの意味を察したのか、マリヲが叫ぶ。
+<span class="name">アユミ</span> : 「マリヲ……」
+<span class="name">ヒナコ</span> : 「駄目だ」
+<span class="name">マリヲ</span> : 「なっ……」
+<span class="name">ヒナコ</span> : 「お前言ったよな。痛めつけても、なーんも吐かないって。だからアユミをいたぶる」
+<span class="name">ヒナコ</span> : 「あたいは怒ってんだ。ダチだと思ってたアユミのしたことにもな」
+<span class="name">アユミ</span> : 「……っ」
+<span class="name">ヒナコ</span> : 「それに、マリヲ。お前には、あたいも傷つけられたけど、もっと酷いことしてくれたよなぁ」
+<span class="name">マリヲ</span> : 「な、なんだよ……」
+<span class="name">ヒナコ</span> : 「あたいの大事なモンを……タツとジンナイ先生を奪った」
+<span class="name">マリヲ</span> : 「くっ……」
+<span class="name">ヒナコ</span> : 「お前には、お前が大事にしてるアユミが痛めつけられるとこ、たっぷり見せてやるよ」
+<span class="name">ヒナコ</span> : 「大事な人が悲鳴をあげても、何も出来ないでいる苦痛を与えてやる。それが、お前に対する拷問だ」
+<span class="name">マリヲ</span> : 「き……さま、貴様、貴様、きさまぁぁぁぁ！！！」
+<span class="name">ジョー</span> : 「ま、まさかヒナコさん……本気なの？」
+<span class="name">ヒナコ</span> : 「ああ、本気だよ。こんなこと、冗談でやってたまるか」
+<span class="name">ジョー</span> : 「で、でも……」
+<span class="name">ヒナコ</span> : 「ルミ」
+<span class="name">ルミ</span> : 「はーい。ジョーちんは、ルミたんが拘束しまーす」
+僕の背後から伸ばされたルミさんの手に、両手の親指を掴まれたと思ったら、そのまま背中で固定されてしまった。
+<span class="name">ジョー</span> : 「うっ！？」
+う、動けない……！？
+<span class="name">ジョー</span> : 「ルミさん！？」
+<span class="name">ルミ</span> : 「ルミたん、へなちょこだけど、お姉さまに教わって、これだけは出来るようになったんだ～」
+<span class="name">ジョー</span> : 「ち、違う、離してよ！　このままだと……」
+<span class="name">ルミ</span> : 「まあ、見てなって」
+<span class="name">ジョー</span> : 「で、でも……」
+ど、どうしたらいいんだよ……！
+<span class="name">ヒナコ</span> : 「さ～って、どうすっかな～？」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">マリヲ</span> : 「抵抗して、お姉さま！　どうしてじっとしてるのさ！　そんな奴ら、お姉さまだったら、あっという間に倒せるでしょ！？　どうして抵抗しないんだよ！」
+<span class="name">ヒナコ</span> : 「おっと、ここに誰かさんのナイフが落ちてら。これ使ってみようか」
+そう言って、ヒナコさんはマリヲが落としたナイフを手に取った。
+<span class="name">マリヲ</span> : 「お願い……やめて！　やめて！　お姉さまを傷つけないでぇぇぇ！！　う、うう、う～～……うわぁぁぁ！！」
+マキさんの下で、マリヲは号泣しだした。
+<span class="name">マリヲ</span> : 「やめて、なんでも喋るから！　お姉さまに酷いことしないでぇぇ！　いやだぁぁぁ！」
+<span class="name">ヒナコ</span> : 「ほんとに喋るんだな？」
+<span class="name">マリヲ</span> : 「喋る！　喋るからやめて……！　なんでも言う、なんでもするから、お姉さまを助けて……！」
+<span class="name">ヒナコ</span> : 「……それが、大事なものを、他人の手で理不尽に奪われた奴の気持ちだ」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ヒナコ</span> : 「お前がしてきたことは、こういうことなんだよ」
+<span class="name">マリヲ</span> : 「う、うう……」
+<span class="name">ヒナコ</span> : 「わかったか？」
+<span class="name">マリヲ</span> : 「う……うん……。うん……！」
+泣きじゃくりながら、マリヲは何度も大きく頷く。
+<span class="name">ヒナコ</span> : 「つらかったか？」
+<span class="name">マリヲ</span> : 「……つらかった……いやだった……」
+<span class="name">ヒナコ</span> : 「まだ、あるだろ？」
+<span class="name">マリヲ</span> : 「う……」
+マリヲは、じっとヒナコさんを見つめてから、視線を落とし、呟いた。
+<span class="name">マリヲ</span> : 「……怖かった……こんなことでお姉さまを失うかと思ったら、とてもとても、怖かった……」
+<span class="name">アユミ</span> : 「マリヲ……」
+<span class="name">ヒナコ</span> : 「そうだろ？　大事な人を失うってのは、そういうことなんだよ……」
+<span class="name">ヒナコ</span> : 「生きてても死んでても価値がないとか、そういう問題じゃないんだよ。わかったか？」
+<span class="name">マリヲ</span> : 「うん……」
+<span class="name">ヒナコ</span> : 「今の気持ちを胸に刻め。いいな」
+<span class="name">マリヲ</span> : 「う、うん……」
+涙を流しながら、マリヲが続ける。
+<span class="name">マリヲ</span> : 「お姉さまが、ボクに自分を殺せって言った時も、怖かった……悲しかった……」
+<span class="name">マリヲ</span> : 「だっ、だけど……目の前で酷い目に遭ったり、殺されるところを見るのかと思ったのも…怖かった……」
+<span class="name">マリヲ</span> : 「こんな気持ちになるんだって……知らなかったし、わからなかった……」
+<span class="name">マリヲ</span> : 「ボク、本当に……本当に、お人形だったんだね……心までお人形だったんだ……」
+<span class="name">ヒナコ</span> : 「はぁ？」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ジョー</span> : 「何、その……お人形って」
+<span class="name">ヒナコ</span> : 「アユミ」
+<span class="name">アユミ</span> : 「……はい」
+<span class="name">ヒナコ</span> : 「なんかワケアリみたいだな。まとめて話してくれるか？」
+<span class="name">アユミ</span> : 「はい……私たちの知ってることをすべてお話します……」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ルミ</span> : 「え、えーっと……」
+<span class="name">アユミ</span> : 「……」
+<span class="name">マリヲ</span> : 「ボクたちが知ってることは、全部喋ったよ」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ヒナコ</span> : 「ジョーとシーナの姉貴が、実の親父さんの研究の実験体って……」
+<span class="name">アユミ</span> : 「本当なの？　マリヲ」
+<span class="name">マリヲ</span> : 「ボクだって、ちゃんと知ってるわけじゃないけどね。旦那様の独り言を聞いただけだから……」
+<span class="name">マリヲ</span> : 「その時にね……二人は実験体だって。出来損ないとかとも言ってた。あとは、器がどうとか……」
+<span class="name">ヤス</span> : 「器とは？」
+<span class="name">マリヲ</span> : 「シーナのことみたい。ボクも詳しいことまではわかんないよ」
+<span class="name">アユミ</span> : 「そんな……旦那様は、ジョーさまはご病気だから、早く連れ帰れと、私に言ってたのに……」
+<span class="name">ヒナコ</span> : 「他には？」
+<span class="name">アユミ</span> : 「粃は殺人鬼だから、それが現れた時には、ジョーさまを守れと……」
+<span class="name">ヤス</span> : 「君たちを仕込んだ張本人が、そう言っているわけですね」
+<span class="name">マリヲ</span> : 「そうだけど、それがどうしたんだよ」
+<span class="name">ヤス</span> : 「騙されてるんじゃないですか？　その旦那様とやらに」
+<span class="name">マリヲ</span> : 「えっ……そんな馬鹿な！」
+<span class="name">キューティー</span> : 「だけど、あなたたちのことを、その……掃除人形と呼んで、汚れ仕事をさせてるだなんて……」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ヒナコ</span> : 「でさ……ひとつ、引っかかってんだけど」
+<span class="name">アユミ</span> : 「なんでしょうか？」
+<span class="name">ヒナコ</span> : 「ジョーの親父さんの下で働いてたセオって奴は、誰になんで殺されたんだ？」
+<span class="name">アユミ</span> : 「っ……！」
+<span class="name">ヤス</span> : 「話の流れですと、ジョーくんか大姉貴のようにも思えますね。だが、ジョーくんの性格を鑑みると、殺しは無理です」
+<span class="name">ジョー</span> : 「は、はい……怖くて無理です……というか、初めてセオさんを見た時には死んでました。もし僕が殺していたとしても、記憶にないし……」
+<span class="name">キューティー</span> : 「もしくは、シーナちゃんの人格のひとつで、殺人鬼の……その、粃ちゃんがやったの？」
+<span class="name">ジョー</span> : 「シーナは、そんなこと出来ないと思います」
+<span class="name">ヤス</span> : 「そうですね。他の人格も、どちらかといえば、ジョーくんたちを守ることが多い印象です。殺しは違和感がありますね」
+<span class="name">アユミ</span> : 「……っ」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ヒナコ</span> : 「アユミ、おまえか」
+<span class="name">ジョー</span> : 「えっ……」
+<span class="name">ルミ</span> : 「そうなの！？」
+<span class="name">アユミ</span> : 「わ、私……」
+<span class="name">アユミ</span> : 「っ……」
+<span class="name">アユミ</span> : 「……その通りです。私がセオさんを殺しました……」
+<span class="name">ジョー</span> : 「え、ええっ！？」
+<span class="name">ルミ</span> : 「アユたんが！？」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ヒナコ</span> : 「どうしてだい？」
+<span class="name">ジョー</span> : 「あっ……」
+アユミさんはちらっと僕を見ると、すぐに目線を床へ落とした。
+<span class="name">ヒナコ</span> : 「ん～……そーいうことか……」
+<span class="name">ヒナコ</span> : 「……ジョー」
+<span class="name">ジョー</span> : 「は、はい」
+<span class="name">ヒナコ</span> : 「お前、親父さんに情はあるか？」
+<span class="name">ジョー</span> : 「あ、えっと、その……」
+<span class="name">ジョー</span> : 「正直、よくわからない……です。だって覚えてないし、それに……」
+<span class="name">ジョー</span> : 「アユミさんや、マリヲのことを、なんだか人間扱いしてないみたいで……引っかかる」
+<span class="name">アユミ</span> : 「ジョーさま……」
+<span class="name">アユミ</span> : 「……っ」
+<span class="name">ヒナコ</span> : 「奇遇だな。あたいもだよ。だからな、アユミ」
+<span class="name">アユミ</span> : 「はい……」
+<span class="name">ヒナコ</span> : 「気兼ねしねぇで、言っていい」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ヒナコ</span> : 「なんでセオを殺したんだ？」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">アユミ</span> : 「……旦那様のご命令です」
+<span class="name">ジョー</span> : 「えっ……」
+<span class="name">アユミ</span> : 「旦那様の研究の右腕というか……発案者がセオさんでした」
+<span class="name">アユミ</span> : 「そのセオさんが、ジョーさまとシーナさんを連れて脱走したので……口封じを命じられました……」
+<span class="name">マリヲ</span> : 「なっ……」
+<span class="name">ヒナコ</span> : 「やっぱりか」
+<span class="name">ヤス</span> : 「ジョーくんの親父さんは、かなりヤバイ研究をしていると推測されますね」
+<span class="name">ヒナコ</span> : 「だな」
+<span class="name">ルミ</span> : 「どんな研究か、わかるの？」
+<span class="name">ヤス</span> : 「記憶をどうこう言っていたのなら、脳関係じゃないですか？」
+<span class="name">アユミ</span> : 「はい、その通りです……旦那様の特別研究室にある機械には、ジョーさまの記憶が記録されているそうです」
+<span class="name">ジョー</span> : 「ぼ、僕の記憶！？」
+<span class="name">ヒナコ</span> : 「そんなことが出来るのかい？」
+<span class="name">アユミ</span> : 「はい……セオさんの研究成果らしいです」
+<span class="name">キューティー</span> : 「んまぁ……」
+<span class="name">ヒナコ</span> : 「じゃあ、ジョーの記憶がないのは、もしかしたら、親父さんに実験されちまって、そのせいってこともありえるのか……」
+<span class="name">ジョー</span> : 「そんな……」
+<span class="name">ヤス</span> : 「いや、可能性はゼロではないでしょう。もしかしたら、テストをしていて、機械が誤作動をしたのかもしれません」
+<span class="name">ジョー</span> : 「そんな……そんな！　僕の記憶喪失が、実のお父さんのせいかもだなんて……」
+<span class="name">アユミ</span> : 「ジョーさまが戻り次第、記憶喪失の治療をすると、旦那様は仰ってましたけど……」
+<span class="name">ヒナコ</span> : 「っていうか、色んな人間を騙したり、孤児だったアユミとマリヲに人殺しをさせたりする奴の言うこと、ホイホイ信じてどうするよ」
+<span class="name">ジョー</span> : 「あっ……」
+<span class="name">ヤス</span> : 「そうですね。治療と言いつつ、ジョーくんに、もっと酷いことをする可能性もありそうです」
+<span class="name">ジョー</span> : 「で、でも、実のお父さんでしょ？　そんなこと……」
+<span class="name">マリヲ</span> : 「親だからって、必ず人情や愛情が備わってるってことはないよ。でないと、どうしてボクとお姉さまは孤児なのさ」
+<span class="name">アユミ</span> : 「…………」
+（そんな……僕は……実のお父さんに、こんな風にされちゃったの？）
+<span class="name">ジョー</span> : 「……なんなんだよ、それ……」
+<span class="name">ヒナコ</span> : 「決まりだな」
+<span class="name">ジョー</span> : 「え、何が……？」
+<span class="name">ヒナコ</span> : 「今回の黒幕だよ」
+<span class="name">ジョー</span> : 「黒幕……」
+<span class="name">ヒナコ</span> : 「ジョーを記憶喪失にして、人を使って人殺しをしてる卑怯者だ。場合によっちゃ、姉貴も何かされてるかもな」
+<span class="name">ジョー</span> : 「シーナまで？　どうして、そうなるの……？」
+<span class="name">ヒナコ</span> : 「……ジンナイ先生が言ってたろ。多重人格になるのは、暴行を受けた可能性があるって」
+<span class="name">ジョー</span> : 「あっ……！　で、でも、その形跡はなかったって……」
+<span class="name">ヒナコ</span> : 「それも言ってたろ。暴行ってのは、体で受けるモンとは限らねえ。言葉の場合もある」
+<span class="name">ヒナコ</span> : 「あとは、ずっと昔に受けていて、体は癒えてても……ってこともあるって」
+<span class="name">ジョー</span> : 「……そんな……そんな！」
+<span class="name">ヒナコ</span> : 「てなワケで、鬼退治としゃれこもうぜ」
+<span class="name">ジョー</span> : 「お、鬼退治？」
+<span class="name">ヒナコ</span> : 「ああ、そーさ。ジョーの親父のとこに殴り込みだ」
+<span class="name">ジョー</span> : 「えっ、えええ！？」
+<span class="name">ヒナコ</span> : 「あたいの大事な仲間の命を奪った奴を、ぶっ倒す！」
+<span class="name">ヒナコ</span> : 「それに、人を人として扱わないってのも、許すわけにゃいかねぇ！」
+<span class="name">ジョー</span> : 「あ……」
+<span class="name">マリヲ</span> : 「……ふん」
+<span class="name">ジョー</span> : 「な、何、このバイクの音……」
+一台じゃない。数台……いや、もっと多いように聞こえる。
+<span class="name">ヤス</span> : 「少し前に、元メンバーへ招集メールを一斉送信しました。召集理由は、タツとジンナイ先生の弔い合戦です」
+<span class="name">ヒナコ</span> : 「タツや先生を慕ってて、まだあたいについてくる気がある奴らが、ばんばん集まってきてるんだよ」
+<span class="name">ジョー</span> : 「そ、それじゃあ、この音……」
+<span class="name">ヒナコ</span> : 「出るぞ」
+<span class="name">ヤス</span> : 「はい」
+<span class="name">キューティー</span> : 「じゃあ、アタシはここで……」
+<span class="name">ヒナコ</span> : 「何言ってんだい。大事な戦力減らすつもりはねぇよ。ついてきな」
+<span class="name">キューティー</span> : 「ア、アタシ、乙女なのに！　怖いのや野蛮なの、苦手なのに！」
+<span class="name">ヒナコ</span> : 「うるせえ。来いっつったら、来い。マキ」
+<span class="name">マキ</span> : 「はい、ヒナコ姐さん。キューティーさん、それに、アユミさんとマリヲさんはわたくしの車へ」
+<span class="name">ジョー</span> : 「えっ。じゃあ、僕、どうしたら……」
+<span class="name">ヒナコ</span> : 「アユミ、道を教えろ。いいか？」
+<span class="name">アユミ</span> : 「……わかりました」
+<span class="name">マリヲ</span> : 「いいの……？　お姉さま……。旦那様への背信行為だよ？」
+<span class="name">アユミ</span> : 「うん、かまわないわ。……それとね、マリヲ」
+<span class="name">マリヲ</span> : 「なあに？」
+<span class="name">アユミ</span> : 「私たちも、罪を償わなくてはいけないと思うの」
+<span class="name">アユミ</span> : 「……っ」
+<span class="name">アユミ</span> : 「私の言いたいこと……わかる？」
+<span class="name">マリヲ</span> : 「……うん」
+<span class="name">ヒナコ</span> : 「話は、まとまったかい？」
+<span class="name">アユミ</span> : 「はい。ヒナコさん」
+<span class="name">ヒナコ</span> : 「よし、行くぞ」
+<span class="name">マリヲ</span> : 「しょーがないなー」
+<span class="name">ジョー</span> : 「あ、あの、僕は……」
+<span class="name">ヒナコ</span> : 「ジョーは、あたいの後ろだ。あたいになんかあったら、お前がバイク転がすんだ」
+<span class="name">ジョー</span> : 「え、えええ！？」
+<span class="name">ヒナコ</span> : 「るせぇ！　これからは、あたいの命令には『はい』以外言うな！　わかったか！」
+<span class="name">ジョー</span> : 「はっ、はい！」
+<span class="name">ルミ</span> : 「お～、きたきたきたぁ！　ヒナコお姉さまの顔つきが、昔に戻ってきたー！」
+<span class="name">ヤス</span> : 「ああ……そうだな」
+<span class="name">ヤス</span> : 「タツ……お前の弔い合戦で、姐御が復活だ……お前、すごいよな……あの姐御を動かしたんだぜ……！」
+<span class="name">ヒナコ</span> : 「行くぞ」
+<span class="name">ヤス</span> : 「押ッ忍！」
+<span class="name">ジョー</span> : 「はっ、はいー！」
+……記憶がないからかもしれないけど……
+ううん、記憶があっても、こんなの見たことないと思う……
+ものすごい数のバイクに、ものすごく荒々しそうな人たち。
+ものっすごく大きな旗を持っている人が何人もいる。
+あれ持ったままバイクを走らせるのって、大変なんじゃないかな……
+ヒナコさんが前に出ると、あれだけ騒がしかったバイクの音が一斉に止んだ。
+<span class="name">ヒナコ</span> : 「みんな悪いね。いきなり集まってもらって」
+<span class="name">ヒナコ</span> : 「ヤスが連絡した通りだ。タツとジンナイ先生がやられた！」
+<span class="name">ヒナコ</span> : 「タツは、あたいたちの、いい仲間だった！」
+<span class="name">ヒナコ</span> : 「ジンナイ先生には、どんだけ助けてもらったか、わかりゃしねぇ！」
+<span class="name">ヒナコ</span> : 「そんな奴らが殺された！！　このまま黙ってなんかいられねぇ！！」
+<span class="name">ヒナコ</span> : 「そうさせた奴も突き止めた！！」
+<span class="name">ヒナコ</span> : 「そいつは、年端もいかねぇガキを使って人殺しをさせたり、実の息子やそのダチ使って、人体実験してやがる、ド外道だ！！」
+<span class="name">ヒナコ</span> : 「そんなドグサレ、あたいは許しておけねぇんだよ！！」
+<span class="name">ヒナコ</span> : 「さあ、弔い合戦だ！！」
+<span class="name">ヒナコ</span> : 「行くぞ、オラァ！」
+<span class="name">ジョー</span> : 「ひ、ひぃ……」
+<span class="name">ヒナコ</span> : 「クリムゾン・ゲイル！！　突っ走るぜ！！」
+<span class="name">ヒナコ</span> : 「ここかい……」
+<span class="name">ジョー</span> : 「え、ほんとにここなの！？」
+<span class="name">アユミ</span> : 「はい。ここがジョーさまのおうちです」
+前に来たミシマ総合病院じゃないか。ここが、僕の家だったなんて……
+<span class="name">ヤス</span> : 「病院ですよね？　これが自宅って……」
+<span class="name">アユミ</span> : 「正確には、ここの最上階……屋上にお屋敷があります。そこがジョーさまのお住まいです。そして……」
+<span class="name">アユミ</span> : 「ジョーさまのお父さま……ミシマ　ゲンジさまがいらっしゃいます」
+<span class="name">ジョー</span> : 「あっ……」
+<span class="name">ヒナコ</span> : 「そいつが、今回の黒幕だね」
+<span class="name">アユミ</span> : 「……はいっ」
+<span class="name">ヒナコ</span> : 「そいつがいるとこには、どうやって行くんだい？」
+<span class="name">アユミ</span> : 「専用エレベーターが四機あります。この人数ですと、一番大きい、荷物の搬入用のものをメインに使った方がいいです」
+<span class="name">ヒナコ</span> : 「そこまで案内してくれ」
+<span class="name">ヤス</span> : 「はい」
+<span class="name">ルミ</span> : 「きゃー！　ヒナコお姉さま、なんかスーツ着たおっさんたちが、いっぱい出て来ました～～！」
+<span class="name">アユミ</span> : 「ここの警備員たちです」
+<span class="name">ヒナコ</span> : 「強そうだな」
+<span class="name">アユミ</span> : 「ＳＰあがりの人が多いですから」
+<span class="name">ヒナコ</span> : 「ハンッ！　そんなの、サツか機動隊に毛が生えたみてぇなもんだ！　どっちにしても一緒だ。なぁ、おめぇら！」
+<span class="name">ヤス</span> : 「クククッ……血が騒ぐな……！」
+<span class="name">ルミ</span> : 「わーい、お祭りだー！」
+<span class="name">ジョー</span> : 「なんで！？　なんでそう言えちゃうの！？」
+<span class="name">キューティー</span> : 「みんな、ケンカ馬鹿だからよ。あんっ、怖～い……」
+<span class="name">ヒナコ</span> : 「だいたいの人数は？」
+<span class="name">アユミ</span> : 「病院に１００。館には５０といったところです」
+<span class="name">ヒナコ</span> : 「ヤス！」
+<span class="name">ヤス</span> : 「押ッ忍！　三番隊は、ぶちかましつつ、巻き込まれた素人さんを安全な場所へ誘導！　四番隊は、遠慮なくぶちかませ！」
+地鳴りみたいな雄叫びをあげて、ヒナコさんの仲間たちが、警備員たちに突っ込んでいく。
+<span class="name">ジョー</span> : 「ああ……ものすごい乱闘に……」
+<span class="name">ヤス</span> : 「ふふ。懐かしくて、ニヤニヤする。あの世でタツも混ざりたがってるだろうな……」
+<span class="name">ルミ</span> : 「どっちかってゆうと、混ざれないって、怒ってるかもね～。ジンナイ先生は、治療出来ないって、笑ってそう」
+<span class="name">ジョー</span> : 「そ、そういうものなんですか……」
+<span class="name">ヤス</span> : 「そういうものです」
+<span class="name">ルミ</span> : 「うん、そーいうもんそーいうもん」
+<span class="name">ヒナコ</span> : 「ここは、あいつらでなんとかなりそうだな。あたいらは、エレベーター行くぞ」
+<span class="name">アユミ</span> : 「こちらです！」
+<span class="name">ヒナコ</span> : 「搬入用のは、何人乗りくらいだ？」
+<span class="name">アユミ</span> : 「人間でしたら、３０人くらいですね。何度かに分けないと全員は無理です」
+<span class="name">ヒナコ</span> : 「残り三機使っても、全員が上がるのに、殿がいるね」
+<span class="name">マリヲ</span> : 「ボクがなるよ。あと、何人か借りてもいい？」
+<span class="name">アユミ</span> : 「ヒナコさん、いいですか？」
+<span class="name">ヒナコ</span> : 「かまやしねぇ。だけど……」
+<span class="name">マリヲ</span> : 「わかってるって。殺さないよ」
+<span class="name">ヒナコ</span> : 「だったらいいぜ」
+<span class="name">ヤス</span> : 「まずは、総長と私たち、それと一番隊から行く。二番隊リーダーは、状況に応じて、殿の補助を何人残すか決めてくれ」
+<span class="name">アユミ</span> : 「マリヲ、私は皆さんを案内するから、先に行くわ。絶対に、あなたもお屋敷に戻ってくるのよ」
+<span class="name">マリヲ</span> : 「うん、わかってる」
+<span class="name">アユミ</span> : 「じゃあ、また後でね」
+<span class="name">マリヲ</span> : 「気をつけてね、お姉さま」
+<span class="name">アユミ</span> : 「あなたもね」
+マリヲはアユミの頬にキスをすると、集団の最後尾へと駆けていった。
+<span class="name">ジョー</span> : 「あっ……警察……！」
+<span class="name">ヤス</span> : 「どうしますか？」
+<span class="name">ヒナコ</span> : 「弔い合戦なんだ。やめるつもりはねぇ。気にすんな」
+<span class="name">ヤス</span> : 「わかりました。それでは、対警察要員として……」
+<span class="name">？？？</span> : 「待ちなさい！」
+<span class="name">ヒナコ</span> : 「あ？　この声は……」
+<span class="name">ヒナコ</span> : 「やっぱ、おめえか」
+<span class="name">コバヤカワ</span> : 「それは、こっちのセリフよ！　ものすごい数のバイクが走ってて、そいつらが見覚えのあるフラッグ振ってたから、まさかと思ったけど……」
+<span class="name">ヒナコ</span> : 「今だけ、クリムゾン・ゲイル復活さ」
+<span class="name">コバヤカワ</span> : 「どうして、こんなことを！？　というか、あなた怪我してなかった？」
+<span class="name">ヒナコ</span> : 「んなこたぁ、どーでもいいんだよ！　こいつは……」
+<span class="name">コバヤカワ</span> : 「弔い合戦というところかしら」
+<span class="name">ヒナコ</span> : 「なんで知ってんだ……？」
+<span class="name">コバヤカワ</span> : 「さっき、ダテくんがここに目星をつけたとこだったの」
+<span class="name">ダテ</span> : 「どーも」
+<span class="name">ルミ</span> : 「あ、ダテちんだ～」
+<span class="name">ヤス</span> : 「いい男だからって、簡単に警察になびくな、ルミ……」
+<span class="name">コバヤカワ</span> : 「あれこれ調べていたところ、バイク達の向かう先がこっちだったから、まさかと思って追ってきたのよ」
+<span class="name">ヒナコ</span> : 「この上に、黒幕のミシマ　ゲンジってのがいる。あたいら、そいつをぶちのめしに行くんだ。んじゃあな。邪魔すんなよ」
+<span class="name">コバヤカワ</span> : 「待って、私たちも一緒に行くわ」
+<span class="name">ダテ</span> : 「へっ？」
+<span class="name">ヒナコ</span> : 「なんで？」
+<span class="name">コバヤカワ</span> : 「ミシマ　ゲンジは被疑者なのよ。暴行のせいで入院なんて理由で逃げられたら、たまったものじゃないもの」
+<span class="name">ヒナコ</span> : 「つーかあんた、令状持ってんのかよ？　目星つけたとこだったら、ないんじゃねーの？　ないままで行ったら、マズイんじゃねーの？」
+<span class="name">マリヲ</span> : 「くっ……」
+<span class="name">ヤス</span> : 「それでは、こうされてはどうでしょう」
+<span class="name">ヒナコ</span> : 「ん？」
+<span class="name">ヤス</span> : 「あなたたちは、私たちを追って、この大人数に巻き込まれてしまい、上までついて来るほかなかった」
+<span class="name">ヤス</span> : 「そこに、被疑者がいたので逮捕した」
+<span class="name">ヤス</span> : 「ところが、被疑者を逮捕している間に、私たちには逃げられてしまう。仕方がないので被疑者だけ連れて帰る……と」
+<span class="name">ダテ</span> : 「それは、ちょっと……」
+<span class="name">コバヤカワ</span> : 「いいわ、のるわ」
+<span class="name">ダテ</span> : 「え、いいんですか！？」
+<span class="name">コバヤカワ</span> : 「被疑者逮捕の機会が目の前にあるのよ。それくらい、別にかまわないじゃない」
+<span class="name">ダテ</span> : 「え、い、いいのかな……ま、いいですか」
+<span class="name">コバヤカワ</span> : 「ふふ、あなたも、馬鹿ね」
+<span class="name">ダテ</span> : 「誰かさんの相棒ですから」
+<span class="name">ヒナコ</span> : 「交渉成立だ。行くぞ！」
+<span class="name">ルミ</span> : 「はーい」
+<span class="name">キューティー</span> : 「あー、もーっ。みんな野蛮で、いやっ」
+<span class="name">ヤス</span> : 「いよいよ、本丸ですね。ふふ……ふふふ……」
+<span class="name">マキ</span> : 「生き生きとされてますね」
+<span class="name">ルミ</span> : 「ヤッくんも、昔に戻ってるね～。ノリノリになると、ずるがしこくなってくるよね～。すごいでしょ？　ジョーちん」
+<span class="name">コバヤカワ</span> : 「えっ！？　ジョーくん、いるの！？」
+<span class="name">ジョー</span> : 「うう、います……ここにいます……」
+<span class="name">ダテ</span> : 「ジョーくん、手錠はどうしたんだい？　それに、シーナちゃんもいないし……」
+<span class="name">コバヤカワ</span> : 「というか、こんなところに本当に家があるの？」
+<span class="name">ジョー</span> : 「なんだかよくわからないけど、あるらしいです……」
+（僕だって、帰宅したって実感ないというか、こんな形で帰宅するなんて思ってなかったよ……）
+<span class="name">アユミ</span> : 「エレベーターが来ました」
+<span class="name">ヒナコ</span> : 「よーし、気合い入れていけよ！」
+<span class="name">ジョー</span> : 「うわ……」
+<span class="name">ヒナコ</span> : 「なんだ、こりゃ。でけぇなぁ……！」
+<span class="name">ルミ</span> : 「こ、これがおうち～～マジで～～～！？」
+<span class="name">ヤス</span> : 「ほほう、なかなかの資産家なんですね」
+<span class="name">アユミ</span> : 「ミシマ財閥総帥の自宅ですので」
+<span class="name">ヤス</span> : 「財閥ときましたか……」
+<span class="name">ダテ</span> : 「ビンゴですね。コバヤカワさん」
+<span class="name">コバヤカワ</span> : 「そうね。シマヅさんのヒントに感謝しなくちゃ」
+<span class="name">ダテ</span> : 「だけど、それなら、ジョーくんのお母さんは……」
+<span class="name">コバヤカワ</span> : 「……そうね」
+<span class="name">ジョー</span> : 「え？　僕のお母さんが、どうか……」
+<span class="name">警備員</span> : 「アユミ、お前の仕業か！」
+<span class="name">警備員</span> : 「お前は、何をしているのか、わかってるのか！」
+<span class="name">ヒナコ</span> : 「うるせぇぇ！！」
+<span class="name">警備員</span> : 「ぐっ！？」
+<span class="name">警備員</span> : 「貴様ら！」
+<span class="name">ヤス</span> : 「はぁぁっ！」
+<span class="name">警備員</span> : 「うあっ！」
+飛び出してきた警備員たちは、あっという間に、みんなに気絶させられてしまい、地面に倒れてしまった。
+<span class="name">ジョー</span> : 「つ、強い……！」
+<span class="name">ヒナコ</span> : 「つっ……」
+<span class="name">ヤス</span> : 「痛み止め持って来てます。使いますか？」
+<span class="name">ヒナコ</span> : 「いらねえ」
+<span class="name">ヤス</span> : 「押ッ忍」
+警備員たちは、次から次へと新しくやってくるが、こちらの数には勝てないのか、どんどん倒されていった。
+（でも、いっぱい来て、キリがないよ……）
+<span class="name">マキ</span> : 「ここは、わたくしとキューティーさんに任せて、ヒナコ姐さんは、ミシマ　ゲンジのところへ！」
+<span class="name">キューティー</span> : 「あああ、アタシぃぃ！？」
+<span class="name">マキ</span> : 「そうですよ。覚悟してください」
+<span class="name">キューティー</span> : 「いゃあああ！」
+<span class="name">ヒナコ</span> : 「ありがとよ。じゃあ、頼んだぜ！　おう、行くぞ！」
+<span class="name">ヤス</span> : 「押ッ忍！」
+<span class="name">ルミ</span> : 「ラジャー！」
+<span class="name">アユミ</span> : 「こっちです！」
+<span class="name">ジョー</span> : 「え、えっと、その、僕は……」
+<span class="name">ヒナコ</span> : 「ジョーも来い！」
+<span class="name">ジョー</span> : 「はっ、はいー！」
+<span class="name">コバヤカワ</span> : 「私たちも行くわよ」
+<span class="name">ダテ</span> : 「そうですね。首謀者を追いかけていたら、いつの間にかここに紛れ込んでしまったということで」
+<span class="name">コバヤカワ</span> : 「そうそう」
+<span class="name">ジョー</span> : 「うわあ……」
+<span class="name">ヒナコ</span> : 「これまた、中もすごいな」
+<span class="name">ヤス</span> : 「ここまで来ると、別世界ですね」
+<span class="name">ジョー</span> : 「こ、これが、僕の家って言われても……」
+<span class="name">ヤス</span> : 「まったく、思い出せませんか？　ジョーくん」
+<span class="name">ジョー</span> : 「う、うん……ほんとに、僕の家なのかな……実感がないや……」
+<span class="name">アユミ</span> : 「本当にここは、あなたのおうちなんですよ。ジョーさま」
+<span class="name">ジョー</span> : 「そう言われても……」
+<span class="name">？？？</span> : 「アユミの言うとおり……ここは間違いなく、お前のうちだよ。ジョー」
+<span class="name">ジョー</span> : 「え……」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">アユミ</span> : 「旦那様です……ジョーさまのお父様ですよ」
+あれが……僕のお父さん……？
+<span class="name">ゲンジ</span> : 「おかえり、ジョー」
+<span class="name">ゲンジ</span> : 「こちらは皆、お前の友人かな？　だとしたら、歓迎しなくてはな。まずは食事がいいかな？」
+<span class="name">ヒナコ</span> : 「スカしてんじゃねぇよ、おっさん」
+<span class="name">ゲンジ</span> : 「随分と威勢のいいお嬢さんだ。ジョーのガールフレンドかな？」
+<span class="name">ジョー</span> : 「ちが、その……」
+<span class="name">アユミ</span> : 「……っ」
+<span class="name">ジョー</span> : 「……お父さん……ですよね？」
+<span class="name">ゲンジ</span> : 「ああ、そうだよ」
+<span class="name">ジョー</span> : 「……僕に何をしたの……？」
+<span class="name">ヒナコ</span> : 「ん？」
+<span class="name">ジョー</span> : 「僕の記憶がないのは、父さんのせいなの？」
+<span class="name">ゲンジ</span> : 「お前は、私の大事な一人息子だ。どうして、そんなことが出来るというんだね？」
+そう言って、悲しい顔をする。
+<span class="name">マリヲ</span> : 「う……」
+<span class="name">ヒナコ</span> : 「しっかりしろ、ジョー。あれも作戦のうちかもしれねぇ」
+<span class="name">マリヲ</span> : 「う、うん……」
+ごくりと唾を飲み込んで、僕は言葉を続ける。
+<span class="name">ジョー</span> : 「……セオさんだけど……」
+<span class="name">ゲンジ</span> : 「ああ……実力のある惜しい者を亡くした。だが、彼女は自身の力に溺れていた」
+<span class="name">ゲンジ</span> : 「患者であるシーナをそそのかし、共謀してお前を人質に逃亡。あげく殺されてしまうとは……」
+<span class="name">アユミ</span> : 「……嘘を仰らないでください……」
+<span class="name">ゲンジ</span> : 「嘘？　私が？」
+<span class="name">アユミ</span> : 「セオさんを殺したのは、私です。……あなたが命じたからです……旦那様……」
+<span class="name">ゲンジ</span> : 「お前こそ、嘘をつくのはよしなさい」
+<span class="name">アユミ</span> : 「私は嘘なんかついてません！」
+<span class="name">ゲンジ</span> : 「皆さん、すまない。この娘はジョーの召使いなんだが、少し虚言癖と妄想癖があってね。今、私の元で治療も兼ねて、ジョーの警護をしてもらっているんだ」
+<span class="name">アユミ</span> : 「そんなっ……！　私には、虚言癖も妄想癖もありません！」
+<span class="name">ゲンジ</span> : 「後で、診察してあげよう。お前は今、昂ぶっているようだ。少し落ち着きなさい」
+アユミさんが虚言癖……？　でも、そんな風には思えないけど……
+<span class="name">？？？</span> : 「お姉さまは嘘なんかついてない。妄想なんかでもない。本当に旦那様の命令で、セオを殺したんだ」
+<span class="name">アユミ</span> : 「あ……マリヲ！」
+<span class="name">ゲンジ</span> : 「お前も帰っていたのか」
+<span class="name">ヤス</span> : 「下の方は？」
+<span class="name">マリヲ</span> : 「後は任せろって言われたから、上がって来たんだ」
+<span class="name">マリヲ</span> : 「それより……」
+<span class="name">マリヲ</span> : 「嘘をついてるのは、旦那様だ」
+<span class="name">マリヲ</span> : 「だって、お姉さまにご命令されてた時、ボクはお姉さまの隣にいた。だから、嘘をついてるのは、旦那様だって言えるよ」
+<span class="name">ゲンジ</span> : 「お前が、アユミに執着するほどなついているのは、この館の人間なら、誰でも知っている。そんな人間がアユミをかばっても、説得力はない」
+<span class="name">マリヲ</span> : 「お姉さまをかばうんだったら、ボク、旦那様の仰る通りだって答えるよ。だって、そうしないと、お姉さまが人殺しだって認めることになっちゃうもん」
+<span class="name">マリヲ</span> : 「旦那様は、本当にお姉さまに命じたんだ。セオを殺して、自分の研究について口封じをしろって言ったんだ」
+<span class="name">マリヲ</span> : 「ボクだって……こんなこと言いたくないよ。だって、そこに警察の人がいるんだよ？」
+<span class="name">マリヲ</span> : 「警察の人がいる前で、人を殺したって言うのが、どれだけ勇気のいることか……それが何を意味するか、旦那様はわかる？」
+<span class="name">ゲンジ</span> : 「警察……？」
+<span class="name">コバヤカワ</span> : 「捜査一課のコバヤカワです。彼らの暴走を止めようとして、ここまで入り込んでしまいました。申し訳ありません」
+<span class="name">ダテ</span> : 「同じく、捜査一課のダテといいます」
+<span class="name">コバヤカワ</span> : 「私たちは、あなたが経営なさっている病院の元研究所長、セオ　アケミさん殺人事件の担当でもあります」
+<span class="name">コバヤカワ</span> : 「別件のように見えますが、繋がっていると思しき殺人事件……タツという青年と、ジンナイ医師の殺害についても捜査しています」
+<span class="name">コバヤカワ</span> : 「お宅のご子息は、その事件の被疑者の一人として、私どもが身柄を確保していました」
+<span class="name">ゲンジ</span> : 「そうか、君たちが……わざわざ、息子を送り届けてくれて感謝する。署長にも良く言っておこう」
+<span class="name">ダテ</span> : 「やっぱり、この人が圧力をかけてたのか……」
+<span class="name">ゲンジ</span> : 「上司命令が下りていると思うが、この子はもう、被疑者ではないはずだ。これで用は済んだだろう。お帰り願えるかな」
+<span class="name">ジョー</span> : 「えっ……僕とシーナが取り調べから解放されたのは、この人のせい？　……え、ええ、何、それ……」
+<span class="name">アユミ</span> : 「旦那様が署長さんに連絡して、容疑をなかったことにして釈放するよう、お願いしたんです」
+<span class="name">ジョー</span> : 「そ、そんなことって出来るの？」
+<span class="name">ヤス</span> : 「財閥ということは、この街の有力者ということになります。そういったことも可能なのでしょう」
+<span class="name">コバヤカワ</span> : 「その件なんですが……」
+<span class="name">ゲンジ</span> : 「ん？　なにかね？」
+<span class="name">コバヤカワ</span> : 「実は昨夜、警察署が何者かの手によって爆破され、未だ正常に機能しておりません」
+<span class="name">コバヤカワ</span> : 「その前に、そういったことになるかもしれないとは、聞いてはいたのですが、正式な命令は私ども末端には、まだ下りてはいません」
+<span class="name">コバヤカワ</span> : 「よって、ご子息は被疑者のままです」
+<span class="name">ゲンジ</span> : 「何……」
+<span class="name">マリヲ</span> : 「その警察の爆破は、ボクがやりました」
+<span class="name">ジョー</span> : 「えっ……」
+<span class="name">ダテ</span> : 「じゃあ、君がジョーくんの言ってた……ジンナイ先生のところに名前のあった、マリヲかい？」
+<span class="name">マリヲ</span> : 「そうだよ」
+<span class="name">コバヤカワ</span> : 「……タツを……ジンナイを殺したっていう……」
+<span class="name">マリヲ</span> : 「うん。ボクが殺しました」
+<span class="name">ダテ</span> : 「……本当なんだね？」
+<span class="name">マリヲ</span> : 「嘘なんかついてないよ。ねえ、お姉さま。ボクたちは罪を償うんだもの」
+<span class="name">アユミ</span> : 「そうね、マリヲ。そう決めたんですものね」
+<span class="name">ジョー</span> : 「えっ……？」
+<span class="name">アユミ</span> : 「刑事さん。セオさんを殺したのは、私です」
+<span class="name">コバヤカワ</span> : 「……どうして？」
+<span class="name">アユミ</span> : 「さっきも言ったように、旦那様……ミシマ　ゲンジさんに命令されたためです」
+<span class="name">コバヤカワ</span> : 「……君は、どうしてタツとジンナイを殺したの？」
+<span class="name">マリヲ</span> : 「殺したかったから」
+<span class="name">アユミ</span> : 「っ……」
+<span class="name">マリヲ</span> : 「あと、お姉さまに似た子も、ジョーさまへの罠にするのにいじめたよ。ナイフでたくさん傷をつけた」
+<span class="name">ジョー</span> : 「えっ……」
+<span class="name">アユミ</span> : 「その娘は、私が道路へ……」
+<span class="name">ダテ</span> : 「あの女の子も、マリヲくん……君の仕業なのか？」
+<span class="name">マリヲ</span> : 「うん」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">マリヲ</span> : 「ボクとお姉さまはね、掃除人形なの」
+<span class="name">ダテ</span> : 「掃除人形って？」
+<span class="name">マリヲ</span> : 「邪魔な人を殺すから、掃除人形なの。ボクは、そのための訓練を受けてるよ」
+<span class="name">コバヤカワ</span> : 「誰に受けるよう、言われたの……？」
+<span class="name">マリヲ</span> : 「そこにいる旦那様」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">アユミ</span> : 「っ……」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">コバヤカワ</span> : 「……あなたもなの？」
+<span class="name">アユミ</span> : 「……はい。私も旦那様から、人を殺すための訓練を受けさせられました」
+<span class="name">アユミ</span> : 「私とマリヲは孤児です。旦那様が管理されている施設に入れられ、二人とも、そこで訓練を受けました」
+<span class="name">アユミ</span> : 「……私たちは、掃除人形だと言われて育ちました。マリヲは……人の生死のモラルを、わざと欠落させられています……」
+<span class="name">ジョー</span> : 「そんな……」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">コバヤカワ</span> : 「二人とも、名前は？」
+<span class="name">マリヲ</span> : 「マリヲ。名字は知らない」
+<span class="name">アユミ</span> : 「私は、サオトメ　アユミです」
+アユミさんとマリヲは互いを見合って、にっこり笑う。
+二人は両手を揃えて、前に伸ばし、コバヤカワさんたちに差し出した。
+<span class="name">アユミ＆マリヲ</span> : 「お願いします。罪を償わせてください」
+<span class="name">アユミ＆マリヲ</span> : 「お願いします。罪を償わせてください」
+<span class="name">アユミ</span> : 「っ……」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">コバヤカワ</span> : 「わかったわ……でも、その前に少しだけ待ってちょうだいね」
+<span class="name">コバヤカワ</span> : 「……この子たちに、人の殺し方を教えたうえ、先を越されて……あなたは恥ずかしくないんですか！？　ミシマ　ゲンジ！」
+<span class="name">ゲンジ</span> : 「何がだね」
+<span class="name">コバヤカワ</span> : 「あなたは、この子たちに殺人をさせました。それは罪となります。あなたも自首してください」
+<span class="name">ゲンジ</span> : 「さっきも言っただろう。アユミは虚言癖、妄想癖がある。マリヲはアユミを盲信している」
+<span class="name">ゲンジ</span> : 「だから、その二人の言葉はあてにならない。直に釈放される。よって私も自首する必要はない」
+<span class="name">コバヤカワ</span> : 「あなた……また署長に圧力をかけるつもりね！？」
+<span class="name">ゲンジ</span> : 「圧力なんぞかけたことはない。私の家の者が迷惑をかけてすまないと、詫びを入れるだけだ」
+<span class="name">コバヤカワ</span> : 「っ……それでも、あなたは人間なの！？　あなたの犠牲になった子供たちが、罪を償いたいと言ってるのよ！？」
+<span class="name">コバヤカワ</span> : 「そこで、張本人のあなたがそんな態度をとるというのは、どういうつもりなの！？」
+<span class="name">ゲンジ</span> : 「穏便に済ませたいと思っていたのだが、難しいようだな」
+<span class="name">ヤス</span> : 「扉が……っ！？」
+<span class="name">ルミ</span> : 「やだ、開かない！　ルミたんたち、閉じ込められちゃった！？」
+玄関が閉じられたと同時に、部屋の扉がいくつも開き、そこから大勢のスーツ姿の男たちが現れた。
+<span class="name">ゲンジ</span> : 「二度とここに来たくなくなる程度に痛めつけて、帰っていただけ。それでも抵抗するようなら……その時は仕方ない」
+<span class="name">警備員　</span> : 「畏まりました。全員、かかれ」
+男たちは、こっちに向かって突進してきた。
+<span class="name">ダテ</span> : 「ど、どうしますか！？　撃ちますか！？」
+<span class="name">コバヤカワ</span> : 「弾丸数が足りないわ！　肉弾戦には肉弾戦で対応よ！」
+<span class="name">ダテ</span> : 「うわ～……マジですか！」
+<span class="name">コバヤカワ</span> : 「本気よ！　はぁぁっ！」
+コバヤカワさんは、突進してきた男の手首をするっと掴むと、あっという間に床へ叩きつけた。
+<span class="name">ダテ</span> : 「さ、さすが……と、うわわっ、はぁ！」
+<span class="name">ヤス</span> : 「オラァァァァ！！」
+<span class="name">ヒナコ</span> : 「ぬぁぁぁ！！」
+あっという間にフロアは、乱戦状態になった。
+<span class="name">ルミ</span> : 「ぎゃー！　く、来るな～！！」
+<span class="name">ジョー</span> : 「う、うわぁ！」
+僕はというと、ルミさんとお互いをかばい合って逃げ回っている。
+そんな僕たちを守るように、みんな戦っていた。
+<span class="name">ゲンジ</span> : 「アユミ、マリヲ。ジョーを連れて、こちらに来い」
+<span class="name">ジョー</span> : 「えっ……」
+<span class="name">ゲンジ</span> : 「私には時間がない」
+<span class="name">アユミ</span> : 「もしかして、旦那様…そんなにお悪くなって……」
+<span class="name">ジョー</span> : 「えっと、あの……」
+<span class="name">ゲンジ</span> : 「ジョー、こちらに来なさい。お前にはしなくてはいけないことがある。本来は、器も必要なのだが……ひとまずはお前がいれば事足りる。さあ」
+ミシマ　ゲンジ……僕のお父さんという男が、こちらに向かって手を差し伸べる。
+だけど、なんだろう……
+とてもいやな感じ。
+<span class="name">アユミ</span> : 「っ……」
+<span class="name">ゲンジ</span> : 「ジョー」
+<span class="name">ジョー</span> : 「いや、だ……」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ジョー</span> : 「僕は、あなたのとこに行きたくない。とてもいやな感じがする。だから、行かない！　絶対にいやだ！」
+<span class="name">ゲンジ</span> : 「しかたないな。アユミ、マリヲ」
+<span class="name">ジョー</span> : 「あ……」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ゲンジ</span> : 「ジョーをつれて来るんだ。早くしなさい」
+<span class="name">アユミ</span> : 「っ……」
+<span class="name">アユミ</span> : 「……いやです！　私には出来ません。ジョーさまがいやがってます！　それに……」
+<span class="name">アユミ</span> : 「私はもう、旦那様を信じられない……」
+<span class="name">マリヲ</span> : 「お姉さまがいやだと言うなら、ボクもいやです」
+<span class="name">ゲンジ</span> : 「揃いも揃って、役立たずばかりだ……」
+<span class="name">警備員</span> : 「失礼します、ジョーさま」
+<span class="name">ジョー</span> : 「あっ！？」
+いつの間に僕のそばへ来たのか、スーツの男が僕の腕を掴み、強引に引きずっていく。
+<span class="name">ジョー</span> : 「い、いやだ！」
+<span class="name">アユミ</span> : 「やめて、ジョーさまに酷いことをしないで！　あっ……きゃあ！」
+<span class="name">マリヲ</span> : 「このっ……！　離せ！　お姉さまに、何すんだよ！」
+アユミさんとマリヲにも、男たちが群がっていく。
+<span class="name">ジョー</span> : 「アユミさん！　マリヲ！」
+<span class="name">ゲンジ</span> : 「早くしろ。もう…本当に時間がない……っ……」
+<span class="name">ゲンジ</span> : 「ごほっ……こほっ……！」
+<span class="name">ジョー</span> : 「あ、ああっ……！」
+アユミさんとマリヲが遠のいていく。
+<span class="name">ジョー</span> : 「アユミさん、マリヲー！！」
+<span class="name">アユミ</span> : 「くっ……ジョーさま！」
+<span class="name">マリヲ</span> : 「くそっ！　これじゃ、殺した方が早いっての！　どけよ、おっさん！　どけー！」
+<span class="name">ヤス</span> : 「ジョーくん！」
+<span class="name">コバヤカワ</span> : 「ジョーくん！？　くっ……ダテくん、助けるのよ！」
+<span class="name">ダテ</span> : 「わかりました！　ちょっと待って、このっ……く、いてっ！　やりやがったな、くそっ！　ていっ！」
+<span class="name">警備員</span> : 「ぐはっ！」
+<span class="name">ジョー</span> : 「あ、ぅあ……」
+どんどん、ミシマさんのそばに引きずられていく……
+<span class="name">ジョー</span> : 「く、このっ、離せ、離せよ！」
+<span class="name">警備員</span> : 「お連れしました」
+<span class="name">ゲンジ</span> : 「ご苦労」
+<span class="name">ジョー</span> : 「あっ……」
+とうとう……僕は、ミシマさんのそばに連れてこられた。
+ミシマさんが、僕の二の腕を強く掴む。
+<span class="name">ヒナコ</span> : 「つっ……」
+見上げると、そこには無表情なミシマさんの目。物か何かを見ているみたいな……
+<span class="name">ジョー</span> : 「あ、う……うう……」
+<span class="name">ゲンジ</span> : 「……私が誰か、本当にわからんのか」
+<span class="name">ジョー</span> : 「は、はい……」
+<span class="name">ゲンジ</span> : 「……また失敗したのか」
+<span class="name">ジョー</span> : 「え……？」
+<span class="name">ゲンジ</span> : 「三度目の正直というからな……次は成功する。成功せねばならない……」
+<span class="name">ジョー</span> : 「な、何を？」
+<span class="name">ゲンジ</span> : 「さあ、行こう」
+<span class="name">ジョー</span> : 「どこにですか！？」
+<span class="name">ゲンジ</span> : 「この間の続きだ。お前には私になってもらわなくてはいけない」
+<span class="name">ジョー</span> : 「何……それ……」
+<span class="name">ゲンジ</span> : 「お前は、理解する必要はない。必要なのは、体だけだ……意思など邪魔なだけだ。シーナと同じようにな」
+<span class="name">ジョー</span> : 「シーナ……？　やっぱり、シーナもここにいたの？」
+それと……
+<span class="name">ジョー</span> : 「シーナに……酷いことをしたのは、あなたなの？」
+前を向いて、どこかへ行くことばかりに注力していたミシマさんが、ゆっくり僕を見た。
+<span class="name">ゲンジ</span> : 「本当は、何か覚えているのか？」
+<span class="name">ジョー</span> : 「ち、違うよ！　僕たちを診察した先生がそう言ってたんだ」
+<span class="name">ゲンジ</span> : 「知る必要はない……いや。成功すれば、いやでも知る。だが……」
+<span class="name">ゲンジ</span> : 「成功した時は、お前はお前ではなくなっている。ある意味、知らないのと同義だ」
+<span class="name">ジョー</span> : 「なんだよ、それ……どういうことなの？」
+ミシマさんは答えず、ものすごい力で僕の腕を引っ張って、目的の場所へ向かおうとする。
+<span class="name">アユミ</span> : 「あっ……！」
+冷たいものを、背筋にどっと浴びせかけられたような感覚。
+これは……
+<span class="name">アユミ</span> : 「っ……」
+――恐怖……だ。
+<span class="name">ジョー</span> : 「い、いやだ！　そこに行きたくないっ……」
+どうしてそう思ったのか、感じたのか、わからない。
+だけど、怖い。
+<span class="name">ジョー</span> : 「うあ、あっ……ああっ……！」
+ただ、ただ、怖い。
+<span class="name">ジョー</span> : 「離して、お願いだから、離して！」
+怖い……
+<span class="name">ジョー</span> : 「い、いやだっ……！」
+怖い、怖い、怖い、怖い、怖い、怖い、怖い――！！
+<span class="name">ジョー</span> : 「離してーー！」
+<span class="name">？？？</span> : 「いい加減にしやがれ！！」
+<span class="name">ゲンジ</span> : 「うあっ……！」
+乱闘の中から飛び出して来たヒナコさんの拳が、ミシマさんの頬へまともに入った。
+ミシマさんの手から、僕の腕が離れる。
+<span class="name">ジョー</span> : 「わっ！？」
+ものすごい力で引っ張られていた反動で、わたわたと後じさった僕は、バランスを崩し、尻餅をついた。
+<span class="name">ヒナコ</span> : 「はあっ、はあ、はあっ……！」
+<span class="name">ジョー</span> : 「ヒ、ヒナコさ、あ、ああっ……！」
+ヒナコさんの肩の傷が開いて、血が滲んでいた。
+<span class="name">アユミ</span> : 「っ……」
+<span class="name">ジョー</span> : 「あ、ああ……し、死んじゃう……ヒナコさんが死んじゃう……！」
+<span class="name">アユミ</span> : 「……っ」
+<span class="name">ヒナコ</span> : 「大丈夫だ……心配すんなって」
+<span class="name">ジョー</span> : 「で、でも……」
+<span class="name">ヒナコ</span> : 「いいから」
+ヒナコさんはそう言うと、前に落ちてきていた髪を無造作に手ではね除ける。
+その後、僕から少し離れたところで床に手をついているミシマさんの元に、つかつかと歩み寄った。
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ヒナコ</span> : 「あんた、それでいいのかよ……」
+<span class="name">ヒナコ</span> : 「ガキに先に大人になられて……」
+<span class="name">ヒナコ</span> : 「自分の子供がいやがってるのに、てめえの都合で無理強いして……」
+<span class="name">ヒナコ</span> : 「そんなガキどもの前で、大人の汚いやり方見せて、自分だけは助かろうとして……」
+<span class="name">ヒナコ</span> : 「あんた、それでいいと思ってんのか！！」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ゲンジ</span> : 「私は…良心を捨てたのだ……」
+<span class="name">ゲンジ</span> : 「他人の痛みなど…知ったことか……」
+<span class="name">ゲンジ</span> : 「私には…やらねばならんことがある……」
+<span class="name">ゲンジ</span> : 「やらなくてはいけないことがある……！」
+<span class="name">ゲンジ</span> : 「そのためには……」
+<span class="name">ゲンジ</span> : 「他人の痛みも…気持ちも…心も……感情も何もかも……知ったことか！」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ヒナコ</span> : 「は～あ～あ～あ……嘘つくなよなぁ！」
+<span class="name">ゲンジ</span> : 「なんだと……！？　私は嘘などついてはおらん！」
+<span class="name">ヒナコ</span> : 「だったらなんで、あたいの傷の血を見て、そんな悲しそうな顔してんだよ？」
+<span class="name">アユミ</span> : 「っ……」
+<span class="name">コバヤカワ</span> : 「……ユミコさん、ですか？」
+<span class="name">ジョー</span> : 「あっ……」
+<span class="name">コバヤカワ</span> : 「ここに来る前に調べました……正しくは私の上司が、当時のことを覚えてました」
+<span class="name">ヒナコ</span> : 「ユミコ……？」
+<span class="name">コバヤカワ</span> : 「ミシマさんの奥さんで……ジョーくんのお母さん……」
+<span class="name">ダテ</span> : 「……もう、故人ですけどね」
+<span class="name">ジョー</span> : 「えっ……」
+（故人って、死んでるってことだよね……？）
+僕のお母さんって……死んでたんだ……
+<span class="name">コバヤカワ</span> : 「あなたの目の前で、暴漢に襲われたそうですね」
+<span class="name">ゲンジ</span> : 「ぁ……」
+<span class="name">コバヤカワ</span> : 「血を流しているヒナコを見て、悲しそうな顔をしたのは……そのことを思い出したからではないのですか？」
+<span class="name">アユミ</span> : 「っ……」
+<span class="name">ゲンジ</span> : 「……彼女には、何の罪もない……」
+<span class="name">ゲンジ</span> : 「だけど、殺された……」
+<span class="name">ゲンジ</span> : 「いや……生きている！」
+<span class="name">ゲンジ</span> : 「生きているから……私はしなくてはいけないのだ……」
+<span class="name">ゲンジ</span> : 「彼女に会うために、私はしなくてはいけないのだ……」
+<span class="name">ジョー</span> : 「それと、僕に何の関係が……」
+<span class="name">ゲンジ</span> : 「私はもう長くない……」
+<span class="name">ジョー</span> : 「えっ……」
+<span class="name">ゲンジ</span> : 「私は不治の病に蝕まれている……それほど長くもたない」
+<span class="name">ゲンジ</span> : 「だが……私は彼女に会って、謝らなくてはいけないことがある……」
+<span class="name">ゲンジ</span> : 「だから、ジョーの体が必要なのだ……私には絶対に必要なんだ……」
+<span class="name">ヤス</span> : 「……聞いている限り、まるであなたがジョーくんの体を乗っとって、奥さんに謝るように聞こえるのですが……」
+<span class="name">ゲンジ</span> : 「そうだ、その通りだ……私はそうせねばならない」
+<span class="name">ダテ</span> : 「……コバヤカワさん。もしかして、この人、ちょっと……」
+<span class="name">コバヤカワ</span> : 「……そうね。それほど愛していたのでしょうね。奥様を……」
+<span class="name">ヒナコ</span> : 「あ～……良くわかんねぇんだけど……」
+<span class="name">ヒナコ</span> : 「仮にさ……もし、それで奥さんに会えたとしてもさ……」
+<span class="name">ヒナコ</span> : 「奥さん、喜ぶのかなぁ？」
+<span class="name">ゲンジ</span> : 「なに……？」
+<span class="name">ヒナコ</span> : 「何人ものガキや、自分の子供を犠牲にしてさ……そんなことして会われても……」
+<span class="name">ヒナコ</span> : 「あんたの奥さんは、嬉しいと思ってくれる人なのか？」
+<span class="name">ジョー</span> : 「あ……」
+<span class="name">ヒナコ</span> : 「だって、ジョーは、その奥さんの子だろ？　自分の産んだ子を、旦那が犠牲にしたと知ったら、奥さん……すっげえ怒ると思う」
+<span class="name">アユミ</span> : 「……っ」
+<span class="name">ヒナコ</span> : 「あんた、奥さんに何を謝ろうとしてるか、わかんねぇけどさ……」
+<span class="name">ヒナコ</span> : 「今の、この状況……もっと、奥さんを怒らせるようなことしてねぇか？」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ゲンジ</span> : 「……ユミコは……正義感が強かった……」
+<span class="name">ゲンジ</span> : 「曲がったことが嫌いで……女らしい柔らかさもある、凛とした女だった……」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ゲンジ</span> : 「は、はは……ははは……」
+<span class="name">ゲンジ</span> : 「確かに……私がしたことをユミコが知れば……烈火のごとく、怒りそうだ……」
+<span class="name">ゲンジ</span> : 「は、ははっ……はははっ……」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ゲンジ</span> : 「どうして、こんな……今になって気づかされたんだ……」
+<span class="name">ゲンジ</span> : 「どうして……どうして……」
+<span class="name">ヒナコ</span> : 「それだけ悲しみが深かったんだよ……奥さんの他、何も見えなくなるくらい」
+<span class="name">ジョー</span> : 「あっ……」
+<span class="name">ヒナコ</span> : 「あたいにはわかんねぇし、理解もしたくねぇけど……子供を犠牲にする時ってさ……そういうことなんじゃないか？」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ゲンジ</span> : 「悲しみ、か……」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ゲンジ</span> : 「……そうなのかもな……」
+<span class="name">ヒナコ</span> : 「でもよぉ……奥さんを亡くしたことは気の毒だと思うけど……やっていいことと悪いことはあるぜ？」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ヒナコ</span> : 「あんたはやっちゃいけないことをした。色々と」
+<span class="name">ゲンジ</span> : 「……ああ、その通りだ」
+<span class="name">ヒナコ</span> : 「認めるんだな？」
+<span class="name">ゲンジ</span> : 「……ああ。認める……」
+<span class="name">ゲンジ</span> : 「アユミとマリヲが言ったことは、すべて本当だ」
+<span class="name">ゲンジ</span> : 「セオは、私の命令で殺させた……」
+<span class="name">ゲンジ</span> : 「アユミとマリヲの二人に、殺人技術を学ばせたのは……私だ」
+<span class="name">ヒナコ</span> : 「……だそうだ」
+<span class="name">コバヤカワ</span> : 「……ミシマ　ゲンジ。あなたを殺人教唆の容疑で緊急逮捕します」
+<span class="name">ゲンジ</span> : 「その前に……」
+<span class="name">コバヤカワ</span> : 「何？」
+<span class="name">ゲンジ</span> : 「手当をさせてくれないか」
+<span class="name">ヒナコ</span> : 「へ？　もしかして……あたいのか？」
+<span class="name">ゲンジ</span> : 「ああ。いやでなければ……」
+<span class="name">ゲンジ</span> : 「……私はあの時、彼女を助けられなかった。だから君の手当をさせてくれ」
+<span class="name">ゲンジ</span> : 「そして、君は……死なないで欲しい」
+<span class="name">ゲンジ</span> : 「私の手で助かった女が一人でもいると……私にそう、思わせて欲しい……」
+<span class="name">ヒナコ</span> : 「……かまわねぇよ。あんたも、あたいも……大事なモンを失った同士だもんな」
+<span class="name">ゲンジ</span> : 「すまない。恩に着る……」
+<span class="name">アユミ</span> : 「それじゃあ、ジョーさま。行ってきますね」
+<span class="name">ジョー</span> : 「アユミさん……」
+アユミさんは、僕に向かって深く深く、頭を下げた。
+<span class="name">アユミ</span> : 「……記憶のなくなったジョーさまを欺くようなことをして、本当にごめんなさい」
+<span class="name">ジョー</span> : 「そ、そんなこと気にしてないよ。その……」
+<span class="name">ジョー</span> : 「僕……面会に行くから」
+<span class="name">アユミ</span> : 「えっ……！？」
+<span class="name">ジョー</span> : 「そういうこと出来るかわからないけどさ……でも、アユミさんのこと、心配だから……行くね」
+<span class="name">アユミ</span> : 「……いいんですか？　私は人殺しなんですよ？　怖くないんですか？」
+<span class="name">ジョー</span> : 「僕を殺そうとする人は怖いけど、アユミさんはそうじゃないから……大丈夫」
+<span class="name">ジョー</span> : 「あっ……」
+<span class="name">アユミ</span> : 「……私……」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">アユミ</span> : 「私……ジョーさまのことが好きです！」
+<span class="name">ジョー</span> : 「えっ、えぇぇっ……！？」
+<span class="name">アユミ</span> : 「ずっと、ずっと……私、ジョーさまのことをお慕いしてました！」
+<span class="name">アユミ</span> : 「だけど、私は召使いで……その上、お人形だから……ずっと言えないでいました！」
+<span class="name">アユミ</span> : 「はあっ、はあっ……」
+<span class="name">アユミ</span> : 「……や、やっと言えました。嬉しい……です、けど……」
+<span class="name">アユミ</span> : 「…っ………」
+<span class="name">アユミ</span> : 「～～～～」
+<span class="name">アユミ</span> : 「あ、う、ううっ……！　こ、告白って……は、恥ずかしいですねっ……！！」
+（さ、された方も恥ずかしい……！）
+<span class="name">アユミ</span> : 「でも、だから、そのっ……！」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">アユミ</span> : 「……会いに来てくださるのは、とても嬉しいです……待ってます」
+<span class="name">ジョー</span> : 「あ、う、うん……はい」
+<span class="name">マリヲ</span> : 「やっと言えたんだね。お姉さま」
+<span class="name">アユミ</span> : 「ん……？」
+<span class="name">マリヲ</span> : 「ずっと前からそうだったけど、言えないでいたもんね。だから……良かったね」
+<span class="name">マリヲ</span> : 「……うん」
+<span class="name">マリヲ</span> : 「それじゃあね、ジョーさま。ボクは面会とかいらないから」
+<span class="name">ジョー</span> : 「え……そうなの？」
+<span class="name">マリヲ</span> : 「……来る気だったの？」
+<span class="name">ジョー</span> : 「うん……なんとなく」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">マリヲ</span> : 「……ぷっ、は、ははは。変な人っ」
+<span class="name">ジョー</span> : 「そ、そうかな……」
+<span class="name">マリヲ</span> : 「ま、どっちでもいいよ。気が向いたらで」
+<span class="name">マリヲ</span> : 「……うん」
+<span class="name">ゲンジ</span> : 「ジョー」
+<span class="name">ジョー</span> : 「あっ……」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ジョー</span> : 「その……ヒナコさんの手当、終わったんですか？」
+<span class="name">ゲンジ</span> : 「ああ」
+<span class="name">ジョー</span> : 「……あ、あの……」
+<span class="name">ゲンジ</span> : 「私は、利己的な男だ」
+<span class="name">ジョー</span> : 「えっ……」
+<span class="name">ゲンジ</span> : 「昔からその気はあったのだが、ユミコが……お前の母が死んでから、それに拍車がかかった」
+<span class="name">ゲンジ</span> : 「だが、後悔はしていない。私は最期まで、それを貫く」
+<span class="name">ジョー</span> : 「えっと、その……」
+<span class="name">ゲンジ</span> : 「そう遠くない日に、私は死ぬ」
+<span class="name">ジョー</span> : 「……そんなに悪いんですか？」
+<span class="name">ゲンジ</span> : 「ああ」
+<span class="name">アユミ</span> : 「っ……」
+<span class="name">ゲンジ</span> : 「そんな顔をするな。人間はいつか死ぬ」
+<span class="name">ゲンジ</span> : 「だから、これは遺言だ。覚えていておいて欲しい」
+<span class="name">ジョー</span> : 「は、はい」
+<span class="name">ゲンジ</span> : 「ロックは、お前の生体認証でしか作動しないようにした」
+<span class="name">ジョー</span> : 「ロック……？」
+<span class="name">ゲンジ</span> : 「私が死んだ時は、アユミに地下のことを聞いてくれ。そこにあるものと共に、私を荼毘に付してほしい」
+<span class="name">ジョー</span> : 「えっと、その……」
+<span class="name">ゲンジ</span> : 「その時が来ればわかる。それまでは、覚えているだけでいい」
+<span class="name">ジョー</span> : 「は、はい……わかりました」
+<span class="name">アユミ</span> : 「…………」
+ミシマさんは、黙ってじっと僕の顔を見つめている。
+<span class="name">ジョー</span> : 「あの……僕の顔に、何かついてますか？」
+<span class="name">ゲンジ</span> : 「いや……私たちはあまり仲の良い親子ではなかったが……それでも、他人を見る目で、敬語で会話をされるというのは……少し堪えるなと思っただけだ」
+<span class="name">コバヤカワ</span> : 「そろそろ行きますよ」
+<span class="name">ゲンジ</span> : 「ああ、わかった」
+<span class="name">ゲンジ</span> : 「それじゃあな、ジョー」
+<span class="name">ゲンジ</span> : 「……忘れないでくれ」
+<span class="name">アユミ</span> : 「……はい」
+<span class="name">コバヤカワ</span> : 「じゃあね、ジョーくん。改めて、お詫びに来させてもらうわ」
+<span class="name">ダテ</span> : 「何か困ったことがあれば、連絡してくれたらいいよ。これ、名刺」
+<span class="name">ジョー</span> : 「すみません」
+<span class="name">ダテ</span> : 「それじゃ！」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ヒナコ</span> : 「なーに、黄昏れてんだよ」
+<span class="name">ジョー</span> : 「あ！」
+<span class="name">ジョー</span> : 「どうですか！？　怪我……」
+<span class="name">ヒナコ</span> : 「ん、ああ。手当てしてもらったから大丈夫さ。たいしたことねぇよ」
+ヒナコさんの後ろで、切ない顔をしたヤスさんが首を左右に振ってる。
+相当悪いんだな……
+<span class="name">ヒナコ</span> : 「……行っちゃったな」
+<span class="name">ヤス</span> : 「はい」
+<span class="name">ヒナコ</span> : 「一人になっちまったな」
+<span class="name">アユミ</span> : 「……はい」
+<span class="name">ヒナコ</span> : 「ここ、お前ん家なんだよな。ってことは、ジョーは、ここに残るのか？」
+<span class="name">ジョー</span> : 「そうした方がいいのかもしれないけど、なんだか実感がなくて……」
+<span class="name">ヒナコ</span> : 「ま、こんなデカイ家に一人だと、確かに寂しいかもな」
+<span class="name">マリヲ</span> : 「……うん」
+<span class="name">ヒナコ</span> : 「ん～、じゃあさ。また、あたいんとこ来るか？」
+<span class="name">ジョー</span> : 「えっ……！？　ヒナコさんのとこですか！？」
+<span class="name">ヒナコ</span> : 「あんた１人くらい面倒見るの、わけないさ。だから来るといいよ」
+<span class="name">キューティー</span> : 「ええ、そんな～！　ジョーくんはここにいて、うちのお店の上得意になって、お金を落とすべきよ！」
+<span class="name">マキ</span> : 「そのがめつさ、いっそ清々しいですね」
+<span class="name">ジョー</span> : 「僕が……また、ヒナコさんのとこに……？　いいんですか……？」
+<span class="name">ヒナコ</span> : 「ああ。ジョーが飽きるまで、ずっといればいいよ」
+<span class="name">ジョー</span> : 「ずっと……」
+<span class="name">ヒナコ</span> : 「そう、ずっと」
+<span class="name">？？？</span> : 「ちょっと待って！　これ、どういうこと！？」
+<span class="name">ヒナコ</span> : 「ん？」
+<span class="name">ジョー</span> : 「し、粃！？」
+<span class="name">ヒナコ</span> : 「えっ、姉貴！？」
+<span class="name">ジョー</span> : 「えっと……今は、粃です」
+<span class="name">ヒナコ</span> : 「じゃあ、殺人鬼って言われてる……」
+<span class="name">シーナ</span> : 「殺人鬼？　何よ、それ。私、人殺しなんかしたことないわ」
+<span class="name">ジョー</span> : 「そ、そうなの！？」
+<span class="name">ヤス</span> : 「やはり、ジョーくんの親父さん、アユミさんに嘘を教えていたようですね」
+<span class="name">ジョー</span> : 「それじゃあ……粃は殺人鬼じゃないんだね！？」
+<span class="name">シーナ</span> : 「違うって言ってるじゃない。それより、ゲンジさんはどこ？」
+<span class="name">ヤス</span> : 「今、逮捕されてつれていかれましたよ」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">シーナ</span> : 「は？」
+<span class="name">ルミ</span> : 「だーかーらー。警察に行っちゃった」
+<span class="name">シーナ</span> : 「ちょ、ちょっと待ってよ！　私は、ゲンジさんを手に入れに来たのよ！？」
+<span class="name">シーナ</span> : 「そ……そのゲンジさんがいないって、いない……って……」
+粃はふにゃふにゃと頽れた。
+<span class="name">ジョー</span> : 「だ、大丈夫？　粃……」
+<span class="name">シーナ</span> : 「私にさわらないでと言ったでしょ！　この、出来損ない！」
+<span class="name">シーナ</span> : 「あ、ああ……なんなのよぉぉっ……！」
+<span class="name">シーナ</span> : 「なんだったの……なんだったのよ……私はゲンジさんを手に入れるために、セオをそそのかしたのに……」
+<span class="name">シーナ</span> : 「そのために、出来損ないもさらって、頑張ったのに……」
+<span class="name">シーナ</span> : 「ゲンジさんがいなくなったら、私……私……どうすればいいのよおぉぉぉっ……！」
+<span class="name">マキ</span> : 「推測ですが」
+<span class="name">キューティー</span> : 「んん？」
+<span class="name">マキ</span> : 「ジョーさんのお父様は、この粃という人格から逃れたいがため、殺人鬼なんて嘘をついたのでしょうか」
+<span class="name">キューティー</span> : 「そ、そんな気がしなくも……なんとなく、ストーカーチックな雰囲気が漂ってるものね……」
+<span class="name">ヤス</span> : 「なかなか、苛烈ですね」
+<span class="name">ヒナコ</span> : 「まあ、でも、姉貴は姉貴だ。つーか、お前も行くとこないんだろ？」
+<span class="name">シーナ</span> : 「……そうよ。ゲンジさんがいないんだったら、私はもう……」
+<span class="name">ヒナコ</span> : 「だったら、姉貴もうちに来ればいいよ。また、あたいが面倒見てやるから」
+<span class="name">シーナ</span> : 「は？」
+<span class="name">ジョー</span> : 「いいんですか！？」
+<span class="name">ヒナコ</span> : 「もちろんだよ。気が済むまでずっと一緒にいればいいよ」
+<span class="name">ジョー</span> : 「ずっと……一緒……」
+<span class="name">ジョー</span> : 「えっ……」
+<span class="name">ジョー</span> : 「ずっと一緒だって！　いいじゃない、行こうよ」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ジョー</span> : 「あれ、粃……？　どうしたの？」
+<span class="name">アユミ</span> : 「…………」
+<span class="name">ジョー</span> : 「粃……？」
+<span class="name">シーナ</span> : 「……ここ……どこ……？」
+あれ、この感じ……
+<span class="name">ジョー</span> : 「もしかして……シーナ！？」
+<span class="name">シーナ</span> : 「うん、そうだけど……あ、ここ、ジョーくんのおうちだよね。どうしてシーナ、ここにいるの？」
+<span class="name">ジョー</span> : 「あ、ああ……！　良かった……！　良かった！　消えてなかったんだね、シーナ！」
+嬉しくなって、僕はシーナに抱きついた。
+<span class="name">シーナ</span> : 「えっ、シーナが消えるって、どういうこと？　あれ、手錠がないよ？」
+<span class="name">ジョー</span> : 「いいんだ、いいんだよ……良かった…ほんと、良かった」
+<span class="name">シーナ</span> : 「シーナは、ずっとシーナだよ？」
+<span class="name">ジョー</span> : 「……そ、そうだね。ははは……はは、ははっ！」
+僕はシーナを抱きしめて、笑った。
+シーナだ。シーナの匂いだ。
+間違いなく、僕はシーナを抱きしめている。
+<span class="name">シーナ</span> : 「ど、どうしたの、ジョーくん。おなかいたいの？」
+<span class="name">ジョー</span> : 「ううん、嬉しいんだ……みんなとまた会えて、とっても嬉しいんだ」
+<span class="name">シーナ</span> : 「そっか……なんだかよくわからないけど、ジョーくんが嬉しいなら、シーナも嬉しいよ」
+<span class="name">ジョー</span> : 「うん、はは、はははっ」
+<span class="name">シーナ</span> : 「ふふっ」
+<span class="name">ヒナコ</span> : 「なんか、賑やかだなぁ」
+<span class="name">ヤス</span> : 「はい。めまぐるしかったですね」
+<span class="name">ルミ</span> : 「あははっ」
+<span class="name">ジョー</span> : 「ヒナコさん、あの……」
+<span class="name">ヒナコ</span> : 「ま、いんじゃね？　みんな一緒にまとめて面倒みてやるよ」
+<span class="name">ジョー</span> : 「ずっと、一緒に？」
+<span class="name">ヒナコ</span> : 「ああ……ずっと一緒だ。みんな、な」
+<span class="name">ジョー</span> : 「ずっと一緒だって、シーナ」
+<span class="name">シーナ</span> : 「うんっ！　シーナ、嬉しい」
+<span class="name">ジョー</span> : 「僕も……嬉しいな」
+<span class="name">ヒナコ</span> : 「よーし、帰るとすっかー。どっか店借り切って、弔いのドンチャン騒ぎしよーぜ、ヤス」
+<span class="name">ヤス</span> : 「あなたが帰るのは、病院です。まだ退院許可は出てないんですから」
+<span class="name">ヒナコ</span> : 「んなもん、知ったことか。よし、マキ！　お前んとこ、貸し切りにしてくれ！」
+<span class="name">マキ</span> : 「全員、入りますでしょうか」
+<span class="name">キューティー</span> : 「うちも使っていいわよ」
+<span class="name">ヒナコ</span> : 「お、いいねぇ！」
+<span class="name">ジョー</span> : 「それより、入院……」
+<span class="name">ヒナコ</span> : 「うっせえ。よーし、全員、帰るぞ！　おう、ジョー。帰りもお前、あたいのケツな」
+<span class="name">ジョー</span> : 「えっ……えー！」
+<span class="name">シーナ</span> : 「じゃあ、シーナもー！」
+<span class="name">ヒナコ</span> : 「よーし、じゃあ、３人で乗って帰るかー」

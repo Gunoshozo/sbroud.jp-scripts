@@ -1,0 +1,157 @@
+<span class="name">ジョー</span> : 「あっ……」
+<span class="name">コバヤカワ</span> : 「…………」
+さっきより、険しい顔になっている……何があったのかな。
+<span class="name">コバヤカワ</span> : 「…………」
+<span class="name">ジョー</span> : 「あ、あの……？」
+<span class="name">コバヤカワ</span> : 「……なんなの？」
+<span class="name">ジョー</span> : 「えっ……？」
+<span class="name">コバヤカワ</span> : 「あなたたち、いったいなんなの？」
+（え？　どういう意味で聞いてるのかな？）
+<span class="name">コバヤカワ</span> : 「どこの誰かと聞いているのよ」
+<span class="name">ダテ</span> : 「ストレートな手に出たなぁ、コバヤカワさん……」
+<span class="name">ジョー</span> : 「だから、さっきから言ってるじゃないですか！　ジョーとシーナだって……」
+<span class="name">コバヤカワ</span> : 「名前だけじゃないわ」
+<span class="name">ジョー</span> : 「……？」
+名前だけじゃないって、どういうことなんだろう？
+<span class="name">ジョー</span> : 「えっと、その……僕たちの身元調べ、終わったんですか？」
+<span class="name">コバヤカワ</span> : 「ええ」
+<span class="name">ジョー</span> : 「そ、そうですか！　それで何かわかったんですか？」
+<span class="name">コバヤカワ</span> : 「……」
+<span class="name">コバヤカワ</span> : 「……」
+これで僕たちが、どこの誰かはっきりするんだよね？
+だけど、コバヤカワさんとダテさんの態度、なんだか……
+<span class="name">コバヤカワ</span> : 「…………」
+<span class="name">コバヤカワ</span> : 「……」
+<span class="name">コバヤカワ</span> : 「終わったわ。だけど……」
+<span class="name">ジョー</span> : 「……だけど？」
+<span class="name">コバヤカワ</span> : 「…………」
+あ、あれ……？
+<span class="name">コバヤカワ</span> : 「まず、二人とも犯罪歴はなし。こちらは指紋を記録と照らし合わせた結果よ」
+<span class="name">コバヤカワ</span> : 「彼女のほうは、粃もシーナも偽名よね？　データバンクに、まったくかすりもしなかった」
+<span class="name">コバヤカワ</span> : 「…………」
+<span class="name">コバヤカワ</span> : 「それと、君！」
+<span class="name">ジョー</span> : 「ぼ、僕ですか！？」
+<span class="name">コバヤカワ</span> : 「そう、君よ！　君のデータはロックがかかっていて、私たちでは照合することが出来なかったわ」
+<span class="name">ジョー</span> : 「えっ……どうして？」
+<span class="name">コバヤカワ</span> : 「そんなのこっちが聞きたいわ！」
+<span class="name">ジョー</span> : 「す、すみません！　でも、それじゃあ、僕たちはどこの誰なんですか？」
+<span class="name">コバヤカワ</span> : 「……私が聞きたいくらいよ」
+<span class="name">ジョー</span> : 「ということは……」
+<span class="name">ダテ</span> : 「君たちが、どこの誰かわからないということがわかっただけなんだよ」
+<span class="name">ジョー</span> : 「そ、そんなことってあるんですか？」
+<span class="name">コバヤカワ</span> : 「あったのよ」
+（そんな……警察だったら、僕たちのこと、何かわかると思ったのに……犯罪者ではなさそうだけど、僕たちは、どこの誰なんだ？）
+<span class="name">コバヤカワ</span> : 「…………」
+<span class="name">ジョー</span> : 「あ、あの……！　他に、どうにかして、僕たちのことがわかる方法ってないんですか？」
+<span class="name">コバヤカワ</span> : 「あなたたちが、素直になってくれたら、すぐ、わかるわ」
+<span class="name">ジョー</span> : 「そんな……僕たちは、今知ってることをすべて話してます！　これ以上、僕たちもどうしたらいいか……というか、警察だったら、何か手がかりがつかめると思ったのに……」
+<span class="name">コバヤカワ</span> : 「頼りなくて申し訳ないわね。私たちはそんな状態なので、さっさと言って。本名と、どうして人に危害を加えたのか」
+<span class="name">ジョー</span> : 「だから……」
+<span class="name">コバヤカワ</span> : 「言いなさい」
+<span class="name">ジョー</span> : 「僕たちは――」
+<span class="name">コバヤカワ</span> : 「言いなさい！！」
+<span class="name">シマヅ</span> : 「邪魔するよ」
+<span class="name">コバヤカワ</span> : 「シマヅさん……」
+<span class="name">シマヅ</span> : 「お嬢、調子はどうだい？　というか、外まで怒鳴り声が聞こえてたが」
+<span class="name">コバヤカワ</span> : 「……だったら、どんな状況かわかるでしょう」
+<span class="name">シマヅ</span> : 「ふむ……」
+いきなり入ってきた刑事さんが、僕と粃の方を見た。
+<span class="name">ジョー</span> : 「あっ……」
+<span class="name">コバヤカワ</span> : 「……」
+<span class="name">シマヅ</span> : 「よう」
+<span class="name">ジョー</span> : 「は、はい……こんばんは」
+<span class="name">シーナ</span> : 「こんばんは」
+<span class="name">シマヅ</span> : 「俺はシマヅっていうんだ。ボーヤ、名前は？」
+<span class="name">ジョー</span> : 「あっ、はい。ジョーです」
+<span class="name">シマヅ</span> : 「そっちのお嬢ちゃんは？」
+<span class="name">シーナ</span> : 「……粃です」
+<span class="name">シマヅ</span> : 「２人とも、名字は？」
+<span class="name">ジョー</span> : 「わからないんです……」
+<span class="name">シーナ</span> : 「私もです」
+<span class="name">シマヅ</span> : 「どうしてだい？」
+<span class="name">ジョー</span> : 「あ、あの……記憶がないんです。都合良く聞こえるかもしれませんが、セオさんって人が死んでるとこくらいからしか、色々覚えてなくて……」
+<span class="name">シーナ</span> : 「私もです。ジョーくんと同じくらいしか、ちゃんとした記憶がありません」
+<span class="name">シマヅ</span> : 「……ふうん。２人とも記憶喪失ってやつか」
+<span class="name">ジョー</span> : 「はい。たぶん……」
+<span class="name">シマヅ</span> : 「たぶん？」
+<span class="name">ジョー</span> : 「僕たちを少し治療してくれたジンナイ先生の話だと、単なる記憶喪失か、多重人格のせいで混乱しているのかがわからないって……」
+<span class="name">シマヅ</span> : 「多重人格ってのは、その……一人の中に、色んな人格がいるっていう、アレか？」
+<span class="name">ジョー</span> : 「彼女がそうです。もしかしたら、僕もそうかもって……」
+<span class="name">シマヅ</span> : 「ふむ。記憶喪失っていやぁ、ドラマとかで、頭を強く打ったショックで記憶がなくなったりしてるけど、そういった怪我は？」
+<span class="name">ジョー</span> : 「んっと……目覚めた時はありませんでした」
+<span class="name">シーナ</span> : 「私もです」
+<span class="name">シマヅ</span> : 「ふーん。で、その手錠は？　警察のじゃないよな」
+<span class="name">ジョー</span> : 「あ、これは……目が覚めた時には、もうかけられてました」
+<span class="name">シマヅ</span> : 「へえー。どうして、そんなモンつけられてるんだい？」
+<span class="name">ジョー</span> : 「そ、それがわからなくて……」
+<span class="name">シマヅ</span> : 「粃ちゃんは、覚えがないか？」
+<span class="name">シーナ</span> : 「……ごめんなさい。私も、わかりません」
+<span class="name">シマヅ</span> : 「ふうん。そうかい。なんだか不可解な話だらけだなぁ」
+<span class="name">ジョー</span> : 「は、はい……」
+<span class="name">シマヅ</span> : 「大変だなぁ。ミシマくん」
+ミシマくんって、誰なんだろう。そんな名前の人が、ここにいるのかな？
+<span class="name">コバヤカワ</span> : 「……」
+<span class="name">コバヤカワ</span> : 「…………」
+<span class="name">コバヤカワ</span> : 「シマヅさん？」
+<span class="name">シマヅ</span> : 「……ふう」
+シマヅさんは小さなため息をついて、軽く頭を掻いた。
+<span class="name">シマヅ</span> : 「どっちも、ちょっと休憩タイムだ。かまわないかな？」
+<span class="name">コバヤカワ</span> : 「はあ？」
+<span class="name">ダテ</span> : 「そうですね。結構、長時間やってますし」
+<span class="name">コバヤカワ</span> : 「ダテくんまで……」
+<span class="name">シマヅ</span> : 「ボーヤたち、どうだ？」
+<span class="name">ジョー</span> : 「あ、はい。僕は、別に……粃はどう？」
+<span class="name">シーナ</span> : 「ええ、かまわないわ」
+<span class="name">シマヅ</span> : 「悪いね。飲み物でも飲んでゆっくりしててくれ。何がいいかな？」
+<span class="name">ジョー</span> : 「じゃあ、お茶で……」
+<span class="name">シマヅ</span> : 「そっちのお嬢ちゃんも、ボーヤと同じのでいいかい？」
+<span class="name">シーナ</span> : 「はい」
+<span class="name">シマヅ</span> : 「なんなら、カツ丼食うか？　自費になるけど」
+<span class="name">ジョー</span> : 「あ、いえ、いいです。大事な人たちが酷い目に遭ってて、その、食欲とかは……」
+<span class="name">シマヅ</span> : 「……そうか。じゃあ、飲み物だけ用意してやってくれ」
+<span class="name">刑事</span> : 「はい、シマヅさん」
+<span class="name">コバヤカワ</span> : 「シマヅさん、今はそんな場合じゃ……」
+<span class="name">シマヅ</span> : 「さて、出るぞ」
+シマヅさんは、コバヤカワさんに腕を絡め、そのまま引きずるように、出口へと向かう。
+<span class="name">コバヤカワ</span> : 「シマヅさん！　ちょ、あっ……！」
+<span class="name">コバヤカワ</span> : 「…………」
+<span class="name">コバヤカワ</span> : 「…………」
+<span class="name">シマヅ</span> : 「んじゃあ、また後でな」
+<span class="name">シマヅ</span> : 「……ふう」
+……これから、どうしよう。警察だったら何かわかると思ってたけど、何もわからないだなんて……
+（何か、手がかりになりそうなもの……僕たちに関わる何か……何、か……）
+もし、シーナがセオさんの患者なのだとしたら、セオさんの病院に手がかりが……
+（病院……）
+何かひっかかっているんだけど、思い出せない――
+<span class="name">シーナ</span> : 「……ここの出口なんだけど」
+<span class="name">ジョー</span> : 「あ、うん」
+<span class="name">シーナ</span> : 「扉が開く度に廊下の方を見てるのだけど、この建物の中から逃げるのは難しいかもしれないわ。人が多すぎる」
+<span class="name">ジョー</span> : 「あ……ごめん。そこまでちゃんと見てなかった」
+<span class="name">シーナ</span> : 「気にしないで。こういうのは、気づいた方がすればいいんだし」
+<span class="name">ジョー</span> : 「う……ごめんね、粃」
+<span class="name">シーナ</span> : 「いいえ、どういたしまして」
+粃って大人っぽいな……全体を管理する人格って、みんなこんな風なのかな。
+<span class="name">ジョー</span> : 「これだけのピンチだったら、僕も管理人格とか現れたらいいのに」
+<span class="name">シーナ</span> : 「え？」
+<span class="name">ジョー</span> : 「さっき、相談しただろ？　僕の中に誰かいる感覚がするって……」
+<span class="name">ジョー</span> : 「だから、僕も多重人格で、粃くらい頭のいい僕が出て来たら、このピンチを打破出来そうかなと思ったんだ」
+<span class="name">ジョー</span> : 「……そういえば、このこと相談した時、何か言いたげだったけど……」
+<span class="name">シーナ</span> : 「中にいる誰かって……年の近い人？　性別は？」
+<span class="name">ジョー</span> : 「ぼんやりと声しかわからないんだけど……僕より年上の男の人って感じかな。ごめんね、曖昧な答えで」
+<span class="name">シーナ</span> : 「私こそ、変なことを聞いてしまって、ごめんなさい」
+<span class="name">ジョー</span> : 「あの……それで、何かわかるの？」
+<span class="name">シーナ</span> : 「私も似たような体験をしたから、同じかしらと思って聞いただけ。やっぱり、ちゃんとしたお医者様に判断してもらわないと、駄目かと思うわ」
+<span class="name">ジョー</span> : 「そっか……」
+<span class="name">シーナ</span> : 「……失敗したんじゃなかったの……？」
+<span class="name">ジョー</span> : 「えっ？」
+<span class="name">シーナ</span> : 「ううん、なんでもない。そういえば、さっきの刑事さんが教えてくれたけど、ヒナコさん、無事だって……」
+<span class="name">ジョー</span> : 「うん……マキさん、間に合ったんだね。良かった……」
+<span class="name">シーナ</span> : 「そうね」
+<span class="name">ジョー</span> : 「シーナの人格も早く統合したい。ヒナコさんの様子も気になる。ヤスさんもどうなったか……それに、アユミさんも……」
+<span class="name">ジョー</span> : 「マリヲの奴、どうしてこんなことを……みんないい人たちなのにっ……！」
+僕たちのことがわからないのだったら、これ以上、警察にいるのは時間の無駄かもしれない。
+さっき粃が言った、ここでは統合が出来ない、必要なものがあるというのも気になるし……
+<span class="name">ジョー</span> : 「出られるのなら、早くここから出たいね」
+<span class="name">シーナ</span> : 「ええ……本当に。早く出ないと……」
+<span class="name">シーナ</span> : 「……間に合わない……」
+<span class="name">刑事</span> : 「はい、お待たせ。飲み物持って来たよ」

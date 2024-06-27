@@ -1,0 +1,42 @@
+<span class="name">後藤眞波</span> : 「一花ぁー！　一花いるー？」
+<span class="name">倭一花</span> : 「……眞波なの？　ちょっと待っててね………」
+<span class="name">倭一花</span> : 「どうしたの、こんな時間に？」
+<span class="name">後藤眞波</span> : 「うん、ちょっと………ね………」
+<span class="name">倭一花</span> : 「まあ立ち話もなんだし、とにかく入って。今、お茶を淹れようと思ってたの」
+<span class="name">後藤眞波</span> : 「ありがと」
+<span class="name">倭一花</span> : 「それで、何か話？」
+<span class="name">後藤眞波</span> : 「うん……」
+<span class="name">倭一花</span> : 「どうしたの？　元気ないわね。具合でも悪いの？」
+<span class="name">後藤眞波</span> : 「だいじょぶ。一花は調子どう？」
+<span class="name">倭一花</span> : 「調子？　私は、別に普通だけど……」
+<span class="name">倭一花</span> : 「そう、調子と言えば、私より菓のことがちょっと心配なのよね」
+<span class="name">後藤眞波</span> : 「このたんになんかあったの？」
+<span class="name">倭一花</span> : 「少し調子が悪そうにしてるの」
+<span class="name">倭一花</span> : 「最近暑いから、そのせいかな……でも、医務室へ誘ったのに行きたがらなくて」
+<span class="name">後藤眞波</span> : 「クドイチと……？　なにがあったの？」
+<span class="name">倭一花</span> : 「まさか！　それ、いくらなんでも考え過ぎ」
+<span class="name">後藤眞波</span> : 「ふーん。で、一花はどうしようと思ってるの？」
+<span class="name">倭一花</span> : 「様子を見て、あんまり辛そうだったら無理にでも医務室へ連れて行くわ」
+<span class="name">後藤眞波</span> : 「そっか……でもだいじょぶだよ！　このたんは一花が見てるんだから」
+<span class="name">倭一花</span> : 「大丈夫じゃないわよ。現にこうして、私の目が届かないこともあるんだし」
+<span class="name">後藤眞波</span> : 「そ、それはそうだけど」
+<span class="name">倭一花</span> : 「……それで？」
+<span class="name">後藤眞波</span> : 「あぁ……あのね、一花はさ、デカくんのこと好きでしょ？」
+<span class="name">倭一花</span> : 「え……？　い、いきなりなんの話……？」
+<span class="name">後藤眞波</span> : 「違うの？」
+<span class="name">倭一花</span> : 「な、なんでそんなこと、急に……」
+<span class="name">後藤眞波</span> : 「なんとなくそう思ったから、聞いてみたくて」
+<span class="name">倭一花</span> : 「聞いてどうするのよ、そんなこと」
+<span class="name">後藤眞波</span> : 「だとしたらなんだけど、あたしデカくんにベタベタしたりするのって、イヤかなって」
+<span class="name">倭一花</span> : 「私、高槻くんのことはすきよ……もちろん、いいクラスメイトとしてね」
+<span class="name">倭一花</span> : 「眞波が、その、高槻くんと仲良くするのは、私には関係ないことだわ」
+<span class="name">後藤眞波</span> : 「あたしは、デカくんのことが好きだよ」
+<span class="name">倭一花</span> : 「……ふ、ふぅん。いいんじゃない？」
+<span class="name">後藤眞波</span> : 「でもね、一花がデカくんを好きな気持ちとはちょっと違うんだ。それを言いたかったの」
+<span class="name">倭一花</span> : 「周りのことをそんなに気にするなんて、めずらしい。そもそも眞波はなんでもかんでもそういう話にしたがるけど……」
+<span class="name">後藤眞波</span> : 「とにかく、あたしが言いたいのは……一花もデカくんに本当の気持ちを伝えた方がいいって……」
+<span class="name">倭一花</span> : 「眞波ったら。もうやめましょ、そんな話。──あ、いけない。そろそろ点呼に行かなくちゃ」
+<span class="name">後藤眞波</span> : 「……わかった。ごめんね、急にヘンな話して」
+……どうしてあたしはこうなんだろう。
+頭のなかでゆっくり考えて、言いたいことを整理しても、いざとなるとうまく言葉に出来ない。
+一花ちゃん、誤解してなければいいんだけど……。

@@ -1,11 +1,18 @@
 import { Component, HostBinding, Inject } from "@angular/core";
+import { RouterLink } from "@angular/router";
 import { TuiThemeService, TuiThemeNightService } from "@taiga-ui/addon-doc";
-import { TuiBrightness } from "@taiga-ui/core";
+import { TuiBrightness, TuiButtonModule, TuiHintModule } from "@taiga-ui/core";
 import { startWith, map, distinctUntilChanged, share } from "rxjs";
 
 @Component({
     selector: 'header-controls',
-    templateUrl: './header-controls.component.html'
+    templateUrl: './header-controls.component.html',
+	standalone: true,
+	imports: [
+		RouterLink,
+		TuiButtonModule,
+		TuiHintModule
+	]
 })
 export class HeaderControlsComponent {
 
@@ -17,7 +24,7 @@ export class HeaderControlsComponent {
 		return res;
 	}
 
-    
+
 	readonly change$ = this.night;
 
 	readonly night$ = this.change$.pipe(

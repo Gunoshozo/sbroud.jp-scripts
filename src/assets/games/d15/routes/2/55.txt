@@ -1,0 +1,30 @@
+……今日はこのくらいにしておこう。
+これだけの本や資料、１日じゃ到底調べられるわけがないし。
+<span class="name">倭一花</span> : 「高槻くん」
+<span class="name">高槻東吾</span> : 「ん、どうした？」
+<span class="name">倭一花</span> : 「ごめんなさい、長い時間待たせちゃって。そろそろ帰りましょ」
+<span class="name">高槻東吾</span> : 「もういいのか？」
+<span class="name">倭一花</span> : 「うん。続きはまた今度にする。………あれ？　眞波は？」
+<span class="name">高槻東吾</span> : 「ああ、アイツなら日向で寝てる」
+<span class="name">倭一花</span> : 「寝てるって……もう、仕方のない子ね」
+<span class="name">高槻東吾</span> : 「たぶん、本を枕にする目的で来たんだろ」
+<span class="name">倭一花</span> : 「眞波、起きて」
+<span class="name">後藤眞波</span> : 「う～ん……いちかぁ？　ムニャムニャ………」
+<span class="name">倭一花</span> : 「寝ぼけないの。\nこんなところに来てまで寝るなんて……もう」
+<span class="name">高槻東吾</span> : 「コイツらしいけどな」
+<span class="name">倭一花</span> : 「眞波、もう帰るんだから。起きなさい」
+<span class="name">後藤眞波</span> : 「うう～……もういいのぉ？」
+<span class="name">倭一花</span> : 「うん。今日はおしまい」
+<span class="name">後藤眞波</span> : 「わかった………んじゃ、帰ろうかぁ」
+<span class="name">倭一花</span> : 「うん………あら？」
+<span class="name">後藤眞波</span> : 「んにゃ？　なーに」
+<span class="name">倭一花</span> : 「あそこ、茅早ちゃん」
+<span class="name">世津茅早</span> : 「………………………」
+<span class="name">高槻東吾</span> : 「ああ、あのチビ」
+<span class="name">高槻東吾</span> : 「さっきからずっとあそこで本読んでる」
+<span class="name">倭一花</span> : 「そう」
+本好き？　放課後見ないと思ってたけど、ひょっとして毎日図書館に入り浸ってたのかしら。
+<span class="name">後藤眞波</span> : 「どしたの一花？　帰らないの？」
+<span class="name">倭一花</span> : 「あ、うん。行きましょ」
+こっちに気づく様子もないし、気づいても返事なんかしやしないだろうし。
+どうでもいいわ。

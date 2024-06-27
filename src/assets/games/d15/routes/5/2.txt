@@ -1,0 +1,49 @@
+月の耀き──それは、太陽の証。
+ふたつが寄り添うとき、訪れるのは夜の終焉。
+そして、黎明。
+&lt;?version=&quot;5.0&quot; encoding=&quot;utf-8&quot;?&gt;
+&lt;!DOCTYPE dtml PUBLIC &quot;-/ DTD DTML 1.5 Transitional /JP&quot;&gt;
+&lt;dtml lang=&quot;ja&quot;&gt;
+&lt;head&gt;&lt;title&gt;dunamis_15&lt;/title&gt;
+&lt;link rel=&quot;auto&quot; type=&quot;application/auto+dml&quot; title=&quot;loop&quot; href=&quot;roop.dtml&quot; /&gt;&lt;/head&gt;
+&lt;body&gt;&lt;content&gt;
+&lt;repeat&gt;&lt;p&gt;繰り返し。繰り返し、くりかえし。
+ヘッドフォンから聞こえてくるのは、&lt;bgsound src=&quot;waltz&quot; /&gt; いつもの歌。
+小さく切り取られた窓から見えるのは&lt;img src=&quot;island_dunamis&quot; /&gt;レプリカの島。
+&lt;command&gt;&lt;&lt;li&gt;クローンたちを観察し、その振る舞いを報告すること&lt;/li&gt;
+&lt;li&gt;命令についてクローンには他言しないこと&lt;/li&gt;
+&lt;li&gt;クローンとの交流は極力避けること&lt;/li&gt;
+&lt;li&gt;その他、フォルム担当者の命令に従うこと&lt;/li&gt;
+&lt;li&gt;逆らわないこと&lt;/li&gt;\k
+&lt;li&gt;逆らわないこと&lt;/li&gt;\k
+&lt;li&gt;逆らわないこと&lt;/li&gt;&lt;/command&gt;&lt;
+繰り返し。繰り返し、くりかえし。&lt;/p&gt;
+&lt;/......repeat?&gt;
+見知らぬ風景は相変わらずの風景に、なった。
+ここでの明日はわたしの過去に、なった。
+なにも、変わらない。
+終わらない、一度きりの旅。永遠と引き替えの自由。
+<span class="name">警備員Ａ</span> : 「こっちだ、さっさと来い」
+頷く、わたし。それが正しい。
+世界は完成され、完結し、正しく、何度も、繰り返される。
+<span class="name">警備員Ｂ</span> : 「──貴様、何者だ！」
+<span class="name">世津茅早</span> : 「……………………」
+目が、合う。でも言葉をかわしはしない。
+それが、ルール。
+<span class="name">警備員Ａ</span> : 「なにをしてる、捕らえろ！」
+<span class="name">警備員Ｂ</span> : 「貴様、なぜ逃がした！?」
+<span class="name">世津茅早</span> : 「捕まえろって命令、されてないから」
+<span class="name">警備員Ｂ</span> : 「チッ……！」
+<span class="name">警備員Ｂ</span> : 「──こちらヘリポート、日本からの輸送完了。ただし、島内に不審者侵入の可能性あり。捜索を要求する」
+<span class="name">警備員Ｂ</span> : 「繰り返す、島内に不審者侵入の可能性あり」
+&lt;li&gt;逆らわないこと&lt;/li&gt;\k
+&lt;li&gt;逆らわないこと&lt;/li&gt;\k
+&lt;li&gt;逆らわないこと&lt;/li&gt;
+&lt;li&gt;いつもと一緒、いつだって一緒&lt;/li&gt;
+<span class="name">世津茅早</span> : 「じゃあまた、あんなことになる……」
+でも、わたしは命令に従っただけ。
+そのために来たから、そうしただけ。
+ただ、それだけ。
+ただ、それだけ。
+耳に障る音がするのは、わたしが人間である証。
+胸が痛んでぎゅっとするのは──きっとわたしの体が、壊れているせい。

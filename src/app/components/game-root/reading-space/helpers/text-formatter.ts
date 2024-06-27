@@ -1,8 +1,6 @@
 import { ReadableLine } from "../models/lines.model"
 
 export class TextFormatter {
-
-
     public static preprocessTextString(text: string): ReadableLine[] {
         let result: ReadableLine[] = []
         const lines = text.split("\n");
@@ -12,10 +10,6 @@ export class TextFormatter {
                 choiceCurve--;
             } else if (it.includes("--choice")) {
                 choiceCurve++;
-            }
-
-            if (choiceCurve < 0) {
-                console.error("wrong folding")
             }
         })
 

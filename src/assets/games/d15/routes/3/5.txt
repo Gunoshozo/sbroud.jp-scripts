@@ -1,0 +1,31 @@
+<span class="name">香藤瑞希</span> : 「というわけで、今日からしばらくみなさんと一緒に勉強することになった、ペリフェリエスの世津茅早さんです。仲良くするのよー」
+<span class="name">世津茅早</span> : 「世津茅早です。よろしく」
+<span class="name">香藤瑞希</span> : 「えーと席は、っと……あそこの窓際が空いてるわね。世津さん、着席してくれる？」
+<span class="name">世津茅早</span> : 「はい」
+<span class="name">香藤瑞希</span> : 「世津さんにとってはデュナミス・ベースでの生活は初めての経験です」
+<span class="name">香藤瑞希</span> : 「わからないことや、日本と違って戸惑うこともあると思うから、いろいろ教えたりして助けてあげてね」
+<span class="name">香藤瑞希</span> : 「特に女の子は生活も一緒だから、そこんとこヨロシク」
+<span class="name">倭一花</span> : 「わかりました、先生」
+<span class="name">香藤瑞希</span> : 「世津さん。さっき軽く紹介したけど、倭さんは女子の委員長で頼りになるわ」
+<span class="name">香藤瑞希</span> : 「もちろん私に相談してくれてもかまわないけど、生活の細々したことは倭さんの方がきっと私より詳しいはずだから」
+<span class="name">世津茅早</span> : 「はい」
+<span class="name">香藤瑞希</span> : 「それから今日はもうひとつ」
+<span class="name">香藤瑞希</span> : 「急なお話ですが、今年のノモスが決定しました」
+<span class="name">香藤瑞希</span> : 「今年は見送りって話もあったんだけど……」
+<span class="name">香藤瑞希</span> : 「ノモスとしてあなた達より一足先に日本へ行き、その能力を活かして社会貢献することになる生徒が決まりました」
+<span class="name">香藤瑞希</span> : 「一つ下の学年だから知らないひともいるかもしれないけど、櫟井夏來さんです」
+<span class="name">陸七生</span> : 「………………」
+<span class="name">後藤眞波</span> : 「──そんなあ！」
+やっぱりだ。やっぱりこうなるんだ。
+どうしたらいいの……早くなんとかしないと夏來ちゃんが……。
+<span class="name">倭一花</span> : 「夏來…………」
+<span class="name">仁和菓</span> : 「……」
+<span class="name">香藤瑞希</span> : 「出発予定は１４日です」
+<span class="name">倭一花</span> : 「ずいぶん、急ですね」
+<span class="name">香藤瑞希</span> : 「そうね、あと１０日くらいしかないわ。先生も同じことを偉いひとに言ってみたけど、残念ながら日程は動かないのだそうです」
+<span class="name">陸七生</span> : 「ま、フォルムが決めたんならしゃーないね」
+<span class="name">後藤眞波</span> : 「……そんな。はぁ……」
+<span class="name">白大輔</span> : 「お前たち、席に着け」
+<span class="name">後藤眞波</span> : 「……ハーイ」
+<span class="name">陸七生</span> : 「はいはい」
+<span class="name">香藤瑞希</span> : 「<span class="dict">それじゃ、ＨＲはこれでおしまい。次の授業の準備をしておくように。以上です</span>」

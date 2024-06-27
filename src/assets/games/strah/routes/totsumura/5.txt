@@ -1,0 +1,62 @@
+”7月23日”
+<span class="name">凸村哲</span>: ここまで来たら、コフネまでもうすぐやなァ。
+<span class="name">網代慎平</span>: あの……どこまで着いてくるつもりですか？
+<span class="name">凸村哲</span>: そ、そらぁ、慎平くんを一人にはできやんしよォ。
+<span class="name">網代慎平</span>: （酒の匂いをまき散らしながら言われてもなぁ）
+<span class="name">凸村哲</span>: ん？　どないしたん？
+<span class="name">網代慎平</span>: （まあ、いいか）
+<span class="name">網代慎平</span>: 凸村さん、せっかくですから、今後の事について相談しておきましょう。
+<span class="name">凸村哲</span>: 今後の事て……？
+<span class="name">網代慎平</span>: 明日、応援の刑事さんが来るんですよね。本土の人たちにはどう説明したんですか？
+<span class="name">凸村哲</span>: ああ、それはやなァ……。
+<span class="name">凸村哲</span>: それは……。
+<span class="name">凸村哲</span>: アカン、思い出せやん。オレ、なんちゅうて報告したんやったっけ？何かいろいろ言うた覚えはあるんやけど。
+<span class="name">網代慎平</span>: ま、まぁ、いずれにせよ、この島が危険な状況なのは事実なんですから、なんとか調査して貰うしかないでしょう。
+<span class="name">凸村哲</span>: せやな。うん、その通りやで！
+<span class="name">網代慎平</span>: （とはいっても……、　盗撮したミオ――影のミオの映像を、　本土の刑事に見せるのは避けたい）
+<span class="name">網代慎平</span>: （凸村さんに見せた時も、　はじめは悪ふざけだと勘違いされたし）
+<span class="name">網代慎平</span>: （下手すれば、澪を余計なゴタゴタに　巻き込んでしまうだけだ）
+<span class="name">網代慎平</span>: 後は……祭りの事も心配です。
+<span class="name">凸村哲</span>: 祭り……？ああ、明日の日都夏祭りか。
+<span class="name">網代慎平</span>: 祭りの日は本土からの観光客も増えて島がごった返しますよね。もし、そんな中で騒ぎが起こったら――。
+<span class="name">凸村哲</span>: ん、まぁ……それについては、一応オレの方でも手ェ打っといた。
+<span class="name">網代慎平</span>: えっ、凸村さんが……？
+<span class="name">凸村哲</span>: 慎平くんから例の影の話聞いた後、昼間のうちに各地区の地区長や責任者の人らに、注意喚起だけはしといたんや。
+<span class="name">凸村哲</span>: 変なヤツが目撃されとるから、あんま無駄に外へ出歩かんようにってよォ。
+<span class="name">凸村哲</span>: そない言うても、みんな楽しみにしとった祭りや。どこまで守ってもらえるか、わからんけどな。防犯意識をもって貰うだけでも違うやろ。
+<span class="name">網代慎平</span>: …………。
+<span class="name">凸村哲</span>: なんや、その顔は。
+<span class="name">網代慎平</span>: えっ？　い、いえ……！
+<span class="name">網代慎平</span>: （まさか凸村さんが、　ここまでちゃんと仕事してたとは……）
+<span class="name">網代慎平</span>: あっ……もしかして、昼に港へ来るのが遅くなったのは――
+<span class="name">凸村哲</span>: ああ、さっき言うた注意喚起の連絡が、思いの外、長引いてしもてな。
+<span class="name">凸村哲</span>: 結構大変やったけど、伝え漏らすわけにもいかんし。
+<span class="name">凸村哲</span>: オレはこの島の駐在で<span class="dict">正義の味方</span>、島のみんなを守るんがオレの仕事や！
+<span class="name">網代慎平</span>: 凸村さん……。
+--choice 「本当に正義の味方みたいだ」
+<span class="name">網代慎平</span>: なんだか、今の凸村さん、本当に正義の味方みたいだ。
+<span class="name">凸村哲</span>: あァ！？ほんまにってどういうこっちゃ？
+<span class="name">網代慎平</span>: ほら、日頃がアレですし。
+<span class="name">凸村哲</span>: 失礼なこと言うなァ。まあ、否定はせんけど。
+--choiceEnd
+--choice 「凸村さんのこと誤解してたかも」
+<span class="name">網代慎平</span>: オレ、凸村さんのこと誤解してたかも。意外としっかりしてるんですね。
+<span class="name">凸村哲</span>: 意外とって……慎平くん、オレのことどんな風に思っとったん？
+<span class="name">凸村哲</span>: なんか傷ついてまうわァ。
+--choiceEnd
+<span class="name">網代慎平</span>: （この人がどこまで頼りになるか、　正直よくわからないけど……）
+<span class="name">網代慎平</span>: （とにかくオレの話を信じてくれている）
+<span class="name">網代慎平</span>: （その事だけでも嬉しいし……　心強くもある）
+<span class="name">凸村哲</span>: なんや？　今の光。
+<span class="name">小舟澪</span>: …………。
+<span class="name">凸村哲</span>: 澪ちゃん？なしてこんなとこに……。
+<span class="name">網代慎平</span>: 凸村さん、近づかないで！
+<span class="name">凸村哲</span>: ？？　血相変えてどうしたん。
+<span class="name">網代慎平</span>: たぶんこいつは澪じゃありません……。
+<span class="name">凸村哲</span>: 何言ってんの。どこからどう見ても澪ちゃんやん。
+<span class="name">網代慎平</span>: いい加減、酔いを覚ましてください！
+<span class="name">網代慎平</span>: トキちゃんとこに行った後、制服に着替えて、先回りして――そんなことできるはずないでしょ！
+<span class="name">凸村哲</span>: 確かに変やな……。
+<span class="name">凸村哲</span>: えっ、ちょっと待たんかい。ほな、この澪ちゃんは……。
+<span class="name">網代慎平</span>: オレの家の前で包丁を持ってたミオですよ。
+<span class="name">凸村哲</span>: コ、コイツが……！？

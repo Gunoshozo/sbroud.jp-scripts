@@ -1,0 +1,94 @@
+<span class="name">網代慎平</span>: （１時半。　潮の棺が炉に入った）
+<span class="name">網代慎平</span>: （収骨までの１時間……。　みんなで昼食を取る時間だ）
+<span class="name">網代慎平</span>: （ここは情報を集める絶好のチャンス。　気になる人に２つの質問をぶつけてみよう）
+<span class="name">網代慎平</span>: （ひとつは、影の病を知っているか……　もうひとつは、胸の大きな女性を見たか……？）
+<span class="name">網代慎平</span>: （誰と話そうか…）
+--choice 凸村に話を聞く
+<span class="name">網代慎平</span>: 凸村さん。影の病って知ってます？
+<span class="name">凸村哲</span>: あーーーー、聞いたことあるなァ～～～～ッ。怪談やろ、日都ヶ島の！小っちゃい頃は怖かったなァ～～～～。
+<span class="name">凸村哲</span>: 言うこときかん悪い子ォは影が来て食べられるでーー、いうてなァ……。
+<span class="name">網代慎平</span>: ……影って、実在すると思います？
+<span class="name">凸村哲</span>: え？いやいやいや、迷信やろ！そんなモン、ホンマにおるかいな！！
+<span class="name">網代慎平</span>: そう、ですよね……。あの、もうひとついいですか？
+<span class="name">凸村哲</span>: んん？
+<span class="name">網代慎平</span>: えーと……眼鏡かけた……。なんというか……胸の大きな人、見ました？
+<span class="name">凸村哲</span>: あ゛ーーーーっ！！！！見たよ、見た！！ちゅうか、しゃべった！！！！
+<span class="name">凸村哲</span>: なんか危ない人？　潮ちゃんの棺、いきなり開けよったりしてよォ～～ッ。
+<span class="name">凸村哲</span>: でもコレが美人でよォ！！まァ～～おっぱいが！Ｇカップやて！　Ｇ！！
+<span class="name">凸村哲</span>: リアルにＧ！！　見たことある！？ヤバイで！　エモいで！！
+<span class="name">網代慎平</span>: れ、連絡先とかは……？
+<span class="name">凸村哲</span>: いやそれがよォ！！聞こ思たら逃げられてん！タイホしといたらよかった～～～～！！
+<span class="name">網代慎平</span>: はぁ……そうですか……。ありがとうございました……。
+--choiceEnd
+--choice アランに話を聞く
+<span class="name">網代慎平</span>: アラン。影の病って知ってるか？
+<span class="name">小舟アラン</span>: 影……？
+<span class="name">小舟アラン</span>: ああ……そういうん、琴子から昔聞いたような気ィすら……。
+<span class="name">網代慎平</span>: （琴子……　潮と澪のお母さんから……）
+<span class="name">小舟アラン</span>: いわゆるドッペルゲンガーやな。フランスでも有名な話や！エミリー・サジュちゅう人がおってな。
+<span class="name">網代慎平</span>: 潮からそういう話を聞いたことは？
+<span class="name">小舟アラン</span>: 潮から！？
+<span class="name">小舟アラン</span>: いや……？影の話ら聞いてへんなァ……。
+<span class="name">網代慎平</span>: そっか……。なぁ、もうひとつ聞きたいんやけど。
+<span class="name">小舟アラン</span>: なんや？
+<span class="name">網代慎平</span>: 眼鏡かけてて、黒髪の……こう……モデルみたいにスタイルのいい人は見なかった？
+<span class="name">小舟アラン</span>: 眼鏡……黒髪……モデル……？ああ、ひづるか！
+<span class="name">網代慎平</span>: ……っ！知り合いなのか？
+<span class="name">小舟アラン</span>: おう……ここにも来てくれたで。あの子昔、ウチによう食べに来てくれてたんや。常連やったんよ。
+<span class="name">網代慎平</span>: えっ。そうなん？
+<span class="name">小舟アラン</span>: あァ。だいぶ前に島出たから、慎平は覚えてへんかなァ。
+<span class="name">網代慎平</span>: 島を出た……？
+<span class="name">小舟アラン</span>: ああ、ひづるが中学生の頃や。ちょっと……色々あってなァ。島にも全然戻ってこんかったんや。
+<span class="name">網代慎平</span>: （言葉を濁してるってことは、　話しにくいことなんだろう。　これ以上は聞くべきじゃないな）
+<span class="name">網代慎平</span>: ってことは、今は帰省してきてるのか。アランが連絡したのか？
+<span class="name">小舟アラン</span>: 私が？　いやいや！連絡先知らんかったしよォ。どうも島に来たんは、仕事らしわ……。
+<span class="name">網代慎平</span>: 仕事？
+<span class="name">小舟アラン</span>: 東京でライターしてるとか言うてと。
+<span class="name">網代慎平</span>: そっか……ありがとう。
+--choiceEnd
+--choice 雁切に話を聞く
+<span class="name">網代慎平</span>: 雁切さん。影の病って知ってます？
+<span class="name">雁切真砂人</span>: 知ってるも何も……。「影の病」て名前を付けたんは、私の曽祖父ですよ。
+<span class="name">網代慎平</span>: えっ！？そうだったんですか！？
+<span class="name">雁切真砂人</span>: ええ……江戸の終わりの頃です。昔は何でも妖怪のせいにしたさけに……。
+<span class="name">雁切真砂人</span>: 祖父の代までは神社でお祓いもやっとったとか……。
+<span class="name">網代慎平</span>: へえ……。ちなみに効き目のほうは？
+<span class="name">雁切真砂人</span>: 効き目！？う～～～～ん、どうやろなァ……。
+<span class="name">網代慎平</span>: 雁切さんはしたことないんですか？
+<span class="name">雁切真砂人</span>: 私はしたことないですね……。普通の厄払いならしますけども……。
+<span class="name">雁切真砂人</span>: あ！　それより慎平くん。東京はどないですか？
+<span class="name">雁切真砂人</span>: 実は私、去年行ったんですよ！ホラあそこの、海の近くの何ていうたか――
+<span class="name">網代慎平</span>: （あかん、この人話し始めると長いんやった……。　無理にでも話を進めんと！）
+<span class="name">網代慎平</span>: あの、もういっこいいですか？眼鏡の、黒髪の……胸がぁ、大きな……。そういう女性って見たことあります？
+<span class="name">雁切真砂人</span>: ん～～……。それ、もしかしてひづるちゃんやない？南方ひづるちゃん！
+<span class="name">雁切真砂人</span>: えーと……あれ……。まだそのへんにいてんのかな？
+<span class="name">網代慎平</span>: （それらしい姿は見えないが……）
+--choiceEnd
+--choice 菱形に話を聞く
+<span class="name">網代慎平</span>: <span class="dict">菱形先生</span>。聞きたいことがあるんですけど……。今、大丈夫ですか？
+<span class="name">菱形青銅</span>: ああ、キミか……。何が聞きたいんだ？
+<span class="name">網代慎平</span>: お医者さんにこういうのを聞くのは、どうかと思うんですけど……。影の病って……ご存知ですか？
+<span class="name">菱形青銅</span>: ああ……知っているよ、確かに。……ある種の「精神疾患」が……、この島で集団的に発生したのは事実だね。
+<span class="name">網代慎平</span>: ってことは、記録が残ってるんですか？
+<span class="name">菱形青銅</span>: あぁ、ウチにも古いカルテが残っているよ。
+<span class="name">菱形青銅</span>: <span class="dict">カプグラ症候群</span>といってね……。友人や家族など身近な人間が瓜二つの偽者と入れ替わっていると認識してしまうんだ……。
+<span class="name">網代慎平</span>: っ……！！ちなみに、先生は診たことありますか？
+<span class="name">菱形青銅</span>: 私？　……まさか！昭和初期の話だよ。私はそういった症例を診た経験はないね。
+<span class="name">網代慎平</span>: そうですか……あ、もうひとつ。眼鏡をかけた黒髪の女性をご存じありませんか？
+<span class="name">網代慎平</span>: 島外の人みたいなんですけど。何というか、スタイルがいいというか……。
+<span class="name">菱形青銅</span>: ……もしや、さっきのあの女か。私は知らんね……。
+<span class="name">菱形青銅</span>: アランが友人だとか言っていたが……。棺を開けるような人間など知り合いにいてたまるか。
+<span class="name">網代慎平</span>: え……？な、何の為に棺を……？
+<span class="name">菱形青銅</span>: 知ったことか！非常識な女だよ！　まったく……。
+<span class="name">網代慎平</span>: そう、ですね……。
+--choiceEnd
+<span class="name">網代慎平</span>: （これで一通り話は聞いたな……。　ちょっと整理してみよう）
+<span class="name">網代慎平</span>: （参列者のほとんどは「影の病」を知ってた。　でも口を揃えて「迷信」「怪談」と言ってる）
+<span class="name">網代慎平</span>: （みんな「影」という化物が　実在するとは思っていない……）
+<span class="name">網代慎平</span>: （興味深いのは、　宮司の雁切さんと、菱形先生の答えだ）
+<span class="name">網代慎平</span>: （二人の話が事実なら、少なくとも江戸時代に　「影」はすでにこの島に存在し、戦前まで　しばしば目撃されていたことになる……）
+<span class="name">網代慎平</span>: （そして、菱形医院に残っているという　「古いカルテ」……。　調べてみる価値はありそうだ）
+<span class="name">網代慎平</span>: （そして、何よりも……。　驚いたことに、大勢の人が　「眼鏡の女性」を知っていた！！）
+<span class="name">網代慎平</span>: （島出身の「南方ひづる」……。　恐らく南雲先生の本名に違いない！）
+<span class="name">網代慎平</span>: （「南雲竜之介」は覆面作家だから　誰も南雲先生＝<span class="dict">南方ひづる</span>だと知らないんだ！）
+<span class="name">網代慎平</span>: （しかも、コフネの常連だったとか……。　なんちゅうニアミスしてたんだ！！）

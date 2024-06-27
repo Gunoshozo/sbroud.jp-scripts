@@ -1,0 +1,46 @@
+<span class="name">世津茅早</span> : 「――さあ、入って」
+<span class="name">櫟井夏來</span> : 「お邪魔します」
+<span class="name">櫟井夏來</span> : 「わぁ……！」
+<span class="name">白大輔</span> : 「ここが、世津の家……」
+<span class="name">世津茅早</span> : 「狭いけど我慢して」
+<span class="name">世津茅早</span> : 「七生、そこのベッドに夏來を寝かせて」
+<span class="name">陸七生</span> : 「ども。では、オコトバに甘えて」
+<span class="name">櫟井夏來</span> : 「でもこのベッド、茅早ちゃんの――」
+<span class="name">世津茅早</span> : 「病人は寝てなさい」
+ぴしゃりと言い放つ茅早ちゃんに、夏來は目を丸くしてから、笑った。
+<span class="name">櫟井夏來</span> : 「はあーい」
+<span class="name">世津茅早</span> : 「ミルク温めてあげる。ちょっと待っていて」
+<span class="name">櫟井夏來</span> : 「ありがとう！」
+<span class="name">櫟井夏來</span> : 「……ねえねえ、七生くん」
+<span class="name">陸七生</span> : 「ん？　どした」
+<span class="name">櫟井夏來</span> : 「茅早ちゃん、変わってないね！」
+<span class="name">陸七生</span> : 「ああ。ホントに全然変わってないな」
+俺も思わず笑ってた。ちらっと見たら、いーんちょも。
+<span class="name">白大輔</span> : 「それにしても驚いた。まさかこんなタイミングで世津に会えるとは思わなかったよ」
+<span class="name">櫟井夏來</span> : 「ホント、ビックリしたあ」
+<span class="name">櫟井夏來</span> : 「七生くんはなかなか帰って来ないし、帰ってきたら茅早ちゃんが一緒だし、心臓が大忙しだよ」
+<span class="name">世津茅早</span> : 「わたしも、七生が出てきたとき危うく刺すところだった」
+<span class="name">陸七生</span> : 「ハハハハ……」
+この小さいひと、相変わらずな武闘派っぷりである。
+<span class="name">世津茅早</span> : 「でも、わたしのことを茅早ちゃんなんて甘ったるく呼ぶのは、あなたたちしかいないから」
+<span class="name">陸七生</span> : 「いやはやわたくし、知らぬ間に九死に一生を得ておりました……」
+<span class="name">世津茅早</span> : 「あなたたちのこと、たぶん、上には報告されていないと思う」
+<span class="name">白大輔</span> : 「上、というのは？」
+<span class="name">世津茅早</span> : 「セルの役人。わたしはいま、セル周辺警護の自警団として雇われてる」
+<span class="name">世津茅早</span> : 「今日、不審な人物を見かけたら保護しろって通達があった。これ、あなたたちのことでしょ」
+やっぱり、手配はされていたのか。
+<span class="name">世津茅早</span> : 「不審って言うわりに指示は保護、どこの誰かもハッキリしない。おかしいと思ってた」
+<span class="name">世津茅早</span> : 「夜が明けたら確認してくる。ひとまず休んでいて」
+<span class="name">白大輔</span> : 「迷惑をかけてすまない」
+<span class="name">世津茅早</span> : 「あなたに謝られる筋合いはないよ、大輔。それにわたし、ボランティアをするつもりはないから」
+<span class="name">世津茅早</span> : 「お礼はこれでいい」
+茅早ちゃんが、いーんちょの腕時計をつついた。
+<span class="name">世津茅早</span> : 「こっちの方が、役人の給金より身入りがいいもの」
+<span class="name">白大輔</span> : 「……そうか」
+<span class="name">白大輔</span> : 「わかった、遠慮なく世話になるよ」
+いーんちょが苦笑しつつ腕時計を差し出すと、茅早ちゃんが受け取る。
+<span class="name">世津茅早</span> : 「あなたたちの身の安全は引き受ける。その代わり、わたしの指示も聞いて。でないと、保障ができなくなる」
+<span class="name">白大輔</span> : 「了解だ」
+<span class="name">世津茅早</span> : 「わかったら、大輔も七生も休んで。床で申し訳ないけど」
+<span class="name">世津茅早</span> : 「はい、ミルク」
+そう言って、茅早ちゃんは三つのマグカップをテーブルに並べてみせた。

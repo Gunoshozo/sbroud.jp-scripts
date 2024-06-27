@@ -1,37 +1,34 @@
 <div class="search-items">
-    <!-- <tui-primitive-textfield class="items-list_filter-field" [tuiTextfieldIcon]="'tuiIconSearchLarge'"
-        [tuiTextfieldFiller]="''" [tuiTextfieldCleaner]="true" [(value)]="searchString">
-        Search for text in scenarios
-        <input tuiTextfield />
-    </tui-primitive-textfield> -->
-    <form class="items-list_filter-field" [formGroup]="searchForm">
-        <tui-input [formControlName]="'search'" [tuiTextfieldIcon]="'tuiIconSearchLarge'" [tuiTextfieldCleaner]="true">
-            Search for text in scenarios
-            <input tuiTextfield />
-        </tui-input>
-    </form>
+  <form class="items-list_filter-field" [formGroup]="searchForm">
+    <tui-input [formControlName]="'search'" [tuiTextfieldIcon]="'tuiIconSearchLarge'" [tuiTextfieldCleaner]="true">
+      Search for text in scenarios
+      <input tuiTextfield />
+    </tui-input>
+  </form>
 
-    <div class="search-routes">
-        <button class="search_navigation-button left" icon="tuiIconChevronLeftLarge" title="Previous" tuiIconButton
-            appearance="custom" type="button" (click)="carousel.prev()"></button>
-        <tui-carousel #carousel [draggable]="true" [itemsCount]="carouselCount" [(index)]="index">
-            <ng-container *ngFor="let route of filteredItems; let i = index">
-                <div class="search-route-item item" *tuiItem alt="" draggable="false"
-                    [class.item_active]="i === index + 1">
-                    <h2 [ngClass]="{'spoiler': route.spoiler}">{{route.name}}</h2>
-                    <div class="search-route-chapters" *ngFor="let chapter of route.items">
-                        <a [routerLink]="chapter.routerLink">
-                            <button appearance="custom" class="items-list_item-button" tuiButton type="button">
-                                {{chapter.name}}
-                            </button>
-                        </a>
-                    </div>
-                </div>
-            </ng-container>
-        </tui-carousel>
-        <button class="search_navigation-button right" icon="tuiIconChevronRightLarge" title="Next" tuiIconButton
-            appearance="custom" type="button" (click)="carousel.next()"></button>
-    </div>
+  <div class="search-routes">
+    <button class="search_navigation-button left" icon="tuiIconChevronLeftLarge" title="Previous" tuiIconButton
+    appearance="custom" type="button" (click)="carousel.prev()"></button>
+    <tui-carousel #carousel [draggable]="true" [itemsCount]="carouselCount" [(index)]="index">
+      @for (route of filteredItems; track route; let i = $index) {
+        <div class="search-route-item item" *tuiItem alt="" draggable="false"
+          [class.item_active]="i === index + 1">
+          <h2 [ngClass]="{'spoiler': route.spoiler}">{{route.name}}</h2>
+          @for (chapter of route.items; track chapter) {
+            <div class="search-route-chapters">
+              <a [routerLink]="chapter.routerLink">
+                <button appearance="custom" class="items-list_item-button" tuiButton type="button">
+                  {{chapter.name}}
+                </button>
+              </a>
+            </div>
+          }
+        </div>
+      }
+    </tui-carousel>
+    <button class="search_navigation-button right" icon="tuiIconChevronRightLarge" title="Next" tuiIconButton
+    appearance="custom" type="button" (click)="carousel.next()"></button>
+  </div>
 
 
 </div>

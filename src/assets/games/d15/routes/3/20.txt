@@ -1,0 +1,41 @@
+<span class="name">後藤眞波</span> : 「さー！　今日はもうパーっと騒いじゃおう！　\n無礼講！！」
+<span class="name">倭一花</span> : 「なんで眞波が一番盛り上がってるのよ……主役は白くんと夏來なのよ？」
+<span class="name">後藤眞波</span> : 「わかってるって！　ね、夏來！」
+<span class="name">櫟井夏來</span> : 「うん、私すごく嬉しいです……皆さんがこんなふうに送ってくれるなんて」
+<span class="name">白大輔</span> : 「俺もだ。ありがとう」
+<span class="name">高槻東吾</span> : 「なにかしこまってんだ。最後くらい楽にしろよ」
+<span class="name">白大輔</span> : 「ああ、そうだな」
+<span class="name">後藤眞波</span> : 「じゃあ、そろそろ……カンパーイ！！」
+<span class="name">倭一花</span> : 「それにしても、これから淋しくなるわね……」
+<span class="name">櫟井夏來</span> : 「……」
+<span class="name">後藤眞波</span> : 「あれ、夏來？」
+<span class="name">櫟井夏來</span> : 「あ、ごめんね……なんか、いろいろ考えてたら、ちょっとシンミリしちゃって………」
+<span class="name">櫟井夏來</span> : 「ここでのこととか、みんなとの思い出とか……」
+<span class="name">陸七生</span> : 「俺は、夏來ちゃんともう少し思い出\n作りたかったなあ……」
+<span class="name">後藤眞波</span> : 「夏來！！」
+<span class="name">櫟井夏來</span> : 「え、はい！」
+<span class="name">後藤眞波</span> : 「私はななくんのお嫁さんになるから一人で行きたくないって先生に言っちゃえ！！」
+<span class="name">櫟井夏來</span> : 「え？　え！　な、なんで……」
+<span class="name">後藤眞波</span> : 「明日クドイチにそう言ってさ、行くのやめよ！　いーんちょもそうしよ！」
+<span class="name">白大輔</span> : 「なに言ってるんだ、後藤」
+<span class="name">櫟井夏來</span> : 「あはは、ホントですよ」
+<span class="name">高槻東吾</span> : 「オマエな、考え無しになんでもかんでも口に出すんじゃねーぞ」
+<span class="name">後藤眞波</span> : 「考えてる！　考えてるの！！　それでこう思ったの！」
+<span class="name">陸七生</span> : 「まあまあ、ふたりとも」
+<span class="name">後藤眞波</span> : 「あたし、今すっごく楽しくて、みんなと一緒がすっごく幸せで……」
+<span class="name">後藤眞波</span> : 「この時間がずっと続いてほしい……終わらないでほしいの」
+<span class="name">高槻東吾</span> : 「バカ、なんでオマエが泣きそうになってんだよ」
+<span class="name">櫟井夏來</span> : 「クスクス。そうですよ、もう、おかげで私の涙はどっかに飛んでっちゃった」
+<span class="name">後藤眞波</span> : 「みんなだってそう思うでしょ？　このままお別れなんてイヤだよね？」
+<span class="name">倭一花</span> : 「それはもちろんよ……でも…」
+<span class="name">陸七生</span> : 「決まったこと、だからね」
+<span class="name">白大輔</span> : 「ああ、俺もみんなと離れるのは本当に淋しい。一緒に卒業したいと思ってた。でも、仕方ない」
+<span class="name">後藤眞波</span> : 「そんなぁ……」
+<span class="name">櫟井夏來</span> : 「眞波ちゃん、ホントにありがと。そんなふうに言ってくれて、すごく嬉しい」
+<span class="name">陸七生</span> : 「ささ、なんかしめっぽくなっちゃったから、もう一回アゲていこうよ。ぱーっと楽しくね」
+<span class="name">高槻東吾</span> : 「オマエは年がら年中パーッとしすぎだボケ」
+<span class="name">倭一花</span> : 「まだ飲み物あるから取ってくるわ」
+……みんな、楽しそうだった。
+あたしは、……悔しい。
+イヤなカンジはずっとしていたのに、でも、どうしようもなくて。
+……結局、なんにもしなかったのとおんなじ。

@@ -1,0 +1,63 @@
+<span class="name">菱形窓</span>: こっからイキナリ雰囲気違うで。人工物やない！！　自然の洞窟や……！！
+<span class="name">網代慎平</span>: うん……それにこの臭い。潮の香り……海が近いんか！？
+<span class="name">ウシオ</span>: ……ッ！！
+<span class="name">ウシオ</span>: ヤバ……。そんな……いつの間に……。
+<span class="name">網代慎平</span>: どうした！？
+<span class="name">ウシオ</span>: 影の気配が……私らの周りに！右からも……左からも……！！囲まれてるッ！
+<span class="name">影の群れ</span>: おやァ。おや。おやァ。
+<span class="name">網代慎平</span>: な……何匹おるんや……。これぜんぶ野良の影か……！？
+<span class="name">菱形窓</span>: こらアカン！慎平、どうする！？
+--choice If Action L1/L
+<span class="name">網代慎平</span>: （ここは逃げるべきだ！）
+<span class="name">網代慎平</span>: 二人とも走れッッ！！！
+--choiceEnd
+--choice If Action ○/A
+ <span class="name">網代慎平</span>: （数が多すぎる……）
+<span class="name">網代慎平</span>: （逃げるか迎え撃つか……！？）
+<span class="name">野良の影</span>: オヤアアァァァッ！！
+<span class="name">網代慎平</span>: ッ！？
+<span class="name">網代慎平</span>: （あ、危なかった！　いきなり飛び掛かってくるとは……！）
+<span class="name">ウシオ</span>: かかってこいやァッ！！
+<span class="name">野良の影</span>: オヤァッ！！
+<span class="name">菱形窓</span>: よし……オレもやったるわァ！！
+<span class="name">菱形窓</span>: しャアァッ！影ども、道開けろォッ！！
+<span class="name">野良の影</span>: オヤァッ。おやァアアアア。おやァ……。おやおヤァ。
+<span class="name">野良の影</span>: おや。おやおやァッ。おやァアア。オヤアアアアァァ！
+<span class="name">菱形窓</span>: こ、こいつら、無限に湧いてくるんやないやろな！？慎平、どないしたらええねん！？
+<span class="name">網代慎平</span>: 完全な撃退は無理や！倒せるだけ倒して、どうにか走り抜けるぞ！
+<span class="name">ウシオ</span>: わかった！
+<span class="name">菱形窓</span>: ええで……！やったるわァ！！
+--choiceEnd
+”南方　ひづる”
+<span class="name">根津銀次郎</span>: おい竜之介！！影ェ撃つんやったら撃つ言うてくれや！！耳がイカレる！！
+<span class="name">南方ひづる</span>: すんません……。でも言うてからやと死にますよ。
+<span class="name">根津銀次郎</span>: チッ。しかし島の地下に……影がウヨウヨ潜んでるとはの……。なんちゅうこっちゃ……。
+<span class="name">南方ひづる</span>: 数が増えてきてます。近いですよ。ヤツらの巣が……！！
+”網代　慎平”
+<span class="name">菱形窓</span>: 走れェェ――ッ！！！止まんなよッ！！
+<span class="name">菱形窓</span>: くッそ！！！バットが折れてもた……！！
+<span class="name">ウシオ</span>: なんやもうっ！！切っても切ってもキリないわ……！！
+<span class="name">野良の影</span>: オヤアアアアアア！！
+<span class="name">網代慎平</span>: 潮ッ！！
+<span class="name">ウシオ</span>: ふうっ……！！慎平ナイス！
+<span class="name">網代慎平</span>: こいつら……！！潮を執拗に狙ってる……！
+<span class="name">網代慎平</span>: （さっきからオレのことは　まるで攻撃してこない！）
+<span class="name">ウシオ</span>: くっ……！！
+<span class="name">網代慎平</span>: 潮っ！？
+<span class="name">網代慎平</span>: （腕を押さえて……）
+<span class="name">網代慎平</span>: 腕が痛むんかッ！？
+<span class="name">ウシオ</span>: …………！
+<span class="name">網代慎平</span>: く……っ！！影がまた寄ってくる……！
+<span class="name">網代慎平</span>: （ダメだ……これ以上は進めない……！！）
+<span class="name">網代慎平</span>: っ！！？
+<span class="name">菱形窓</span>: 邪魔じゃアどけェェェァァーーーーーッ！！！
+<span class="name">網代慎平</span>: ……窓！！！
+<span class="name">網代慎平</span>: （ライターと殺虫スプレーで……火炎放射器に！！）
+<span class="name">網代慎平</span>: ナイス！！おまえ、このための殺虫剤か！！
+<span class="name">菱形窓</span>: おうよ！！！　思た通りや！！火ィ怖がらん生き物はおらん！
+<span class="name">網代慎平</span>: 大丈夫なんか、潮……！今ならまだ引き返せるぞ……！
+<span class="name">ウシオ</span>: 私は平気や！ここまで来といて……。
+<span class="name">ウシオ</span>: とことん進むで！！中途ハンパがいっちゃんキライや！！
+<span class="name">網代慎平</span>: でしょうね……。
+<span class="name">菱形窓</span>: 慎平！！！オレが道を切り拓く！！！おまえは潮を頼んだで！！！！
+<span class="name">網代慎平</span>: 言われるまでもないっ！！！！

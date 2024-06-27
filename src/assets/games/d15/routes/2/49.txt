@@ -1,0 +1,26 @@
+<span class="name">放送</span> : 「本日は強風のため臨時休校となりました。生徒の皆さんは寮で待機してください」
+<span class="name">放送</span> : 「繰り返します。\n本日は強風のため休校となりました……」
+<span class="name">倭一花</span> : 「えっ………？」
+登校しようと廊下に出た途端、寮内に臨時休校を告げる放送が流れた。
+強風で休校？
+<span class="name">仁和菓</span> : 「一花ちゃん、おはよう」
+<span class="name">倭一花</span> : 「おはよう、菓」
+<span class="name">仁和菓</span> : 「休校するほどの強風なんて………怖いね。飛行機、日本までちゃんと飛ぶといいね」
+<span class="name">倭一花</span> : 「そうね。夏來と白くん、きっともう日本へ向かってるころだし」
+<span class="name">仁和菓</span> : 「うん……」
+<span class="name">仁和菓</span> : 「いつも朝にさよならできないね……」
+<span class="name">倭一花</span> : 「だからこそ、昨夜みんなでお別れをしたんじゃない」
+<span class="name">仁和菓</span> : 「ん……」
+<span class="name">世津茅早</span> : 「………」
+<span class="name">仁和菓</span> : 「あ……」
+<span class="name">倭一花</span> : 「待って、茅早ちゃん。放送、聞いたでしょ？　今日はお休みになったの」
+<span class="name">倭一花</span> : 「だから生徒は寮内で待機。退屈だけど外出はダメよ」
+<span class="name">世津茅早</span> : 「……先生に、呼ばれたから」
+<span class="name">倭一花</span> : 「先生に？　──あ、ちょっと！」
+<span class="name">仁和菓</span> : 「行っちゃったね」
+休校で寮内待機の指示が出てるのに、先生に呼ばれたなんて………本当に？
+だけど、ウソをつくようなことでもない。
+<span class="name">倭一花</span> : 「お休みじゃ、制服着てても仕方ないわね。部屋に戻って着替えるわ」
+<span class="name">仁和菓</span> : 「うん………あのね、一花ちゃん。あとでお部屋に行ってもいい？」
+<span class="name">倭一花</span> : 「もちろんいいわよ」
+<span class="name">仁和菓</span> : 「ありがと。……じゃあまた後でね」

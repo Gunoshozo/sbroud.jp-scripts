@@ -1,0 +1,110 @@
+{
+    "headerLabel": "Mio Route Chapters",
+    "total": 15,
+    "chapterOrder": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8a",
+        "8",
+        "9",
+        "10",
+        "11",
+        "ep1",
+        "ep2",
+        "ep3"
+    ],
+    "chapters": {
+        "1": {
+            "prev": [
+                {
+                    "route": "ushio",
+                    "index": "22"
+                }
+            ],
+            "name": "ライブステージ"
+        },
+        "2": {
+            "name": "澪との合流"
+        },
+        "3": {
+            "name": "暗い道のり"
+        },
+        "4": {
+            "name": "帰宅"
+        },
+        "5": {
+            "name": "潜む場所を探して"
+        },
+        "6": {
+            "name": "身を寄せあって"
+        },
+        "7": {
+            "next": [
+                {
+                    "route": "mio",
+                    "index": "8a"
+                },
+                {
+                    "route": "mio",
+                    "index": "8"
+                }
+            ],
+            "name": "停電",
+            "comment": "If Action ○/A go to chapter 8a\nIf action R1/R go to chapter 8"
+        },
+        "8a": {
+            "prev": [
+                {
+                    "route": "mio",
+                    "index": "7"
+                }
+            ],
+            "next":[],
+            "name": "港へ"
+        },
+        "8": {
+            "prev":[
+                {
+                    "route":"mio",
+                    "index": 7
+                }
+            ],
+            "name": "疑心暗鬼"
+        },
+        "9": {
+            "name": "サイシュウビン"
+        },
+        "10": {
+            "name": "最終便"
+        },
+        "11": {
+            "prev": [
+                {
+                    "route": "mio",
+                    "index": "10"
+                }
+            ],
+            "next": [],
+            "name": "失われた光"
+        },
+        "ep1": {
+            "name": "Epilogue 1: 殴るんちごたん？",
+            "prev": []
+        },
+        "ep2": {
+            "name": "Epilogue 2: 伝えられない二人、伝える二人"
+        },
+        "ep3": {
+            "name": "Epilogue 3: 返事は？",
+            "next": [{
+                "route":"hizuru",
+                "index": "ep1"
+            }]
+        }
+    }
+}

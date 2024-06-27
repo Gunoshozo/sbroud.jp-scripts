@@ -1,0 +1,65 @@
+”7月24日”
+<span class="name">雁切真砂人</span>: これからこの神輿がですね、参道を下って万年青浜へと運ばれて行きます！
+<span class="name">雁切真砂人</span>: そこで、ゴミ拾い大会で集めたゴミを神輿に乗せましてェ……。あっ、ゴミとはいえ神様の一部ですから！
+<span class="name">雁切真砂人</span>: そして再び参道を上り、境内まで戻ってまいります！
+<span class="name">雁切真砂人</span>: この神輿と共にねり歩いてですね、その後の御海送りを見ますとなんとっ！！
+<span class="name">雁切真砂人</span>: ヒルコ様の御加護で健康運が爆上がり！！！みなさんふるってご参加ください！
+<span class="name">雁切真砂人</span>: 境内から花火もよーーく見えて、オススメで～～す！！みなさん私といっしょに長生きしましょーーっ！！！
+<span class="name">雁切真砂人</span>: （長生きですか……）
+<span class="name">雁切真砂人</span>: （そういえば、明日の事なんて考えてなかったなぁ）
+<span class="name">シンペイ</span>: 衣装キマッてますね、雁切さん！
+<span class="name">雁切真砂人</span>: シンペイくん……。
+<span class="name">シンペイ</span>: 今日はがんばってくださいね。
+<span class="name">雁切真砂人</span>: ははっ、ありがとう！
+--choice If Have Key Tip 9度目のＥＮＤ
+<span class="name">シンペイ</span>: ……！？
+<span class="name">雁切真砂人</span>: ……シンペイくん？どうしたんです？
+<span class="name">シンペイ</span>: ウシオ捜索は中止じゃ……！
+<span class="name">雁切真砂人</span>: ……ループしたんですね？
+<span class="name">シンペイ</span>: 慎平の「確信」、潮のことやと思てた……。潮を二人に増やし、ヒルコ洞に乗り込む気ィやと……！
+<span class="name">シンペイ</span>: じゃが違うぞ、ヤツの「確信」は……。手形の位置を隠したのは……！！
+<span class="name">雁切真砂人</span>: …………！？
+<span class="name">雁切真砂人</span>: ハイネ……いったい何を見て来たんです……？
+<span class="name">シンペイ</span>: ヒルコ洞じゃ……。
+<span class="name">シンペイ</span>: ヤツめ……ループを利用して、潮をわしの喉元に指しよった……！！
+--choiceEnd
+--choice Else on the first run
+<span class="name">シンペイ</span>: 紀伊水道の捜索……。わしの信号を無視する野良はおらんか。
+<span class="name">雁切真砂人</span>: ……どういうことです？
+<span class="name">シンペイ</span>: 慎平の位置が消えて、一刻ほど経つ。これをどう見る、シデよ。
+<span class="name">雁切真砂人</span>: ……あの手形を消した？
+<span class="name">シンペイ</span>: 手形は消せやん……。アレは慎平の存在そのものにつけた印じゃ。
+<span class="name">シンペイ</span>: じゃが、存在を遮断することはできる。おまんみたいに、泥の中ならの……。
+<span class="name">雁切真砂人</span>: 少々……ヒントを与えすぎましたねェ。
+<span class="name">雁切真砂人</span>: 野良のほとんどをウシオ捜索に出してます。今ヒルコ洞に突入されれば……。
+<span class="name">シンペイ</span>: いや、まだそれはなかろう。
+<span class="name">シンペイ</span>: ヤツらは一度、わしの寝所まで来て「詰み」かけた……。よほどの確信がない限り、再突入はできない――
+<span class="name">シンペイ</span>: ――と、慎平なら考える。
+<span class="name">雁切真砂人</span>: では、いったい何のために隠れるんです？
+<span class="name">シンペイ</span>: ここからは憶測じゃが――
+<span class="name">シンペイ</span>: もしも……慎平にくっついてる「潮」にだけは、紀伊水道を漂う自分の――「ウシオ」の位置がわかるとしたら、どうじゃ……。
+<span class="name">シンペイ</span>: わしらより先にウシオと接触するため、わしらにウシオの位置を教えやんように、自分の位置を隠す……慎平ならそうする。
+<span class="name">シンペイ</span>: ウシオを見つけよ……。ヤツらに先んじて始末するのじゃ……！
+<span class="name">根津銀次郎</span>: …………。
+<span class="name">根津銀次郎</span>: 静かやな……。
+<span class="name">網代慎平</span>: ええ……。もうずっと静かです。慎平さんの作戦がうまくいってるってことですね。
+<span class="name">根津銀次郎</span>: ……ふむ。
+<span class="name">根津銀次郎</span>: 左目を手で覆うと竜之介の人格が外に出る、か――
+<span class="name">根津銀次郎</span>: ……またこうやって話せるとはな。竜之介。
+<span class="name">網代慎平</span>: …………。
+<span class="name">網代慎平</span>: 姉は……根津さんに感謝してました……。
+<span class="name">根津銀次郎</span>: あん？
+<span class="name">網代慎平</span>: １４年前に助けてくれたことをです。
+<span class="name">根津銀次郎</span>: あァ……。……時々な……ひづるから手紙が届いたよ……。
+<span class="name">根津銀次郎</span>: 茄子のぬか漬けが上手く出来たとか、猫を飼い始めたとか……しょうもないことを……。
+<span class="name">根津銀次郎</span>: 書いた本が映画になったて聞いたときは、腰ぬかしたで……ふふっ。小説家になってたことを先に言わんかい、ってな……。
+<span class="name">網代慎平</span>: リアルでそれ知ってるの、根津さんだけでしたよ。
+<span class="name">根津銀次郎</span>: ……何じゃアイツは？照れ屋かよ！
+<span class="name">網代慎平</span>: 根津さんは姉の……影の話を信じてくれた、唯一の大人やったからです。
+<span class="name">根津銀次郎</span>: ふん……おかげで儂まで変人扱いされたわい！ま……そういうんは慣れちゃあるけどよ。
+<span class="name">網代慎平</span>: ……根津さんのことを、信頼してます。
+<span class="name">網代慎平</span>: 姉も、僕も。
+<span class="name">根津銀次郎</span>: ……今さら……言葉らいらん……。
+<span class="name">網代慎平</span>: …………！
+<span class="name">網代慎平</span>: 来た……！！
+--choiceEnd

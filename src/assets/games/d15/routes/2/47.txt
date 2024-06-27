@@ -1,0 +1,81 @@
+<span class="name">後藤眞波</span> : 「わおー夜だあ。なんかドキドキする～！」
+<span class="name">櫟井夏來</span> : 「みんなで男子寮に行くなんて、初めてだよね。わたしもちょっとワクワクしちゃう」
+<span class="name">倭一花</span> : 「そうね。こういうのも案外悪くないわね」
+<span class="name">仁和菓</span> : 「あ………」
+<span class="name">倭一花</span> : 「どうしたの菓？　やっぱり戻る？」
+<span class="name">仁和菓</span> : 「ううん、そうじゃなくて………」
+<span class="name">仁和菓</span> : 「みんな、先に行ってて。わたし、忘れ物…………」
+<span class="name">倭一花</span> : 「忘れ物？　なにを忘れたの？」
+<span class="name">仁和菓</span> : 「急いで取ってくるから…………先に行ってて」
+<span class="name">倭一花</span> : 「あ、菓………」
+行っちゃった………。
+<span class="dict">忘れ物</span>って何のことかしら？
+<span class="name">後藤眞波</span> : 「ヘーキヘーキ。このたん、無理するキャラじゃないもん」
+<span class="name">後藤眞波</span> : 「一花おかーさんすぎ！」
+<span class="name">倭一花</span> : 「……そうね」
+ここでウロウロしていて、寮へたどり着く前に見つかっちゃったらそれこそ台無しだし。
+だいたい、危険って言っても転ぶとか、せいぜいその程度よね。
+<span class="name">倭一花</span> : 「じゃあ、私たちだけで先に行きましょ」
+<span class="name">倭一花</span> : 「さて………ここまで来てみたものの、どうやって入ろっか」
+<span class="name">後藤眞波</span> : 「どうやってって、目の前に玄関あるじゃん！」
+<span class="name">櫟井夏來</span> : 「眞波ちゃん、それじゃ大騒ぎになっちゃうよ……」
+<span class="name">後藤眞波</span> : 「あ、そっか！」
+<span class="name">倭一花</span> : 「とりあえず、目立たないように入れる場所を探さないと………」
+<span class="name">櫟井夏來</span> : 「あ！　見てあそこ！　窓のシルエット、あれって白先輩たちかも」
+<span class="name">倭一花</span> : 「ホント、みんなで廊下に出てるみたいだけど………」
+<span class="name">櫟井夏來</span> : 「窓、開けてもらっちゃおうよ」
+<span class="name">倭一花</span> : 「でも、大声で呼ぶわけにもいかないし」
+<span class="name">後藤眞波</span> : 「そういうコトなら任せてよ！」
+<span class="name">倭一花</span> : 「……待って、そういうことは眞波にはあんまり任せたくない」
+そんなこと言ってる間に、もう、足許の石を手にして、
+<span class="name">後藤眞波</span> : 「大丈夫！　えいっ！」
+<span class="name">倭一花</span> : 「ちょっ……待ちなさいってば！」
+<span class="name">後藤眞波</span> : 「もう一回！」
+<span class="name">倭一花</span> : 「ま、窓が割れたらどうするの！？」
+<span class="name">後藤眞波</span> : 「割れない、割れない」
+<span class="name">白大輔</span> : 「………まさか」
+<span class="name">白大輔</span> : 「なにしてるんだ、こんな時間に……じゃない、こんな場所で……って両方だ！」
+<span class="name">櫟井夏來</span> : 「あ、気付いてくれたみたい。行こっ」
+<span class="name">櫟井夏來</span> : 「あの、こんばんは！　えっと……来ちゃいました！」
+<span class="name">倭一花</span> : 「入れてもらえる？」
+<span class="name">陸七生</span> : 「へーこりゃまたビックリ。一花さんまでご一緒？」
+<span class="name">高槻東吾</span> : 「オマエら、バカか。昨日の今日で絞られたばっかだろ」
+<span class="name">白大輔</span> : 「と、とにかく、そこにいるのはまずい。ひとまず高槻の部屋へ」
+<span class="name">高槻東吾</span> : 「って、なんで俺の部屋なんだ！」
+<span class="name">陸七生</span> : 「俺の部屋、２階だからなぁ。残念だなぁ」
+<span class="name">白大輔</span> : 「俺の部屋はもう片づけが済んでなにもない。おまえの部屋の方が、汚れているなりにまだ部屋の様相を保ててる」
+<span class="name">高槻東吾</span> : 「ったく、しょーがねえな……」
+<span class="name">陸七生</span> : 「んで、麗しい美女がそろってどーしたの？」
+<span class="name">陸七生</span> : 「フツーはロミオがジュリエットの家に行くもんでしょーに」
+<span class="name">後藤眞波</span> : 「送別会の二次会！　いーんちょにお別れ会っ」
+<span class="name">陸七生</span> : 「なーんだ。そっちも同じこと考えてたってことか」
+<span class="name">倭一花</span> : 「同じって？」
+<span class="name">陸七生</span> : 「いや、実はですね。今こっちもみんなで女子寮に行こうとしてたトコでした。入れ違いになんなくてよかった」
+<span class="name">後藤眞波</span> : 「じゃーそっちだって昨日の今日じゃんかー！」
+<span class="name">陸七生</span> : 「実行力で差がつきました。きみら、爆速すぎ」
+<span class="name">白大輔</span> : 「だけど倭………昨日の今日でこれは、少しまずいんじゃないか？」
+<span class="name">倭一花</span> : 「そうね。もし見つかったら大事だわ」
+<span class="name">倭一花</span> : 「………でも、今夜が最後でしょう？」
+<span class="name">白大輔</span> : 「そうか………ありがとう」
+<span class="name">仁和菓</span> : 「………一花ちゃん、あの、……わたし」
+<span class="name">倭一花</span> : 「菓だわ。高槻くん、ごめんなさい。入れてあげて」
+<span class="name">仁和菓</span> : 「はぁ、はぁ……間に合ってよかった」
+<span class="name">櫟井夏來</span> : 「菓ちゃん、その花束どうしたの？！」
+<span class="name">仁和菓</span> : 「これ、夏來ちゃんと白くんに……わたしから」
+<span class="name">倭一花</span> : 「菓……」
+たぶんあれは、教会の裏庭の花壇から取ってきた花だわ。
+菓がいつも手入れをしてる花。忘れ物って、このことだったの。
+<span class="name">白大輔</span> : 「……ありがとう。本当に嬉しい」
+<span class="name">櫟井夏來</span> : 「菓ちゃん、ありがと」
+<span class="name">後藤眞波</span> : 「このたんエライ！　もーあたしまで泣けてきちゃったよ～！」
+<span class="name">倭一花</span> : 「なんで眞波が泣くの」
+<span class="name">陸七生</span> : 「んー。形もキレイだけど、いー匂いじゃん。知らんかったわ」
+<span class="name">仁和菓</span> : 「…………周り、暗くて、ちゃんと整えて来られなくて」
+<span class="name">櫟井夏來</span> : 「そんなことないよ、……ありがと」
+そのあと、散々お喋りして。
+そろそろ部屋に戻らないといけない時間になっても、誰も解散を口にしなくて。
+明日また先生に呼び出されて怒られるかもしれないと、ちらっと頭の隅で思ったけれど。
+今日のことで怒られるなら、それでもいい気がしたから、私も黙ってた。
+今こうしてみんなでいる時間にはかえられない。
+──もう二度と、戻って来ない。
+この時間は、もう二度と。

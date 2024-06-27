@@ -1,0 +1,40 @@
+<span class="name">女性の声</span> : 「あなたたち、こんな真夜中に何をしてるの？」
+<span class="name">ジョー</span> : 「え、だ、誰！？」
+<span class="name">女性</span> : 「って、驚かせちゃったかしら。ごめんなさいね」
+なんだろう、この人。
+工場の関係者かな……
+<span class="name">ジョー</span> : 「いえ、大丈夫です。僕たち、その……ちょっと道に迷ってしまって……」
+<span class="name">女性</span> : 「あら、そうなの。それはお困りね。ところで君たち、見たところ二人とも未成年のようだけど……」
+<span class="name">ジョー</span> : 「えっと、その……出口を探していて、迷っちゃって……」
+<span class="name">シーナ</span> : 「あっ……」
+<span class="name">女性</span> : 「あら、そうだったの。この工場で働いてる人たちのお子さんかな？　名前を聞いていいかしら。私はコバヤカワっていうの」
+<span class="name">ジョー</span> : 「僕はジョーです。この娘はシーナ」
+<span class="name">コバヤカワ</span> : 「ジョーくんに、シーナちゃんね」
+<span class="name">コバヤカワ</span> : 「迷子になってるのなら、一緒についてくる？　これから、工場長の所へ行くの。そこに行けば、親御さんを探せるんじゃないかしら」
+<span class="name">ジョー</span> : 「あ、じゃあ……」
+<span class="name">シーナ</span> : 「大丈夫です。出口を教えてください」
+<span class="name">ジョー</span> : 「えっ……？」
+<span class="name">コバヤカワ</span> : 「そう？　だったら、私が今来たこっちの方へ行くといいわよ。一際大きい煙突があるでしょう？　迷ったら、そこを目指しなさい」
+<span class="name">シーナ</span> : 「ありがとう、美しいフロイライン」
+<span class="name">ジョー</span> : 「ちょ、ちょっと、シーナ。さっきの僕の話、聞いてた？　人と会ったら、助けを求めるって……」
+<span class="name">シーナ</span> : 「しっ……」
+<span class="name">ジョー</span> : 「……シーナ？」
+なんだか、雰囲気が……
+<span class="name">コバヤカワ</span> : 「あら……」
+<span class="name">ジョー</span> : 「なっ、なんでしょう！？」
+<span class="name">コバヤカワ</span> : 「暗くてよく見えないけど、変わったアクセサリーね。若い人の間で流行ってるのかしら？」
+<span class="name">ジョー</span> : 「あ、これは……」
+<span class="name">シーナ</span> : 「危険だ」
+<span class="name">ジョー</span> : 「え……？」
+<span class="name">シーナ</span> : 「彼女から危険な香りがする。用心しろ」
+<span class="name">ジョー</span> : 「そんなことないよ。現に道を教えてくれたし、それはさすがに失礼だよ」
+<span class="name">シーナ</span> : 「しっ、静かに。隙を見て走るぞ」
+<span class="name">ジョー</span> : 「なに馬鹿なこと言ってるの？　そんなことしたら、余計怪しまれるって」
+<span class="name">コバヤカワ</span> : 「内緒話かしら？　後ろのお嬢ちゃん……シーナちゃん、そんなに怯えないでも……」
+<span class="name">ジョー</span> : 「あ、ごめんなさい。この娘、ちょっと変わってて……」
+<span class="name">コバヤカワ</span> : 「ん……私の携帯ね。ちょっと失礼」
+<span class="name">コバヤカワ</span> : 「今着いたわ。そっちの様子はどう？　ダテくん」
+<span class="name">コバヤカワ</span> : 「……被害者はセオ　アケミさんね。了解。詳しいことは合流してから聞くわ。今、迷子を拾って……」
+<span class="name">シーナ</span> : 「行くぞ！！」
+<span class="name">ジョー</span> : 「えっ！？　ちょっ、シーナ！？」
+<span class="name">コバヤカワ</span> : 「あっ……二人とも、どこ行くの！？　そっちは、出口と逆方向よ！」

@@ -1,0 +1,12 @@
+<span class="name"> </span>「生きていることの意味、自分のこと、周りのこと、いまなにができるのか……これからなにをしたいのか」
+<span class="name"> </span>「あたしたちはたくさん考えて、たくさん失敗もしたけれど、最後はちゃんと『自分』を選び取ることができた」
+<span class="name"> </span>「そのことさえ忘れなければ、大丈夫」
+<span class="name"> </span>「自分が見えなくて、道を見失った気がして、暗闇に閉ざされた気持ちがしてももう一度、自分に尋ねてみて」
+<span class="name"> </span>「朝日を探してみて。空を、見上げてみて」
+<span class="name"> </span>「空もいつだってひとりぼっち。だけど、必ず側にいてくれる」
+<span class="name"> </span>「夜になっても、太陽は消えたわけじゃない。月がそれを教えてくれる」
+<span class="name"> </span>「だから、ね。負けないでいてね」
+<span class="name"> </span>「忘れないでね」
+<span class="name">高槻東吾</span> : 「よう、遅かったな。……久しぶり」
+<span class="name"> </span>「信じていてね」
+<span class="name"> </span>「あなたは世界を照らす、太陽なんだってこと」

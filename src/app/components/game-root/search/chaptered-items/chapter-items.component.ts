@@ -5,11 +5,25 @@ import { ChapterConfig } from '../../../../models/reading.models';
 import { GlobalLoaderService } from '../../../../services/global-loader.service';
 import { RestApiService } from '../../../../services/rest.service';
 import { SearchableChapter } from '../../../models/search-config.model';
-import { FormGroup, FormControl } from '@angular/forms';
+import { FormGroup, FormControl, FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { TuiInputModule } from '@taiga-ui/kit';
+
+import { RouterLink } from '@angular/router';
+import { TuiButtonModule, TuiTextfieldControllerModule } from '@taiga-ui/core';
+import { NameHelper } from '../../../../helpers/name-helper';
 
 @Component({
 	selector: 'chapters-items',
-	templateUrl: './chapter-items.component.html'
+	templateUrl: './chapter-items.component.html',
+	standalone: true,
+	imports: [
+    FormsModule,
+    ReactiveFormsModule,
+    TuiInputModule,
+    TuiTextfieldControllerModule,
+    TuiButtonModule,
+    RouterLink
+]
 })
 export class ChapteredItemsComponent implements OnInit {
 
@@ -17,7 +31,6 @@ export class ChapteredItemsComponent implements OnInit {
 	public gameName: string;
 
 	public filteredItems: SearchableChapter[] = [];
-
 
 	public searchForm: FormGroup = new FormGroup({
 		"search": new FormControl("")
@@ -45,16 +58,21 @@ export class ChapteredItemsComponent implements OnInit {
 				this.initialItems = new Array(count);
 				for (let index = 0; index < count; index++) {
 					this.initialItems[index] = <SearchableChapter>{};
-					if (named) {
-						const chap = resChapterConfig.chapters[`${index + 1}`];
-						this.initialItems[index].name = chap?.name || `Chapter ${index + 1}`;
+					let key : string;
+					let name: string;
+					if (resChapterConfig.chapterOrder) {
+						key = resChapterConfig.chapterOrder[index];
+						name = NameHelper.resolveChapterName(resChapterConfig, index);
 					} else {
-						this.initialItems[index].name = `Chapter ${index + 1}`;
+						key = `${index + 1}`
+						name = NameHelper.resolveChapterName(resChapterConfig, index + 1);
 					}
-					this.initialItems[index].routerLink = `../chapters/${index + 1}`
+
+					this.initialItems[index].name = name;
+					this.initialItems[index].routerLink = `../chapters/${key}`
 
 					observables.push(this.restApi.get("nonRoutedChapterFile", {
-						pathParams: { "gameName": this.gameName, "file": `${index + 1}.txt` },
+						pathParams: { "gameName": this.gameName, "file": `${key}.txt` },
 						requestOptions: {
 							headers: new HttpHeaders({
 								"Accept": "application/json;charset=utf-8"

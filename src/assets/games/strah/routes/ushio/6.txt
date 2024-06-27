@@ -1,0 +1,32 @@
+<span class="name">網代慎平</span>: こんなもんか。なあ澪、ちょっと味見してや。
+<span class="name">小舟澪</span>: やった！どれくらい食べてええ？
+<span class="name">網代慎平</span>: 味見や言うてるやろ。ひと口や、ひと口！
+<span class="name">小舟澪</span>: えー？せっかくの慎ちゃんの料理やのに……！
+--choice If Have Key Tip １度目のＥＮＤ
+<span class="name">網代慎平</span>: …………。
+<span class="name">小舟澪</span>: ……慎ちゃん、どうしたん？……汗すごいよ？
+<span class="name">網代慎平</span>: そ、そうか……？火を使っとるからかな。ははは……。
+<span class="name">小舟澪</span>: …………。
+--choiceEnd
+<span class="name">小舟アラン</span>: すまん慎平、遅なってもた！雁切さん話長いさけよォ……。
+<span class="name">網代慎平</span>: おかえりアラン。もうすぐ出来るよ。
+<span class="name">小舟澪</span>: お父さん、おかえり！
+<span class="name">小舟アラン</span>: おお、ただいま……って澪！おまんも何か手伝わなあかんやろがっ。
+<span class="name">小舟澪</span>: 私は食べるん専門でーす！！
+<span class="name">小舟アラン</span>: まったく……。ん、ええニオイや。潮の大好物やなァ……。
+--choice On the first run/If don't have Key Tip １度目のＥＮＤ
+<span class="name">網代慎平</span>: で、味はどうだった？
+<span class="name">小舟澪</span>: うん、美味しい！いつもの慎ちゃんの味やった。
+<span class="name">網代慎平</span>: じゃあ、皿に盛るから運んでや。
+<span class="name">小舟澪</span>: あ……。
+<span class="name">網代慎平</span>: どうした？
+<span class="name">小舟澪</span>: お姉ちゃんの分もあるんやね。
+<span class="name">網代慎平</span>: ああ……。
+<span class="name">小舟澪</span>: お姉ちゃんも慎ちゃんのカレー久しぶりやって喜んでるやろね……。
+<span class="name">網代慎平</span>: そうだといいけどな……。
+”小舟　澪”
+<span class="name">小舟澪</span>: …………。
+<span class="name">凸村哲</span>: ……あれェ！？
+<span class="name">凸村哲</span>: どないしたん澪ちゃん！自分の家ボーーッとながめて……。誰かとケンカでもしたんか？
+<span class="name">小舟澪</span>: …………。
+--choiceEnd

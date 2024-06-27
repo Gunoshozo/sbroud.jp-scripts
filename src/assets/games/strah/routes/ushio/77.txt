@@ -1,0 +1,134 @@
+<span class="name">菱形青銅</span>: 風邪を引くぞ。
+<span class="name">網代慎平</span>: …………。
+<span class="name">菱形青銅</span>: ひづるくんの遺体は、地下に安置している。彼女の両親に連絡は……。
+<span class="name">網代慎平</span>: まだ駄目です。
+<span class="name">菱形青銅</span>: ……彼女は有名な小説家だったらしいな。殺されたとなれば全国的なニュースになる。マスコミが島に大勢押し寄せるだろう。
+<span class="name">菱形青銅</span>: 胸の刺傷は隠せない。誰がどう見ても他殺体だ。
+<span class="name">網代慎平</span>: 隠さなくていいです、これは殺人です。犯人も判ってる。でもあと一日だけオレにください。
+<span class="name">菱形青銅</span>: ああ……わかって――
+<span class="name">網代慎平</span>: ありがとうございます。
+<span class="name">網代慎平</span>: んっ？あ……すいません……かぶりました……。
+<span class="name">網代慎平</span>: ……しゃべりにくいな、これ……。
+<span class="name">菱形青銅</span>: …………？
+<span class="name">菱形青銅</span>: ああ、それと。シデが二人いると言っていた件についてだが。
+<span class="name">菱形青銅</span>: ヤツは肉体を乗りかえて、３００年以上も存えてきた男だぞ。
+<span class="name">菱形青銅</span>: 万一事故や病気で死んだり重傷を負ったりした時のために、スペアがあってもおかしくない。
+<span class="name">網代慎平</span>: つまり……ハイネは何人も子供を産んでた？
+<span class="name">菱形青銅</span>: いや……そうじゃない。シデは今までの肉体を「保存」していたが……
+<span class="name">菱形青銅</span>: 先の戦争ですべて焼失した。昔、私の父からそう聞いたことがある……。
+<span class="name">網代慎平</span>: あの写真に写っていた死体は……まだある！？
+<span class="name">菱形青銅</span>: そうなるな……ヤツの前の肉体、雁切巌が死んだのは、４０年前……戦後だ。
+<span class="name">菱形青銅</span>: 自分の死体を大切に保存するなど、ナルシシズムの極致と思っていたが……それが動くならスペアとして使える。
+<span class="name">網代慎平</span>: …………。
+<span class="name">菱形青銅</span>: 保存方法も、どうやって動いているのかも、見当もつかんがね。
+<span class="name">網代慎平</span>: <span class="dict">サブアカ</span>……？
+<span class="name">網代慎平</span>: …………！
+<span class="name">網代慎平</span>: 菱形先生。耳ふさいでください……。
+<span class="name">菱形青銅</span>: ……何？
+<span class="name">菱形青銅</span>: ……っ！！？
+<span class="name">網代慎平</span>: ……落ちましたね、海に。
+<span class="name">菱形青銅</span>: ……キ、キミ。雷が落ちることを<span class="dict">なぜわかった</span>！？
+<span class="name">網代慎平</span>: （落ちることが事前にわかった……。　これが竜之介さんの予知能力……）
+<span class="name">網代慎平</span>: （ありがとうございます……。　竜之介さん……南雲先生）
+<span class="name">網代慎平</span>: （潮だけじゃなく、　南雲先生を亡くし……ロズも失った）
+<span class="name">網代慎平</span>: （根津さんのライフルも、　潮がコピーしたショットガンも拳銃も……もう、ない）
+<span class="name">網代慎平</span>: 対してシデは健在……。どうする……？オレたちだけで……勝ち目はあんのか……。
+<span class="name">ミオ</span>: ……そのことなんやけど。
+<span class="name">網代慎平</span>: ミオ？
+<span class="name">ミオ</span>: 慎ちゃんのポケット、中に何入ってんの？
+<span class="name">網代慎平</span>: ああ、これ……。貝殻のネックレスだよ。潮の……。
+<span class="name">網代慎平</span>: 呼びかけても何の反応もないし、多分……消えた潮のかけらなんやと思う……。
+<span class="name">ミオ</span>: ……やっぱり。だから逃げたんや、ハイネ。
+<span class="name">網代慎平</span>: え……？
+<span class="name">ミオ</span>: 反応ないなんてことないよ、慎ちゃん。私ら影にはわかった。めっちゃ怒ってたから……お姉ちゃん。
+<span class="name">ミオ</span>: お姉ちゃん、ここにいてるよ。お姉ちゃんの記憶全部ここに入ってる。
+<span class="name">ミオ</span>: 消える直前になんとか記憶だけは貝に移したんやと思う。
+<span class="name">ミオ</span>: でも身体はないから……これやと動けやん。
+<span class="name">網代慎平</span>: （潮の記憶がこの中に……。　……だからハイネは、　潮が生きてるってカン違いを……）
+<span class="name">網代慎平</span>: タカノス山でハイネが退いたのも、潮のおかげだったのか……。
+<span class="name">ミオ</span>: 記憶だけになっても、慎ちゃんを守ったんやね……。
+<span class="name">網代慎平</span>: これの……貝の記憶は？スキャンしたんか！？
+<span class="name">ミオ</span>: 無理。他の影には読めやんようにされちゃある。オカアサンみたい……。
+<span class="name">ミオ</span>: 敵の手ェに渡らんようにそうしたんとちゃうかな。そのデータを読めるんはお姉ちゃんだけ。でもお姉ちゃんはもう……。
+<span class="name">網代慎平</span>: …………。
+<span class="name">網代慎平</span>: ……待てよ……！？
+<span class="name">網代慎平</span>: ……帰って来る。
+<span class="name">ミオ</span>: ……え！？
+<span class="name">網代慎平</span>: そうなんや……明日っ！！２４日のお祭りで、花火が上がる時、あの海岸にっ……！！
+<span class="name">網代慎平</span>: まだ何も知らん、最初のあいつが……帰って来る！！
+<span class="name">ミオ</span>: ……そっか！！明日のお姉ちゃんに、この貝をスキャンしてもらえば！
+<span class="name">網代慎平</span>: ああっ！まちがいない！！だからあいつはこれを残したんや……！！
+<span class="name">網代慎平</span>: 潮が……復活する！
+<span class="name">小舟澪</span>: 慎ちゃん。
+<span class="name">網代慎平</span>: ……ん。
+<span class="name">小舟澪</span>: 雨、上がったね。何してんの？
+<span class="name">網代慎平</span>: ちょっと練習。
+<span class="name">小舟澪</span>: 練習？
+<span class="name">網代慎平</span>: あぁ。ちょっと、な。
+<span class="name">網代慎平</span>: （２秒先の予測、　自在に使いこなせるようにならないと）
+<span class="name">小舟澪</span>: そっか……覚えてる？今朝、出かける前に言うたこと。
+<span class="name">網代慎平</span>: 無事に帰って来たら、話がある……やっけ？
+<span class="name">小舟澪</span>: うん。明日……ほんまにお姉ちゃん帰って来るん？
+<span class="name">網代慎平</span>: 潮が意味もなく、自分のデータを貝に込めたとは思えん。
+<span class="name">網代慎平</span>: あいつは消える前、シデをスキャンした……。きっと何かをつかんだはずや。
+<span class="name">網代慎平</span>: 賭けになるけど、可能性は十分ある……！！
+<span class="name">小舟澪</span>: ……何か、またいい作戦思いついたって顔やな。
+<span class="name">網代慎平</span>: どうかな……あとでみんなに話すよ。……話ってそれ？
+<span class="name">小舟澪</span>: え？や……うん……。
+<span class="name">小舟澪</span>: あの……あのな、慎ちゃん！
+--choice If Action R1/R
+<span class="name">網代慎平</span>: 待ってくれ、澪！
+<span class="name">網代慎平</span>: それ以上は……言わんといてくれ。
+<span class="name">小舟澪</span>: え……？
+<span class="name">網代慎平</span>: 悪い……。おまえが勇気を振りしぼってんのは、痛いくらい伝わってる……。
+<span class="name">網代慎平</span>: だからこそ……聞くわけにはいかないんや……。
+<span class="name">小舟澪</span>: 慎ちゃん……。でも、明日は――
+<span class="name">網代慎平</span>: 生きて明日を乗り越えよう。今のオレはそのことしか考えられやん。
+<span class="name">小舟澪</span>: …………。
+<span class="name">小舟澪</span>: ……そんなん言われたら……そうするしかないやん。ずるいなァ、慎ちゃん。
+<span class="name">網代慎平</span>: すまん……。
+<span class="name">小舟澪</span>: ……へへ。ええよ、わかった……。
+--choiceEnd
+--choice Else If Action ○/A
+<span class="name">小舟澪</span>: 話があるって言うたやん？その……。
+<span class="name">小舟澪</span>: ……なんていうか……。
+<span class="name">小舟澪</span>: ……好き。
+<span class="name">小舟澪</span>: ……なん……よ……。私……慎ちゃんのことっ……。
+<span class="name">網代慎平</span>: …………。
+--choice 「ん……うん……」
+<span class="name">網代慎平</span>: ん……うん……。
+<span class="name">小舟澪</span>: ……それだけ？
+<span class="name">網代慎平</span>: いや……あ……ありがとう……。
+<span class="name">小舟澪</span>: ……もしかして、気付いてた……？
+<span class="name">網代慎平</span>: ……ん……。
+<span class="name">小舟澪</span>: あ！　別にその……へっ……変に思わんといてな！ただ……言いたかっただけなん……。
+<span class="name">小舟澪</span>: 明日死ぬかも知らんやろ、私ら……。<span class="dict">この気持ち</span>、慎ちゃんに伝えんまま死ぬん嫌やってん！
+<span class="name">網代慎平</span>: …………。
+<span class="name">小舟澪</span>: だから……ただ……伝えたかっただけやから……！！
+<span class="name">網代慎平</span>: そっか……。
+<span class="name">小舟澪</span>: ……うん。
+<span class="name">網代慎平</span>: ……ごめん、澪。
+<span class="name">網代慎平</span>: 澪の気持ちにはこたえられやん……。おまえはオレの大事な妹やから。
+<span class="name">小舟澪</span>: ……そっか……。
+<span class="name">小舟澪</span>: …………。
+<span class="name">網代慎平</span>: …………。
+<span class="name">小舟澪</span>: あーー、スッ……キリしたあぁーーっ！！！！……これで死んでも後悔ないわ！
+--choiceEnd
+--choice 「……ごめん」
+<span class="name">網代慎平</span>: ……ごめん。澪。
+<span class="name">小舟澪</span>: …………。
+<span class="name">網代慎平</span>: 澪の気持ちには、こたえられやん……。
+<span class="name">網代慎平</span>: オレは……<span class="dict">潮が好き</span>なんや。
+<span class="name">小舟澪</span>: …………。
+<span class="name">小舟澪</span>: ……うん。
+<span class="name">網代慎平</span>: おまえはオレの、大事な妹や。
+<span class="name">小舟澪</span>: ……うん。
+<span class="name">小舟澪</span>: ありがと……。ちゃんと言うてくれて……。
+<span class="name">網代慎平</span>: ……澪……。
+<span class="name">小舟澪</span>: あーー、スッ……キリしたあぁーーっ！！！！……これで死んでも後悔ないわ！
+--choiceEnd
+--choiceEnd
+<span class="name">小舟澪</span>: 慎ちゃん……。明日、頑張ろうね……！
+<span class="name">網代慎平</span>: ……おう。
+<span class="name">網代慎平</span>: …………。
+<span class="name">網代慎平</span>: （どう転んでも明日……。　７月２４日に、すべてが決まる……！）

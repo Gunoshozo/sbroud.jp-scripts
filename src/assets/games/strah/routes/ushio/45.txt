@@ -1,0 +1,32 @@
+”南方　ひづる”
+<span class="name">根津銀次郎</span>: 本降りになってきたのォ……。予報が外れたな、ひづる？
+<span class="name">南方ひづる</span>: …………。
+<span class="name">根津銀次郎</span>: 予報、予想、予告、予断、予定、予知……。有史以来、予の付くモンがアテになったためしはない。
+<span class="name">根津銀次郎</span>: ……ホンマにこのマンホールの下か？
+<span class="name">南方ひづる</span>: ああ……嫌な予感がするのでね。
+<span class="name">南方ひづる</span>: 私の予感が外れることを祈ろう。
+”小舟　澪”
+<span class="name">小舟澪</span>: 止むんかなァ、これ…………。
+<span class="name">菱形朱鷺子</span>: 明日はお祭りやから、晴れてもらわな困るなァ。
+<span class="name">菱形朱鷺子</span>: 澪は……行かん……？
+<span class="name">小舟澪</span>: どやろ……今は……それどころちゃうっていうか。
+<span class="name">菱形朱鷺子</span>: そうよな……ごめん。
+<span class="name">小舟澪</span>: あ……。
+<span class="name">小舟澪</span>: いやホラ！私……浴衣持ってへんしさ！
+<span class="name">菱形朱鷺子</span>: なんやそんなん、心配いらんて！私のん貸すし、着付けさせてよ！澪に似合いそうなんあるんよ。
+<span class="name">小舟澪</span>: ありがとトキコ。でも、やっぱり……。
+<span class="name">菱形朱鷺子</span>: …………。
+<span class="name">菱形朱鷺子</span>: お願い澪！！明日は私といっしょにおって！？
+<span class="name">小舟澪</span>: ……トキコ……？
+<span class="name">男の声</span>: わ～～～～最悪っ！！
+<span class="name">小舟澪</span>: …………！
+<span class="name">菱形朱鷺子</span>: ……誰や……？
+<span class="name">おじさん</span>: ビショビショや～～～～！！ここで雨宿りさしてもらお！！
+<span class="name">おじさん</span>: はァ～～～、まいったね……
+<span class="name">おじさん</span>: おや？　キミらこの島の子ォかな……？高校生？
+<span class="name">小舟澪</span>: あ……はい。
+<span class="name">菱形朱鷺子</span>: ちょっと待って澪っ！！
+<span class="name">菱形朱鷺子</span>: どちら様ですか？いきなり……。
+<span class="name">おじさん</span>: え！？あ～～～～～ゴメンゴメン！！
+<span class="name">三浦</span>: 和歌山北署の<span class="dict">三浦</span>です～～～。
+<span class="name">三浦</span>: コバマートの小早川さんて知ってる？ちょ～～っと話聞かせて欲しよォ～～。

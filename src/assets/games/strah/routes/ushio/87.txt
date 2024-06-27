@@ -1,0 +1,45 @@
+<span class="name">ウシオ</span>: （…………時間を、超える力……）
+<span class="name">ウシオ</span>: （私ね、やっとわかったよ、　いろんなことのイミ……）
+<span class="name">ウシオ</span>: （急がな……！！　この体が消えてまう前に、　やらなあかんことがある……！！）
+”7月21日”
+<span class="name">ウシオ</span>: ……南雲先生、聞こえますか？
+<span class="name">ウシオ</span>: 今、日都ヶ島で大変なことが起きてます。このままやと影が……あの子が……ハイネが復活するんです……！！
+<span class="name">ウシオ</span>: ２４日の夏祭りにみんな影に殺される……。島じゅうの全員が……。
+<span class="name">ウシオ</span>: 止められるんは、網代慎平という人だけ……！！
+<span class="name">ウシオ</span>: でも、彼一人では不可能なんです……私たちが力を合わせやんと……！！
+<span class="name">ウシオ</span>: だからお願いします！日都ヶ島に来てください！慎平を助けてください！
+<span class="name">ウシオ</span>: 先生の力を貸して……お願いです、どうか――
+<span class="name">ウシオ</span>: 慎平！
+<span class="name">網代慎平</span>: だっ……誰や！！？
+<span class="name">ウシオ</span>: 気をつけて。力には限りがある！
+<span class="name">ウシオ</span>: 夏祭りにみんな死ぬ……！！止められるんは慎平だけ！！
+<span class="name">ウシオ</span>: 澪のこと……守っちゃってね……。
+”7月22日”
+<span class="name">ウシオ</span>: 慎平っ！
+<span class="name">網代慎平</span>: うおッ！？
+<span class="name">網代慎平</span>: う、潮っ！！？おまえ……ど、どうして！？
+<span class="name">ウシオ</span>: なにぼーっとしとるん！また話聞いてへんかったなァ～？
+<span class="name">網代慎平</span>: す、すまん……！何だっけ？
+<span class="name">ウシオ</span>: 言うたやろ。ちょっと目ェつむって。
+<span class="name">網代慎平</span>: え？
+<span class="name">ウシオ</span>: ええからええから！
+<span class="name">網代慎平</span>: うわっ！！ちょっ……何！？
+<span class="name">ウシオ</span>: そのまま動かんとってな。
+<span class="name">ウシオ</span>: ……よし。もうええよ、開けて。
+<span class="name">網代慎平</span>: な……何した今！？
+<span class="name">ウシオ</span>: <span class="dict">プレゼント</span>や！
+<span class="name">網代慎平</span>: プレゼントぉ？イ……イミわからんわっ！
+<span class="name">ウシオ</span>: 慎平さァ……。島に帰るん、何年ぶりか知ってる？
+<span class="name">網代慎平</span>: え？　ああ……。中学の卒業式以来やから……２年ぶりか。
+<span class="name">ウシオ</span>: ほんま、正月も帰って来えへんかったなァ～～。
+<span class="name">網代慎平</span>: ご、ごめん……。
+<span class="name">ウシオ</span>: 帰ったらみんなによろしく言うといて！
+<span class="name">網代慎平</span>: どういうことよ……？潮……おまえも一緒に――
+<span class="name">ウシオ</span>: 私は行けやんよ。
+<span class="name">ウシオ</span>: ちゃんと私のこと、見つけてよ。
+<span class="name">網代慎平</span>: ……え！？
+<span class="name">網代慎平</span>: な……何だこれ！！待て……待ってくれ！
+<span class="name">ウシオ</span>: 澪のこと……守っちゃってね……。
+<span class="name">ウシオ</span>: ほなな、慎平！……もう行くわ。
+<span class="name">ウシオ</span>: 辿り着いてね。この結末に……！！最後の最後に、みんなが待ってるよ。
+<span class="name">ウシオ</span>: 私が、待ってるから――

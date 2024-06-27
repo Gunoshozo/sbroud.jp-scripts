@@ -1,0 +1,71 @@
+<span class="name">白大輔</span> : 「そうか……」
+名倉の容態を伝えると、白大輔は少し、うなだれた。
+<span class="name">白大輔</span> : 「でも、正直に話してくれてありがとう」
+<span class="name">世津茅早</span> : 「ウソ、つけたらよかったけど。思いつかなかった」
+<span class="name">世津茅早</span> : 「それに、わたしが言わなくても、宮藤がいずれ話したと思う」
+<span class="name">白大輔</span> : 「……無事でいてほしいと思うのに、俺は、危険と言われなければ世津を疑ったのかもしれないな」
+<span class="name">世津茅早</span> : 「なにか起きたと思ったとき、ひとはとっさに悪い想像をしたがるよ。みんなそう」
+<span class="name">世津茅早</span> : 「放っておくとみんな下を向いてしまう」
+<span class="name">白大輔</span> : 「そうかもしれないな。気をつける」
+<span class="name">白大輔</span> : 「無理にでも、上を向くことにする。脳は、本物の笑いと作り笑いを区別できないそうだから」
+彼が笑った顔を見て、ふと、日本へ帰りたくなった。
+ここで聞いたこと、全部忘れないで、セルに持って帰れたらいいのに。
+<span class="name">宮藤一咲</span> : 「オイ、オマエら」
+<span class="name">世津茅早</span> : 「宮藤……名倉はどう？」
+<span class="name">宮藤一咲</span> : 「変わりなしだ」
+<span class="name">宮藤一咲</span> : 「それより話がある。生徒を全員集めろ」
+<span class="name">白大輔</span> : 「わかりました」
+<span class="name">宮藤一咲</span> : 「チップをひっぺがしたいヤツは手を上げろ」
+<span class="name">倭一花</span> : 「はい」
+真っ先に一花が手を上げた。
+<span class="name">仁和菓</span> : 「先生が、嫌じゃないなら……」
+<span class="name">櫟井夏來</span> : 「……………………」
+<span class="name">陸七生</span> : 「すんません、俺、夏來ンとき立ち会っていっすか？」
+<span class="name">櫟井夏來</span> : 「七生先輩……」
+<span class="name">陸七生</span> : 「邪魔しないんで。疑り深くて申し訳ないンすけど、アンタと夏來をふたりっきりにすんのは気が進まない」
+<span class="name">宮藤一咲</span> : 「好きにしろ。陸、オマエはどうする」
+<span class="name">陸七生</span> : 「俺のとき、夏來がいてくれるんなら」
+<span class="name">陸七生</span> : 「俺も宮藤さんとふたりっきりはゾッとしないしね。正直前回の件は俺も軽くトラウマです」
+<span class="name">櫟井夏來</span> : 「……わかりました、います」
+<span class="name">陸七生</span> : 「ありがと」
+<span class="name">宮藤一咲</span> : 「八時過ぎから始める。いまから軽く飯食って来い。その間に順番を決める」
+<span class="name">宮藤一咲</span> : 「それから白、オマエはちょっと来い」
+<span class="name">白大輔</span> : 「はい」
+一瞬、白大輔と、目が合ったけれど。
+ふたりはそのまま、通信室を出て行った。
+<span class="name">陸七生</span> : 「いーんちょ、どうする気なんだろ」
+<span class="name">陸七生</span> : 「いっそあっちがさっさと死んじまえば、いーんちょも変に迷ったりしないで済むのに」
+<span class="name">高槻東吾</span> : 「陸、やめろ」
+<span class="name">高槻東吾</span> : 「言っていいことと悪ぃことぐらい区別つけろよ」
+<span class="name">陸七生</span> : 「なに優等生ぶってんだよ。どっちかしか選べないのに、友だちに死ねって言えるほーがどうかしてるでしょ」
+<span class="name">櫟井夏來</span> : 「……軽く食べておいた方がいいって先生も言ってたし、お茶いれてご飯食べて、少し気分転換しよ。ね、先輩」
+<span class="name">櫟井夏來</span> : 「わたし、準備してくるね」
+<span class="name">仁和菓</span> : 「わ、わたしも行く」
+<span class="name">倭一花</span> : 「陸くん。あなたがピリピリしてたらよけい不安になるわ。あの子が精神的に辛いの、わかるでしょ」
+<span class="name">陸七生</span> : 「……うん、わかってる」
+<span class="name">陸七生</span> : 「悪い、高槻。俺、ちょっとヨユーなかったわ」
+<span class="name">高槻東吾</span> : 「ヨユーなんてみんなねーよ。いいからさっさと行って、櫟井笑わせて来い」
+<span class="name">陸七生</span> : 「サンキュ」
+<span class="name">香藤瑞希</span> : 「わたし、なんだか失業しちゃった気分だわ。みんなが頼もしくて」
+<span class="name">高槻東吾</span> : 「どうせデュナミス・ベースの教師なんて廃業すんだし、いいんじゃねえの？」
+<span class="name">香藤瑞希</span> : 「それもそうね。なにに転職するか、そろそろ真剣に考えなきゃ」
+<span class="name">香藤瑞希</span> : 「……明日には、日本へ帰れるんだものね」
+全員が、同じことを言おうとして、口をつぐんだのがわかった。
+本当に、帰れるの？　って。
+<span class="name">高槻東吾</span> : 「ま、なるようにしかならねえか」
+<span class="name">高槻東吾</span> : 「なあ、茅早。俺ら手術の間は暇だし、また屋上行こうぜ。後藤のヤツ、また出てくるかもしんねえし」
+<span class="name">世津茅早</span> : 「……うん。いいよ」
+<span class="name">高槻東吾</span> : 「ん？　なんだ、オマエどこ行ってたんだよ」
+<span class="name">黒ずくめの男</span> : 「……………………」
+返事をしないまま、モニタの前の椅子に座った。
+<span class="name">高槻東吾</span> : 「なんだよ。ひとが声かけてやってンのに愛想ねえな」
+<span class="name">倭一花</span> : 「ひとのこと言えないでしょ？　高槻くんは」
+<span class="name">世津茅早</span> : 「わたしもそう思う」
+<span class="name">高槻東吾</span> : 「バカ、俺が笑顔で挨拶したらオマエら吹き出すくせして」
+<span class="name">倭一花</span> : 「………………」
+<span class="name">世津茅早</span> : 「………………」
+<span class="name">高槻東吾</span> : 「ほら見ろ、言わんこっちゃねえ」
+<span class="name">倭一花</span> : 「だって……ねえ？」
+<span class="name">世津茅早</span> : 「うん。おかしい」
+一花と顔を見合わせて笑って。……東吾が肩をすくめながら、笑って。
+忘れたくない時間がどんどん増えてるって、わかって、少しだけ嬉しくなった。

@@ -1,0 +1,240 @@
+<span class="dict">マクディ</span>で腹ごしらえした後、<span class="dict">ベース</span>に戻ってきた。
+打つ手がない以上、どうすることもできない。
+地下鉄駅で張り込んでいるセナに連絡してみたけど、星来は現れていないと言われたし。
+しょうがないから、エリンになんとかして口を割らせようと考えたんだけど――
+<span class="name">エリン</span>:「うっさいのぅ。むにゃむにゃ」
+<span class="name">エリン</span>:「妾はおねむの時間なのじゃ」
+<span class="name">拓巳</span>:「まだ夜の８時だろ」
+というか、また寝てたのか。いくら幼女だからって寝すぎろだろ。
+<span class="name">エリン</span>:「１０歳という設定を舐めるな」
+<span class="name">エリン</span>:「お子様は８時には寝るのが普通なんじゃぞ」
+<span class="name">拓巳</span>:「そんなくだらない情報は、イラネ」
+<span class="name">拓巳</span>:「星来の居場所を教えてくれ。頼むよ」
+<span class="name">エリン</span>:「ふん。しつこいヤツじゃのぅ」
+<span class="name">エリン</span>:「姉様のことをそっちのけにして、生意気妹とイチャイチャしておる分際で」
+<span class="name">七海</span>:「イ、イチャイチャなんてしてないもんっ」
+七海が横から口を出した。
+<span class="name">エリン</span>:「ならばこう言い直そう」
+<span class="name">エリン</span>:「生意気妹とチュッチュしておる分際で」
+<span class="name">七海</span>:「チュッチュなんて、してない……」
+<span class="name">エリン</span>:「しとるではないか」
+<span class="name">七海</span>:「……し、してるけどぉ」
+<span class="name">拓巳</span>:「七海とチュッチュしてなにが悪い！」
+<span class="name">七海</span>:「お、おにぃ……堂々と宣言しないでよー」
+<span class="name">エリン</span>:「おぬし、変態としては最高に輝いておるのぅ」
+<span class="name">拓巳</span>:「どうしても、教えてくれないのか？」
+<span class="name">エリン</span>:「おぬし自身が気付かねば、どうしようもないことじゃ」
+<span class="name">エリン</span>:「答えはすでに存在しておる。見えておらんだけでな」
+<span class="name">拓巳</span>:「え……どういうこと？」
+<span class="name">エリン</span>:「少しは考えるということをしたらどうじゃ？」
+<span class="name">エリン</span>:「おぬしの頭は、伽藍堂なのかえ？」
+ぐ……。ホントに生意気だな、こいつ。
+七海以上かもしれない。
+イラッとしたのでモニタの電源を切ってやった。
+少し頭を冷やして、エリンを説得する方法を考えよう。
+ソファに身を沈め、深く息を吐いた。
+七海はと言うと、手持ち無沙汰なのか、部屋の奥にあるフィギュアの棚を眺めている。
+そこには、いまだにいくつものフィギュアが並べられていた。
+もちろん、星来のフィギュアもたくさんあって、いずれもかわいらしい笑顔を振りまいている。
+<span class="name">七海</span>:「ねえねえ。おにぃは、星来さんを殺すっていうこと、どう思ってるの？」
+どう思っているか、だって？
+<span class="name">拓巳</span>:「殺さないと、この世界からは出られない。だから、やるしかない」
+<span class="name">七海</span>:「そうじゃなくて、おにぃの気持ちは？」
+<span class="name">七海</span>:「梨深さんやセナさんたちは、絶対に殺さなくちゃって、<ruby>血眼<rt>ちまなこ</rt></ruby>になってるけど」
+<span class="name">七海</span>:「例え相手が妄想の存在だとしても、殺すしか、方法はないのかな？」
+<span class="name">拓巳</span>:「それは、甘い考えだよ」
+<span class="name">拓巳</span>:「世の中には、理不尽なことは、たくさんある」
+理由なんて求めたって、しょうがないんだ。
+それを、僕は<span class="dict">ニュージェネ事件</span>を通じて、そして梨深たち<span class="dict">ギガロマニアックス</span>の少女たちと出会うことで、思い知った。
+<span class="name">七海</span>:「理不尽なのに、それに従わなくちゃいけないの？」
+<span class="name">拓巳</span>:「理不尽だから、従わざるを得ないんだ」
+<span class="name">七海</span>:「なんだか、おにぃも梨深さんたちも、答えを決めつけちゃってるような気がするんだ」
+<span class="name">七海</span>:「ナナは、<span class="dict">ギガロマニアックス</span>とか、心象世界とか、よく分かんないから、とんちんかんなこと言ってるかもしれないけど」
+<span class="name">七海</span>:「殺すことにこだわってたら、ずっと解決しない気がするの」
+<span class="name">七海</span>:「だって、みんなでこれだけ探し回ってるのに、ちっとも会えないし」
+<span class="name">七海</span>:「昨日みたいに、せっかく会えても、なにもできなかったでしょ？」
+<span class="name">七海</span>:「だから、別の方法を考えた方がいいような気がするんだ」
+<span class="name">拓巳</span>:「気持ちは、分かるけど……」
+別の方法なんてあったら、セナや優愛がとっくに気付いてる気がする。
+<span class="name">七海</span>:「で、どうなの？」
+<span class="name">七海</span>:「おにぃの気持ち、まだ答えてもらってないよ」
+星来を殺すことについて、どう思っているのか……か。
+<span class="name">拓巳</span>:「僕は、<span class="dict">リア充</span>を目指してるんだ。<span class="dict">脱オタ</span>するんだよ」
+<span class="name">拓巳</span>:「だから、星来のことは、もう特になにも思ってない」
+<span class="name">七海</span>:「ふぅん……」
+<span class="name">七海</span>:「あんなに好きだったのにね」
+<span class="name">七海</span>:「こうして、お人形さんをたくさん飾ってたのも、全部捨てちゃうってこと？」
+<span class="name">拓巳</span>:「そ、そうなるかな……」
+<span class="name">拓巳</span>:「僕が<span class="dict">リア充</span>になれば、お前も、恥ずかしい思いをしなくて済むだろ」
+<span class="name">七海</span>:「え？」
+<span class="name">拓巳</span>:「僕は、七海にふさわしい兄貴になりたいんだ」
+七海への気持ちに気付いてからは、特にその思いが強くなった。
+<span class="name">拓巳</span>:「そのためには、オタじゃ、ダメなんだよ」
+<span class="name">七海</span>:「ナナのせいにするの？」
+<span class="name">拓巳</span>:「いや、そういうわけじゃ……」
+<span class="name">七海</span>:「そもそも、ナナはこれまで、恥ずかしいと思ったことなんて、一度もないよ」
+<span class="name">七海</span>:「お人形さんばっかり構ってないでほしい、って思ったことは、よくあるけど……」
+<span class="name">拓巳</span>:「お、同じことじゃね？」
+<span class="name">七海</span>:「違うもん！」
+<span class="name">七海</span>:「おにぃの趣味を否定しようと思ったことは、一度もないんだからねっ」
+<span class="name">七海</span>:「ただ、趣味にうつつを抜かしすぎて、まともに学校とか行かなくなってたでしょ」
+<span class="name">七海</span>:「それが心配だっただけで……」
+<span class="name">七海</span>:「あと、星来さんだけじゃなくて、ナナのことも、もっと見てほしかっただけで……」
+<span class="name">七海</span>:「要するに、ナナは星来さんに嫉妬してたのっ」
+<span class="name">拓巳</span>:「二次元に嫉妬するなんて、現実と妄想の区別が付いてないんじゃね？」
+<span class="name">七海</span>:「おにぃに言われたくないし……」
+<span class="name">七海</span>:「ナナにしてみれば、星来さんにおにぃを取られちゃったみたいで、寂しかったんだよ……」
+<span class="name">七海</span>:「って、ナナのことは今はどうでもいいのっ」
+照れてる七海かわいいよ。
+<span class="name">拓巳</span>:「七海、ちょっとこっち来て」
+ソファをぽむぽむと叩き、七海を招き寄せる。
+だが七海はそれを拒否するように首を左右に振った。
+しきりに、手首のバングルをいじっている。
+<span class="name">七海</span>:「い、行かない」
+<span class="name">七海</span>:「ついさっき、エリンちゃんに“イチャイチャしすぎ”って注意されたばっかだもん」
+くそったれー！　エリンのヤツ、よくも余計なこと言ってくれたな！
+おかげで七海とチュッチュできなくなったじゃないか！
+絶対に許さない。絶対にだ！
+<span class="name">七海</span>:「おにぃは、捨てられる？」
+七海は、フィギュアが並ぶ棚に視線を戻した。
+<span class="name">七海</span>:「そこに並んでる星来さんを、捨てられる？」
+<span class="name">拓巳</span>:「…………」
+<span class="name">拓巳</span>:「あ、当たり前だ……」
+僕は立ち上がって棚の前まで行くと、星来のフィギュアのひとつ――水着バージョン――を無造作につかんだ。
+<span class="name">拓巳</span>:「捨てられる……僕は、捨てられる……」
+<span class="name">拓巳</span>:「<span class="dict">脱オタ</span>して、<span class="dict">リア充</span>になって、七海と、幸せに暮らしていくんだ……」
+<span class="name">拓巳</span>:「捨てなくちゃ、いけないんだ……」
+<span class="name">拓巳</span>:「僕は……」
+星来フィギュアを持った手を振り上げる。
+そのまま、僕は、その手を――
+<span class="name">拓巳</span>:「……っ」
+どうしても、振り下ろすことができなかった。
+そんなかわいそうなことは、できなかった。
+<span class="name">拓巳</span>:「くそ……」
+<span class="name">拓巳</span>:「<span class="dict">脱オタ</span>しなくちゃ、いけないのに……！」
+<span class="name">拓巳</span>:「このままじゃ、ダメなのに……！」
+<span class="name">拓巳</span>:「なんで、できないんだよ、僕は……！」
+<span class="name">七海</span>:「ほら、答え、出てるじゃん」
+七海が、僕の手をゆっくりと下ろさせた。
+<span class="name">七海</span>:「捨てなくても、いいんだよ」
+<span class="name">七海</span>:「無理しないで、おにぃ」
+<span class="name">七海</span>:「今のおにぃ、とっても辛そうな顔してる」
+<span class="name">拓巳</span>:「そんなこと……」
+僕は……辛いのか？
+<span class="name">七海</span>:「おにぃのこと、２年近くも見てきたんだよ？」
+<span class="name">七海</span>:「ううん、２年だけじゃない。生まれたときからずっと、ナナはおにぃと一緒だったんだもん」
+<span class="name">七海</span>:「だから、おにぃのことは、よーく知ってるの」
+<span class="name">七海</span>:「おにぃは、星来さんを捨てられないよ」
+<span class="name">拓巳</span>:「でも……」
+<span class="name">七海</span>:「もう。分からず屋さんだなぁ」
+七海は僕の腕に手を回し、寄り添ってくる。
+星来フィギュアを持っている僕の手に、七海の手が添えられた。
+<span class="name">七海</span>:「おにぃには、オタクさん趣味を捨てることなんて無理」
+<span class="name">七海</span>:「絶対無理！」
+<span class="name">拓巳</span>:「力一杯、言い切るなよ……」
+<span class="name">七海</span>:「えへへ」
+<span class="name">七海</span>:「おにぃのこと、一番知ってるナナが言うんだから、間違いないよ」
+<span class="name">拓巳</span>:「……じゃあ、どうすればいいの？」
+<span class="name">拓巳</span>:「捨てなかったら、この世界から、抜け出せないのに……」
+<span class="name">七海</span>:「そもそも、殺しちゃダメなような気がするんだ」
+殺しちゃダメ……だって？
+<span class="name">七海</span>:「おにぃ。今度こそ答えて」
+<span class="name">七海</span>:「星来さんを殺すこと、どう思ってるの？」
+三度、その質問をされて。
+僕の脳裏に浮かんだのは、この世界での星来の、なにかを訴えるような悲しげな表情だった。
+<span class="name">拓巳</span>:「星来は、僕になにかを言いたそうにしてた……」
+<span class="name">拓巳</span>:「でも、なにも言ってくれなくて……」
+<span class="name">拓巳</span>:「そもそも、どうして星来の人格が独り歩きしているかも分からなくて」
+<span class="name">拓巳</span>:「僕は、どうしたらいいのか……」
+<span class="name">七海</span>:「……そっか！」
+いきなり七海がハッと目を見開いた。
+<span class="name">七海</span>:「つまり、そういうことなんだよ！」
+<span class="name">拓巳</span>:「そういうことって、どういうこと？」
+<span class="name">七海</span>:「星来さんは、おにぃの妄想から生まれたんだよね？」
+<span class="name">七海</span>:「実は、人格は独り歩きなんてしてないのかも」
+<span class="name">拓巳</span>:「は……？　それって、どういう……」
+<span class="name">七海</span>:「星来さんは、おにぃの分身とも言えるんだよ？」
+<span class="name">七海</span>:「おにぃは今、星来さんのフィギュアを壊せなかった。それなら――」
+<span class="name">七海</span>:「あの妄想の星来さんのことも、殺したくないって、本心では思ってたんじゃないかな？」
+<span class="name">拓巳</span>:「……それって、つまり」
+<span class="name">七海</span>:「星来さんが逃げ回ってるのも――」
+<span class="name">七海</span>:「あの“見えない攻撃”も――」
+<span class="name">七海</span>:「悲しそうに、なにかを訴えようとしてるのも――」
+<span class="name">七海</span>:「そうさせてるのは、おにぃなんだよ」
+<span class="name">七海</span>:「おにぃの妄想なんだもん」
+<span class="name">拓巳</span>:「僕が……そうさせている……」
+無意識のうちに？
+そんなバカな、と笑い飛ばせない。
+なにしろ僕には“前例”があるからだ。
+<span class="dict">ニュージェネ事件</span>の最中、僕はずっと、自分で意識しないままに“思考盗撮”をしていた。
+<span class="name">七海</span>:「おにぃの心の枷を解き放つのに必要なのは――」
+<span class="name">七海</span>:「星来さんを殺すことじゃなくて、受け入れること、なのかも」
+そうなのか？
+そんな簡単なことだったのか？
+<span class="name">エリン</span>:「やっと答えが見えたようじゃな、どたわけ」
+<span class="name">拓巳</span>:「エリン……！」
+消したはずのモニタの電源が点いていて、エリンがすべてを見透かしたかのような表情でこっちを見ていた。
+今のエリンの口振りを聞く限り――
+<span class="name">拓巳</span>:「ホントなのか？　今、七海が言った通りなのか？」
+<span class="name">エリン</span>:「己で試してみるがよい」
+<span class="name">エリン</span>:「今のおぬしなら、姉様も答えてくれるはずじゃ」
+<span class="name">エリン</span>:「おぬしの本当の気持ちを、ぶつけてみよ」
+<span class="name">エリン</span>:「まったく、生意気妹の世話にならんと、己のことを省みることもできんとは」
+<span class="name">エリン</span>:「<span class="dict">キモオタ</span>としての自覚が足らんのぅ」
+……僕は、渋谷を救ったことで調子に乗って、自分に無理をさせすぎていたのかもしれない。
+自分では“英雄なんかじゃない”とは言っていても、持ち上げられた経験なんてなかっただけに、浮かれていたのかも。
+かつて、七海に対して反発してたように。
+僕は、星来に対する気持ちを偽っていたんだ。
+<span class="name">エリン</span>:「まあしかし、良い妹を持ったな。ふっひっひー男よ」
+<span class="name">拓巳</span>:「……当然だ」
+<span class="name">拓巳</span>:「七海は、最高の妹で、最高の女だ」
+<span class="name">七海</span>:「ちょっと、おにぃったら……」
+七海のおかげだ。
+七海が、僕のことをオタのままでいいって、認めてくれたから。
+その最高の妹に向き直る。
+<span class="name">拓巳</span>:「ありがとう、七海」
+<span class="name">拓巳</span>:「お前のおかげで、自分の気持ちに気付けたよ」
+<span class="name">拓巳</span>:「僕は、お前の世話になってばっかりだ」
+<span class="name">七海</span>:「そんなことないよ」
+<span class="name">七海</span>:「おにぃだって、ナナのこと助けてくれたことあるじゃん」
+<span class="name">七海</span>:「兄妹なんだから、助け合うのは、当然のことだよ」
+<span class="name">七海</span>:「それに、ナナは――」
+<span class="name">七海</span>:「おにぃのこと、大好きだから」
+<span class="name">七海</span>:「すごくすごく、大好きだから」
+<span class="name">七海</span>:「おにぃのことなら、なんだって分かるんだ。えへへ」
+七海への愛情が溢れてきて、たまらず抱きしめる。
+<span class="name">七海</span>:「わっ、ちょっと、おにぃ？」
+<span class="name">拓巳</span>:「僕は、星来を殺さなくてもいいんだ……！」
+<span class="name">拓巳</span>:「僕は、オタのままでいいんだ」
+<span class="name">拓巳</span>:「なんか、心につっかえてたものが、一気に晴れてきたぞ！」
+<span class="name">拓巳</span>:「うは、み・な・ぎっ・て・き・た！」
+<span class="name">七海</span>:「むぅ……」
+七海が僕の身体を押しのけた。
+なぜか頬をふくらませている。
+<span class="name">拓巳</span>:「あれ？　なんでふくれてるんだ？」
+<span class="name">七海</span>:「急に張り切りすぎ」
+<span class="name">七海</span>:「そんなに星来さんが大好きだったんだ」
+<span class="name">七海</span>:「おにぃのバカ！」
+<span class="name">拓巳</span>:「嫉妬する必要なんて、ないよ」
+<span class="name">拓巳</span>:「僕は、七海のことも大好きですから。ふひひ」
+<span class="name">拓巳</span>:「星来は二次元の嫁。七海は三次元の嫁」
+<span class="name">七海</span>:「えっ……よ、嫁！？」
+<span class="name">七海</span>:「ホントに……？　ナナと、結婚……してくれる？」
+<span class="name">拓巳</span>:「嫁であり、妹であり、恋人であり、世話係であり、メイドであり、後輩であり、ええと――」
+<span class="name">七海</span>:「ええ～……」
+<span class="name">拓巳</span>:「つまり、七海は僕のすべてだ！」
+<span class="name">七海</span>:「またそんな恥ずかしい宣言して……」
+<span class="name">七海</span>:「おにぃって、ホント、バカなんだから」
+困ったような顔をしつつ、七海は僕にキスをしてきた。
+<span class="name">七海</span>:「…………」
+<span class="name">七海</span>:「まあ、いいけどね」
+<span class="name">拓巳</span>:「七海、一緒に、星来に会ってくれるか？」
+<span class="name">拓巳</span>:「今なら、会える気がするんだ」
+<span class="name">七海</span>:「ホント？　どこにいるか、分かったの？」
+<span class="name">拓巳</span>:「エリンが前にくれたヒントの答えが、分かったんだよ」
+<span class="name">拓巳</span>:「“星来オルジェルは遍在している”」
+<span class="name">拓巳</span>:「星来は、この世界のどこにでもいるんだ」
+<span class="name">七海</span>:「そっか。ナナには、よく分かんないけど――」
+七海が手を差し伸べてくる。
+<span class="name">七海</span>:「おにぃに、付いてく」
+その手を、僕はしっかりと握りしめた。

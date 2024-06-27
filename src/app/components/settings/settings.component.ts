@@ -3,19 +3,35 @@ import {
 	TuiThemeNightService,
 	TuiThemeService,
 } from '@taiga-ui/addon-doc/services';
-import { TuiBrightness } from '@taiga-ui/core';
+import { TuiBrightness, TuiLabelModule, TuiLinkModule } from '@taiga-ui/core';
 import { startWith, map, distinctUntilChanged, share } from 'rxjs';
 import { SakuraService } from '../../services/sakura.service';
-import { FormControl, FormGroup } from '@angular/forms';
+import { FormControl, FormGroup, FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { LocalStorageVariables } from '../../conts/general.const';
-import { TuiKeySteps } from '@taiga-ui/kit';
+import { TuiIslandModule, TuiKeySteps, TuiSliderModule, TuiToggleModule } from '@taiga-ui/kit';
 import { GlobalLoaderService } from '../../services/global-loader.service';
 import { GameItem } from '../../models/reading.models';
 import { ItemCardComponent } from '../common/item-card/item-card.component';
 
+import { HeaderControlsComponent } from '../common/header-controls/header-controls.component';
+import { FooterControlsComponent } from '../common/footer-controls/footer-controls.component';
+
 @Component({
 	selector: 'settings',
-	templateUrl: './settings.component.html'
+	templateUrl: './settings.component.html',
+	standalone: true,
+	imports: [
+    FormsModule,
+    ReactiveFormsModule,
+    ItemCardComponent,
+    HeaderControlsComponent,
+    FooterControlsComponent,
+	TuiLinkModule,
+    TuiLabelModule,
+    TuiIslandModule,
+    TuiToggleModule,
+    TuiSliderModule
+]
 })
 export class SettingsComponent implements OnInit {
 
@@ -33,7 +49,7 @@ export class SettingsComponent implements OnInit {
 
 	public exampleItem: GameItem = {
 		name: "Example",
-		imgSrc: "assets/images/common/example.png",
+		imgSrc: "assets/images/common/example.webp",
 		routerLink: "/settings",
 		spoiler: true
 	}
@@ -60,6 +76,7 @@ export class SettingsComponent implements OnInit {
 		@Inject(TuiThemeNightService) readonly night: TuiThemeNightService) { }
 
 	ngOnInit(): void {
+		window.scroll(0, 0);
 		this.globalLoaderService.setGlobalLoader(true);
 	}
 

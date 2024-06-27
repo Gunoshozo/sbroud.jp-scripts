@@ -1,0 +1,23 @@
+”7月25日”
+<span class="name">みんな</span>: ハッピーバースデー、トゥーユー♪ハッピーバースデー、トゥーユー♪
+<span class="name">みんな</span>: ハッピーバースデーディア、潮～～～っ♪
+<span class="name">みんな</span>: ハッピーバースデー、トゥー、ユー……。
+<span class="name">小舟潮</span>: ……ふっ！
+<span class="name">網代慎平</span>: 潮、おめでとう！！
+<span class="name">小舟澪</span>: お姉ちゃんおめでと～！！
+<span class="name">南方竜之介</span>: 波稲、おっきなイチゴは潮ちゃんのやで。
+<span class="name">南方波稲</span>: ほなこっちのイチゴにしとく～。
+<span class="name">小舟潮</span>: ありがとう、波稲ちゃん。
+<span class="name">小舟アラン</span>: 潮、おめでとう。慎平も手伝いはええから座って座って。
+<span class="name">小舟澪</span>: 窓くん、トキコ。おかわりいる？
+<span class="name">菱形朱鷺子</span>: 澪、私もなんか手伝おか？
+<span class="name">菱形窓</span>: 澪ちゃんはちょっと働きすぎやな。こっちに座って一緒に食べよや。
+<span class="name">菱形朱鷺子</span>: じゃあ、お兄ちゃんが飲み物運んできてや。澪は私の隣にきたらええわ。
+<span class="name">菱形窓</span>: ええーーっ！？
+<span class="name">小舟潮</span>: あっ、ちょっと待ってや！慎平のケーキでかすぎとちゃう！？
+<span class="name">小舟潮</span>: 交換や交換！主役は私なんやからな！
+<span class="name">網代慎平</span>: おまえ、それもう口つけてないか？
+<span class="name">小舟潮</span>: 細かいこと気にしたらアカン！
+<span class="name">網代慎平</span>: おまえなぁ～。
+<span class="name">小舟潮</span>: あはははははははっ！
+<span class="name">小舟潮</span>: みんな。ありがと！

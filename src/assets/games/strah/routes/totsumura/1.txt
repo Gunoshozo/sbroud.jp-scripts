@@ -1,0 +1,20 @@
+”7月23日”
+<span class="name">網代慎平</span>: 今ここではちょっと……。詳しい話はまた後でいいですか？
+<span class="name">凸村哲</span>: ……えらい真剣な顔やな。
+<span class="name">網代慎平</span>: それだけの……事なので。
+<span class="name">凸村哲</span>: …………。
+<span class="name">凸村哲</span>: 正直、小早川さんとこの件で手いっぱいなんやけど……
+<span class="name">凸村哲</span>: そないな顔されたらむげに断れやんよ。よっしゃ、オレにまかしとき！
+<span class="name">網代慎平</span>: い、いいんですか！？
+<span class="name">凸村哲</span>: あぁ。頼りになるトコ見せちゃるで。
+<span class="name">凸村哲</span>: これでもオレは慎平くんの倍は生きとんねや。酸いも甘いも知り尽くした男の中の男やしょ！
+<span class="name">網代慎平</span>: え、ええ……。
+<span class="name">凸村哲</span>: なァ、慎平くん。なんやもったいぶっとるけど――
+<span class="name">凸村哲</span>: もしかしてオレに相談したい話っちゅんは、思春期のアレコレって事か？
+<span class="name">網代慎平</span>: ち、違います。そういう事じゃなくって――
+<span class="name">凸村哲</span>: まあまあ、どんな相談でも問題あらへん。オレに任せときゃ心配無用や。
+<span class="name">凸村哲</span>: このオレにかかれば、どんな問題でもたちまち解決じょ！
+<span class="name">網代慎平</span>: （まいったなぁ……）
+<span class="name">小舟澪</span>: …………。
+<span class="name">網代慎平</span>: （とりあえず頼ってはみたけど……）
+<span class="name">網代慎平</span>: （大丈夫なんだろうか……）

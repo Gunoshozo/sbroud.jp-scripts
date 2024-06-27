@@ -1,0 +1,96 @@
+今日も、いる。見張りのひとたち。
+見張られてるのはわたしじゃないのに、重たい。
+抜けるような&lt;background-image:(A blue sky); &quot;&gt;空の下、あのひとたちの黒い姿はひどく不自然で。
+&lt;empty&gt;静かな教室。&lt;/empty&gt;
+&lt;bgsound src=&quot;silent&quot; loop=&quot;infinite&quot; balance=&quot;0&quot; volume=&quot;0&quot; /&gt;いつもどおりに窓辺の席に腰掛けて、外を見る。
+シープ……生徒たちが少ない。
+香藤先生以外の教師もここ数日休みがちらしいと昨日、寮で耳にした。たぶん、教師レベルの職員には詳細が伝わっていない。
+&lt;Infection&gt;不安は、簡単に伝染する。&lt;/Infection&gt;そして&lt;amplification&gt;かさを増していく。&lt;/amplification&gt;
+<span class="name">白大輔</span> : 「おはよう。……あれ、今日は妙に人数が少ないな」
+<span class="name">高槻東吾</span> : 「だから、このアチーのにやる気満々なのはオマエくらいだっての」
+<span class="name">高槻東吾</span> : 「ふぁ……あ。俺もお手々繋いで仲良く遅刻すりゃよかった」
+<span class="name">陸七生</span> : 「んで、また血相変えていーんちょとダッシュするわけね」
+<span class="name">高槻東吾</span> : 「それ、白がぶっ倒れるだけだろ」
+<span class="name">白大輔</span> : 「わかってるなら少しは俺を思いやれ」
+<span class="name">高槻東吾</span> : 「ろくでもねえことぐらい、たまには諦めろよ。緩めるとこは緩めて生きねえとしんどくね？」
+<span class="name">白大輔</span> : 「おまえは緩すぎるんだ」
+<span class="name">倭一花</span> : 「おはよ。みんな」
+<span class="name">白大輔</span> : 「倭、おはよう」
+<span class="name">陸七生</span> : 「我らがボスは今日もお休み？」
+<span class="name">倭一花</span> : 「そうみたい」
+<span class="name">高槻東吾</span> : 「毎日空振りのお出迎えご苦労さん。……ん、仁和はどうした？」
+<span class="name">倭一花</span> : 「ちょっと調子が悪そうだったから、お休みするように言ってきかせたの」
+<span class="name">倭一花</span> : 「暑さのピーク、明日辺りでしょ」
+<span class="name">白大輔</span> : 「ああ、そうか。仁和は養生したほうがいいな」
+<span class="name">高槻東吾</span> : 「ま、教師がこねえんだし、いっそ俺ら全員明日は休んじまうか」
+<span class="name">白大輔</span> : 「おまえは余っているエネルギーを仁和に分けてやれ」
+<span class="name">高槻東吾</span> : 「分けられるもんなら、とっくにくれてやってる」
+<span class="name">白大輔</span> : 「それが無理なら登校しろ」
+<span class="name">高槻東吾</span> : 「ンだよ、いいじゃねえか。どうせ怒るヤツいねえんだし」
+<span class="name">陸七生</span> : 「まーまー。とりあえず、お花でも持ってお見舞い行くのはいーっしょ」
+<span class="name">倭一花</span> : 「うん。菓、みんなが顔を見せてくれたらすごく喜ぶと思う」
+<span class="name">倭一花</span> : 「特に指示がなければ、私、今日は早退して菓についててあげるつもり。ひとりじゃ不安だろうし」
+<span class="name">陸七生</span> : 「外がアレだしねー……おっと、あんまりデカい声で言うとヤバいか」
+ヘッドフォンに触れて、ボリュームを&lt;bgsound src=&quot;waltz&quot; volume=&quot;-100&quot; /&gt; 上げる。
+いつもの歌で&lt;bgsound src=&quot;pleasant_voice&quot;　volume=&quot;-10000&quot; /&gt;体が満ちる。少しだけ、安心する。
+見張らなくていいって、言われた。昨日。だったら、聞こえなくてもいい……聞いていたくない。
+この子たちのとがった声は少し痛くて、空気と一緒に吸い込むたびに胸の奥がぎゅうっとする。
+&lt;object data=&quot;watashi&quot; type=&quot;human&quot;&gt;
+わたしはここに、いなくていい。できるだけ消えていればいい。
+&lt;object data=&quot;0&quot; type=&quot;air&quot; width=&quot;0&quot; height=&quot;0&quot;&gt;&lt;/object&gt;&lt;/object&gt;
+……でも、じゃあ、わたしはなんのためにここにいるんだろう。
+見張らなくていい、それなら学園に来なくたってよかったのかもしれない。
+なのに、わたしはまだ&lt;command&gt;&lt;&lt;li&gt;シープの群れに潜み、その動向を逐次報告するように&lt;/li&gt;&lt;/command&gt;&lt;自分ではなにも考えられなくて、他にはどうしようも──
+<span class="name">高槻東吾</span> : 「オイ、聞いてンのか」
+<span class="name">世津茅早</span> : 「────っ」
+驚いた。すごく。
+また……高槻東吾。いつから目の前に、いたの？　このひと。
+<span class="name">世津茅早</span> : 「なに？」
+<span class="name">高槻東吾</span> : 「俺は、俺なりにいろいろ考えたんだけどな」
+<span class="name">高槻東吾</span> : 「オマエはまず、そのぶすくれた顔がよくねぇンだよ」
+突然なにを言い出すんだろう。このひとは。しかも、どうしてそんなことを言うの。
+<span class="name">世津茅早</span> : 「……うまれつきだから」
+<span class="name">高槻東吾</span> : 「バカ、卑屈になってンじゃねえよ。そういうことじゃねえ」
+<span class="name">高槻東吾</span> : 「もちっと笑え」
+<span class="name">世津茅早</span> : 「………………………………………………………………………………………………………………………………」
+<span class="name">高槻東吾</span> : 「ほら。ここいらを緩くしろ、緩く」
+<span class="name">世津茅早</span> : 「…………い」
+<span class="name">高槻東吾</span> : 「もっと持ち上がンだろ」
+<span class="name">世津茅早</span> : 「い……いひゃい」
+<span class="name">高槻東吾</span> : 「つっぱらかった顔すんなっつうの」
+<span class="name">世津茅早</span> : 「は、はなひて」
+なに、このひと……なに、なにしてるの……！
+<span class="name">高槻東吾</span> : 「ハハ、オマエいまスゲー妙な顔になってんぞ」
+<span class="name">世津茅早</span> : 「だへほ……」
+だれのせいだと思ってるの！
+<span class="name">高槻東吾</span> : 「イテッ、オイこら、殴るなっ」
+<span class="name">世津茅早</span> : 「はなひてってひゅってるお！」
+<span class="name">高槻東吾</span> : 「いいじゃねえか、これぐらい。減るもんじゃなし──痛ッ」
+<span class="name">高槻東吾</span> : 「ったく、思いっきり殴りやがって……」
+だれの……だれのせい！
+言いたいけど、声……うまく、でない。
+<span class="name">高槻東吾</span> : 「あのな。オマエ、しかめっ面やめろ」
+<span class="name">高槻東吾</span> : 「笑えば案外かわいいぞ」
+<span class="name">世津茅早</span> : 「え」
+いきなり横合いから殴られたみたいな気が、した。
+<span class="name">高槻東吾</span> : 「あ……いやその、見たことねえけど、たぶんな」
+……なにを言い出すの、このひと。
+なんでそんなこというの。わからない、ぜんぜん。
+<span class="name">白大輔</span> : 「………………………………………………………………………………………………………………………………」
+<span class="name">陸七生</span> : 「………………………………………………………………………………………………………………………………」
+<span class="name">倭一花</span> : 「………………………………………………………………………………………………………………………………」
+<span class="name">高槻東吾</span> : 「な、なんだよ。女ってのはニッコリすりゃどいつもそいつなりに一番可愛いもんだろーが！」
+<span class="name">陸七生</span> : 「いま、カンペキ素でしたよねえ……？」
+<span class="name">倭一花</span> : 「うん、脊髄反射だったと思う」
+<span class="name">白大輔</span> : 「別に嫌なことは言ってない……と思うが、その……なんだ」
+<span class="name">陸七生</span> : 「そこでなしていーんちょが照れるのか俺にはよーわかりません」
+<span class="name">高槻東吾</span> : 「キメエ……」
+<span class="name">陸七生</span> : 「元凶がどの口で言うかっ、この素で爆モテメンズが！」
+<span class="name">高槻東吾</span> : 「そこ、ヘンな単語作ってひとを罵倒すんじゃねえ！」
+<span class="name">倭一花</span> : 「……大丈夫？　茅早ちゃん」
+<span class="name">倭一花</span> : 「高槻くん、あのね。言いたくなったのはしょうがないとして、少なくとも時と場所を選んであげてくれる？」
+<span class="name">陸七生</span> : 「いやーそこまで空気読めたらオンナは泣いてないない」
+<span class="name">高槻東吾</span> : 「誰も泣いてねえだろうが！」
+<span class="name">高槻東吾</span> : 「な、泣くようなこと言ってねえよな？」
+思わず、後ずさった。なにをどうしていいのか、全然わからなくて。
+そしたら、高槻東吾もヘンな顔をしていたから……余計にどうしていいかわからなくなってしまった。

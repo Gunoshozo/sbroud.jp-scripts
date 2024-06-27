@@ -1,0 +1,68 @@
+<span class="name">陸七生</span> : 「さてさて、本日もオシマイということで。帰りましょうか」
+<span class="name">倭一花</span> : 「そうね。菓、一緒に帰る？」
+<span class="name">仁和菓</span> : 「うん」
+<span class="name">後藤眞波</span> : 「……」
+一日、また一日。時間は流れてく。
+あたしも、みんなも、その流れに逆らうことができないでいる。
+<span class="name">高槻東吾</span> : 「倭、ちょっといいか」
+<span class="name">倭一花</span> : 「なに、高槻くん」
+<span class="name">高槻東吾</span> : 「よくわかんねえけど、白が話があるんだと」
+<span class="name">倭一花</span> : 「ふぅん。わかったわ………白くん、なんだろ？」
+<span class="name">高槻東吾</span> : 「さあな。俺も知らない。本人から聞いてくれ」
+<span class="name">陸七生</span> : 「眞波ちゃん、まだ色々悩んでるの？」
+<span class="name">後藤眞波</span> : 「え？　別にあたしは悩みとか……」
+<span class="name">高槻東吾</span> : 「コイツに悩みなんてあるわけねーだろ」
+<span class="name">後藤眞波</span> : 「ひっどーい！　なんでそうやってデカくんはいつもあたしをイジめるのー！」
+<span class="name">高槻東吾</span> : 「いじめてねえよ。本当の事を言ってるだけだろ」
+<span class="name">後藤眞波</span> : 「もー！　ななくんなんとか言ってやって！」
+<span class="name">陸七生</span> : 「なんでそこで俺。勘弁してくださいって……ってか、さっさと帰りますよ」
+<span class="name">後藤眞波</span> : 「あ！　ちょっと待ってよななくん！」
+<span class="name">高槻東吾</span> : 「……なんだあいつ、急に陸のやつにベタベタしだしたな」
+<span class="name">倭一花</span> : 「あら、嫉妬？」
+<span class="name">高槻東吾</span> : 「アホか」
+<span class="name">陸七生</span> : 「あれ、眞波ちゃん。みんなと一緒に帰らないの？」
+<span class="name">後藤眞波</span> : 「うん、いいの。ななくんと話がしたくて」
+<span class="name">陸七生</span> : 「話？　また、夏來ちゃんのコト？　だったりして？」
+<span class="name">後藤眞波</span> : 「なっ？　ち、違うよ……その…」
+<span class="name">陸七生</span> : 「なんかいつもさー、俺ばっかり責められてる気がするから、今日は逆に聞いてみよっかな」
+<span class="name">後藤眞波</span> : 「え？」
+<span class="name">陸七生</span> : 「眞波ちゃんて、高槻のコトどう思ってるの？」
+<span class="name">後藤眞波</span> : 「え！　デカくんの、コトって？」
+<span class="name">陸七生</span> : 「だからさ、好きなの？」
+<span class="name">後藤眞波</span> : 「好きだよ！　大好き！」
+<span class="name">陸七生</span> : 「ほう、ストレートだね」
+<span class="name">陸七生</span> : 「じゃあさ、さっき俺たち先に出て来ちゃったけど……高槻と一花さん、あのあと一緒に帰るんじゃない？」
+<span class="name">後藤眞波</span> : 「んー、同じ方向に帰るんだから、そんなの当たり前じゃん？」
+<span class="name">陸七生</span> : 「……で、その後も一緒にどっか遊び行ったりしてさ～」
+<span class="name">陸七生</span> : 「なんつーか、そうゆーの、悔しかったりはしないの？　こう、ヤキモチ的な？」
+<span class="name">後藤眞波</span> : 「あのね……あたしは、デカくんのこと好きだよ。でもそれはね……違うの」
+<span class="name">陸七生</span> : 「よくわかんないな、それ。前さ、俺に夏來ちゃんのことが好きかって聞いたでしょ」
+<span class="name">後藤眞波</span> : 「うん」
+<span class="name">陸七生</span> : 「ま、仮に俺が夏來ちゃんのことを好きだったとしてさ」
+<span class="name">陸七生</span> : 「そしたら俺は……もし俺だったら、夏來ちゃんが他の男と一緒、なんて考えるのもイヤだけどね。そいつぶっ殺したいわ」
+<span class="name">後藤眞波</span> : 「そうかもしんないけど、ぶっ殺しても……人の気持ちを変えることは……」
+<span class="name">陸七生</span> : 「……へえ」
+<span class="name">後藤眞波</span> : 「う……なんか、ヘンなコト言ったかな？」
+<span class="name">陸七生</span> : 「ん、眞波ちゃんはやさしーんだなって思ってさ」
+<span class="name">陸七生</span> : 「がんばるなぁって」
+<span class="name">後藤眞波</span> : 「……頑張る？」
+<span class="name">陸七生</span> : 「すきな相手のコト全部許して、ありのまま、まるごと受け止めて。俺はたぶんそれ、無理だわ」
+<span class="name">陸七生</span> : 「俺だったら……そんなしんどいことするなら、このままでいーやって思っちゃうなぁ」
+<span class="name">後藤眞波</span> : 「ダメだよ！　このままなんて絶対ダメ！」
+<span class="name">陸七生</span> : 「うん、ダメだな。失敗することを恐れて何もしないより、やって失敗したほうがいい。でないと後悔する」
+<span class="name">後藤眞波</span> : 「そうだよ、その方がいいと思う。今すぐがいいよ」
+<span class="name">陸七生</span> : 「だから、俺は今出来ることをやろうと決めた。だからさ、眞波ちゃんも俺のことは気にしないで、自分のことを頑張ってよ」
+<span class="name">後藤眞波</span> : 「……ななくん」
+<span class="name">陸七生</span> : 「わかんないんだけどさ、たぶん、眞波ちゃんは俺やみんなが知らない悩みを抱えてるんでしょ」
+<span class="name">陸七生</span> : 「それはカンタンには口に出来ないことで、仕方なく自分だけで抱え込んじゃってるんだ」
+<span class="name">陸七生</span> : 「俺なんかにはわからないことがたくさんあると思う。だから話してくれとは言わないし、打ち明けられても力になれるとは限らない」
+<span class="name">陸七生</span> : 「……けどいつか、いいタイミングが来たら話してよ」
+<span class="name">陸七生</span> : 「みんなも力になってくれると思う。きっとね」
+<span class="name">後藤眞波</span> : 「……」
+<span class="name">陸七生</span> : 「……じゃあさっそく、俺は夏來ちゃんに会いに行こうかな」
+<span class="name">後藤眞波</span> : 「うん。それがいいと思う」
+<span class="name">陸七生</span> : 「またね、眞波ちゃん」
+ほんの少しだけ、ななくんの心を動かせたかもしれない。
+きっと、みんなで幸せになれる。希望を忘れたくない。
+もしかしたら、まだ、間に合うかもしれない。
+あたしは最後まで諦めない。

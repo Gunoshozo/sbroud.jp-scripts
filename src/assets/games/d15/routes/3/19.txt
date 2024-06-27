@@ -1,0 +1,29 @@
+<span class="name">倭一花</span> : 「それでね、そんな大がかりなものじゃないけど、白くんと夏來の送別会をしたいの」
+<span class="name">後藤眞波</span> : 「サンセイっ！　大賛成！！」
+<span class="name">白大輔</span> : 「いや……その、あまり気を遣わないでくれ」
+<span class="name">陸七生</span> : 「なーに照れてんの。こういうのはお約束なんだからやっといた方がいい。うん」
+<span class="name">高槻東吾</span> : 「オマエら、言い出したら聞かねえからな」
+<span class="name">仁和菓</span> : 「…………いいと思う」
+<span class="name">陸七生</span> : 「じゃあ決まりってことで！」
+<span class="name">倭一花</span> : 「夏來には私が声をかけておくわね」
+<span class="name">後藤眞波</span> : 「……ね、茅早ちゃんは誘わないの？」
+<span class="name">高槻東吾</span> : 「呼んだって返事しやしねえだろ」
+<span class="name">倭一花</span> : 「そんなこと言わないで、声くらいかけましょうよ」
+<span class="name">倭一花</span> : 「世津さん、ちょっといいかしら？」
+<span class="name">世津茅早</span> : 「……」
+<span class="name">倭一花</span> : 「あのね、白くんと後輩の夏來が明日出発だから、今夜送別会をやるんだけど……一緒にどうかしら？」
+<span class="name">世津茅早</span> : 「……わたしが？」
+<span class="name">倭一花</span> : 「うん、そう。ね、どう？」
+<span class="name">世津茅早</span> : 「…………遠慮する」
+<span class="name">倭一花</span> : 「……そう、残念だわ。もし気が向いたら訪ねて来てね」
+<span class="name">倭一花</span> : 「やっぱり無理みたい」
+<span class="name">陸七生</span> : 「まぁ、しょうがないですね」
+<span class="name">後藤眞波</span> : 「残念……」
+茅早ちゃん、いつもひとりで寂しそうにしてる。
+なんでだろう？　寂しくないのかな？
+転校してきて不慣れということもあるだろうけど……。
+<span class="name">高槻東吾</span> : 「んじゃ、夜に集合っつーことで」
+<span class="name">白大輔</span> : 「わかった。……ありがとう」
+<span class="name">陸七生</span> : 「いったん解散ですな」
+<span class="name">後藤眞波</span> : 「楽しみだねー！」
+<span class="name">倭一花</span> : 「……もう、眞波はいつだって楽しんでるじゃない」

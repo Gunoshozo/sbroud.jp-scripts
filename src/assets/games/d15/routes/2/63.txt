@@ -1,0 +1,26 @@
+<span class="name">警備員Ａ</span> : 「さぁ、こっちだ」
+<span class="name">高槻東吾</span> : 「っせーな、出りゃいいんだろ、出りゃ！」
+<span class="name">倭一花</span> : 「高槻くん、落ち着いて。こんなところで言い争っても意味がないわ」
+<span class="name">高槻東吾</span> : 「ったく………倭がいなけりゃ、大騒ぎになってたところだな」
+<span class="name">警備員Ａ</span> : 「歩きなさい」
+<span class="name">高槻東吾</span> : 「へいへい……」
+<span class="name">妹尾梓</span> : 「………あら、一花ちゃん？　こんなところでどうしたの？」
+<span class="name">國府津忠男</span> : 「………」
+<span class="name">倭一花</span> : 「あっ、梓さん！」
+<span class="name">妹尾梓</span> : 「これはなんの騒ぎ？」
+<span class="name">倭一花</span> : 「私たち、宮藤先生に会いにきたんですけど、途中でサイレンが鳴って……」
+<span class="name">妹尾梓</span> : 「あなた、とにかくその子から手を離しなさい。生徒に対して何をしてるの？」
+<span class="name">警備員Ａ</span> : 「は！」
+梓さんがそう命じると、警備員はさっきまでとは豹変したかのように粛々と従う。
+さすが梓さん、格好良くて頼りになる女性だわ。
+<span class="name">國府津忠男</span> : 「警備は生徒を守るための存在だよ。理解が足りないようだね」
+<span class="name">警備員Ａ</span> : 「は！　も、申し訳ありません……」
+<span class="name">妹尾梓</span> : 「乱暴なことをされてない？」
+<span class="name">高槻東吾</span> : 「乱暴って程じゃない」
+<span class="name">妹尾梓</span> : 「それならよかった。もし怪我でもさせてたら……」
+<span class="name">警備員Ａ</span> : 「いえ！　そのような事は決して！」
+<span class="name">國府津忠男</span> : 「行こうかね」
+<span class="name">妹尾梓</span> : 「はい。……一花ちゃん、気をつけて帰るのよ。もし何かあったらすぐわたしに連絡しなさい」
+<span class="name">倭一花</span> : 「はい！」
+別れ際、梓さんがそっと私に向かって笑いかけてくれた。
+その優しい微笑みを見るだけで、私はなによりもほっとした気分になった。

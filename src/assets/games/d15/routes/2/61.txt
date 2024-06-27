@@ -1,0 +1,25 @@
+<span class="name">倭一花</span> : 「高槻くん………まさか、なにかするつもりなの？」
+<span class="name">高槻東吾</span> : 「単純なことだ」
+<span class="name">高槻東吾</span> : 「宮藤の名前が浮かび上がってきたなら、その本人に聞くのが手っ取り早い」
+<span class="name">倭一花</span> : 「本人に？　……でも宮藤先生、答えてくれるかしら？」
+<span class="name">高槻東吾</span> : 「このままデータやフォルダに問いかけたって、なにも答えてはくれないだろ」
+<span class="name">高槻東吾</span> : 「だったら、宮藤に問いかけたほうがまだ進展の可能性がある。それだけだ」
+<span class="name">倭一花</span> : 「それはそうかもしれないけど……」
+<span class="name">高槻東吾</span> : 「気乗りしないなら俺ひとりで行ってくる」
+<span class="name">倭一花</span> : 「待って！　私も行くから……」
+<span class="name">倭一花</span> : 「でも、いいのかしら……こんなことをして、あとで問題にでもなったら…」
+<span class="name">高槻東吾</span> : 「問題になんかならねーだろ。別にやましい事を聞くわけでもない。違うか？」
+<span class="name">倭一花</span> : 「うん……」
+<span class="name">世津茅早</span> : 「…………」
+<span class="name">倭一花</span> : 「あ………」
+<span class="name">高槻東吾</span> : 「ん？」
+<span class="name">倭一花</span> : 「茅早ちゃん……？　どうしてあなたがここに」
+<span class="name">世津茅早</span> : 「…………」
+<span class="name">世津茅早</span> : 「あまりここへは来ないほうがいい」
+<span class="name">倭一花</span> : 「え？　どういうこと………待ってよ茅早ちゃん！」
+なんなの、いったい……。
+彼女はフォルムから出てきた。こんな時間に……なぜ？
+それに、『ここへは来ない方がいい』って、どういう意味なの？
+やっぱり彼女は私たちの知らない事を知ってるのかしら……。
+<span class="name">高槻東吾</span> : 「おい、なにしてんだ？　行くぞ」
+<span class="name">倭一花</span> : 「う、うん」

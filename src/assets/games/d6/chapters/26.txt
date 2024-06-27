@@ -1,0 +1,62 @@
+<span class="name">ヒナコ</span> : 「ほほう」
+<span class="name">ジョー</span> : 「うっ……！！」
+<span class="name">ヒナコ</span> : 「じゃあ、あんたの言いわけを聞かせてもらおうか」
+<span class="name">ジョー</span> : 「そ、それは……」
+ルミさんから借りた携帯をびったりと耳にあて、直立不動で、僕はヒナコさんに状況を説明していた。
+（電話越しなのに、なんだか変な汗が出る……！）
+<span class="name">ルミ</span> : 「ヒナコお姉さま、怒ってるっしょ？」
+<span class="name">ジョー</span> : 「え、えっと……」
+<span class="name">ルミ</span> : 「ルミたんもねえ、ご飯食べられなくて、怒ってんだかんね！」
+<span class="name">ジョー</span> : 「あううっ……！」
+<span class="name">ヒナコ</span> : 「……ジョー」
+<span class="name">ジョー</span> : 「う、うう……」
+<span class="name">シーナ</span> : 「ジョー兄ちゃん、ファイトだね」
+ひ、酷い……いったい誰のせいだと……
+ユーノをかばう
+一緒に謝る
+<span class="name">ジョー</span> : 「ヒナコさん、ごめんなさい！」
+<span class="name">ヒナコ</span> : 「…………」
+<span class="name">ジョー</span> : 「僕がちょっと目を離した隙に……食べられてしまいました……」
+<span class="name">ヒナコ</span> : 「……ふぅん」
+<span class="name">ジョー</span> : 「途中、なんとか買い食いさせるのは止めたんだけど、詰めが甘くて……」
+<span class="name">ヒナコ</span> : 「……ほほう」
+<span class="name">ジョー</span> : 「ほ、ほら、ユーノも謝って！」
+<span class="name">シーナ</span> : 「うん？　ユーたん、悪くないもん」
+<span class="name">ジョー</span> : 「いいから、ほら……」
+<span class="name">シーナ</span> : 「ええええ、やだやだやだ。ユーたん、ユーたんのごはん、食べただけだもん」
+<span class="name">ジョー</span> : 「ユーノ……」
+<span class="name">シーナ</span> : 「むぅ」
+うう、どうしよう。駄目だよ、もう、こんなの……
+<span class="name">ヒナコ</span> : 「……ぷくく」
+<span class="name">ジョー</span> : 「え？」
+<span class="name">ルミ</span> : 「……くぷぷ」
+<span class="name">ジョー</span> : 「へ？」
+<span class="name">ヒナコ＆ルミ</span> : 「……うっぷぷぷっ……」
+<span class="name">ヒナコ＆ルミ</span> : 「……ぷっ……く、くくっ……」
+<span class="name">シーナ</span> : 「う……うん。へへへっ」
+<span class="name">ジョー</span> : 「あっはははっ！」
+<span class="name">ジョー</span> : 「きゃははははは！」
+<span class="name">ジョー</span> : 「うわーい、うわーい！」
+<span class="name">ジョー</span> : 「ど、どういうこと？」
+<span class="name">ヒナコ</span> : 「もう、いいよ。おかしくって、腹の皮がよじれそうだ」
+<span class="name">ジョー</span> : 「え？　だって、すごく怒ってたんじゃ？」
+<span class="name">ルミ</span> : 「嘘、嘘。そりゃ、ちょっとは怒ってないこともなかったけど、でもねえ～？」
+<span class="name">ヒナコ</span> : 「そうそう、食っちまったものは、しょうがないさ」
+<span class="name">ルミ</span> : 「今からもう一回買うって言っても、時間とかかかっちゃうしねぇ」
+<span class="name">ヒナコ</span> : 「そうだな。また途中でユーノに食われちまうかもしんねーし。まあ、しゃーない、みんなでファミレスに食いに行くとすっか」
+<span class="name">ジョー</span> : 「え……いいんですか？」
+<span class="name">ヒナコ</span> : 「かまわねぇよ。仕事も一段落したし」
+<span class="name">ルミ</span> : 「そうそう。それにファミレスなら、おなかいっぱいでも、デザートとか、飲み物だけとかでも大丈夫だし～」
+<span class="name">ジョー</span> : 「それは、確かにそうだけど……」
+<span class="name">シーナ</span> : 「さんせー、さんせー、だいさんせー！　ユーたん、ファミレス、行くぅ！」
+<span class="name">ヒナコ</span> : 「あはは。そうと決まれば、あたいは今からかっ飛ばして、そっち行くよ。ルミは、二人を頼む」
+<span class="name">ルミ</span> : 「は～い、お姉さま。では、お待ちしてますぅ～」
+<span class="name">ヒナコ</span> : 「んじゃーなー」
+<span class="name">ジョー</span> : 「ふぅ……よ、よかった」
+<span class="name">ルミ</span> : 「ジョーちん、大変だねえ」
+<span class="name">ジョー</span> : 「う、うう……」
+<span class="name">シーナ</span> : 「ジョー兄ちゃん、いい子、いい子」
+<span class="name">ジョー</span> : 「あ、ありが、と……う……ユーノもいい子だと、嬉しい、かな……」
+<span class="name">シーナ</span> : 「ぷぅ！　ユーたん、いい子だもんっ。そんなこと言うジョー兄ちゃん、きらーい」
+<span class="name">ジョー</span> : 「ぐうっ……！」
+<span class="name">ルミ</span> : 「きゃははは。もう、笑うっきゃないねぇ」

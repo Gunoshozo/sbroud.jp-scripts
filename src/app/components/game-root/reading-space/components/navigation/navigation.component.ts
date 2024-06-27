@@ -1,10 +1,20 @@
 import { Component, HostBinding, Input } from "@angular/core";
-import { Subject } from "rxjs";
+import { Subject, filter } from "rxjs";
 import { ChapterConfig, ChapterNav, NavItem, RouteConfig } from "../../../../../models/reading.models";
+import { NgClass } from "@angular/common";
+import { TuiLinkModule } from "@taiga-ui/core";
+import { RouterLink } from "@angular/router";
+import { MobileHelper } from "../../../../../helpers/mobile-helper";
 
 @Component({
     selector: 'navigation',
-    templateUrl: './navigation.component.html'
+    templateUrl: './navigation.component.html', 
+    standalone: true,
+    imports: [
+    NgClass,
+    TuiLinkModule,
+    RouterLink
+]
 })
 export class NavigationComponent {
 
@@ -29,7 +39,7 @@ export class NavigationComponent {
     public next: any[] = [];
 
     constructor() {
-        this.changeNavigationData.subscribe((res: any) => {
+        this.changeNavigationData.pipe(filter((item)=>item != undefined)).subscribe((res: any) => {
             this.prev = []
             this.next = []
             if (!res) {
@@ -69,50 +79,8 @@ export class NavigationComponent {
                     this.initSimpleNav(this.prev, currentRoute, chapterData, prevChapterKey);
                 }
 
-                // nav?.next?.forEach((it: any) => {
-                //     let name = ""
-                //     let nextChapterKey = it.index;
-
-                //     if (chapterData.total == Object.keys(chapterData.chapters).length || chapterData.chapters[nextChapterKey]) {
-                //         let nextChapterText = chapterData.chapters[nextChapterKey].name || '';
-                //         let chapterNum = "";
-                //         if (/^[0-9\-_]+$/gm.test(nextChapterKey)) {
-                //             chapterNum = `Chapter ${nextChapterKey}`
-                //         }
-                //         if (nextChapterText != '')
-                //             nextChapterText = ": " + nextChapterText;
-                //         name = `${chapterNum}${nextChapterText}`;
-                //     } else {
-                //         name = `Chapter ${nextChapterKey}`
-                //     }
-                //     if (route != it.route) {
-                //         const routeName = routeData.items.find((jt: any) => jt.routerLink == it.route)?.name
-                //         this.next.push({
-                //             "link": `../../${it.route}/${nextChapterKey || '1'}`,
-                //             "text": `${routeName} ${name}`,
-                //             "spoiler": !!it.spoiler
-                //         })
-                //     } else {
-                //         this.next.push({
-                //             "link": `../${nextChapterKey}`,
-                //             "text": `${currentRoute} ${name}`,
-                //             "spoiler": !!it.spoiler
-                //         })
-                //     }
-
-                // })
-
                 this.initArrayNaV(this.next, nav?.next, route, currentRoute, chapterData, routeData);
                 this.initArrayNaV(this.prev, nav?.prev, route, currentRoute, chapterData, routeData)
-
-                // nav?.prev?.forEach((it: any) => {
-                //     const routeName = routeData.items.find((jt: any) => jt.routerLink == it.route)?.name
-                //     this.prev.push({
-                //         "link": `../../${it.route}/${it.index}`,
-                //         "text": `${routeName} Chapter ${it.index}`
-                //     })
-                // })
-
 
                 if (this.bottomTextLMAO) {
                     this.comment = nav?.comment || '';
@@ -131,7 +99,7 @@ export class NavigationComponent {
             if (link >= "0" && link <= "9") {
                 chapterNum = `Chapter ${targetChapterKey}`
             }
-            if (nextChapterText != '')
+            if (chapterNum  && nextChapterText)
                 nextChapterText = ": " + nextChapterText;
             name = `${chapterNum}${nextChapterText}`;
         } else {
@@ -161,7 +129,7 @@ export class NavigationComponent {
                 nextChapterText = chapterData.chapters[nextChapterKey]?.name || '';
             }
 
-            if (nextChapterText != '') {
+            if (chapterNum && nextChapterText) {
                 nextChapterText = ": " + nextChapterText;
             }
 

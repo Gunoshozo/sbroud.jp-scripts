@@ -1,7 +1,7 @@
 import { HttpHeaders } from '@angular/common/http';
 import { AfterViewInit, ChangeDetectorRef, Component, ElementRef, OnInit, QueryList, ViewChildren } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
-import { combineLatestWith, forkJoin, of, switchMap, tap } from 'rxjs';
+import { combineLatestWith, forkJoin, map, of, switchMap, tap } from 'rxjs';
 import { TextFormatter } from './helpers/text-formatter';
 import { GlobalLoaderService } from '../../../services/global-loader.service';
 import { GameRootService } from '../game-root.serviece';
@@ -10,19 +10,32 @@ import { ChapterConfig, ChapterNav } from '../../../models/reading.models';
 import { RestApiService } from '../../../services/rest.service';
 import { LocalStorageVariables } from '../../../conts/general.const';
 import { ReadingLineComponent } from './components/readling-line/reading-line.component';
+import { NgStyle, NgTemplateOutlet } from '@angular/common';
+import { TuiElasticContainerModule, TuiIslandModule } from '@taiga-ui/kit';
+import { NavigationComponent } from './components/navigation/navigation.component';
 
 
 @Component({
     selector: 'reading-component',
-    templateUrl: './reading.component.html'
+    templateUrl: './reading.component.html',
+    standalone: true,
+    imports: [
+    NgStyle,
+    NgTemplateOutlet,
+    ReadingLineComponent,
+    NavigationComponent,
+    TuiElasticContainerModule,
+    TuiIslandModule
+],
+    providers: [
+        RestApiService
+    ]
 })
 export class ReadingComponent implements OnInit, AfterViewInit {
 
     public name: string;
 
     public lines: ReadableLine[];
-
-    public navigations: any[];
 
     public gameName: string;
 
@@ -132,7 +145,7 @@ export class ReadingComponent implements OnInit, AfterViewInit {
                     this.gameRootService.pushHeader(this.name);
 
                     setTimeout(() => {
-                        Array.prototype.slice.call(document.getElementsByClassName("chapter-reading_dict"))
+                        Array.prototype.slice.call(document.getElementsByClassName("dict"))
                             .forEach((it: Element) => {
                                 it.addEventListener("click", this.openTip.bind(this))
                             })
@@ -210,7 +223,7 @@ export class ReadingComponent implements OnInit, AfterViewInit {
 
     private scrollWithOffset(element: HTMLElement, offset: number): void {
         const y = element.getBoundingClientRect().top + window.scrollY + offset;
-        window.scrollTo({ top: y }); 
+        window.scrollTo({ top: y });
     }
 
 
@@ -275,7 +288,7 @@ export class ReadingComponent implements OnInit, AfterViewInit {
             return result.replaceAll("<rt>•</rt>", "")
         }
         if (result.includes("<rt>")) {
-            const innerRubyPattern = /<rt>[ぁ-んァ-ン]+<\/rt>/gm;
+            const innerRubyPattern = /<rt>(.*?)<\/rt>/gm;
             let matches = [...result.matchAll(innerRubyPattern)];
             matches.forEach((match) => {
                 result = result.replaceAll(match[0], '')

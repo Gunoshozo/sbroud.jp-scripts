@@ -1,0 +1,95 @@
+<span class="name">宮藤一咲</span> : 「……ったく、余計な労働させやがって」
+<span class="name">世津茅早</span> : 「高槻東吾は？」
+<span class="name">宮藤一咲</span> : 「奥に寝かせた。疲れてぐうぐう寝てる。いい気なモンだ。バカは死んでも治らねえ」
+……死んでも。
+<span class="name">世津茅早</span> : 「死んでも治らないってどういうこと？」
+<span class="name">宮藤一咲</span> : 「……言葉の綾だ」
+<span class="name">世津茅早</span> : 「１１年前は？」
+<span class="name">宮藤一咲</span> : 「質問の意味がわからねえな」
+<span class="name">世津茅早</span> : 「図書館で学籍名簿、見た。本当にあなたの名前があった」
+<span class="name">宮藤一咲</span> : 「俺が在籍してたのは１１年前じゃねえ、残念ながらもっと昔だ」
+<span class="name">世津茅早</span> : 「そこから遡った。そしたら、データを複製した年があった……１１年前」
+<span class="name">世津茅早</span> : 「ここのシステムは外部からの侵入に神経質だけど、内部システムは結構いい加減。完全に消去されないまま、オリジナルの履歴が残ってた」
+<span class="name">宮藤一咲</span> : 「まどろっこしい前置きはいらねえ。なにを見た。話してみろ」
+<span class="name">世津茅早</span> : 「１１年前の名簿から生徒の名前が一人、消えてた。消されていた名前は、高槻東吾」
+<span class="name">宮藤一咲</span> : 「………………」
+<span class="name">世津茅早</span> : 「卒業より半年前に、データは消えてた」
+<span class="name">世津茅早</span> : 「卒業前に死んだから、同じ遺伝子を使ってもう一度同じシープを作った？　でも、それじゃ年齢が合わない」
+<span class="name">世津茅早</span> : 「１１年前に卒業予定だったとしたら、当時７歳の高槻東吾がいなければ、いまの彼の年齢に辻褄が合わない」
+<span class="name">世津茅早</span> : 「シープだから同時期に同じ遺伝子の子供が存在することそのものは現実的に可能、でも、他にそんな生徒はいない」
+<span class="name">世津茅早</span> : 「倭一花も、白大輔も、陸七生も、仁和菓も、櫟井夏來も見つからなかった」
+<span class="name">世津茅早</span> : 「おかしいと思って、過去のデータも見た。そしたら、初等部、中等部、高等部と、絶対に区画が重ならない配分で『高槻東吾』がいて、その都度消されていた」
+<span class="name">世津茅早</span> : 「中には初等部で消えていたり、高等部の後期まできちんと残されているものもあった」
+<span class="name">世津茅早</span> : 「これはどういうこと？」
+<span class="name">宮藤一咲</span> : 「誰かにその話をしたか」
+<span class="name">世津茅早</span> : 「してない」
+<span class="name">宮藤一咲</span> : 「じゃあ、そのまんま忘れちまえ」
+<span class="name">世津茅早</span> : 「どうして？」
+<span class="name">宮藤一咲</span> : 「決まってる。お前にゃ関係ないからだ」
+<span class="name">世津茅早</span> : 「関係ないってどうして言えるの？　ここの子たちは、日本のために生きて死ぬのに」
+<span class="name">世津茅早</span> : 「日本に住んでいるわたしに、本当になんの関係もないの？」
+<span class="name">宮藤一咲</span> : 「……外で煙吸ってくる。好きにしてろ」
+<span class="name">世津茅早</span> : 「宮藤！」
+<span class="name">世津茅早</span> : 「いったい、どういうこと」
+……わたしが考えたって、わかるわけない。
+好きにしてろって言われたから、高槻東吾を見に行くことにした。
+奥のベッドルームには、本当にベッドしかなかった。香藤先生の部屋と同じ間取りのはずなのに、同じ部屋とは思えない。
+先生はいま、どうしてるんだろう。
+あの、黒い格好をした彼は今ごろなにをしているんだろう。
+<span class="name">世津茅早</span> : 「このひとはいったい、なに……？」
+所長は、特別だと言ったけど。
+&lt;content_name src=&quot;高槻東吾&quot;&gt;
+&lt;element&gt;&lt;li&gt;逞しく大きな上背&lt;/li&gt;
+&lt;li&gt;太い骨&lt;/li&gt;&lt;li&gt;力強い肉質&lt;/li&gt;
+&lt;li&gt;血色のいい肌&lt;/li&gt;&lt;/element&gt;&lt;/content&gt;
+だから──
+&lt;result&gt;特別&lt;/result&gt;
+<span class="name">世津茅早</span> : 「そういう、ことなの……？」
+耳を澄ませる。ヘッドフォンを外した耳に、じわりと、嫌な音が染みている。
+でも、打ち消すように、力強い音がする。
+<span class="name">世津茅早</span> : 「心臓、動いてる」
+<span class="name">世津茅早</span> : 「……生きてる」
+それだけでいい。他はどうでもいい気がした。いまここで、生きている彼の鼓動がなにより──
+いと、惜しい。
+他は、どうでもいい。ただ、このままずっと心臓が、止まらないでほしい。
+<span class="name">高槻東吾</span> : 「どうした」
+<span class="name">高槻東吾</span> : 「エロオヤジにエロいことでもされたか」
+<span class="name">世津茅早</span> : 「……されない」
+<span class="name">高槻東吾</span> : 「じゃあ、どうした」
+--choice 怖い
+<span class="name">世津茅早</span> : 「静かなあなたが少し、……怖かっただけ」
+<span class="name">高槻東吾</span> : 「バカ、俺だって寝てるときぐらい黙ンだよ」
+<span class="name">世津茅早</span> : 「そんなの、知らないし」
+<span class="name">高槻東吾</span> : 「イビキでもかいときゃよかったな」
+<span class="name">世津茅早</span> : 「うるさいからいい」
+<span class="name">高槻東吾</span> : 「注文多いぞ、オマエ。じゃあ、なんならいいんだ」
+<span class="name">世津茅早</span> : 「……目が覚めたから、もういい」
+<span class="name">高槻東吾</span> : 「心配してくれてありがとうな」
+--choiceEnd
+--choice なんでもない
+<span class="name">世津茅早</span> : 「なんでもない」
+<span class="name">高槻東吾</span> : 「なんでもないのに、なんでこんなだ？」
+<span class="name">世津茅早</span> : 「それは……なんとなく」
+<span class="name">高槻東吾</span> : 「そうか、なんとなくか」
+<span class="name">世津茅早</span> : 「そう、なんとなく」
+<span class="name">高槻東吾</span> : 「だったら、たまには無茶すんのも悪くねえな」
+<span class="name">世津茅早</span> : 「ふざけるの、やめて」
+<span class="name">高槻東吾</span> : 「バカ、ふざけてねえよ。なにしろ俺は特別らしいからな」
+<span class="name">世津茅早</span> : 「……あなたはただの高槻東吾。皮膚を切れば血も出るし、目眩を起こして倒れたりする」
+<span class="name">世津茅早</span> : 「心臓も、動いてる。止まったら死ぬ」
+<span class="name">高槻東吾</span> : 「心配してくれてありがとうな」
+--choiceEnd
+<span class="name">世津茅早</span> : 「そんなんじゃない」
+<span class="name">宮藤一咲</span> : 「オイ、起きてンならもう帰れ」
+驚いて、慌てて起き上がった。
+……宮藤、いつから見てたんだろう。
+<span class="name">宮藤一咲</span> : 「念のため言っとくがな、高槻。今日一日ぐらいはおとなしくしてろよ」
+<span class="name">高槻東吾</span> : 「うっせーな、わかってる」
+<span class="name">高槻東吾</span> : 「にしても、案外あっけねえな……こんなもんか」
+高槻東吾の首筋には、肌と同じ色をしたジェルパッドが貼ってあった。とても大変な手術の痕とは思えない。
+<span class="name">宮藤一咲</span> : 「アホ、調子づいてんじゃねえ。オマエは運がよかっただけだ。間違っても、他の連中にハサミブッ刺したりするんじゃねえぞ」
+<span class="name">高槻東吾</span> : 「するか、バカ」
+<span class="name">高槻東吾</span> : 「……けど、すげえ世話ンなりました。迷惑かけてすんません」
+<span class="name">宮藤一咲</span> : 「気味悪ィ、もういいからとっとと帰れ」
+<span class="name">高槻東吾</span> : 「うす」
+<span class="name">高槻東吾</span> : 「じゃ、帰ろうぜ」

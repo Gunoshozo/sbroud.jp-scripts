@@ -1,0 +1,23 @@
+<span class="name">高槻東吾</span> : 「教会？　こんなところに来てどうするつもりなんだ？」
+<span class="name">後藤眞波</span> : 「エヘヘ。どうもしないけど、一度デカくんと来たかったんだ」
+<span class="name">高槻東吾</span> : 「なんだそりゃ」
+<span class="name">後藤眞波</span> : 「入ろう！」
+<span class="name">後藤眞波</span> : 「デカくんは教会来たことある？」
+<span class="name">高槻東吾</span> : 「ねえよ。こんな埃っぽくて、うすっ暗い場所」
+<span class="name">後藤眞波</span> : 「そうなんだ。あたしはよく来るんだ、ここ」
+<span class="name">高槻東吾</span> : 「ふぅん……意外だな」
+<span class="name">後藤眞波</span> : 「…………」
+<span class="name">高槻東吾</span> : 「なにしてんだ？」
+<span class="name">後藤眞波</span> : 「お祈り！」
+<span class="name">高槻東吾</span> : 「お祈り？」
+<span class="name">後藤眞波</span> : 「と、見せかけて……ステンドグラスを見てるの。すっごく綺麗でしょ？」
+<span class="name">高槻東吾</span> : 「あぁ……確かに綺麗だな」
+<span class="name">後藤眞波</span> : 「ここでこうしてステンドグラスを見てると、落ち着くんだ」
+<span class="name">高槻東吾</span> : 「俺はまたてっきり、一人で懺悔でもしてるのかと思ったが」
+<span class="name">後藤眞波</span> : 「……どうして？」
+<span class="name">高槻東吾</span> : 「いつもうるさくして皆を困らせてごめんなさい、とかな」
+<span class="name">後藤眞波</span> : 「言ったな！　もう、せっかくデカくんのことをお祈りしてあげようと思ってたのに！」
+<span class="name">高槻東吾</span> : 「へいへい。んじゃ俺はあっちで座ってるから、ゆっくり頼む」
+<span class="name">後藤眞波</span> : 「任せてよ！」
+見てくれてますか？
+ね、あたしたち、ここにいるよ。……かみさま。

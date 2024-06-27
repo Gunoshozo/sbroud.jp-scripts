@@ -1,0 +1,72 @@
+<span class="name">後藤眞波</span> : 「でね！　日曜日はみんなで海行こうよ！」
+ああ、にべなるかな。完全なる予定調和。
+逆らうのも面倒なほど完璧な永劫回帰。
+<span class="name">高槻東吾</span> : 「……どこが『でね』なんだバカ。意味わかンねえ」
+<span class="name">後藤眞波</span> : 「でも、……だって、日曜日で暑いじゃん。海、楽しいよ、ね？　ね？」
+<span class="name">高槻東吾</span> : 「まとわりつくな」
+<span class="name">陸七生</span> : 「モテ男はつらいのー」
+<span class="name">高槻東吾</span> : 「イヤミやめろ」
+<span class="name">陸七生</span> : 「違いますって。そんなんじゃありませんって」
+<span class="name">陸七生</span> : 「まー日付ばっかり秋だけど、まだフツーに暑いしね」
+<span class="name">陸七生</span> : 「いいんじゃない？　海。サイコー」
+俺は、笑う。
+たぶん、これは幸せなのであろう。
+世にも美しく、眩しく、バカバカしい具合に。
+<span class="name">後藤眞波</span> : 「ホラッ、ななくんもゆってるじゃん。ね？」
+<span class="name">倭一花</span> : 「眞波ったら、高槻くんをあんまり困らせないの」
+<span class="name">後藤眞波</span> : 「でも、一花もさんせーだよね？　肝試しし損なったし、ってゆってたもん」
+<span class="name">倭一花</span> : 「ええ、まあ、私はかまわないけど……でも」
+<span class="name">後藤眞波</span> : 「じゃあじゃあ一花がデカくんをモーレツに誘え－！　ウッフンゆってノーサツしてー！」
+<span class="name">倭一花</span> : 「え……？　な、なんで私が……そんなこと」
+<span class="name">高槻東吾</span> : 「阿呆」
+<span class="name">後藤眞波</span> : 「あいたぁっ！　ひどーい、デカくんぶったー……」
+<span class="name">高槻東吾</span> : 「説得したいなら自分でやれバカ」
+<span class="name">白大輔</span> : 「まあまあ。いいんじゃないか？　確かに連日暑いし、海に行くぐらい」
+<span class="name">陸七生</span> : 「そうそ、輝かしい青春の１ページですよ」
+んで、１００ページぐらいまで行くと本を落っことして、しおりが吹っ飛んで１から読み直し、と。ハイハイ。
+わかってて自己ツッコミする俺、傍観者を気取る俺、おつかれさんです。
+あーかっこわりー……。
+<span class="name">仁和菓</span> : 「あの…………眞波ちゃん。\nわ、わたしも、行っていい…………？」
+<span class="name">後藤眞波</span> : 「なにゆってんの、このたん！　決まってんじゃん一緒に水着着ようよ水着っ」
+<span class="name">仁和菓</span> : 「うん……ありがとう」
+<span class="name">倭一花</span> : 「菓……」
+<span class="name">仁和菓</span> : 「あ……あのね。\nその……ホントはすごく、緊張する……んだけど、\nでも……」
+<span class="name">倭一花</span> : 「……そうね。最初はちょっと気が重くても、行っちゃえば案外楽しかったりするわ」
+<span class="name">仁和菓</span> : 「……ん」
+<span class="name">仁和菓</span> : 「一花ちゃんが、いてくれるし……眞波ちゃんもいるし」
+<span class="name">仁和菓</span> : 「あ……夏來ちゃんも、誘うの……？」
+<span class="name">倭一花</span> : 「誘いましょ、きっと喜ぶから」
+<span class="name">仁和菓</span> : 「うん……！」
+<span class="name">高槻東吾</span> : 「めずらしいじゃねえか、仁和」
+<span class="name">仁和菓</span> : 「え……あ、あの……その」
+<span class="name">高槻東吾</span> : 「いまの、下向いてブスくれてるよりよっぽどいいぞ」
+<span class="name">高槻東吾</span> : 「……しょうがねえ。んじゃ日曜は海な」
+<span class="name">高槻東吾</span> : 「んじゃな」
+<span class="name">倭一花</span> : 「あ、高槻くん……その、どこへ行くの？」
+<span class="name">高槻東吾</span> : 「教室」
+<span class="name">高槻東吾</span> : 「……海パン、たぶんロッカーで腐ってる」
+<span class="name">倭一花</span> : 「え……？」
+<span class="name">倭一花</span> : 「あはは、やだ、ひょっとして授業で使って置きっぱなし？」
+<span class="name">高槻東吾</span> : 「置きっぱなしなんだよ」
+<span class="name">白大輔</span> : 「あいつ……本当にしょうがないな」
+<span class="name">倭一花</span> : 「高槻くんらしいじゃない。わざわざ教室まで水着を取りに行くってことは、日曜日も来る気になってくれたんだろうし」
+<span class="name">倭一花</span> : 「いまのは菓のおかげかも」
+<span class="name">仁和菓</span> : 「え…………そんなこと、ないよ…………」
+<span class="name">白大輔</span> : 「いや、俺もそう思う。誰かが内心嫌なんじゃないかと思うと、やっぱり気になるからな」
+<span class="name">白大輔</span> : 「仁和が行く気になってるのがわかって、俺もホッとした」
+<span class="name">倭一花</span> : 「ね、眞波もそう思うでしょ。……眞波？」
+<span class="name">後藤眞波</span> : 「ふえ……？」
+<span class="name">倭一花</span> : 「どうかしたの？　日曜日、海に全員行ってくれそうよ」
+<span class="name">後藤眞波</span> : 「うん……よかったあ。ありがとー 一花」
+<span class="name">倭一花</span> : 「私じゃなくて、みんなにお礼言いなさい」
+<span class="name">後藤眞波</span> : 「うん。みんな、ありがとー」
+<span class="name">倭一花</span> : 「あとで、高槻くんにもきちんとありがとうって言うのよ」
+<span class="name">後藤眞波</span> : 「うん、言う。言うよお」
+<span class="name">後藤眞波</span> : 「……あれっ。デカくんは？　どこ？？」
+<span class="name">倭一花</span> : 「さっき、テーブルを立ったじゃない。水着、取ってくるって。聞いてなかったの？」
+<span class="name">仁和菓</span> : 「……どうしたの、眞波ちゃん？　ちょっと元気、ない？」
+<span class="name">後藤眞波</span> : 「え？　そ、そんなことない、ない。やだなあこのたん、アハハ」
+<span class="name">後藤眞波</span> : 「眞波さんはいつだって元気印ですよぅ」
+<span class="name">仁和菓</span> : 「……それなら、いいんだけど」
+<span class="name">白大輔</span> : 「あまり体調を軽視して、無理はするなよ」
+<span class="name">後藤眞波</span> : 「はあーい、ラジャーでーす」

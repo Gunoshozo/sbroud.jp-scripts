@@ -5,20 +5,25 @@ import { GameNameMapping } from '../../../conts/general.const';
 import { Tip } from '../../../models/reading.models';
 import { GameRootService } from '../game-root.serviece';
 import { RestApiService } from '../../../services/rest.service';
+import { TuiAccordionModule, TuiIslandModule } from '@taiga-ui/kit';
+import { TuiPrimitiveTextfieldModule, TuiTextfieldControllerModule } from '@taiga-ui/core';
 
-@Directive({
-	selector: '.t-header'
-})
-export class AccoridonButton {
-}
+import { HttpHeaders } from '@angular/common/http';
+import { GlobalLoaderService } from '../../../services/global-loader.service';
 
 
 @Component({
 	selector: 'app-tips',
-	templateUrl: './tips.component.html'
+	templateUrl: './tips.component.html',
+	standalone: true,
+	imports: [
+    TuiAccordionModule,
+    TuiIslandModule,
+    TuiPrimitiveTextfieldModule,
+    TuiTextfieldControllerModule
+]
 })
 export class TipsComponent implements OnInit {
-
 
 	public _tipsList: Tip[] = [];
 
@@ -48,7 +53,7 @@ export class TipsComponent implements OnInit {
 
 	public isDraw: boolean = false;
 
-	public constructor(private activeRoute: ActivatedRoute, private router: Router, private restApiService: RestApiService, private gameRootService: GameRootService) { }
+	public constructor(private activeRoute: ActivatedRoute, private router: Router, private restApiService: RestApiService, private gameRootService: GameRootService, private globalLoader: GlobalLoaderService) { }
 
 	public ngOnInit(): void {
 		const observables: any = {
@@ -90,6 +95,7 @@ export class TipsComponent implements OnInit {
 			},
 			error: () => {
 				this.router.navigate(["/error"])
+				this.globalLoader.setGlobalLoader(false);
 			}
 		})
 	}

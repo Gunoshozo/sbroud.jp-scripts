@@ -4,14 +4,29 @@ import {
 } from '@angular/core';
 import { GlobalLoaderService } from './services/global-loader.service';
 import { Subject, distinctUntilChanged, map, share, startWith, takeUntil } from 'rxjs';
-import { TuiThemeNightService, TuiThemeService } from '@taiga-ui/addon-doc';
-import { TuiBrightness } from '@taiga-ui/core';
+
+import { TuiBrightness, TuiDialogModule, TuiLoaderModule, TuiRootModule, TuiThemeNightModule } from '@taiga-ui/core';
+import { RouterOutlet } from '@angular/router';
+import { CommonModule } from '@angular/common';
+import { TuiThemeService, TuiThemeNightService } from '@taiga-ui/addon-doc';
 
 @Component({
 	selector: 'app-root',
-	templateUrl: './app.component.html'
+	templateUrl: './app.component.html',
+	standalone: true,
+	imports: [
+		CommonModule,
+		RouterOutlet,
+		TuiRootModule,
+		TuiDialogModule,
+		TuiLoaderModule,
+		TuiThemeNightModule
+	],
+	providers: [
+		GlobalLoaderService
+	]
 })
-export class RootComponent implements OnDestroy {
+export class AppComponent implements OnDestroy {
 
 	@HostBinding('attr.data-mode')
 	get mode(): TuiBrightness | null {

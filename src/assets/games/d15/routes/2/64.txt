@@ -1,0 +1,15 @@
+<span class="name">高槻東吾</span> : 「ったく、わけがわからねえ」
+<span class="name">倭一花</span> : 「………ねえ高槻くん」
+<span class="name">高槻東吾</span> : 「ん？　なんだ？」
+<span class="name">倭一花</span> : 「明日もフォルムに行ってみない？　もちろん、事前に連絡をして、了解が取れたらだけど」
+<span class="name">高槻東吾</span> : 「了解が取れたらって、誰の？」
+<span class="name">倭一花</span> : 「宮藤先生と話していても埒があかないし、梓さんに協力してもらえないかなって考えてるの」
+<span class="name">倭一花</span> : 「梓さんの協力が得られれば、今日みたいなことはないと思うし」
+<span class="name">高槻東吾</span> : 「どうだかな。俺はどうもあそこの連中は信用できない」
+<span class="name">倭一花</span> : 「そんなことないわよ。\n正直、宮藤先生はあれだけど………梓さんは違うわ」
+<span class="name">高槻東吾</span> : 「けどよ、だったら俺が行かなくてもいいんじゃねえか？　宮藤相手なら俺でもなんとかなるけど」
+<span class="name">倭一花</span> : 「ううん、そんなことない」
+<span class="name">倭一花</span> : 「今日だって、サイレンが鳴ったりして不安だったけど、高槻くんがいてくれたから怖くなかった」
+<span class="name">高槻東吾</span> : 「………なら、いいけどよ」
+<span class="name">倭一花</span> : 「本当にありがとう」
+<span class="name">高槻東吾</span> : 「あ、ああ………」

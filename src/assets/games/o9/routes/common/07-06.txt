@@ -1,0 +1,196 @@
+<span class="name">マスターイズミン</span> : ガモタくん、いっらしゃーい
+<span class="name">悠太</span> : ……どーも
+<span class="name">マスターイズミン</span> : あら？　どうしたの、お疲れみたい
+<span class="name">悠太</span> : そうなんですよ。それもこれも打ち合わせの電話のせいかと
+<span class="name">マスターイズミン</span> : 打ち合わせ？　ガモタくん、何か始めたの？
+<span class="name">悠太</span> : ええ、まぁ……
+先ほど、電話をかけてきたのは、桐子さん。打ち合わせの電話だったのはいい。というかうれしい。そうじゃなくて、問題は――。
+<span class="name">悠太</span> : 場所なんですよねぇ……
+<span class="name">マスターイズミン</span> : 場所？　いやらしいお店だったとか？
+<span class="name">悠太</span> : そんな場所には行きません。カフェですよ、カフェ……
+<span class="name">マスターイズミン</span> : あら、いいじゃない。打ち合わせにはピッタリ
+<span class="name">悠太</span> : いやいや。あういう所は僕みたいな者には敷居が高いですよ
+注文方法も独特だったり、リア充っぽいのもいっぱいいたり、とくにかく落ち着かないし。
+その点、ブルゥムーンはほどよいよね～、うん、ほどよい。
+<span class="name">悠太</span> : ……お？
+そんなとき、僕のスマホが振動した。
+今日はよく電話がかかってくるなぁ……りょーたすからだ。どうしたんだろ？
+<span class="name">悠太</span> : はい、もしもし？
+<span class="name">稜歌</span> : ガモタン、今、どこにいるの～？
+<span class="name">悠太</span> : 僕？　ブルゥムーンにいるけど？
+<span class="name">稜歌</span> : りょーたすは学校の屋上にいるよ☆
+なぜそんなところに……
+確かに、風の音をマイクが拾っている。それもけっこう大きい音だから、学校の屋上は風が強いんだろう。
+そんなところにいたら、風邪ひくんじゃないかな？
+<span class="name">悠太</span> : ところで、何か用事があったの？
+<span class="name">稜歌</span> : 今から<span class="dict">ハモニカ横丁</span>に行こうかなって
+<span class="name">悠太</span> : あ、そうなの？　僕もこれから<span class="dict">ハモニカ横丁</span>近くに行くんだけど
+<span class="name">稜歌</span> : ガモタンも？
+<span class="name">悠太</span> : うん。桐子さんと打ち合わせするためにね
+<span class="name">稜歌</span> : りょーたすも一緒していい？
+<span class="name">悠太</span> : 別にいいけど……。用事はいいの？
+<span class="name">稜歌</span> : りょーたすはガモタンを調査へ連れ出すために電話したのだ☆
+調査、ですか……。
+<span class="name">悠太</span> : ちなみに何の？
+<span class="name">稜歌</span> : 紅ノ館だよ～☆
+あー、なるほど……まあ、前から気になるって言いながら何もしてなかったしね……。
+<span class="name">悠太</span> : 今日は打ち合わせがあるし、また今度ね
+<span class="name">稜歌</span> : 了解なのだ～☆
+<span class="name">悠太</span> : じゃあ、待ち合わせは――
+ツーツーツー――
+お、おうふ……
+情報を言う前に切られるという何とも理不尽極まりない対応に驚いてしまう。
+まぁとりあえず、駅に向かえばなんとかなるか……
+そう思い、準備を始めると、ニヤニヤしているマスターが視界に入った。
+<span class="name">マスターイズミン</span> : いってらっしゃ～い♪　そして、またきてねぇん♪
+マスターの浮かべている笑顔が気になるが、今はあまり気にしないでおこう。
+<span class="name">悠太</span> : それじゃ、また来ます
+<span class="name">悠太</span> : う～ん、遅いなぁ……。りょーたす、まだかなぁ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+ブルゥムーンを後にして、僕は吉祥寺駅にきていた。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+こうやって、駅前に１人で立っていると目立つような気がする。実際はそんなことないんだろうけど、周囲からの視線を感じてしまう。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+本当はカフェで待ち合わせをしてもよかった。桐子さんに言われた時間まで余裕もあるし…… <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+あんなところ、１人じゃあ入れませんがな…… <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+やっぱり僕みたいなヤツが１人で入るような場所じゃないって。どこか遠い世界に感じるよ。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+桐子さんがいれば、一緒に入ることができるから違和感を和らげることができる……ような気もするし。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+てか、店内で桐子さんを探すのも辛いでしょ…… <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+もし、桐子さんが先に来ていて、店内で待っていたら、練り歩いて彼女を見つけなければいけない。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">悠太</span> : 無理。そうなったら帰ります…… <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+人は多いだろうし。なんなのアイツみたいな視線を浴びせられたら死んじゃうよ……。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+そんなことを考えていたら、視界が暗くなって。緊張と不安のあまり気絶したのかなって思った。
+<span class="name">？？？</span> : だ～～れだ？
+え……？
+背中に柔らかくて温かい感触。視界をふさぐスベスベでしなやかな何か。こ、これは……
+<span class="name">稜歌</span> : りょーたすはだれでしょ～？
+<span class="name">悠太</span> : り、りょーたす……
+視界がパッと白くなって、いきなり明るくなったものだから、目が光に慣れるまで時間がかかった。
+<span class="name">稜歌</span> : すごいね～！　ガモタン、正解だよ～☆
+<span class="name">悠太</span> : いや、自分で名乗ってたじゃない……
+<span class="name">稜歌</span> : ぽやぁ？　りょーたすは名前を言ってないよ～？
+りょーたすはだれって聞いたら意味がない希ガス……
+ただ、それだけが、りょーたすだってわかったわけじゃないけどね。
+<span class="name">悠太</span> : うむむ、予想以上だぞ、あれは……
+<span class="name">稜歌</span> : ぽやぁ？
+目隠しされたときに当たったおっぱい。現実じゃあ、背中におっぱいが当たるなんてことは絶対にないって思ってたけど！　そんなことはなかった！
+なんか、こう。当たったっていう表現より、押し付けられたっていうほうが正しいのかな。
+りょーたすは気にしてないみたいだけど、僕はドキドキでしたよ！
+<span class="name">稜歌</span> : ガモタン？　大丈夫～？
+はっ……、僕としたことが……
+ついつい、妄想が膨らんでいたよ。こんなことがあるなら、待ち合わせってのも悪くないね。
+<span class="name">悠太</span> : とりあえず、向かいましょうかねえ
+<span class="name">稜歌</span> : あいあいさ～☆
+桐子さんとの待ち合わせには間に合いそう。あとは店前で会うことができるかどうか……。
+<span class="name">稜歌</span> : 待ち合わせってどこなの～？
+<span class="name">悠太</span> : あー、カフェだよ。商店街にある……
+<span class="name">稜歌</span> : お～。キリバサのお仕事だね～！
+<span class="name">悠太</span> : まあ、そうだね。記事にできたらいいと思ってるし
+そのためには、桐子さんからの情報と僕の情報の交換が大切。
+でも、本当は桐子さんも記事にしようと思っているかもしれないし、そうなったら譲るかもしれない。
+そしたら、ムムーにキリバサとニート神の名前が載るかもしれないし？　それをキリバサの記事にするだけでも全然違うでしょ。
+ムムーではキリバサの宣伝。キリバサでは僕も関わったってことでムムーの宣伝。アクセス数の増加は間違いなし！
+<span class="name">稜歌</span> : ガモタン、あれ！
+<span class="name">悠太</span> : あ、桐子さん？
+お店に近づいたころ。店前では桐子さんらしき後姿の女性とコートを着た少年が話していた。
+これはナイスタイミング……！　ナイスエンカウント……！
+でも、話している二人の間には微妙な空気が漂っていた。……なんだろ。桐子さん、困ってる？　二人に近づいていくと、会話が鮮明になってくる。
+<span class="name">？？？</span> : えー？　知らないの？
+<span class="name">桐子</span> : 何も知りません……
+<span class="name">？？？</span> : うーん……。本当に何も聞いてない？　そんなはずはないんだけどなぁ
+<span class="name">桐子</span> : そういわれても、身に覚えがありませんから……
+もしかして、ナンパ？
+<span class="name">悠太</span> : りょーたす、あれってどう思う？
+<span class="name">稜歌</span> : お知り合いかなぁ？
+<span class="name">悠太</span> : でも、桐子さんは困ってるように見えるし……
+<span class="name">稜歌</span> : じゃあ、ガモタン助けてあげよぉ～☆
+え、マジで！？
+りょーたすから背中を押されて、よろけながらも２人に近づく。うむむ、ここは桐子さんを助けるべきか……。
+もし助けたら……桐子さんからもりょーたすの好感度も上がるかもしれないけど。
+よし……！
+僕は意を決して二人に話しかけた。
+<span class="name">悠太</span> : あの……
+<span class="name">？？？</span> : 何？
+<span class="name">悠太</span> : いや、その……
+<span class="name">桐子</span> : この子は私の連れです。今日のところはお引き取り願います
+<span class="name">？？？</span> : あー、そうだったんだ。ごめんね、部外者が首を突っ込んできたのかと思ってさー。てへぺろ☆
+<span class="name">悠太</span> : い、いや。僕の方こそいきなり割って入ってすみません……
+<span class="name">？？？</span> : 別にいいよー。……まあ、とりあえず何か思い出したら、教えてね
+<span class="name">桐子</span> : わかりました
+<span class="name">？？？</span> : それじゃあ、邪魔してすまなかったねー
+そう言い残して、去っていくコートの男。てか、こっわ。
+しかも、桐子さんに守られる感じになっちゃって、情けないなぁ……。これだから<span class="dict">コミュ障</span>引きニートって嫌になるんだよね……。
+<span class="name">桐子</span> : 我聞君、大丈夫？
+<span class="name">悠太</span> : 僕は大丈夫です。……てか、誰ですか、あれ？
+<span class="name">桐子</span> : ううん、別に大したことがあって話しかけられたんじゃないの
+<span class="name">悠太</span> : そうだったんですか
+なんか引っかかる言い方。もしかして、桐子さんの調査していることって危ない案件だったり……？　それに関わっている僕って危ないかも？
+<span class="name">稜歌</span> : ガモタンはヘタレ丸～
+僕が一番わかってますんで、ハイ。直接言われるとヘコむよ、ホントに……。
+<span class="name">桐子</span> : あら、この前の女の子？　えっと、成沢さん？
+<span class="name">悠太</span> : あ、はい。一緒で大丈夫ですか？
+<span class="name">桐子</span> : ええ、大丈夫よ。さ、いきましょう
+<span class="name">稜歌</span> : イエスマム！
+運良くか運悪くかどうあれ、桐子さんと無事に合流できた僕たちは店内に入った。適当にメニューから注文して、二階の席へと足を運んだ。
+<span class="name">桐子</span> : それじゃあ、はじめましょう
+<span class="name">稜歌</span> : りょうかいなのだ～☆
+まあ、最初はお互いの情報交換なわけだけど。
+<span class="name">桐子</span> : 我聞君は何かわかったことってある？
+<span class="name">悠太</span> : えっと、ネットの情報なんで信憑性にかけるって思うんですけど……
+<span class="name">桐子</span> : 大丈夫、私もネットを使って調べることはあるから
+雑誌記者がそれでいいの？　って思ったけど、今はおいておこう。
+<span class="name">悠太</span> : じゃあ、まず。生体腎移植手術が失敗した事件のことを知ってます？
+<span class="name">桐子</span> : 生体腎移植手術……。確か結構前の話よね？
+<span class="name">悠太</span> : ３年前の事件ですね。ネットにこんな記事が載っていたんですよ
+僕はノートＰＣを取り出して、素早く操作する。ブックマークをつけておいたサイトに飛んで、二人へ見えるようにモニタを向けた。
+<span class="name">悠太</span> : これなんですけど
+<span class="name">桐子</span> : あ、思い出した。八王子の病院で起きたものよね？
+<span class="name">悠太</span> : そうです。この手術で１人の男性が亡くなったんです
+死因は手術中の医療ミス。亡くなったのは提供された人ではなく、提供した人。
+<span class="name">稜歌</span> : でも、ガモタンが調べてるのは女の子だよね？
+<span class="name">悠太</span> : 問題はそこなんだよ。記事に提供者の名前が載ってると思うんだけど……。あった、この人
+<span class="name">桐子</span> : えっ……
+桐子さんは驚いた表情を見せた。そりゃあ、そうだろうね。僕も初めて見たときは驚いたもん。
+名前は、水無瀬貴春。当時２４歳。
+<span class="name">桐子</span> : この人って、あの『お兄さま』……？
+<span class="name">悠太</span> : たぶん、あの『お兄さま』だと思います
+<span class="name">桐子</span> : …………
+移植手術そのものは成功。兄である水無瀬貴春から、妹の水無瀬莉愛へ移植。術後も順調に回復、その後の経過も良好だった。
+モニタを喰いつくように見ている桐子さんに、説明を加えるように話を続ける。
+<span class="name">悠太</span> : 回復が進み、目が覚めた水無瀬莉愛は、最愛の兄を亡くしたことを知ったんです
+<span class="name">稜歌</span> : かわいそうだね……
+<span class="name">悠太</span> : まあ、あの日記をみていたらね。大好きだったんだと思うけど……
+無情にも妹を残して死んでしまった。
+<span class="name">桐子</span> : 盲点だったわ。そこまで大きな記事じゃないし、気にもしてなかった……
+<span class="name">桐子</span> : ということは、水無瀬莉愛が退院したときに兄の遺体を持って帰った……？
+<span class="name">悠太</span> : まあ、そうなりますな
+<span class="name">桐子</span> : ちょっとまって、だって八王子でしょう？　吉祥寺まで兄の遺体を……！？
+そこも謎。八王子の病院から吉祥寺の水無瀬邸まで直線距離にして約２０キロ前後。一般の道路を使えば何キロになるかわからない。
+<span class="name">桐子</span> : それに、手術日から退院日まで１週間もないでしょ？　まだ縫い口も塞がっているかわからないのに……
+<span class="name">悠太</span> : 担ぐのは体力的にも筋力的にも無理があるとおもうんで、車いすか何かを使ったんじゃないかなあって
+<span class="name">桐子</span> : 車いす……。それでも……
+<span class="name">悠太</span> : まあ、無理ですよね
+<span class="name">稜歌</span> : 莉愛ちゃんには、家族とかいないの？
+<span class="name">悠太</span> : 両親は他界してて、兄妹二人暮らしだったらしい
+<span class="name">稜歌</span> : そうなんだ～……
+<span class="name">悠太</span> : そして、数週間後、例の日記が始まるってことです
+<span class="name">悠太</span> : ……まあ、僕が知っていることはこれぐらいですねー
+桐子さんは僕の話を聞き終わると、腕を組んでしばらく考えているようだった。
+<span class="name">桐子</span> : 我聞君、私、甘く見てた……
+えっ？　甘く見てた？　事件を？　この案件の深さを？
+<span class="name">桐子</span> : アセンション！　貴方、すごいわね……
+<span class="name">稜歌</span> : ガモタン、褒められたね～！
+<span class="name">悠太</span> : ぼ、僕？　なんかわからないけど……
+<span class="name">桐子</span> : いや、本当に。よくこの短期間で、これだけの情報を集めることができたと思う
+<span class="name">桐子</span> : 私なんか情報が見つからなくて途方に暮れそうだったのに……
+<span class="name">桐子</span> : やっぱり、この案件には貴方が必要ね……
+あ、僕、頼られてる感じ？　マジで！？　ムムーの雑誌記者である桐子さんから！？　めっちゃ嬉しいんですけど！
+<span class="name">悠太</span> : ま、まあ！　キリバサの管理人ですし？　ネタの情報を集めるなら任せてくださいよ！
+<span class="name">桐子</span> : ええ。ありがとう
+<span class="name">稜歌</span> : よかったね～！
+ふふふ、僕は止まりませんぞ～！　僕がいたらすぐに解決しちゃうね！
+<span class="name">桐子</span> : 我聞君、これから時間ある？
+<span class="name">悠太</span> : え？　まあ、大丈夫ですけど
+<span class="name">桐子</span> : それじゃあ、<span class="dict">すた豚</span>でも食べに行かない？　成沢さんも一緒にどう？
+<span class="name">稜歌</span> : やった～！　りょーたすも行くよ～！
+<span class="name">悠太</span> : じ、じゃあ、僕も！
+りょーたすも行くなら僕も行く！　まだ夕食は食べてないからちょうどいい！
+<span class="name">桐子</span> : じゃあ、行きましょうか
+<span class="name">稜歌</span> : りょうかいなのだ～☆

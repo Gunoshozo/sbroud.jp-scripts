@@ -1,0 +1,81 @@
+<span class="name">陸七生</span> : 「やっほーやっほーコケコッコー」
+<span class="name">高槻東吾</span> : 「………………陸？」
+<span class="name">陸七生</span> : 「イエース。グッモーニーン、ハニー？」
+<span class="name">陸七生</span> : 「そろそろ時間ですけど、ご飯にする？　シャワーにする？　それとも俺？」
+<span class="name">高槻東吾</span> : 「………………いますぐ死ね」
+<span class="name">陸七生</span> : 「朝から刺激的なハニーですこと」
+<span class="name">高槻東吾</span> : 「なにしに来たんだ」
+<span class="name">陸七生</span> : 「二言目にはそれですか。まずはおはようぐらい言ったらどうなのよ、アナタ」
+<span class="name">高槻東吾</span> : 「オマエが訳のわからねえこと言うからだろ」
+ああ、なんだろこの、懐かしささえ覚えるリズム。
+……昨日はこのひと、一瞬死んだかと思ったけど。
+いやいや、それじゃない。それは…………。
+あれ？　ええと、なんだっけ、ソレ。しかもやけに物騒な……。
+<span class="name">高槻東吾</span> : 「陸、オマエ変な顔してるぞ」
+<span class="name">陸七生</span> : 「あのですね、こーゆー顔は一般的に美形っつーのよ？　アンダスタン？」
+<span class="name">高槻東吾</span> : 「……別に、言いたくねーならいいけどな」
+なに、それ。
+ひょっとして、アナタなりの気遣いなわけ？
+でもって、俺からなにを聞き出そうっての？　なにがどんだけわかって言ってんの？
+<span class="name">陸七生</span> : 「んじゃ、キモいこと聞いていっすか、大将」
+<span class="name">高槻東吾</span> : 「キモくねーのにしろボケ」
+<span class="name">陸七生</span> : 「アナタ体の具合、どうよ？　痛いとか辛いとか痒いとか」
+<span class="name">高槻東吾</span> : 「………………………………………………………………」
+<span class="name">陸七生</span> : 「………………………………………………………………」
+<span class="name">高槻東吾</span> : 「別にどこも悪くねえよ。そういうおまえはどうなんだ」
+<span class="name">陸七生</span> : 「お陰さまでファイト一発ですけれどもなにか？」
+<span class="name">高槻東吾</span> : 「………………………………………………………………」
+<span class="name">陸七生</span> : 「………………………………………………………………」
+<span class="name">高槻東吾</span> : 「陸」
+<span class="name">陸七生</span> : 「なーに」
+<span class="name">高槻東吾</span> : 「なんつーか、……キモい会話だな」
+<span class="name">陸七生</span> : 「だから、最初にいったっしょ。キモいって」
+<span class="name">高槻東吾</span> : 「よせって言わなかったか」
+<span class="name">陸七生</span> : 「そーだっけ？」
+<span class="name">高槻東吾</span> : 「しらばっくれンな、いいからさっさと俺のベッドから降りろハゲ」
+<span class="name">陸七生</span> : 「いってーひでえー！　起こしに来た恩人に対してなんたる横暴！」
+<span class="name">高槻東吾</span> : 「誰が頼んだ」
+<span class="name">陸七生</span> : 「しかも、身体的なことをあげつらうの、いくない！」
+<span class="name">高槻東吾</span> : 「だいたい、部屋ン中まで勝手に入ってくんじゃねえよ」
+<span class="name">陸七生</span> : 「だって、鍵開いてたし」
+<span class="name">高槻東吾</span> : 「忠告しといてやるが、オマエのその思考回路は空き巣か間男だ」
+<span class="name">陸七生</span> : 「失礼な！　いくらせっそーなしの俺だって、襲うとなったら相手ぐらい選ぶわこの野郎！」
+<span class="name">陸七生</span> : 「今日はいーんちょから直々に頼まれたから、わざわざ来てやったんだっつーの」
+<span class="name">高槻東吾</span> : 「アイツ、またフォルム行ったのか」
+<span class="name">陸七生</span> : 「そのよーです」
+<span class="name">高槻東吾</span> : 「……あのバカ」
+<span class="name">陸七生</span> : 「なんでバカ？　ノモスだよ？　優秀ってコトでしょ」
+<span class="name">高槻東吾</span> : 「それ、本気で言ってンのか。オマエ」
+<span class="name">陸七生</span> : 「じゃあ逆に聞くけど、疑う余地があんの？」
+<span class="name">高槻東吾</span> : 「……オマエ、ホントにうさんくさいヤツだな。平気な顔して言うからタチ悪ィよ」
+<span class="name">陸七生</span> : 「そっちこそ、言いがかりもいいトコなんですけど」
+<span class="name">高槻東吾</span> : 「ま、さっきのしけたツラに免じて許してやるけど」
+<span class="name">陸七生</span> : 「憂い顔と言わんかい！」
+<span class="name">高槻東吾</span> : 「なあ。俺ら昨日、夜に外へ出たよな？」
+<span class="name">陸七生</span> : 「出たねえ」
+<span class="name">高槻東吾</span> : 「女子寮に行った…………白と俺ら三人で」
+<span class="name">陸七生</span> : 「うん。行ったねえ、確かに」
+<span class="name">高槻東吾</span> : 「そのあと、どうした……？」
+高槻の、このおっかねー顔。なんで俺が脅されなきゃならんのだ、ビビってちびるわ！
+昨日おっかねー目に遭ったのは俺だっつの！
+<span class="name">陸七生</span> : 「……部屋の前まで行って、帰ってきましたよ俺は。ひとりで」
+<span class="name">高槻東吾</span> : 「………………………………………………………………」
+<span class="name">高槻東吾</span> : 「そうか。わかった。そんならいい」
+<span class="name">陸七生</span> : 「へ……？　いいって、なにが」
+<span class="name">高槻東吾</span> : 「オマエ、飯食ったか」
+<span class="name">陸七生</span> : 「いや、まだだけど」
+<span class="name">高槻東吾</span> : 「じゃ、たまにはカフェ行って朝飯でも食うか」
+<span class="name">高槻東吾</span> : 「ちょっと待ってろ、着替えっから」
+<span class="name">陸七生</span> : 「え、まあ、朝飯はやぶさかではないが……その、もちっと突っ込むことないわけ？」
+<span class="name">高槻東吾</span> : 「ねえよ。オマエが言いたいことがあるんなら、ツッコミ待ちしてねえで自分から言え。聞いてやらんこともない」
+<span class="name">高槻東吾</span> : 「けど俺は頭悪ィから、細かいコトをゴチャゴチャ言われてもどーせわかんねーけどな。オマエが変にごまかしたり、ひとりでウダウダしてなきゃ俺はそれでいい」
+<span class="name">高槻東吾</span> : 「それに、バカでもわかるように話せる時期がくりゃ、白が勝手になんか言い出すだろ」
+<span class="name">陸七生</span> : 「……友情？」
+<span class="name">高槻東吾</span> : 「バカ、そんなんじゃねえ。アイツとは腐れてンだよ」
+<span class="name">高槻東吾</span> : 「白ってヤツはガッチガチの石頭で、昔からロクなこと言わねーって相場が決まってる。けど、だいたい間違いはねーんだよ」
+<span class="name">高槻東吾</span> : 「ただ、正論振りかざしてアホなコト言うけどな」
+<span class="name">高槻東吾</span> : 「ご託を並べ始めて、納得いかなかったらそんときぶん殴る。それまでは、ほっときゃいい」
+えーとそれ、友情じゃないならなんなの？
+<span class="name">陸七生</span> : 「……<span class="dict">アガペー</span>？」
+<span class="name">高槻東吾</span> : 「はあ？　なんだそりゃ。日本語で言えハゲ」
+いーんちょはアガペーで、俺はハゲかよ。ヒドイ格差だなオイ。

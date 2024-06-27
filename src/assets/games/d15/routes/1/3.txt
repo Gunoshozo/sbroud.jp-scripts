@@ -1,0 +1,74 @@
+<span class="name">陸七生</span> : 「にしても、休みってどーしてこー短いのかねえ」
+<span class="name">白大輔</span> : 「そうだな。今年は休み中に来年のことを検討する作業もあったし、なんだかんだと慌ただしかったな」
+<span class="name">陸七生</span> : 「来年て？」
+<span class="name">白大輔</span> : 「陸。まさか計画書ができてない、なんてことはないだろうな。今日提出だぞ」
+<span class="name">陸七生</span> : 「あーそれね。やったよ。やりましたよそりゃ。でなきゃ先生にブッ叩かれますって」
+<span class="name">白大輔</span> : 「怒られるからやるんじゃない、自分のためにやるんだ」
+<span class="name">陸七生</span> : 「はーい。ま、俺はいーんちょみたく志高いわけじゃないからさ。書くこともそんなにないし、ちょちょいのちょいですよ」
+<span class="name">白大輔</span> : 「適当にやっつけたりして、再提出になっても知らないぞ。──高槻は？」
+<span class="name">高槻東吾</span> : 「あ？」
+<span class="name">白大輔</span> : 「あ？　じゃない。聞いてなかったのか」
+<span class="name">高槻東吾</span> : 「なにを」
+<span class="name">白大輔</span> : 「計画書、もちろん作って来たんだろうな」
+<span class="name">高槻東吾</span> : 「なんだ？　それ」
+<span class="name">白大輔</span> : 「………………おまえは年がら年中寝ぼけすぎだ」
+やれやれ、とでも言いたげなウザいリアクションで睨まれる。
+が、こいつのわざとらしい優等生ぶりはいまに始まったことじゃないので、いちいち相手にしたらキリがない。シカトするに限る。
+つーか、朝は眠いに決まってンだろ。むしろ、どうしてコイツはいつもこんな朝っぱらからピンシャンしているのか、理解に苦しむ。
+<span class="name">？？？</span> : 「あら、おはよう」
+<span class="name">陸七生</span> : 「お、<span class="dict"><ruby>一花<rt>いちか</rt></ruby></span>さん、<span class="dict"><ruby>菓<rt>このみ</rt></ruby></span>ちゃん、おっはよ」
+<span class="name">白大輔</span> : 「やあ、おはよう。<ruby>倭<rt>やまと</rt></ruby>」
+<span class="name">倭一花</span> : 「おはよう、陸くんに白くん……と、相変わらず眠そうな高槻くん、お・は・よ」
+<span class="name">高槻東吾</span> : 「……今日はたまたま、誰かさんのせいで寝起きがサイアクだっただけだ」
+<span class="name">陸七生</span> : 「フムフム。で、必然的にほぼ毎日サイアクであると」
+<span class="name">白大輔</span> : 「倭からも高槻に言ってやってくれ。朝ぐらいひとりできちんと起きろって。高槻のおかげで、俺はニワトリよろしく毎朝目覚まし時計だ」
+<span class="name">高槻東吾</span> : 「だから、誰が頼んだっつったよ」
+<span class="name">白大輔</span> : 「俺は男子学年委員長として、おまえの遅刻が学年全体の評価に繋がるのを黙って見過ごすわけにはいかないんだ」
+<span class="name">高槻東吾</span> : 「知るかボケ」
+<span class="name">倭一花</span> : 「あなたたち仲がいいわね。ちょっと妬けちゃうかも」
+<span class="name">高槻東吾</span> : 「これの、どこがだ。つまんねー冗談言うんじゃねえよ、倭」
+<span class="name">？？？</span> : 「………………っ」
+<span class="name">倭一花</span> : 「高槻くんが寝ぼけてて機嫌が悪いのはよーくわかったわ。でもいちいち凄まないで。菓が怖がってるでしょ」
+<span class="name">仁和菓</span> : 「………………」
+<span class="name">高槻東吾</span> : 「<ruby>仁和<rt>にわ</rt></ruby>にどうこう言ったわけじゃねえだろうが」
+<span class="name">倭一花</span> : 「そうやって無駄な威圧感振りまいて歩いてると、モテないわよ」
+<span class="name">高槻東吾</span> : 「望むところだ」
+<span class="name">陸七生</span> : 「うーわ、それマジで言ってんのこの色男は。いまこそ学園生活最後のモテ期を目指さんで、いつ目指すのよ」
+<span class="name">高槻東吾</span> : 「テメーが好きなだけ目指しゃいいだろ。邪魔しねえでいてやるからむしろ這い蹲って礼を言え」
+<span class="name">陸七生</span> : 「うわ、お代官様来た！　なにこのひとこの場でいますぐ禿げ上がればいいのに！」
+<span class="name">白大輔</span> : 「いい加減にしろ、ふたりとも。男子生徒全員のレベルが疑われる」
+<span class="name">陸七生</span> : 「ええっ！　なんでそこ、俺が含まれてるし！？」
+<span class="name">白大輔</span> : 「仁和、怖がらせてすまない。彼らに悪気はないんだ、少し品性のレベルが低いだけで」
+<span class="name">陸七生</span> : 「いーんちょ、それ、フォローになってないない」
+<span class="name">倭一花</span> : 「ふふ、本当にあなたたち仲がいいわね。でも、立ち止まってないでそろそろ歩かない？　うっかり遅刻しちゃいそう」
+<span class="name">白大輔</span> : 「倭の言うとおりだ。行くぞ」
+<span class="name">？？？</span> : 「むーっ、まっへまっへ！」
+<span class="name">倭一花</span> : 「あら、<span class="dict"><ruby>眞波<rt>まなみ</rt></ruby></span>。よく間に合ったわね」
+<span class="name">後藤眞波</span> : 「むう……ひろいよ、いひかぁ」
+<span class="name">倭一花</span> : 「だって、いくら呼んでも出て来ないし、返事すらないんだもの。私たちまで遅刻しちゃうでしょ」
+いま、白より容赦ねえことさらっと言ったな、倭。
+<span class="name">後藤眞波</span> : 「れもさぁ～」
+<span class="name">倭一花</span> : 「わかったから、そのパン、食べちゃいなさい」
+<span class="name">後藤眞波</span> : 「ふわぁーい」
+<span class="name">後藤眞波</span> : 「むむむ……もぐもぐ……っん！　はぁ～追いついてよかったぁ」
+<span class="name">後藤眞波</span> : 「だってさあ、あとからひとりで教室入ってく空気ってさ。アレなんかすごいヤじゃない？」
+<span class="name">陸七生</span> : 「あーわかるわかる。ちょい気まずい」
+<span class="name">後藤眞波</span> : 「だよねえ！　あっそうだ。ななくんおはよう！」
+<span class="name">陸七生</span> : 「おはよ、眞波ちゃん」
+<span class="name">後藤眞波</span> : 「いーんちょもおっはよ！」
+<span class="name">白大輔</span> : 「ああ、おはよう。<ruby>後藤<rt>ごとう</rt></ruby>も、あまり倭に迷惑をかけないようにな」
+<span class="name">後藤眞波</span> : 「うんうん、オッケーオッケー。でもって、デカくんおっはよぉーーーーう！！」
+<span class="name">高槻東吾</span> : 「ンあ？」
+<span class="name">後藤眞波</span> : 「今日もデカくんと会えて、あたしってば超ハッピー！」
+<span class="name">高槻東吾</span> : 「……へー」
+<span class="name">後藤眞波</span> : 「そーゆーグッタリしたとこもすきー！」
+<span class="name">倭一花</span> : 「せめて気怠げとか言ってあげたら？」
+<span class="name">陸七生</span> : 「モテ男爆発っすなー」
+<span class="name">高槻東吾</span> : 「バカ、爆発してんのはどう見ても後藤だろ……」
+<span class="name">倭一花</span> : 「じゃあ、私は職員室へ寄ってから教室に行くからこの辺で。またあとでね」
+<span class="name">白大輔</span> : 「ああ、よろしく倭。悪いな」
+<span class="name">倭一花</span> : 「教室をまとめる方が大変よ。こちらこそよろしくね」
+<span class="name">後藤眞波</span> : 「いってらっしゃーい！　あ、このたんはどーする？　あたしと一緒に教室行く？」
+<span class="name">仁和菓</span> : 「……わたしは、一花ちゃんと行く……」
+<span class="name">後藤眞波</span> : 「そっかそっか。じゃあまたあとでね！」
+<span class="name">白大輔</span> : 「さて、俺たちも急いで教室へ行くぞ」

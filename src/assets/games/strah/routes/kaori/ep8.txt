@@ -1,0 +1,26 @@
+<span class="name">小舟潮</span>: あ～、お腹すいた～。帰ったら慎平のカレー食べさせてや。
+<span class="name">網代慎平</span>: あんなぁ、オレ今日帰ってきたばっかやぞ？島中引っ張りまわした挙げ句、メシまで作らせるつもりなんか？
+<span class="name">小舟潮</span>: これくらいで、なに言うてるん。島出てって体力落ちてしもたんと違う？
+<span class="name">網代慎平</span>: おまえなぁ……。
+<span class="name">小舟潮</span>: まあ、嫌なら別にええけど。あー、久しぶりに慎平のカレー食べたかったなァ。
+<span class="name">網代慎平</span>: わかった、わかったよ。でもおまえも手伝えよ。
+<span class="name">小舟潮</span>: やった～っ！楽しみにしとこ～っと！
+<span class="name">小舟澪</span>: ホンマお姉ちゃんに甘いんやから。ねえ、かおりちゃん。
+<span class="name">小弓場かおり</span>: ふふっ、本当だね……。
+<span class="name">小弓場かおり</span>: （そう、あの頃からずっと……）
+<span class="name">小弓場かおり</span>: （だから……今日は良かった。　タイムカプセルが見つからなくて）
+<span class="name">小弓場かおり</span>: （だって……）
+<span class="name">小弓場かおり</span>: （あのタイムカプセルに入れてたのは、　網代くんへの……<span class="dict">ラブレター</span>だったから）
+<span class="name">小弓場かおり</span>: （一生懸命に書いたけど、結局渡せなかった手紙。　あの頃の私には、そんな勇気が出せなかった）
+<span class="name">小弓場かおり</span>: （時が経って大人になった私なら　渡せるかもと思って……　それで、あの箱にしまったんだよね）
+<span class="name">小弓場かおり</span>: （でも……。　本当はわかってたんだ、私）
+<span class="name">小弓場かおり</span>: （きっと大人になっても渡せる日は来ない。　だって……）
+<span class="name">小弓場かおり</span>: （だって、網代くんの視線の先には、　いつも小舟さんがいたから）
+<span class="name">小弓場かおり</span>: （それは大人になっても変わらないって、　私、わかってたんだと思う……）
+<span class="name">小弓場かおり</span>: （もしもいつか、本当にタイムカプセルを　開く日が来るとしたら……）
+<span class="name">小弓場かおり</span>: （そのとき私は、　網代くんに何を伝えるんだろう？）
+<span class="name">小弓場かおり</span>: …………。
+<span class="name">小弓場かおり</span>: この想い……振り切るのにあと何年かかるかな。
+<span class="name">網代慎平</span>: えっ、なんか言うた？
+<span class="name">小弓場かおり</span>: ううん、な～んにも！
+キーＴＩＰＳ【<span class="dict">ｅｐｉｌｏｇｕｅ：小弓場かおり</span>】を入手しました。

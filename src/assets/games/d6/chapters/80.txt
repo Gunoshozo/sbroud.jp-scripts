@@ -1,0 +1,102 @@
+<span class="name">ジョー</span> : 「ん……」
+（何の、音だろう……？）
+<span class="name">ジョー</span> : 「っ！？　も、もしかして……ここの家の人が帰って来たのか！？」
+<span class="name">ジョー</span> : 「マリカ！！　あ、っと、マリカ様！！　起きて！！」
+<span class="name">シーナ</span> : 「う、うぅん……」
+<span class="name">ジョー</span> : 「だ、誰か、来たみたいだよ！！　早く起きて！！」
+<span class="name">シーナ</span> : 「んっ…うぅ……」
+<span class="name">ジョー</span> : 「早く！」
+<span class="name">シーナ</span> : 「……あ、おはよう。ジョーくん……ここ、どこなの？」
+<span class="name">ジョー</span> : 「どこって、何を言ってるんだよ……マリカ様、寝ぼけてる？」
+<span class="name">シーナ</span> : 「マリカ？　マリカって誰……？」
+<span class="name">ジョー</span> : 「えっ……も、もしかして、シーナ？」
+<span class="name">シーナ</span> : 「何言ってるの、ジョーくん。当り前じゃない」
+<span class="name">女性の声</span> : 「ん？　なんで鍵が開いてんだ？」
+<span class="name">女性の声</span> : 「誰か来てるのかい！？　ルミか？　それともタツか！？」
+<span class="name">ジョー</span> : 「こ、この声は……」
+<span class="name">ヒナコ</span> : 「…………」
+<span class="name">ジョー</span> : 「あ……」
+<span class="name">シーナ</span> : 「……ん？」
+<span class="name">ヒナコ</span> : 「なっ……な、なんだ、テメェらー！？」
+<span class="name">ジョー</span> : 「っ！？　ヒナコ……さん！？」
+<span class="name">ヒナコ</span> : 「どーして、テメェらが、あたいん家にいるんだよ！？」
+<span class="name">シーナ</span> : 「ねえ、ジョーくん……この人、誰？」
+<span class="name">ジョー</span> : 「あ、う……」
+最悪だ……
+よりにもよって、ヒナコさんの家だったなんて……
+しかも、今はマリカじゃなく、シーナになっている。
+（ずっと、シーナに会いたいって思ってたけど、こんな時に……）
+<span class="name">ヒナコ</span> : 「なかなかやるじゃねえか。どこのどいつに聞いたか知らねぇが、あたいん家をつき止めて待ち伏せたぁ、姑息で、殴り甲斐があるってもんだ！」
+<span class="name">シーナ</span> : 「ジョーくん、こ、怖いよ……どうしてこの人、こんなに怒ってるの？」
+<span class="name">ジョー</span> : 「だ、大丈夫……心配しないで」
+こっ、ここは男の僕がなんとかしなくちゃ……
+<span class="name">ジョー</span> : 「ヒナコさん、きちんと話すから、わけを聞いてください！！」
+<span class="name">ヒナコ</span> : 「ハッ！　ここまで虚仮にされちまったんだ。今さら話なんざ聞く気はねぇ……」
+僕たちを睨みつけたまま、ヒナコさんがゆっくり部屋に入ってくる。
+ヒナコさんが床を思い切り踏みつける。
+そこにあったものは……
+<span class="name">ヒナコ</span> : 「……」
+<span class="name">ジョー</span> : 「あ、そっ、それは……！」
+僕が食べ散らかしたゴミだった。
+<span class="name">ヒナコ</span> : 「ちっと頭のネジが弛んじゃいるが、なかなか肝が据わったヤツだと、感心したんだが……つくづく、見下げ果てたぜ……」
+<span class="name">ヒナコ</span> : 「こんなセコい連中だったとはな！　とんだ食わせ者じぇねぇか！！」
+<span class="name">シーナ</span> : 「ね、ねえ、ジョーくん、早く逃げようよ」
+<span class="name">ジョー</span> : 「ごめん、シーナ……ちょっと待ってね」
+<span class="name">シーナ</span> : 「う、うん……」
+<span class="name">ジョー</span> : 「勝手に家に上がったことと、食べ物のことは謝ります。この通りです、すみません！！」
+<span class="name">ヒナコ</span> : 「聞けねえな……」
+ずいっと僕たちの前に歩み寄り、ヒナコさんは不敵な笑みを浮かべた。
+<span class="name">ヒナコ</span> : 「言えよ。誰の差し金で、あたいを狙った？」
+<span class="name">ジョー</span> : 「えっ……ええ！？」
+<span class="name">ヒナコ</span> : 「お前ら、どっかのチームに雇われた犬っころだろ？　だけどよ、簡単にあたいのタマは取らせねぇ」
+<span class="name">ジョー</span> : 「ぼ、僕たちは……チームとか関係なくて、ただ、寝泊まりする宿を探して……」
+<span class="name">ヒナコ</span> : 「はぁ？　宿？　それ探して、こんなとこまで！？」
+<span class="name">ジョー</span> : 「は、はい……」
+<span class="name">ヒナコ</span> : 「……くくっ、あはは！！！　テキトーな嘘ついてんじゃねぇよ！！」
+<span class="name">ジョー</span> : 「い、いや、本当に……」
+<span class="name">ヒナコ</span> : 「なあ、特にそっちの嬢ちゃんよぉ……」
+<span class="name">シーナ</span> : 「ひっ……！」
+そう言ってヒナコさんはシーナの喉元にナイフをピタリとくっつけた。
+<span class="name">ジョー</span> : 「まっ……待って、ヒナコさん！」
+<span class="name">ヒナコ</span> : 「るせぇ！！」
+<span class="name">シーナ</span> : 「あ、ああっ……」
+<span class="name">ヒナコ</span> : 「あたいをブチのめすって謳ったよな？」
+<span class="name">シーナ</span> : 「そんなの知らない……ジョーくん、ねえ、ジョーくん助けて！！」
+<span class="name">ヒナコ</span> : 「知らないだぁ？　くく、あはは……！！　おいおい、今更そんなの通用すると思ってんのか？　なめられたもんだなぁ、おい！」
+<span class="name">ジョー</span> : 「ヒナコさん、この娘は……違うんです。話を聞いてくださいって！！」
+<span class="name">ヒナコ</span> : 「さっきも言ったろ？　おめぇらの話なんざ、もう聞く気なんかねぇよ」
+<span class="name">ジョー</span> : 「ヒナコさん……！！」
+<span class="name">ヒナコ</span> : 「どういうつもりで態度を変えたか知らねえけど……都合が悪くなったからって、バックレられると思うなよ？」
+駄目だ、ヒナコさんの視界に僕はまったく入ってない。
+シーナのことしか見ていない。
+<span class="name">シーナ</span> : 「ジョーくん、こ、怖いっ……やだぁっ！」
+<span class="name">ヒナコ</span> : 「初めて会った時の威勢はどうしたんだい？　旗色が悪くなったら、簡単に尻尾、巻きやがって……くくっ、あげくに男に泣きつきかい？」
+<span class="name">ヒナコ</span> : 「呆れたねぇ。反吐が出る……！！」
+<span class="name">シーナ</span> : 「ジョーくん、ねえ、ジョーくん！！」
+<span class="name">ジョー</span> : 「うっ……あ……」
+<span class="name">ジョー</span> : 「ああああっ……！」
+思わず僕はヒナコさんの持つナイフを掴んだ。
+<span class="name">ヒナコ</span> : 「……いったい、どういうつもりだ？　あたいは、嬢ちゃんと話してんだ。邪魔すんなよ」
+<span class="name">ジョー</span> : 「僕の話を聞いてください」
+<span class="name">ヒナコ</span> : 「聞けねぇって言ったろ？」
+<span class="name">ジョー</span> : 「それでも聞いてください」
+<span class="name">ヒナコ</span> : 「テメエ……馬鹿か？　あたいは話を聞く気はねえつった。それと……」
+<span class="name">ヒナコ</span> : 「あたいがちょいとナイフを引いたら、指がバラバラだぜ？」
+ヒナコさんは僕の方を見ずに、冷たくそう言い放った。
+<span class="name">シーナ</span> : 「ジョーくん、駄目だよ……ジョーくん」
+<span class="name">ジョー</span> : 「いいんだよ。これで……」
+<span class="name">ヒナコ</span> : 「へえ……面白え。試してみるかい？」
+<span class="name">ジョー</span> : 「それで、僕の話を聞いてくれるんだったら……」
+僕はナイフを掴む指に、さらに力を込めた。
+<span class="name">ヒナコ</span> : 「…………」
+<span class="name">ジョー</span> : 「っ……」
+<span class="name">ヒナコ</span> : 「ふん、ナヨっちいと思ってたけど、思ったより根性あるじゃねぇか。腑抜けちまった、こっちの嬢ちゃんより、よっぽど骨がある」
+<span class="name">ヒナコ</span> : 「いいだろう。一度だけチャンスをやる」
+<span class="name">ジョー</span> : 「それじゃ、話を……」
+<span class="name">ヒナコ</span> : 「話なんざ、もうどうでもいい。ここまで来たら、メンツの問題だ」
+<span class="name">ジョー</span> : 「じゃ、じゃあ、どうすれば……」
+<span class="name">ヒナコ</span> : 「あたいと勝負しな。万一勝てたら、全て目をつむってやる」
+<span class="name">ジョー</span> : 「勝負って……？」
+<span class="name">ヒナコ</span> : 「タツのバイクはどうした？　捨てちまったか？」
+<span class="name">ジョー</span> : 「いえ、近くの茂みに隠してあります……」
+<span class="name">ヒナコ</span> : 「いいだろう。それに乗ってついて来な」

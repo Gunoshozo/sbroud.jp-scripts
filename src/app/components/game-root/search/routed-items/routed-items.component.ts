@@ -5,13 +5,28 @@ import { RouteConfig, RouteItem, ChapterConfig, ChapterNav } from '../../../../m
 import { GlobalLoaderService } from '../../../../services/global-loader.service';
 import { RestApiService } from '../../../../services/rest.service';
 import { SearchableRoute, SearchableChapter } from '../../../models/search-config.model';
-import { FormGroup, FormControl } from '@angular/forms';
-import { HelperService } from '../../../../services/helper.service';
+import { FormGroup, FormControl, FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { NameHelper } from '../../../../helpers/name-helper';
+import { NgClass } from '@angular/common';
+import { RouterLink } from '@angular/router';
+import { TuiCarouselModule, TuiInputModule } from '@taiga-ui/kit';
+import { TuiButtonModule, TuiTextfieldControllerModule } from '@taiga-ui/core';
 
 
 @Component({
 	selector: 'routed-items',
-	templateUrl: './routed-items.component.html'
+	templateUrl: './routed-items.component.html',
+	standalone: true,
+	imports: [
+    NgClass,
+    RouterLink,
+    FormsModule,
+    ReactiveFormsModule,
+    TuiCarouselModule,
+    TuiInputModule,
+    TuiTextfieldControllerModule,
+    TuiButtonModule
+]
 })
 export class RoutedItemsComponent implements OnInit {
 
@@ -42,7 +57,7 @@ export class RoutedItemsComponent implements OnInit {
 
 	public filteredItems: SearchableRoute[];
 
-	constructor(private globalLoaderService: GlobalLoaderService, private helperService: HelperService, private restApi: RestApiService, private cdr: ChangeDetectorRef) { }
+	constructor(private globalLoaderService: GlobalLoaderService, private restApi: RestApiService, private cdr: ChangeDetectorRef) { }
 
 	ngOnInit(): void {
 		this.initControls()
@@ -81,10 +96,10 @@ export class RoutedItemsComponent implements OnInit {
 				this.initialItems[index].items = entry[1]
 			});
 			this.filteredItems = this.initialItems;
-			
+
 			const ciel = Math.ceil(window.innerWidth / 500);
 			this.carouselCount = Math.max(Math.min(ciel, this.filteredItems?.length), 1)
-			
+
 			this.globalLoaderService.setGlobalLoader(false);
 		})
 	}
@@ -120,7 +135,7 @@ export class RoutedItemsComponent implements OnInit {
 							},
 							requestOptions: {
 								headers: new HttpHeaders({
-									"Accept": "application/json;charset=utf-8"
+									"Accept": "application/json;charset=utf-8",
 								}),
 								responseType: 'text'
 							}
@@ -135,11 +150,10 @@ export class RoutedItemsComponent implements OnInit {
 							let name = ""
 							if (chapterConf.chapterOrder) {
 								key = chapterConf.chapterOrder[index];
-								name = this.helperService.resolveChapterName(chapterConf, index);
-
+								name = NameHelper.resolveChapterName(chapterConf, index);
 							} else {
 								key = `${index + 1}`
-								name = this.helperService.resolveChapterName(chapterConf, index + 1);
+								name = NameHelper.resolveChapterName(chapterConf, index + 1);
 							}
 							let fileLink = key
 							return {

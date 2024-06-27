@@ -1,0 +1,143 @@
+--choice If Have Key Tip ３度目のＥＮＤ
+<span class="name">常連客</span>: 潮ちゃん亡うなってまだ二日やろォ。しばらく休んでもええのによォ～～ッ。
+<span class="name">小舟アラン</span>: いえいえ……そういうわけにはいきません！どんな時でも生きている以上腹は減りますから。
+<span class="name">小舟アラン</span>: レストランちゅうのは、いっつも変わらずそこにないとあきません……！！
+<span class="name">小舟アラン</span>: 大事なんは日常ですわ。お客さんにとっても、私ら家族にとってもね…………。
+<span class="name">常連客</span>: ううっ……！！確かに今日も美味いわ……！！
+<span class="name">網代慎平</span>: （日常……。　アランが守ろうとしているのは　いつも通りの「日常」）
+<span class="name">網代慎平</span>: （でも……明日の９時――　あとほんの数十時間で、　日都ヶ島の日常は真っ黒な影に飲み込まれる……）
+<span class="name">網代慎平</span>: （そんなことさせてたまるか……！！　もう……二度と！！）
+<span class="name">小舟澪</span>: 消えたって……。小早川さんとこ一家全員がですかっ！？
+<span class="name">小舟アラン</span>: 小早川さん、昨日も私に声かけてくれたのに……。
+<span class="name">凸村哲</span>: まァまだ詳しい事は言えませんけど、もうすぐ本土から刑事が来ますわ！
+<span class="name">網代慎平</span>: （影を駆除していけば、　行方不明者はこれからどんどん増えるだろう）
+<span class="name">網代慎平</span>: （それだけ影が増えているということでもあるんだ）
+<span class="name">凸村哲</span>: せや！慎平くんに渡しとかなあかんモンあんねん！
+<span class="name">網代慎平</span>: ！！
+<span class="name">小舟澪</span>: まさかこれ、お姉ちゃんの携帯！？
+<span class="name">凸村哲</span>: 潮ちゃんなァ、亡くなる前日にオレんとこ来てよォ。預かっといてくれってソレ……置いてったんや。
+<span class="name">凸村哲</span>: 「もし私に何かあったら慎平くんに渡して欲しい」ってな。
+<span class="name">網代慎平</span>: （そういえば、潮は何を考えてこれを……。　まさか……この中に重要な情報が入ってるのか！？）
+<span class="name">網代慎平</span>: 澪、パスワードわかる？
+<span class="name">小舟澪</span>: お姉ちゃんの誕生日ちゃうかな。
+<span class="name">網代慎平</span>: いや……開かない。
+<span class="name">網代慎平</span>: （やはりというか……　前回のループでは色々試したが解けなかった）
+<span class="name">小舟澪</span>: パスワード変えたんかな……？
+<span class="name">網代慎平</span>: うーん……。
+<span class="name">網代慎平</span>: （意図的に変更されている……）
+<span class="name">網代慎平</span>: （４ケタの数字の組み合わせは　１０の４乗で１万通りか……。　とても今日明日では解けない……）
+<span class="name">網代慎平</span>: （まてよ……！　あいつ……潮ならパスワード知ってるんじゃ……？）
+<span class="name">網代慎平</span>: （よし……　これは後であいつに見せてみるとして……）
+--choiceEnd
+--choice Else If Have Key Tip ２度目のＥＮＤ
+”19.ランチタイム②”
+”7月23日”
+<span class="name">小舟澪</span>: あっ！お帰り慎ちゃん！
+<span class="name">小舟澪</span>: どうやった？しおりちゃん……。
+<span class="name">網代慎平</span>: う……うん……。
+<span class="name">網代慎平</span>: （どう話したらいいものか……　すでに影に入れ替わってましたと　言うわけにも……）
+<span class="name">凸村哲</span>: いやァ～～～ッ、あっついあっつい！！
+<span class="name">小舟澪</span>: いらっしゃいませー。
+<span class="name">網代慎平</span>: （凸村さん……。　小早川家の確認に行ってから　ここに来たってことだよな）
+<span class="name">凸村哲</span>: あっ。
+<span class="name">凸村哲</span>: コラ慎平くんっ！おまえ何や、昨日の通報ウソやんけ！！どこで乱闘ら――
+<span class="name">網代慎平</span>: いつものＢランチエビフライ追加でライス中盛りね！
+<span class="name">凸村哲</span>: ……よ、ようわかっとるやんけェ……。
+<span class="name">小舟澪</span>: ――えっ、消えたって……。小早川さんとこ一家全員がですかっ！！？
+<span class="name">凸村哲</span>: まァな……。
+<span class="name">小舟澪</span>: ホンマなん、慎ちゃん！！
+<span class="name">網代慎平</span>: ああ……。
+<span class="name">凸村哲</span>: おまえも汐見さんと中入ったらしなァ？
+<span class="name">網代慎平</span>: あ……ハイ。
+<span class="name">凸村哲</span>: 後で話聞かせてや。
+<span class="name">小舟アラン</span>: そんな……。小早川さん、昨日も私に声かけてくれたのに……。
+<span class="name">凸村哲</span>: ですよねェ～～。まァ、まだ詳しい事は言えませんけどもうすぐ本土から刑事が来ますわ！
+<span class="name">網代慎平</span>: （凸村さんの対応が違う……）
+<span class="name">網代慎平</span>: （よかった……本物の凸村さんが　影に殺されるのを防いだからだろう。　こっちが本物なんだ！）
+<span class="name">網代慎平</span>: （頼りなく見えても一応警官だ。　小早川しおりの正体が何かわからないなら、　ここは警察の力を頼ることも……）
+<span class="name">網代慎平</span>: あのっ……！
+<span class="name">凸村哲</span>: せや！
+<span class="name">網代慎平</span>: （おっと、被ってしまった。　どうしよう）
+--choice　「相談したい事があるんですけど」
+<span class="name">網代慎平</span>: ちょっと相談したい事があるんですけど……。
+<span class="name">凸村哲</span>: どないしたん、改まって。
+--choiceEnd
+--choice　「時間を作って欲しいんですけど」
+<span class="name">網代慎平</span>: ちょっと時間を作って欲しいんですけど……。
+<span class="name">凸村哲</span>: 別にええけど……でも東京でヤバイ連中と関わってもうたとか、そないな話やったらまた今度にしてや。
+<span class="name">網代慎平</span>: んなわけないでしょうが！……ただ、ちょっと相談したい事があって。
+<span class="name">凸村哲</span>: ふ～ん、どないな話なん？
+--choiceEnd
+--choice　「凸村さんがお先にどうぞ」
+<span class="name">網代慎平</span>: 凸村さんがお先にどうぞ。
+<span class="name">凸村哲</span>: ああ、ええんか？んじゃ……。
+<span class="name">凸村哲</span>: おまえに渡しとかなあかんモンがあんねん！ホレ！
+<span class="name">網代慎平</span>: <span class="dict">スマホ</span>……？
+<span class="name">小舟澪</span>: あっ！！まさかこれっ…お姉ちゃんの！？
+<span class="name">網代慎平</span>: …………！
+<span class="name">凸村哲</span>: 潮ちゃんなァ……亡くなる前日にオレんとこ来てよォ……。預かっといてくれってソレ……置いてったんや。
+<span class="name">凸村哲</span>: 「もし私に何かあったら　慎平くんに渡して欲しい」ってな……！！
+<span class="name">網代慎平</span>: 潮が……これをオレに……！？
+<span class="name">凸村哲</span>: まるでよォ……分かってたみたいやろ？潮ちゃん……。自分に何が起きるか……。
+<span class="name">網代慎平</span>: …………。
+<span class="name">網代慎平</span>: （潮、おまえは何を知っていて、　何を考えていたんだ……）
+<span class="name">網代慎平</span>: （色々ありすぎて、　思考がこんがらがりそうだ……）
+--choiceEnd
+--choiceEnd
+--choice Else on the first run
+”7月23日”
+<span class="name">網代慎平</span>: （７月２３日――　葬儀の翌日、アランはもう店を開けた）
+<span class="name">網代慎平</span>: （オレは澪と一緒に店を手伝うことにした）
+<span class="name">網代慎平</span>: （喪失感を紛らわせるには体を動かすのが一番だ。　アランや澪もきっとそう思っていたんだと思う）
+<span class="name">網代慎平</span>: （幸いなことに、　この日のランチタイムは大繁盛だった）
+<span class="name">網代慎平</span>: アラン、注文。Ａランチひとつ、Ｂランチふたつ。
+<span class="name">小舟アラン</span>: はいよォ！
+<span class="name">中村</span>: 慎平くん、慎平くん！ちょっと！
+<span class="name">網代慎平</span>: はい、なにか追加で注文ですか？お酒なら、ほどほどにしたほうがいいですよ？
+<span class="name">中村</span>: いやいや、違うて！捜してる人見つかったんかァ？
+<span class="name">網代慎平</span>: え？捜してる人……？
+<span class="name">中村</span>: おまん今朝会うた時、言うてたいしょ！！
+<span class="name">中村</span>: ホレ！！眼鏡かけててェ～巨乳の女探してるて！！
+<span class="name">網代慎平</span>: はァッ！？
+<span class="name">網代慎平</span>: （そんなことを話した覚えはないし、　そもそも中村さんとは会ってもいないぞ？）
+<span class="name">網代慎平</span>: それほんまにオレでした？昼間っから飲みすぎですよ中村さん！
+<span class="name">中村</span>: あれェ～～～！？
+<span class="name">網代慎平</span>: いらっしゃいませーっ！
+<span class="name">凸村哲</span>: いやァ～～～～ッあっついあっつい！！いつもの頼むわ。
+<span class="name">網代慎平</span>: えっ？
+<span class="name">凸村哲</span>: さてと……フフヒッ。
+<span class="name">網代慎平</span>: あの……いつものって……？
+<span class="name">凸村哲</span>: ん！？　うわおっ！！なんや！！　慎平くんやんか！
+<span class="name">凸村哲</span>: ……潮ちゃんのこと……何ちゅうたらええか……。
+<span class="name">網代慎平</span>: ……そんなん、エロサイト見ながら言われても……。
+<span class="name">凸村哲</span>: す、すまん……。日課でつい……。
+<span class="name">網代慎平</span>: 警官の日課がそれですかっ？
+<span class="name">網代慎平</span>: （この人は<span class="dict">凸村哲</span>。小舟家の親戚であり、　島の駐在所に住む警察官……）
+<span class="name">網代慎平</span>: （……らしいけど、この様子を見てると　なんとも言えない気分になる）
+<span class="name">小舟澪</span>: あ、哲さんいらっしゃい～～っ。
+<span class="name">凸村哲</span>: 澪ちゃん！今日もカワイイでェ～～～～ッ。
+<span class="name">網代慎平</span>: （エロ警官……）
+<span class="name">小舟澪</span>: いつものＢランチ、エビフライ追加でライス中盛りね！
+<span class="name">凸村哲</span>: おう、よろしく！慎平くん、今のがオレの『いつもの』や。よう覚えとくんやで！
+<span class="name">網代慎平</span>: はあ……。
+<span class="name">小舟澪</span>: 哲さん、今朝はどないしたんですか？モーニング食べに来んかったですね！
+<span class="name">凸村哲</span>: せやねん……ちょっと聞いてくれる！？えらい大変やったんやでェ！
+<span class="name">凸村哲</span>: 実はなァ……小早川さんとこ、一家全員消えてしもてん。
+<span class="name">小舟澪</span>: え……。
+<span class="name">網代慎平</span>: 消えた！？
+<span class="name">凸村哲</span>: <span class="dict">神かくし</span>みたいになァ……。どや！！　大事件やろォ？
+<span class="name">網代慎平</span>: ちょっと待ってください！小早川ってあの……コバマートの……！？
+<span class="name">凸村哲</span>: 慎平くん、ちょっと顔貸し。あんまし大声で話すことやないさけ。
+<span class="name">網代慎平</span>: あ、はい。
+<span class="name">凸村哲</span>: 今朝な……８時になってもコバマート開いてない言うて……。
+<span class="name">凸村哲</span>: 隣のホレ……汐見の奥さんが母屋の方のぞいたらやなァ……。
+<span class="name">凸村哲</span>: 中はもぬけのカラ！
+<span class="name">凸村哲</span>: まァあの店……ようけ借金抱えとったみたいやし、夜逃げかもわからんなァ……！！
+<span class="name">網代慎平</span>: と、凸村さんこそ声が大きいですよ！
+<span class="name">小舟澪</span>: ……っ。
+<span class="name">小舟アラン</span>: おっ……おい、澪！？
+<span class="name">網代慎平</span>: 澪、どこ行くつもりや！！
+<span class="name">凸村哲</span>: アララ……。
+<span class="name">小舟アラン</span>: 慎平、店のことはええから、すまんが澪を頼むわ。
+<span class="name">網代慎平</span>: わかった！
+--choiceEnd

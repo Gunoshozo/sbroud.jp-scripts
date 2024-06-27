@@ -1,24 +1,20 @@
 <div class="search-items">
-    <!-- <tui-primitive-textfield class="items-list_filter-field" [tuiTextfieldIcon]="'tuiIconSearchLarge'"
-        [tuiTextfieldFiller]="''"
-        [tuiTextfieldCleaner]="true" [(value)]="searchString">
-        Search for text in scenarios
-        <input tuiTextfield />
-    </tui-primitive-textfield> -->
-    <form class="items-list_filter-field" [formGroup]="searchForm">
-        <tui-input  
-            [formControlName]="'search'"    
-            [tuiTextfieldIcon]="'tuiIconSearchLarge'"
-            [tuiTextfieldCleaner]="true">
-            Search for text in scenarios
-            <input tuiTextfield />
-        </tui-input>
-    </form>
+  <form class="items-list_filter-field" [formGroup]="searchForm">
+    <tui-input
+      [formControlName]="'search'"
+      [tuiTextfieldIcon]="'tuiIconSearchLarge'"
+      [tuiTextfieldCleaner]="true">
+      Search for text in scenarios
+      <input tuiTextfield />
+    </tui-input>
+  </form>
 
-    <div class="search-items-grid">
-        <div *ngFor="let item of filteredItems">
-            <a [routerLink]="item.routerLink"><button appearance="custom" class="items-list_item-button" tuiButton type="button">
-                    {{item.name}}</button></a>
-        </div>
-    </div>
+  <div class="search-items-grid">
+    @for (item of filteredItems; track item) {
+      <div>
+        <a [routerLink]="item.routerLink"><button appearance="custom" class="items-list_item-button" tuiButton type="button">
+        {{item.name}}</button></a>
+      </div>
+    }
+  </div>
 </div>

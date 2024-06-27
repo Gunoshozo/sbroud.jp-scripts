@@ -1,0 +1,134 @@
+あれだけ叫んでいた声はすでに聞こえなくなっていた。
+もはや、煙のように消えてしまった、って表現したほうがいいかもしれない。
+--choice Max Aria flags or no Max flags
+<span class="name">悠太</span> : まさかねぇー
+<span class="name">稜歌</span> : ガモタン、どうしたの？
+<span class="name">悠太</span> : ホントに神様だったのかもって……
+--choiceEnd
+--choice Max Touko flags or Miyuu Max flags
+そういえばネットで、井の頭公園には『神様』がいるっていう噂があったけど……
+<span class="name">悠太</span> : まさかねぇー
+<span class="name">稜歌</span> : ガモタン、どうしたの？
+<span class="name">悠太</span> : あの声は、ホントに神様だったのかもって……
+--choiceEnd
+<span class="name">稜歌</span> : ガモタンとりょーたすは神様に選ばれた存在なのです～☆
+<span class="name">悠太</span> : だったら神様の力とか使ってみたいよ
+神話で出てくるような武器とか魔術。そこまで大袈裟なものじゃなくていいけど、手から道具を召喚したり、瞬間移動ができたり。
+厨二病って言われたらおしまいだけどさ、男なら誰でも一度は憧れると思うんだよね。そういうのってさ。
+<span class="name">稜歌</span> : りょーたすは、ガモタンの動きを止めることができるのです
+<span class="name">悠太</span> : へえ、どうやって？
+<span class="name">稜歌</span> : こうやってだよぉ☆
+りょーたすの手には玩具のような銃が一丁。それって――。
+<span class="name">悠太</span> : ちょ、りょーたす！？　のーー、ポヤガン！
+ニコニコと満面の笑みのりょーたすは僕にポヤガンを向けてくるけど、引き金を引くことはなかった。
+笑顔でポヤガンを構えたまま動かないりょーたす。僕も微動だにせず固まった。
+<span class="name">稜歌</span> : ほら、ガモタン、止まった
+え？　あ、そういうことね……
+<span class="name">稜歌</span> : これがりょーたすの力なんだよ～
+<span class="name">悠太</span> : それって僕にのみ効果を発揮するんじゃないかな
+<span class="name">稜歌</span> : りょーたすはガモタンの使い魔だから☆
+主の動きを止める使い魔ねえ。なんかラノベでありそうな設定だなあ。でも、ポヤガンの威力を知っている人なら僕と同じような反応をすると思う。
+<span class="name">悠太</span> : りょーたすさ、僕以外に撃ったりしないの？
+<span class="name">稜歌</span> : 人に銃を向けちゃいけないよぉ？
+<span class="name">悠太</span> : 僕は何なんですかね
+<span class="name">稜歌</span> : りょーたすはガモタンの使い魔☆
+どういうこと？　僕だけ特別ってこと？
+りょーたすのことだから、そんなに深い意味はないんだろうけど……
+そんなやりとりをしていると、吉祥寺駅が見えてくる。横断歩道を渡って駅に近づくたびに電車の音も大きくなる。
+<span class="name">悠太</span> : じゃ、りょーたす。また明日
+<span class="name">稜歌</span> : ばいば～い
+僕たちの別れの挨拶はこれだけ。でも、『また明日』なんて言える女の子がいるなんて、本当に勝ち組だよねえ。
+それがりょーたすっていう美少女ならなおさら。
+りょーたすが駅前の人ごみに消えていく背中を見つめながらそう思う。
+その背中が見えなくなったころ、僕も家へ帰るために歩き出した。
+僕が家に帰るころには日光の温かさなんて残っていなくて、住宅街の間を駆け抜ける風が僕の身体に吹き付けていた。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+暖房がかかっていない室内でも、外に比べれば温かい。無風になるだけでもこんなに違うのかと、しみじみ思う。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">悠太</span> : さてさて、みゅうですよ、みゅう <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+部屋に上がり込み、手洗いなどを一通り済ませた後、僕はノートPCを起動して、毎度お馴染みのニコニコ動画のサイトを開く。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+この間の分は上がってるかなあ…… <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+僕が見逃したみゅうのニコ生。本格的にネタとして扱うかどうか決めるまで、じっくり調べておかないといけない。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+前回、軽く記事を出してみてバサラーの反応を試してみたけど、思っていたよりは反応が良くなかった。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">悠太</span> : なんか、こう……。みゅうが人気になるような出来事があればなあ…… <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+ネットの生放送だけじゃなくて、全国放送に出演するとかさ。そうなったら、顔は可愛いし、みゅうの人気は爆発的に伸びるはず。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+あ、始まった。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+動画の読み込みが終わり、薄暗い部屋に画面が切り替わる。どこかわからないけど、こんなに雰囲気をつくれる場所ってどこだろ……。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : あなたの"ビジョン"、見せてください <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+殆ど聞き取れないくらいの声量でつぶやくそのセリフは、なんだか告白されたような気分になる。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : 今日も茶化してくる人多いなあー <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+画面内に、視聴者のコメントがどんどん書き込まれて、右から左へと流れてく。長文コメントも流れいくもんだからみゅうの顔が見えない。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : どもぉ。初めての人は初めまして。そうじゃない人はおひさ～。生主のみゅうです <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : 今日も『みゅうのニっコニコ生占い☆』を見に来てくれてサンキューです。超絶うれしいよー <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : せっかく来てくれたんだから楽しんでってくださいね♪ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : <span class="chapter-reading_special-1">子犬様</span>たちだからってそんなにナメんな～ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+みゅうは苦笑いをしつつ軽く流してるけど、真面目に見ている人間からすればウザいだけなんだよね。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+それを聞いたリスナーは調子に乗ったようにコメントを投げつけていく。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">悠太</span> : こ、これは酷い…… <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+僕がみゅうを初めて知ったときも酷いコメントが多かったけど、やっぱり知名度が上がっていくにつれていろいろなコメントがある。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : うみゅぅ、これ以上のキモいコメントはこっちで削除しちゃいますからね。マジ容赦しないんで <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : というわけで、準備いいですかぁ？　みゅうの番号はこちらでぇす <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+おなじみの電話番号が表示される。何度か放送時間外にかけてみたりしたけど、電話に出ることはないし、ストーカー扱いされるのも嫌で今はかけていない。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : って、みんなかけるの早すぎだしっ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+電話番号が表示された瞬間にモニタの向こうで鳴り響く着信音。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+これも同じように、すぐには電話を取らない。相談者を直感で選んでいる感じがして、この演出はいいと思う。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+そんな電話番号にも、実は怪しい噂があったりする。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+これはネットで言っていた古参の情報だけど、どうやらみゅうに繋がる"幻の電話番号"っていうのがあるらしい。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+言ってしまえば、プライベート用の携帯番号。でも、不思議なことにこれだけ知名度があがっても、そんな番号が流出したっていう話は聞かない。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+もしかして電話番号を変えたりしたのかなあ。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+このコメントを見るかぎり、人気の上がりかたはハンパない。そんななかでプライベート用の電話番号なんて怖くて使えないよね。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+そんなことを考えているうちに動画は進んでいく。シークバーを見る限り、この動画では次の相談者が最後っぽい。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+みゅうが鳴り響く携帯を取ると、よく言えば中性的、悪く言えば幼さを感じさせる声が聞こえてきた。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">ＨＮ銭型</span> : あ、みゅうちゃん？　僕だよ僕！　銭形だよ～。って、これハンドルネームだけどね <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">ＨＮ銭型</span> : わ～、嬉しいなあ、こうしてみゅうちゃんとお話しできるなんて。幸せだなあ、今日だけで運を使い切っちゃったよぉ、テヘ☆ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+僕が見た動画の中でも、かなりの信者。ヤバい。変にテンションが高いし、初対面のはずなのにすごく馴れ馴れしい。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+--choice If Max Miyuu flags
+<span class="name">悠太</span> : あれ、この声…… <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+もしかして、今日、井の頭公園でカードの整理をしていた社会人……？　いや、でも。あの時だって勤務時間だったみたいだし……。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+この時間で相談するのは難しいんじゃあ…… <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+--choiceEnd
+<span class="name">みゅう</span> : お名前はぁ、銭形さんでいいんですか？ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">ＨＮ銭型</span> : はい、それで。さっそく、質問があるんだけどみゅうちゃんの趣味とか教えてくれる？ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : え、いきなり逆質問とかあり得ないんですけど…… <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+ごもっともですな。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+リスナーのコメントでも『とっとと電話切るべき』『こいつうぜえええ』『相手する必要ないよ、みゅう』なんて言う反応が多い。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">ＨＮ銭型</span> : あ、質問はひとつだけじゃないよ。もうひとつ、好きな男性のタイプも知りたいな。"優しい人"みたいなありきたりな答えはできれば避けてね <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">ＨＮ銭型</span> : あとさ、アイドルになる気ってある？　もしそのつもりなら、僕は全力で君を推してあげるからね <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : 相談するつもりがないなら、電話切っちゃいますけどぉ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">ＨＮ銭型</span> : あー！　切らないで！　切らないでくださいって！　あなたのファンなんですから！ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : それで、銭形さん。ご相談は？ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">ＨＮ銭型</span> : そうそう！　それなんですけど、どんなことでも占えますか？ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : ……ん～、まあ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+みゅうにしては歯切れの悪い返事。擁護するわけじゃないけど、どんなことでも占えますかって聞かれたら、そりゃあ、考えるし。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+僕だって、キリバサは超常現象なら何でも記事にしますか？　って聞かれたら、返答に困る。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">ＨＮ銭型</span> : じゃあ質問です <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">ＨＮ銭型</span> : みゅうちゃんは、ひとりかくれんぼ実況男の話はご存じですか？ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+え、それって…… <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">ＨＮ銭型</span> : その行方不明になった男性の所在について、ぜひみゅうちゃんに占ってもらいたいんです <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : …… <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+リスナーたちは、戸惑ったようなコメントを書き込んでいる。それもそうだ、キリバサでもとりあげているけど、それなりに話題の事件だから。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">ＨＮ銭型</span> : みゅうちゃん、どうしました？　できませんか？ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : …… <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+みゅうは沈黙を貫き続けていた。表情ではよくわからないけど、おそらく本人も戸惑っているんだと思う。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+それに、占うにしてもあまり乗り気になることはできないと思う。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+ここぞとばかりにコメントが増えていく。それは『占うべきではない』というコメント。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+みゅうは画面端に視線を送り、やがて、カメラに視線を戻す。……決断したみたいだ。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : やってみます <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+みゅうは、それなりに落ち着いてタロットカードを手に取っていたけど、今度は自棄を感じる手つきでカードを捲った。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : 開け、<span class="dict">イェソド</span>！ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+カードを手に取り、裏返したとき、みゅうの表情は一瞬にして曇った。悪いことが見えたのか、良いことが見えたのかはわからない。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : ……っ！　水底……、暗くて……、ひとりじゃなくて…… <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">ＨＮ銭型</span> : みゅうちゃん、どうでしたか！？　見えましたか！？　見えたんですよね！？　水底って、どういう意味です！？　男性は生きているんですか！ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : 男の人は、水の中にいて、周囲に、たくさんの人が見えました。空には、満月があって…… <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">ＨＮ銭型</span> : 生きていますか！？ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : 生きてるかどうかは―― <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+みゅうは一瞬、言いよどんで。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : 今は生きてます <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+静かに、小さく。擦れた声でつぶやいた。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">みゅう</span> : ただ、その先の未来は……、よく、分かんなかっ―― <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+唐突に暗くなる画面。さっきまで動画が流れていたところには、驚いた僕の顔が映っている。シークバーは最後まで移動していた。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">悠太</span> : え、え？　え！？　いいところだったのに！　こんなところで終わるとか動画製作者ありえん！ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+僕は続きの動画がないか探してみたけど、この回の動画は他に存在していなかった。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+さっきの動画に戻ってF５を連打してみたけど、やっぱり続きはない。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+<span class="name">悠太</span> : くわぁぁー！　めっちゃ気になるんですけど！？　ネタにしたくなるんですけど！？ <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+動画の続きを探しまくって気づいたら、すでに今日は終わっていた。午前３時過ぎを示す時計を見ながらため息をつく。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+明日は土曜だし、もうちょっと起きていよう…… <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>
+昼夜逆転しないことを願いながら、僕はキーボードに手を重ねた。 <span><img src="assets\images\o9\mmm-trigger.webp" alt="" class="inline-icon"></span>

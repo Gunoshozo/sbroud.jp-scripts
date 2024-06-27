@@ -1,0 +1,38 @@
+”7月23日”
+<span class="name">網代慎平</span>: …………！！
+<span class="name">菱形窓</span>: ……も、戻ったか……。
+<span class="name">網代慎平</span>: ……いっつ……。
+<span class="name">網代慎平</span>: （目が……右目が痛む……）
+<span class="name">ウシオ</span>: …………！？
+<span class="name">ウシオ</span>: 慎平、その腕！
+<span class="name">網代慎平</span>: えっ……腕？
+<span class="name">網代慎平</span>: っ！！
+<span class="name">網代慎平</span>: （あ……あいつにつかまれた<span class="dict">跡</span>が……！？）
+<span class="name">菱形窓</span>: 大丈夫かっ！？
+<span class="name">網代慎平</span>: あ……ああ、痛みとかはないけど……。
+<span class="name">網代慎平</span>: つかまれた後……シオリちゃんの顔が違って見えた……。
+<span class="name">ウシオ</span>: えっ！？
+<span class="name">菱形窓</span>: どういうこっちゃ……！？
+<span class="name">網代慎平</span>: （見たのはオレだけか……！！）
+<span class="name">網代慎平</span>: （まちがいない……！！　あれは夏祭りの最後に現れた　赤い着物の女の子……！！）
+<span class="name">網代慎平</span>: （でも「見つけた」って……　どういう意味なんだ！？）
+<span class="name">網代慎平</span>: ……なあ、潮。おまえは、しおりちゃんの影との戦いで記憶にダメージを負ったんやな？
+<span class="name">網代慎平</span>: あいつの力で、黒いドロドロの『素体』みたいにされて……。
+<span class="name">ウシオ</span>: そう……でもあいつは、時間がなくて私を完全には消せやんかった。
+<span class="name">ウシオ</span>: 残されたデータから、なんとか体を復元して……私は帰って来られた。
+<span class="name">ウシオ</span>: こうやって、慎平に<span class="dict">真実</span>を伝えることもできた！！
+<span class="name">網代慎平</span>: ああ…………！
+<span class="name">菱形窓</span>: ん……？　あ、雨！？
+<span class="name">菱形窓</span>: マジか！？ホンマに降ってきよった……！！
+<span class="name">網代慎平</span>: だから傘いる言うたろ？
+<span class="name">菱形窓</span>: お……おう！！
+<span class="name">菱形窓</span>: す……すげェ～～ッ。さ、さすが慎平……！！時間までフカンしよった……。
+<span class="name">網代慎平</span>: それより、窓。これから旧病棟へ行くぞ！
+<span class="name">菱形窓</span>: な！？こ……これからァ！？
+<span class="name">菱形窓</span>: こんな雨ん中か？あそこは山の奥やぞ！？もうじき日ィ暮れるしよォ……。
+<span class="name">網代慎平</span>: それがどうした！潮は行った！時間がないんや！！
+<span class="name">菱形窓</span>: …………！！
+<span class="name">網代慎平</span>: イヤなら来んでもええ！場所は潮が知ってる。
+<span class="name">ウシオ</span>: 慎平コラ！
+<span class="name">菱形窓</span>: ホンマ……おまえっちゅう奴は……。
+<span class="name">菱形窓</span>: アホがっ！行くに決まっちゃあるやろ！！

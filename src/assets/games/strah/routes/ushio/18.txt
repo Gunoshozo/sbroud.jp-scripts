@@ -1,0 +1,51 @@
+<span class="name">網代慎平</span>: （あの後も小早川家の中を見てまわったが　当然ながら誰の姿も　見つけることはできなかった）
+<span class="name">網代慎平</span>: （汐見さんが駐在所に電話してから　オレは小早川家を後にした）
+<span class="name">網代慎平</span>: （小早川家に起きる事態は、変えられなかったのだ）
+<span class="name">網代慎平</span>: …………。
+<span class="name">網代慎平</span>: （オレが何もせずにこのまま昼が過ぎれば……）
+<span class="name">網代慎平</span>: （フェリーで乗り合わせたあの女性も、　また同じように殺されてしまう……）
+<span class="name">網代慎平</span>: （あの人……　死ぬ直前、オレに何かを伝えようとしていた）
+<span class="name">網代慎平</span>: （彼女は何かを知っている……）
+<span class="name">網代慎平</span>: （今ならまだ助けることが出来るかもしれない）
+<span class="name">網代慎平</span>: （今回、オレはまだ彼女に会えていない）
+<span class="name">網代慎平</span>: （目覚めたのが港だったし、　その後の流れにも　前回までから変化が起こってしまっていた）
+<span class="name">網代慎平</span>: （フェリーを降りた後、　あの人はどこに向かったんだ？　足取りを調べる方法は……）
+--choice 旅館をまわる
+<span class="name">網代慎平</span>: （あの荷物の量……　日帰りの観光客とは思えない）
+<span class="name">網代慎平</span>: （よし、旅館を回ってみよう）
+<span class="name">網代慎平</span>: （オレは島にある４つの宿を訪ねて回った。　安眠家、なかむら、とまうら、魚住……）
+<span class="name">網代慎平</span>: （そして、民宿なかむらの御主人である　中村さんから情報が得られた）
+<span class="name">網代慎平</span>: スーツ姿の……ロングの黒髪で、眼鏡かけてて……。
+<span class="name">中村</span>: さァよォ～～～ッ。今は毎日お客さんぎょうさん来てくれるさけなァ。
+<span class="name">中村</span>: 他にもっと、わかりやすい特徴らないんか？
+<span class="name">網代慎平</span>: んん……あとは……。
+<span class="name">網代慎平</span>: …………！
+<span class="name">網代慎平</span>: その人、めっちゃ……！そ、その……なんていうか……大きいです！
+<span class="name">中村</span>: 大きい……？ああ、あの人！　おったおった！たしかにウチに来てたわ！！
+<span class="name">網代慎平</span>: （つ、通じた……のか？）
+<span class="name">中村</span>: せやけど泊まり客ちゃうわ。昨日の夕方かなァ～～ウチのホレ……カフェ～～の方に来とったんや！
+<span class="name">中村</span>: 慎平くんも寄ってかんか？カフェ～～。
+<span class="name">網代慎平</span>: （そうだ、思い出した……）
+<span class="name">網代慎平</span>: （最初に死んだ７月２３日。　コフネに来ていた中村さんが　妙なことを言っていた……）
+<span class="name">中村</span>: おまん今朝会うた時、言うてたいしょ！！
+<span class="name">中村</span>: ホレ！！眼鏡かけててェ～巨乳の女探してるて！！
+<span class="name">網代慎平</span>: はァッ！？
+<span class="name">網代慎平</span>: それほんまにオレでした？昼間っから飲みすぎですよ中村さん！
+<span class="name">網代慎平</span>: …………。
+<span class="name">網代慎平</span>: （葬儀場でオレは、　影のしおりちゃんにコピーされた）
+<span class="name">網代慎平</span>: （その次の日、コピーされたオレの影が、　あの女性を探していたということになる）
+<span class="name">網代慎平</span>: （オレの影も、あの人の動向を　知ろうとしている……）
+<span class="name">網代慎平</span>: （やはり、あの人が。　何かの鍵を握っているらしい）
+<span class="name">網代慎平</span>: （だが結局、あの女性はどこにも宿泊しておらず　足取りをつかむことはできなかった）
+<span class="name">網代慎平</span>: （名前すらもわからない……）
+<span class="name">網代慎平</span>: （限界なのか……オレ一人の力では……）
+--choiceEnd
+--choice 聞き込みをする
+<span class="name">網代慎平</span>: （ともかく聞き込みをしてみよう。　きっと、あの人を見かけた人が、　どこかにいるはずだ）
+<span class="name">網代慎平</span>: （オレは喫茶店、<span class="dict">灯台</span>、日都神社などを回って、　聞き込みをしてみた）
+<span class="name">網代慎平</span>: （そして、ひとつの目撃証言を得ることができた。　昨夜、住宅街のほうへ歩いていくのを見た……と）
+<span class="name">網代慎平</span>: （あの人は観光客ではなく、　島民の親戚だったのかもしれない）
+<span class="name">網代慎平</span>: （だが、それ以上の情報は得られなかった）
+<span class="name">網代慎平</span>: （足取りをつかむことはおろか、　名前すらもわからない……）
+<span class="name">網代慎平</span>: （限界なのか……オレ一人の力では……）
+--choiceEnd

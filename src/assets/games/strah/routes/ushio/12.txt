@@ -1,0 +1,84 @@
+--choice If Have Key Tip ２度目のＥＮＤ
+<span class="name">網代慎平</span>: はァッ！！！！
+<span class="name">網代慎平</span>: ハァッ……ハァッ……ハァ……ハァ。う……。
+<span class="name">網代慎平</span>: （また……戻った）
+<span class="name">小弓場かおり</span>: 網代くん！大丈夫！？
+<span class="name">網代慎平</span>: 小弓場さん……？
+<span class="name">小弓場かおり</span>: ご、ごめんね！小舟さんのことで網代くんそれどころじゃないのに、無理言っちゃって。
+<span class="name">網代慎平</span>: （小弓場さんと港……あの時声をかけられて、　たしか、連絡先を交換して……）
+<span class="name">網代慎平</span>: ええっと……ごめん。正直、まだ気持ちが追いついてなくて。
+<span class="name">小弓場かおり</span>: 大丈夫！全然、気にしないで。
+<span class="name">小弓場かおり</span>: 私、もうちょっと島にいる予定だから。またどこかで話せたら嬉しいな。
+<span class="name">小弓場かおり</span>: それじゃあ……そろそろ行かなきゃ。またね、網代くん！
+--choiceEnd
+--choice Else On the first run
+<span class="name">船内アナウンス</span>: ―ご乗船、ありがとうございました。
+<span class="name">網代慎平</span>: …………。
+<span class="name">網代慎平</span>: （ま……待て待て……。　落ち着けって…………）
+<span class="name">網代慎平</span>: （ついさっき、「夢に決まってる」って　断言したばかりじゃないか）
+<span class="name">網代慎平</span>: （なのに……なんだこの……　つい昨日、同じことがあった感じは――）
+<span class="name">網代慎平</span>: （落ち着け落ち着け……こんな時はこれだろ。　自分をフカンで見て落ち着け……）
+<span class="name">さっきの少女</span>: ……あの。
+<span class="name">網代慎平</span>: は、はい！？
+<span class="name">さっきの少女</span>: ……ご、ごめんなさい。驚かせてしまって。
+<span class="name">網代慎平</span>: （さっき、隣にいた人だ。　何の用だろう？）
+<span class="name">さっきの少女</span>: あの……勘違いだったらすみません。もしかして、網代くん――じゃないですか？
+<span class="name">網代慎平</span>: え……？そ、そうですけど。
+<span class="name">さっきの少女</span>: やっぱり！合っててよかったァ。
+<span class="name">網代慎平</span>: どうしてオレの名前を？
+<span class="name">さっきの少女</span>: ……網代くん。私が誰だか、わかってない……よね？
+<span class="name">網代慎平</span>: っ！！す、すみません……。
+<span class="name">網代慎平</span>: ……え～～～、っと？
+<span class="name">さっきの少女</span>: ……仕方ないか。７年振りだし、そんなに話をしたこともなかったもんね。
+<span class="name">さっきの少女</span>: 覚えてないかな、網代くん？昔、同じ<span class="dict">小学校</span>に通ってた……。
+<span class="name">網代慎平</span>: 同じ小学校……？
+<span class="name">網代慎平</span>: ああっ！もしかして、小弓場さん！？
+<span class="name">網代慎平</span>: （思い出した！　<span class="dict">小弓場かおり</span>さん……小学校の時の同級生だ！）
+<span class="name">小弓場かおり</span>: そう！よかったァ、覚えててくれて。
+<span class="name">小弓場かおり</span>: 私、途中で転校しちゃったから、もう忘れられてるかと思ってた。
+<span class="name">網代慎平</span>: ごめん、すぐに思い出せなくて！小弓場さんって、たしか図書当番の……。
+<span class="name">小弓場かおり</span>: そう、その小弓場だよ！ほんと、久しぶりだね……網代くん！
+<span class="name">小弓場かおり</span>: 私がこの島を出てから、もう７年も経っちゃったんだね。
+<span class="name">網代慎平</span>: あァ。思えばあれから、全然連絡取ってなかったな……。
+<span class="name">網代慎平</span>: ……にしても、驚いた。あの頃からずいぶん変わったね。
+<span class="name">小弓場かおり</span>: え、そう？
+<span class="name">網代慎平</span>: 昔の小弓場さんって、もっと大人しい子って印象やったからさ。
+<span class="name">網代慎平</span>: 言い訳かもしないけど、さっき気づけなかったのは、それが理由で……。
+<span class="name">網代慎平</span>: なんだか明るくなったというか……。
+<span class="name">小弓場かおり</span>: 本当！？そう言ってくれると嬉しいな……ふふ。
+<span class="name">小弓場かおり</span>: そうだ。スーツケースを持ってるということは旅行か何かの帰り？
+<span class="name">網代慎平</span>: いや、今は東京で暮らしてるんだ。
+<span class="name">小弓場かおり</span>: そうなんだ？私と同じだね……！
+<span class="name">小弓場かおり</span>: 今日は帰省なの？それとも、なにか別の用事で？
+<span class="name">網代慎平</span>: あ……ええと……。
+<span class="name">小弓場かおり</span>: …………？
+<span class="name">網代慎平</span>: （……………………）
+<span class="name">網代慎平</span>: 実は……。
+<span class="name">小弓場かおり</span>: …………そっか。小舟さん、亡くなったんだ……。
+<span class="name">網代慎平</span>: うん……。
+<span class="name">小弓場かおり</span>: あ、あの、無神経な質問しちゃって、ごめんなさい。
+<span class="name">網代慎平</span>: 別に気にしてないよ。
+<span class="name">小弓場かおり</span>: 私ね……小学校の頃は、小舟さんに憧れてたの。
+<span class="name">小弓場かおり</span>: 私とまったく違うタイプで……底抜けに明るくて、心も強くて。
+<span class="name">小弓場かおり</span>: あんな風になれたらいいなァ……なんて、密かに思ってた。
+<span class="name">小弓場かおり</span>: 残念だね。本当に、残念……。
+<span class="name">網代慎平</span>: …………。
+<span class="name">小弓場かおり</span>: 私も時間を見つけて、挨拶に行くね。
+<span class="name">網代慎平</span>: ……うん、ありがとな。
+<span class="name">小弓場かおり</span>: あ……そうだ。
+<span class="name">小弓場かおり</span>: あの……もしよかったらなんだけど、連絡先の交換……ダメかな？
+<span class="name">網代慎平</span>: ああ、構わないよ。
+<span class="name">小弓場かおり</span>: 網代慎平くん……と。うん、登録完了。
+<span class="name">網代慎平</span>: こっちもできた。
+<span class="name">小弓場かおり</span>: あの、も、も、もし良かったら、後で連絡取り合って……あ……。
+<span class="name">網代慎平</span>: どうかした？
+<span class="name">小弓場かおり</span>: 連絡……なんだけど。
+--choice「気持ちの整理がついてからで……」
+<span class="name">網代慎平</span>: あ……ごめん。それは少し待ってもらえるかな？
+<span class="name">網代慎平</span>: 正直、まだ気持ちが整理しきれてなくてさ。葬儀が終わってからでもいい？
+<span class="name">小弓場かおり</span>: うん……わかった。
+<span class="name">小弓場かおり</span>: あっ、私そろそろ行かなきゃ。またね、網代くん！
+<span class="name">網代慎平</span>: ああ。気をつけて。
+--choiceEnd
+If Chose 「普通にしてくれて構わないけど」 -> Kaori Route
+--choiceEnd

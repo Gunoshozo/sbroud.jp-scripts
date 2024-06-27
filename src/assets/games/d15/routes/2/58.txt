@@ -1,0 +1,21 @@
+<span class="name">倭一花</span> : 「おはようございます………瑞希先生？」
+<span class="name">香藤瑞希</span> : 「そういうことでは困ります！　あれほど言ったじゃありませんか！」
+<span class="name">倭一花</span> : 「……」
+先生、すごく怒ってる……。
+でも、先生は誰と話をしてるのかしら。近くに誰もいないのに………。
+<span class="name">香藤瑞希</span> : 「とにかく、今日は生徒たちを帰らせます。私の判断です。よろしいですね？」
+<span class="name">仁和菓</span> : 「……先生、どうしたんだろう」
+<span class="name">倭一花</span> : 「わからないけど、何かあったのかしら」
+<span class="name">仁和菓</span> : 「うん……」
+<span class="name">香藤瑞希</span> : 「じゃあ、そういう事で。\nはい、はい。わかっています……失礼します」
+<span class="name">香藤瑞希</span> : 「まったく…………あら、いつからいたの？　おはよう」
+<span class="name">倭一花</span> : 「おはようございます」
+<span class="name">仁和菓</span> : 「おはよう、ございます………」
+<span class="name">香藤瑞希</span> : 「あはは、もしかして見てた？　ごめんなさいね、おかしなところ見せちゃって」
+<span class="name">倭一花</span> : 「あの………今のって、どなたとお話をされてたんですか？」
+<span class="name">香藤瑞希</span> : 「ああ、そうねぇ………<span class="dict">小型の電話</span>みたいなものかしら？」
+<span class="name">香藤瑞希</span> : 「実はね、なにか緊急のことがあったときのために、フリーハンドで話せる機械を耳に付けてるのよ」
+<span class="name">倭一花</span> : 「そうだったんですか。知りませんでした」
+<span class="name">仁和菓</span> : 「………」
+<span class="name">香藤瑞希</span> : 「先生も色々と大変なのよ。それじゃ、今日は手伝ってもらうものも特にないし、先に教室へ行っててちょうだい」
+<span class="name">倭一花</span> : 「わかりました。失礼します」

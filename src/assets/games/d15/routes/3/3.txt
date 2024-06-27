@@ -1,0 +1,29 @@
+なんとかしないといけない。そうしないと皆は……。
+でも、どうすればいい？
+時間は残り少ないのに、あたしにはまだその方法がわからなかった。
+とにかく、何かを変えないと……。
+<span class="name">後藤眞波</span> : 「あのさ、今度の日曜は海に行こうよ、海！」
+<span class="name">倭一花</span> : 「……はい？」
+<span class="name">仁和菓</span> : 「……」
+<span class="name">高槻東吾</span> : 「いきなりなに言ってんだオマエ？」
+<span class="name">陸七生</span> : 「なんでまた？　俺的にはノってみたい提案ではあるけど」
+<span class="name">後藤眞波</span> : 「なんでって、理由はないよ。とにかく海なの！」
+<span class="name">白大輔</span> : 「意図がわからない。却下だな」
+<span class="name">後藤眞波</span> : 「えー！　みんなノリ悪いよー！　海だよ海ー！」
+<span class="name">倭一花</span> : 「だから、どうして急にそんなこと言い出すのよ？」
+<span class="name">後藤眞波</span> : 「だって暑くて、しかも休みじゃん！　だから海だよ！」
+<span class="name">倭一花</span> : 「理由になってないわ」
+<span class="name">仁和菓</span> : 「……」
+<span class="name">陸七生</span> : 「どうですかね？　皆サマの意見は？」
+<span class="name">倭一花</span> : 「そうねぇ……\nあんまり海に行きたい気分じゃないわね……」
+<span class="name">後藤眞波</span> : 「ねえねえいいじゃん！　部屋でクーラーにあたってるだけなんて休みの意味ないよ」
+<span class="name">後藤眞波</span> : 「もっとこうさ、夏を満喫しないと！」
+<span class="name">白大輔</span> : 「ものすごい押しの強さだな」
+<span class="name">後藤眞波</span> : 「あ、そうだ！　デカくん海すきでしょっ！」
+<span class="name">高槻東吾</span> : 「ンなこといつ言った。勝手に俺の好みを決めるな」
+<span class="name">後藤眞波</span> : 「え～、そんなぁ‥‥みんなノリ悪いよぉ‥‥」
+<span class="name">白大輔</span> : 「まぁ、みんなあまり気が進まないようだし、やめておこう」
+<span class="name">陸七生</span> : 「俺は海に行きたい気持ちもわからんでもないけどね。いくらなんでも暑すぎるって」
+<span class="name">倭一花</span> : 「そうね……でもまた今度にしましょう。わかった、眞波？」
+<span class="name">後藤眞波</span> : 「うぅ～……みんなのケチ！」
+<span class="name">倭一花</span> : 「ケチって……そういう問題じゃないでしょ」

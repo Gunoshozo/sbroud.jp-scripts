@@ -1,0 +1,39 @@
+”7月22日”
+<span class="name">網代慎平</span>: 連絡？普通にしてくれて構わないけど。
+<span class="name">小弓場かおり</span>: そうじゃなくて……。えっと……れ、連絡は、しばらくできないかもって。
+<span class="name">網代慎平</span>: そうなの？
+<span class="name">小弓場かおり</span>: ちょっと忙しくて……。
+<span class="name">網代慎平</span>: そうなんだ、じゃあオレからも連絡はしない方が――
+<span class="name">小弓場かおり</span>: 網代くんからは送ってくれて大丈夫です！
+<span class="name">網代慎平</span>: え？　でも忙しいって……。
+<span class="name">小弓場かおり</span>: それは、その、なんて言うか……。
+<span class="name">網代慎平</span>: （そうか小弓場さん、潮のことを気にして……）
+<span class="name">網代慎平</span>: ありがとう。じゃあ、色々落ち着いたら連絡するから。
+<span class="name">小弓場かおり</span>: うん。
+<span class="name">小舟澪</span>: お～～～いッ！！
+<span class="name">網代慎平</span>: ……え？
+<span class="name">小舟澪</span>: おかえり慎ちゃん！！長旅お疲れさまあああああッ！？
+<span class="name">網代慎平</span>: …………！
+<span class="name">網代慎平</span>: （ウソだろ……？）
+<span class="name">網代慎平</span>: （<span class="dict">デジャヴ</span>って、　こういうのを言うんだろうか）
+<span class="name">小舟澪</span>: あッ？
+<span class="name">網代慎平</span>: 澪ッ！？
+<span class="name">小弓場かおり</span>: キャ！
+<span class="name">網代慎平</span>: 澪ッ！大丈夫かァッ！？
+<span class="name">小舟澪</span>: ……ブクブクブクブク。
+<span class="name">小舟澪</span>: ――ぷはッ！
+<span class="name">小舟澪</span>: あ、あははは……！ごめん慎ちゃん、びっくりさして……！
+<span class="name">網代慎平</span>: ……何やってんの？
+<span class="name">小舟澪</span>: ちょ、ちょっと汗かいたから……水浴びしょか思て！！
+<span class="name">網代慎平</span>: 元気そうでなによりかよ……。
+<span class="name">網代慎平</span>: （さっき飛び込んだ時の澪……。　パンツのガラまで同じやった）
+<span class="name">網代慎平</span>: 澪、ちゃんとブレーキかけたんか？
+<span class="name">小舟澪</span>: なんでやろ……。ちゃんとかけたつもりなんやけど、止まらんかった。
+<span class="name">網代慎平</span>: （ブレーキがかからんかったて……　自転車の故障なんか？）
+<span class="name">網代慎平</span>: …………！？
+<span class="name">網代慎平</span>: （自転車の<span class="dict">ブレーキワイヤー</span>が切れてる？　どうりでかからんわけや……）
+<span class="name">網代慎平</span>: （自然に切れた感じじゃない。　一体誰がこんなことを……）
+<span class="name">網代慎平</span>: （とにかく先に澪を引き上げるか）
+<span class="name">網代慎平</span>: ほら、上がってこい。手貸すから。
+<span class="name">小舟澪</span>: ……ありがと。
+<span class="name">小舟澪</span>: やっぱりしょっぱいな……海。

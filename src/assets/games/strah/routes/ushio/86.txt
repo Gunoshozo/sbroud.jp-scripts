@@ -1,0 +1,87 @@
+”7月24日”
+<span class="name">網代慎平</span>: ！！
+<span class="name">ウシオ</span>: …………。
+<span class="name">網代慎平</span>: な…………。
+<span class="name">波稲</span>: …………。
+<span class="name">南方竜之介</span>: あれは……。
+<span class="name">波稲</span>: こ……ここは！！
+<span class="name">ヒルコ</span>: エイ、エ……エ……イエ……。
+<span class="name">波稲</span>: ここは現世じゃ。
+<span class="name">波稲</span>: ただし、３００年前のな……。
+<span class="name">南方竜之介</span>: さんびゃっ……！？
+<span class="name">ウシオ</span>: ヒルコが常世の出口とこの浜を繋げたんやな……。私らは今、肉体を離れてデータだけがここに来てる……。
+<span class="name">網代慎平</span>: （ループする時「過去」を見ることがあった。　その時と同じ状態か……）
+<span class="name">和服の女の子</span>: …………。
+<span class="name">ウシオ</span>: あの子は！！
+<span class="name">波稲</span>: <span class="dict">わし</span>じゃ……人間の……。
+<span class="name">南方竜之介</span>: そうか！！潮さん！　早よヒルコを消してしもて！！あのクジラは過去のヒルコや！！
+<span class="name">南方竜之介</span>: ヒルコのヤツ……データを過去の自分に移して、全部イチからやり直すつもりや！！
+<span class="name">和服の女の子</span>: …………。
+<span class="name">南方竜之介</span>: あっ、待って！クジラに近付くな！　殺されるっ！
+<span class="name">和服の女の子</span>: ……え！？
+<span class="name">網代慎平</span>: 神様に近付くな。誰か大人呼んで来な。
+<span class="name">和服の女の子</span>: ひ……。
+<span class="name">和服の女の子</span>: ギャーーーーーーッ！！オバケじゃあ～～～～っ！！
+<span class="name">網代慎平</span>: あ……怖がらせてしもたかな。
+<span class="name">南方竜之介</span>: スゴ……過去に触った！
+<span class="name">南方竜之介</span>: 覚醒したその目の力か……歴史変わったりして……。
+<span class="name">ウシオ</span>: …………。
+<span class="name">ヒルコ</span>: エ……イエ。
+<span class="name">ウシオ</span>: そっか……わかった。
+<span class="name">ウシオ</span>: 慎平！この子おねがい！　預かってて。
+<span class="name">網代慎平</span>: え……！？潮！？　どうする気や！！
+<span class="name">ウシオ</span>: ヒルコがここへ流れ着くかぎり……そのコを消しても、また同じことがくり返される。
+<span class="name">ウシオ</span>: 消さなあかんのは、過去のヒルコや。
+<span class="name">網代慎平</span>: （…………！！）
+<span class="name">ウシオ</span>: ヒルコは、やり直したいんと違う……。
+<span class="name">南方竜之介</span>: …………！？
+<span class="name">ウシオ</span>: 終わらせてほしくて、私をここに呼んだんやろ？
+<span class="name">ヒルコ</span>: ……ア……イ、ア、オ……ウ…………。
+--choice If Action ○/A
+<span class="name">網代慎平</span>: …………。
+--choiceEnd
+--choice Else if Action R1/R
+<span class="name">網代慎平</span>: （……ヒルコもまた、　運命に翻弄された被害者だったのかもしれない）
+<span class="name">網代慎平</span>: （もしも生まれ変わることがあるのなら　来世は幸せになれますように……）
+<span class="name">ヒルコ</span>: ウ……アゥ……ア……。
+<span class="name">網代慎平</span>: （オレには<span class="dict">ヒルコ</span>が　少し微笑んだように見えた……）
+--choiceEnd
+<span class="name">ウシオ</span>: おやすみ……バイバイ。
+<span class="name">網代慎平</span>: ！！
+<span class="name">網代慎平</span>: （クジラとともに……　赤子のヒルコも消えていった……）
+<span class="name">網代慎平</span>: …………。
+<span class="name">波稲</span>: …………。
+<span class="name">波稲</span>: ありがとう、潮……。ありがとう、慎平……。
+<span class="name">網代慎平</span>: 波稲……。
+<span class="name">波稲</span>: のう、竜之介……。
+<span class="name">波稲</span>: もしも生まれ変わったら、今度は仲良にしてくれるか？
+<span class="name">南方竜之介</span>: ……うん！！　もちろんや！！お菓子いっぱい持ってくよ！！
+<span class="name">南方竜之介</span>: お姉ちゃんかて、きっとまたっ……！！
+<span class="name">波稲</span>: ひづると竜之介の三人でか……。きっと楽しいやろな。
+<span class="name">南方竜之介</span>: いろんな話して、いろんな所行って、いろんなもの食べよな？
+<span class="name">波稲</span>: うん。
+<span class="name">波稲</span>: 楽しみ……や。
+<span class="name">網代慎平</span>: …………。
+<span class="name">網代慎平</span>: （竜之介くんも……。　波稲といっしょに、消えた……）
+<span class="name">ウシオ</span>: 慎平。
+<span class="name">網代慎平</span>: ……潮。
+<span class="name">ウシオ</span>: ここでお別れみたいやな、慎平。
+<span class="name">網代慎平</span>: …………！！
+<span class="name">網代慎平</span>: まっ……、待ってくれよ……。
+<span class="name">網代慎平</span>: オレもいっしょに行くっ！！おまえといっしょに！！！
+<span class="name">ウシオ</span>: …………。
+<span class="name">網代慎平</span>: ヒルコが消えて、影はみんな消える。オレの右目も、もう普通の目や……。
+<span class="name">網代慎平</span>: 元の体に戻っても、オレは死ぬ……。
+<span class="name">網代慎平</span>: このまま…………おまえといっしょに消えたいよ……。
+<span class="name">ウシオ</span>: あっぽけ……。
+<span class="name">ウシオ</span>: そんなん言われたら、決心にぶりそう……。
+<span class="name">ウシオ</span>: 慎平は帰らなあかん！！みんなが待ってるよ！
+<span class="name">ウシオ</span>: 心配いらんっ。わたしがちゃんと２０１８年に帰しちゃるから！！
+<span class="name">網代慎平</span>: ……ッ！
+<span class="name">ウシオ</span>: この三日間ね、いっぱい怖くてめっちゃ不安やったけど――
+<span class="name">ウシオ</span>: ――でもそれ以上に慎平と過ごせてうれしかった！
+<span class="name">網代慎平</span>: …………。
+<span class="name">ウシオ</span>: ほらっ！！慎平はっ！？
+<span class="name">網代慎平</span>: ……オ……オレもやっ！！！おまえと会えて……オレも――
+<span class="name">網代慎平</span>: …………ッ！
+<span class="name">網代慎平</span>: うれしかったよ、潮……。

@@ -1,0 +1,155 @@
+”南方　竜之介”
+<span class="name">南方ひづる</span>: （３階の間取りは……　収納が３つにトイレ……夫婦の寝室が１つ。　ベランダがあるな……）
+<span class="name">南方ひづる</span>: （そして、隣が子供部屋……。　角部屋で窓が２つ……）
+<span class="name">南方ひづる</span>: （北側――ここにもベランダ……。　窓が少し開いている……）
+<span class="name">南方ひづる</span>: （追加で連絡しておくか。　３階、北側の窓……）
+<span class="name">南方ひづる</span>: …………。
+<span class="name">南方ひづる</span>: 背後をとっても無駄ですよ。
+<span class="name">シオリ</span>: …………。
+<span class="name">南方ひづる</span>: コピーする光を放った後、あなたは数秒間身動きがとれなくなる。
+<span class="name">シオリ</span>: …………！！
+<span class="name">南方ひづる</span>: 人間一人の情報をスキャンするのには、結構労力がかかるってことのようですね……。
+<span class="name">南方ひづる</span>: 僕がその一瞬を見逃すと思いますか？
+<span class="name">南方ひづる</span>: あなたが僕をコピーしようとした瞬間！あなたを殺します、今度こそね……。
+<span class="name">シオリ</span>: ……つまらん。
+”網代　慎平”
+<span class="name">南方ひづる</span>: 網代慎平の言うように、私はシオリを逃がしてしまうのだろうな。
+<span class="name">根津銀次郎</span>: おいおい……。こんなワケのわからんヤツを信じてよォ……。
+<span class="name">根津銀次郎</span>: やる前から失敗するかもとか気ィの弱いこと考えるさけ、失敗してしまうんとちゃうんかい！！？
+<span class="name">南方ひづる</span>: 笑止……！！これはそんな昭和の根性論とは無関係だ。
+<span class="name">根津銀次郎</span>: ぐぬぬ……。
+<span class="name">網代慎平</span>: …………。
+<span class="name">南方ひづる</span>: それに、カン違いするな。私はシオリを逃すつもりは一切ない。
+<span class="name">南方ひづる</span>: 私は家の「中」で従来通りに動くが、キミたちには「外」で、違う行動をとってもらう！
+<span class="name">網代慎平</span>: ……！？
+<span class="name">南方ひづる</span>: 重要なのはここからだ……。根津にはバックアップとして南側……。家の裏手に待機してもらうつもりだった。
+<span class="name">南方ひづる</span>: これはキッチンとトイレの窓、そして玄関を見通せるポジションだからだが……。
+<span class="name">南方ひづる</span>: それでは逃げられたのだ……。浴室の窓も捨て切れんが……。
+<span class="name">南方ひづる</span>: ヤツが逃げたのは、２階からではない可能性が高い。
+<span class="name">南方ひづる</span>: 私は３階のシオリの部屋だと推測する。
+<span class="name">南方ひづる</span>: シオリの部屋だけが「北側」に窓が付いているからだ……。
+<span class="name">南方ひづる</span>: 私が合図を出したら、キミたちは武器を持ち、家の正面で待機したまえ。
+<span class="name">網代慎平</span>: ……ッ！
+<span class="name">網代慎平</span>: 根津さん、窓から影が！
+<span class="name">根津銀次郎</span>: 来よったな……！これが――
+<span class="name">シオリ</span>: っ！！
+<span class="name">根津銀次郎</span>: 「<span class="dict">プランＢ</span>」じゃ……！！
+<span class="name">根津銀次郎</span>: ……ぬッ！？
+<span class="name">根津銀次郎</span>: 縫い付けたつもりが……３本目を外したか……！！やったら――
+<span class="name">根津銀次郎</span>: 来いやァァァ！！！！
+<span class="name">網代慎平</span>: （……ッ！　こっちに来る……！！）
+<span class="name">網代慎平</span>: （つまり、隠れてるオレに　気付いてないってことだ……！）
+<span class="name">網代慎平</span>: （動くなら今……！）
+--choice If Action L1/L
+<span class="name">シオリ</span>: 邪魔やァ！！
+<span class="name">網代慎平</span>: ッ！？
+<span class="name">シオリ</span>: ハッ！！？
+<span class="name">南方ひづる</span>: 足が止まった！！慎平さんッ！！
+<span class="name">網代慎平</span>: …………ッ！！
+<span class="name">網代慎平</span>: くっそォォォォ！
+--choiceEnd
+--choice Else
+--choice If Action R1/R
+<span class="name">網代慎平</span>: （悩んでる暇なんかない！）
+<span class="name">網代慎平</span>: （今しかない……！！　撃つんだ、オレェ！！）
+<span class="name">シオリ</span>: ……ちッ！！
+<span class="name">網代慎平</span>: （外した！！）
+--choiceEnd
+--choice If Action O/A
+<span class="name">網代慎平</span>: （どうする……？　撃つにはまだ遠い……！？　だったら……飛びかかって動きを封じる！？）
+<span class="name">網代慎平</span>: （ネイルガンを撃つのは初めてだ……　もしここで当たらなかったら……？　いや、考えてる場合かッ！）
+<span class="name">網代慎平</span>: （どんどん近付いてくる！！　覚悟を……決めろ！！）
+<span class="name">シオリ</span>: ……ちッ！！
+<span class="name">網代慎平</span>: （気づかれた！！）
+--choiceEnd
+THEN
+--choice If Action L1/L
+<span class="name">網代慎平</span>: （今だッ！！！！）
+<span class="name">シオリ</span>: ハッ！！？
+--choiceEnd
+--choice If Action O/A
+<span class="name">網代慎平</span>: （ど、どうにかしないと……！！）
+<span class="name">網代慎平</span>: （でも、どうすれば――）
+<span class="name">シオリ</span>: 邪魔やァ！！
+<span class="name">網代慎平</span>: ッ！？
+<span class="name">シオリ</span>: ハッ！！？
+<span class="name">南方ひづる</span>: 足が止まった！！慎平さんッ！！
+<span class="name">網代慎平</span>: …………ッ！！
+<span class="name">網代慎平</span>: くっそォォォォ！
+--choiceEnd
+--choiceEnd
+<span class="name">網代慎平</span>: ぐっ……おおおお！！！！
+<span class="name">シオリ</span>: ……イ……イヤ……ッ。
+<span class="name">網代慎平</span>: ……おまえが！！おまえがやったんか！？
+<span class="name">シオリ</span>: きしょいんじゃ……。離せよ、ボケ！
+<span class="name">網代慎平</span>: おまえが潮を……殺したんかァッ！！！！
+<span class="name">網代慎平</span>: ！！！
+<span class="name">根津銀次郎</span>: もうええ……ッ。はなれろ、慎平……！！
+<span class="name">根津銀次郎</span>: 影を釘でブッ刺した。
+<span class="name">根津銀次郎</span>: そいつァ、もう、指ひとつ動かせやんさけ……。
+<span class="name">シオリ</span>: ……がッ……は……！！
+<span class="name">根津銀次郎</span>: １本でも２本でもアカン……。
+<span class="name">根津銀次郎</span>: そうやって３か所な……。釘とか杭で影をブッ刺せたらよォ……。
+<span class="name">根津銀次郎</span>: 奴らはその場に縫い止められる……！！つまり捕獲できるちゅうこっちゃ……！！
+<span class="name">網代慎平</span>: ほ……捕獲！！プランＢって……。最初からそのつもりで！？
+<span class="name">根津銀次郎</span>: おうよ。
+<span class="name">網代慎平</span>: き、聞いてないですよ！！
+<span class="name">根津銀次郎</span>: そら言うてへんもん！ハナからおまえに期待してへん！
+<span class="name">網代慎平</span>: （くっ……このジジイ……！！）
+<span class="name">網代慎平</span>: （いや、でもスゴイぞ！　シオリを捕まえられるなんて……）
+<span class="name">網代慎平</span>: （これで未来が変わる！　……確実に！！）
+<span class="name">南方ひづる</span>: …………。
+<span class="name">南方ひづる</span>: どうして飛びかかったんです？
+<span class="name">網代慎平</span>: それは……。より確実な方法を選んだだけです。
+<span class="name">網代慎平</span>: ちょっとでも影の動きを止められたら、根津さんが絶対やってくれるやろうって。
+<span class="name">根津銀次郎</span>: ム……。
+<span class="name">網代慎平</span>: まあ、つまり……。とっさの行動の結果です。
+<span class="name">南方ひづる</span>: なるほど……。影は立体を平面の中に潜らせ、すばやく動くことができます。
+<span class="name">南方ひづる</span>: ……が、どうやら立体の方を掴まれていると、潜れなくなるようですね。
+<span class="name">南方ひづる</span>: これは新発見ですよ、慎平さん！！おかげで逃がさなかった！
+<span class="name">南方ひづる</span>: 僕たち二人では、やはり失敗してましたね？　根津さん。
+<span class="name">根津銀次郎</span>: フンッ！　……若いわりに、肝は据わっちゃあるようやな……。
+<span class="name">根津銀次郎</span>: やらいしょ。
+<span class="name">網代慎平</span>: （根津さん……）
+<span class="name">シオリ</span>: うふふふふふふふふふふふふ。
+<span class="name">網代慎平</span>: ……！？
+<span class="name">シオリ</span>: うふっ！うふふふふふふふっ。
+<span class="name">南方ひづる</span>: 何がおかしい？
+<span class="name">南方ひづる</span>: ……二人とも。こいつは他の影とは何か違います。
+<span class="name">南方ひづる</span>: 捕獲に変更したのは、こいつを調べたいと考えたからです。
+<span class="name">網代慎平</span>: 何かが違う……？
+<span class="name">南方ひづる</span>: まずはさっきの慎平さんの質問に答えてもらいたいですね……。
+<span class="name">網代慎平</span>: っ！
+<span class="name">南方ひづる</span>: おまえが小舟潮を殺し、その影を生み出したんか？
+<span class="name">シオリ</span>: あ～～……。潮おねえちゃんな……？
+<span class="name">シオリ</span>: うん、殺したよ。あたしが首絞めて殺した。
+<span class="name">網代慎平</span>: ……ッ！！
+<span class="name">網代慎平</span>: ……殺したっ……て……。
+<span class="name">南方ひづる</span>: 慎平さん。落ち着いて。
+<span class="name">網代慎平</span>: なんでや！？なんで潮をッ……。
+<span class="name">網代慎平</span>: おまえらは何をしてるんや！！！？人、殺して入れ替わって……。何が目的なんや！！！！
+<span class="name">シオリ</span>: …………。
+<span class="name">シオリ</span>: おわりやねん……この夏で。もう、おしまいやねん。
+<span class="name">シオリ</span>: せやから帰るんです。かぞくで帰るんです。
+<span class="name">網代慎平</span>: ……なんやと？いったい、何の話をしてる？
+<span class="name">シオリ</span>: くっくっくっくっくっ……。そんなに怖がらんといてください……。
+<span class="name">網代慎平</span>: ！！？
+<span class="name">シオリ</span>: 慎平さん……。カン違いしてますよ？
+<span class="name">シオリ</span>: 人間のあたしは確かに影に殺されたけど、あたし別に影のことうらんでへんし……。もう怖くもない……。
+<span class="name">シオリ</span>: 影はあたしを、完璧にコピーしたんですよ……。
+<span class="name">シオリ</span>: 体も心も記憶も。だから、あたしは小早川しおり。
+<span class="name">シオリ</span>: ただ生まれ変わっただけですよ……。
+<span class="name">網代慎平</span>: ウソをつくな！！！！おまえはしおりちゃんじゃない！！
+<span class="name">網代慎平</span>: しおりちゃんも！　その家族も！おまえが殺したんやろがッ！！
+<span class="name">シオリ</span>: …………。
+<span class="name">シオリ</span>: 慎平さんも早よ影になったらええのに……。
+<span class="name">シオリ</span>: ね？あたしのお兄ちゃんになってよ。
+<span class="name">シオリ</span>: うふっ……。あははははっ、あはははははっ……ふふっ！
+<span class="name">網代慎平</span>: くっ……！
+<span class="name">シオリ</span>: あはははははははっ！ははははっ、ふふふふあははっ――！
+<span class="name">南方ひづる</span>: ここまでにしときましょうか……。あまり影と長く話すと、惑わされてしまいます。
+<span class="name">網代慎平</span>: …………クソッ……。
+<span class="name">網代慎平</span>: （潮を殺した犯人……！！　見つけたら殺してやろうと思ってた……）
+<span class="name">網代慎平</span>: （それが化物なら　躊躇することもないと……）
+<span class="name">網代慎平</span>: （でも、こうやって目の前に現れて……。　それが小さい頃から知ってる　近所の子供の姿で……）
+<span class="name">網代慎平</span>: （オレは殺すどころか……。　殴ることさえできなかった……！！）

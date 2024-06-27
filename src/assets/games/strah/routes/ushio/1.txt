@@ -1,0 +1,51 @@
+”7月22日”
+<span class="name">網代慎平</span>: ……久しぶりだな。
+<span class="name">網代慎平</span>: （波の音、フェリーの揺れ、潮の香り……　２年前までは当たり前で、　慣れきっていたはずのものたち）
+<span class="name">網代慎平</span>: （それが、どこか非現実的に　感じてしまうくらいに、懐かしい）
+<span class="name">網代慎平</span>: （２年ぶりに帰ってきた故郷、日都ヶ島……）
+<span class="name">網代慎平</span>: （そのきっかけは……　想像もしていなかった連絡だった）
+<span class="name">小舟澪</span>: もしもし……。
+<span class="name">網代慎平</span>: ああ、澪か？久しぶり。
+<span class="name">網代慎平</span>: 電話出られんで悪かった。何回もかけてきてたみたいだけど、なにかあったのか？
+<span class="name">小舟澪</span>: 慎ちゃん、慎ちゃん……。
+<span class="name">網代慎平</span>: えっ？　み、澪！？
+<span class="name">網代慎平</span>: （悲痛な声を聞き、嫌な予感が走った）
+<span class="name">網代慎平</span>: （オレを育ててくれたアランに何かあったのか。　それとも親友の窓や妹のトキちゃんに……？）
+<span class="name">網代慎平</span>: （心臓が早鐘を打ち始めるのを感じながら、　オレは全神経を電話の向こうの澪の声に　集中させた――）
+<span class="name">小舟澪</span>: ひぐ、お姉ちゃんが……。
+<span class="name">網代慎平</span>: う、潮がどうかしたのか？
+<span class="name">小舟澪</span>: お姉ちゃん、死んじゃったぁ……。
+<span class="name">網代慎平</span>: <span class="dict">潮</span>……。
+<span class="name">網代慎平</span>: （正直、今でも信じられない。　いや、受け入れられないといったほうが　正しいのか）
+<span class="name">網代慎平</span>: （潮はオレの幼馴染であり、　一緒に育った家族であり、　そして……）
+<span class="name">網代慎平</span>: …………。
+<span class="name">小舟潮</span>: <span class="dict">慎平</span>っ！
+<span class="name">網代慎平</span>: うおッ！？
+<span class="name">網代慎平</span>: う、潮っ！！？おまえ……ど、どうして！？
+<span class="name">網代慎平</span>: （あ、あれ？　確か潮は、死んだんじゃ……）
+<span class="name">小舟潮</span>: なにぼーっとしとるん！また話聞いてへんかったなァ～？
+<span class="name">網代慎平</span>: す、すまん……！何だっけ？
+<span class="name">小舟潮</span>: 言うたやろ。ちょっと目ェつむって。
+<span class="name">網代慎平</span>: え？
+<span class="name">小舟潮</span>: ええからええから！
+<span class="name">網代慎平</span>: うわっ！！ちょっ……何！？
+<span class="name">小舟潮</span>: そのまま動かんとってな。
+<span class="name">網代慎平</span>: （な、なんなんだよ……。　めっちゃ顔触るな……？）
+<span class="name">小舟潮</span>: ……よし。もうええよ、開けて。
+<span class="name">網代慎平</span>: な……何した今！？
+<span class="name">小舟潮</span>: <span class="dict">プレゼント</span>や！
+<span class="name">網代慎平</span>: プレゼントぉ？イ……イミわからんわっ！
+<span class="name">小舟潮</span>: 慎平さァ……。島に帰るん、何年ぶりか知ってる？
+<span class="name">網代慎平</span>: え？　ああ……。中学の卒業式以来やから……
+<span class="name">網代慎平</span>: ２年ぶりか。
+<span class="name">小舟潮</span>: ほんま、正月も帰って来えへんかったなァ～～。
+<span class="name">網代慎平</span>: ご、ごめん……。
+<span class="name">小舟潮</span>: 帰ったらみんなによろしく言うといて！
+<span class="name">網代慎平</span>: どういうことよ……？潮……おまえも一緒に――
+<span class="name">小舟潮</span>: 私は行けやんよ。
+<span class="name">網代慎平</span>: 行けないって……なんで。
+<span class="name">小舟潮</span>: なあ、慎平――
+<span class="name">小舟潮</span>: ちゃんと私のこと、見つけてよ。
+<span class="name">網代慎平</span>: ……え！？
+<span class="name">網代慎平</span>: な……何だこれ！！待て……待ってくれ！
+<span class="name">小舟潮</span>: 澪のこと……守っちゃってね……。

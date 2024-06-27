@@ -1,0 +1,104 @@
+いつものように着席してからしばらくすると、生徒たちが登校してきた。
+ヘッドフォンから聞こえてくるのは、&lt;bgsound src=&quot;waltz&quot; volume=&quot;-100&quot; /&gt; いつもの歌。
+<span class="name">倭一花</span> : 「おはよう、みんな」
+<span class="name">男生徒Ａ</span> : 「はよーす、委員長」
+<span class="name">女生徒Ａ</span> : 「あ、一花ちゃん、菓ちゃんおはよー」
+ざわめきの音色は&lt;bgsound src=&quot;pleasant_voice&quot;　volume=&quot;0&quot; balance=&quot;1000&quot; /&gt;明るい。笑い声。
+<span class="name">仁和菓</span> : 「……………………あの、おはよう」
+でも、気配が&lt;balance=&quot;-1000&quot; /&gt;ひりひりしてる。
+<span class="name">女生徒Ｂ</span> : 「先生は？　今日も休み？」
+視線が不自然に&lt;hidden=&quot;true&quot; /&gt;わたしの手前ですり抜けてく。
+&lt;object data=&quot;watashi&quot; type=&quot;human&quot;&gt;
+まるで、そこにはなにもないと、念じるみたいに。
+&lt;object data=&quot;0&quot; type=&quot;air&quot; width=&quot;0&quot; height=&quot;0&quot;&gt;&lt;/object&gt;&lt;/object&gt;
+<span class="name">倭一花</span> : 「そうみたい。なんでも、お仕事が忙しいらしくて」
+倭一花がチラリとわたしを見て、すぐに逸らした。
+<span class="name">男生徒Ａ</span> : 「教室に来るのも仕事だよなー」
+<span class="name">倭一花</span> : 「私たちの知らないところで、他の仕事だってあるのよ。私たちは自習して待ちましょ？」
+<span class="name">仁和菓</span> : 「あの…………茅早ちゃん、お、おはよ」
+教室の空気がちりっと、震えた。
+<span class="name">世津茅早</span> : 「おはよう」
+<span class="name">仁和菓</span> : 「えっと……あの、いつも、早いね」
+<span class="name">世津茅早</span> : 「同じ時間に目が覚めるだけ」
+<span class="name">仁和菓</span> : 「……そう、なんだ」
+尻すぼみに言って、彼女は黙り込んでしまった。なのに、いつまでも立ち去らない。
+&lt;embed src=&quot;no_reaction&quot; type=&quot;confusion&quot; &gt;
+……これ以上、なんて言えばいいの。
+<span class="name">陸七生</span> : 「うぉおお……滑り込みセーフ」
+<span class="name">陸七生</span> : 「ていうかさー、アナタそろそろ学習したらどーなのよ」
+<span class="name">高槻東吾</span> : 「うっせえな、待ってろとか頼んでねえだろ」
+<span class="name">白大輔</span> : 「……っは、はあ、はっ」
+<span class="name">白大輔</span> : 「いいから……っ、早く、中に入れっ、ふたりとも！」
+<span class="name">高槻東吾</span> : 「オマエもういっそそこで倒れてればいいんじゃね？　うるせえし。なんなら、このまんま入り口塞いじまうか」
+<span class="name">陸七生</span> : 「そうねー。高槻なら象が踏んでも壊れない立派な生自動ドアねー」
+<span class="name">陸七生</span> : 「うおっと！　ちょっとちょっと、すぐそうやって拳を振り上げるの、反対！」
+<span class="name">白大輔</span> : 「いいから入れと言ってるっ……！　まったく……」
+<span class="name">倭一花</span> : 「おそようございます、三人とも。ホント、とってもいいタイミング」
+<span class="name">陸七生</span> : 「やーお褒めにあずかり恐悦至極」
+<span class="name">高槻東吾</span> : 「褒めてはねーだろ」
+<span class="name">倭一花</span> : 「ギリギリ間に合ったんだから結果オーライよ。──お休みしてる子はいない？」
+<span class="name">女生徒Ｂ</span> : 「一花ちゃん、ちょっといい？」
+<span class="name">倭一花</span> : 「どうかした？」
+<span class="name">女生徒Ｂ</span> : 「携帯が朝から使えないんだけど、わたしだけ？　一花ちゃんのは？」
+<span class="name">倭一花</span> : 「え……？」
+<span class="name">白大輔</span> : 「本当だ、圏外になってる」
+<span class="name">高槻東吾</span> : 「俺のもだ」
+<span class="name">女生徒Ａ</span> : 「わたしのも同じだわ」
+<span class="name">男生徒Ｂ</span> : 「こっちもだ！」
+<span class="name">男生徒Ｃ</span> : 「おいおい、どうなってんだこれ？」
+<span class="name">男生徒Ａ</span> : 「こんなことできるのって……」
+<span class="name">男生徒Ｂ</span> : 「フォルムだろ、他にあるかよ」
+周りの空気が、ふいと、&lt;bgair src=&quot;doubt&quot; loop=&quot;infinite&quot; balance=&quot;0&quot; volume=&quot;0&quot;&gt;痛くなった。
+<span class="name">陸七生</span> : 「ま、そんなの関係ないひともいるけどね」
+&lt;input type=&quot;voice&quot; name=&quot;陸 七生&quot; onclick=&quot;InputControl (this)&quot;&gt;
+&lt;input value=&quot;顔を上げる&quot; onclick=&quot;look_up.disabled = false;&quot;&gt;
+目が、合った。
+<span class="name">世津茅早</span> : 「連絡を取りたいひとが、いるの？」
+<span class="name">陸七生</span> : 「連絡できるってわけね？　へえ。やっぱ違うなあ、ペリフェリエスさんは」
+&lt;input type=&quot;voice&quot; name=&quot;陸 七生&quot; onclick=&quot;InputControl (heart)&quot;&gt;
+&lt;input value=&quot;思わず立ち上がる&quot; onclick=&quot;stand up.disabled = false;&quot;&gt;
+<span class="name">世津茅早</span> : 「使えば」
+ヘッドフォン、外して、差し出した。
+鼓膜を叩く&lt;bgsound src=&quot;noise&quot; volume=&quot;0&quot; /&gt; 音の微粒子。背筋に冷たい汗が流れてゆくのを、感じる。
+この子たちの生きている世界に、わたしは拒まれている。そんなこと、わかってる。
+でも、ごめんなさいとは言わない。
+あなたとわたしは、違ういきもの。
+だけど、そっくり。
+<span class="name">陸七生</span> : 「……………………」
+わたしも、彼もおんなじ。なんてわかりやすいやせ我慢、してるの。
+バカみたい。でも引けない……引きたくない。
+<span class="name">高槻東吾</span> : 「ったく、バカかオマエらは」
+<span class="name">世津茅早</span> : 「……っ」
+ヘッドフォン、もぎ取られた。
+<span class="name">高槻東吾</span> : 「無理すンなよ」
+頭にぎゅうぎゅう、はめられた。
+<span class="name">高槻東吾</span> : 「やめろ、こーゆーの。ったく、胸くそわりィったらねえよ」
+<span class="name">白大輔</span> : 「おい！　どこ行くんだ、高槻」
+<span class="name">高槻東吾</span> : 「便所」
+ヘッドフォンから聞こえてくるのは、&lt;bgsound src=&quot;waltz&quot; volume=&quot;-100&quot; /&gt; いつもの歌。
+かき消えた&lt;bgsound src=&quot;noise&quot; volume=&quot;-10000&quot; /&gt;微粒子。
+<span class="name">陸七生</span> : 「バッカバカしー……」
+<span class="name">白大輔</span> : 「陸！　ちょっと待て」
+<span class="name">倭一花</span> : 「とりあえず、瑞希先生がいらっしゃらなかったので一時限目は自習。教室でも図書館でもいいから、二時限目までに戻って来て」
+<span class="name">仁和菓</span> : 「あ……！　い、一花ちゃん……待って」
+<span class="name">仁和菓</span> : 「……………………………」
+<span class="name">男生徒Ａ</span> : 「俺らも行こうぜ」
+<span class="name">男生徒Ｂ</span> : 「だよな」
+<span class="name">世津茅早</span> : 「なに……あのひと」
+……たかつき とうご。
+<span class="name">世津茅早</span> : 「どうして、放っておいてくれないの」
+ひとりもいなくなった教室で、声が出て、響いた。
+聞かせる相手もいないのに。
+聞いてくれる相手もいないのに。
+ノイズの音は、苦しくて。あの子たちとの距離は遠すぎる。
+<span class="name">世津茅早</span> : 「でも……負けたくなかった」
+世界から見放された可哀想なシープ。望まれず生まれ、利用して捨てられるだけの、小さな命。
+でもわたしはあの子たちを、否定したくない。あの子たちとわたしは、とても似ている。
+だから……わたしも、わたしを肯定したかった。
+たぶんこんなの、生まれて、はじめて。
+<span class="name">世津茅早</span> : 「……はい。世津です」
+<span class="name">妹尾梓</span> : 「昼過ぎたらこっち来て」
+&lt;command&gt;&lt;&lt;li&gt;シープの群れに潜み、その動向を逐次報告するように&lt;/li&gt;&lt;/command&gt;&lt;
+&lt;li&gt;逆らわないこと&lt;/li&gt;&lt;li&gt;逆らわないこと&lt;/li&gt;&lt;li&gt;逆らわないこと&lt;/li&gt;
+でもわたしはあの子たちを、否定したくない。
+あの子たちとわたしは……とても似ている。

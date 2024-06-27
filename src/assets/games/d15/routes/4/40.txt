@@ -1,0 +1,35 @@
+<span class="name">後藤眞波</span> : 「あーななくんだぁ！」
+<span class="name">陸七生</span> : 「おや、みなさんお揃いで」
+<span class="name">高槻東吾</span> : 「なにしてんだ？　オマエ」
+<span class="name">陸七生</span> : 「アナタたちこそ」
+<span class="name">倭一花</span> : 「調べ物に付き合ってもらってたの。陸くんから預かった、これ」
+<span class="name">高槻東吾</span> : 「わざわざオマエに宿題出してやったのに、こっそり倭へ押しつけやがって」
+<span class="name">倭一花</span> : 「高槻くん、それはいいの。私がやらせてって言ったの」
+<span class="name">倭一花</span> : 「それより今夜、私の部屋まで来られる？　みんなで集まりたいんだけど」
+<span class="name">陸七生</span> : 「ひょっとして、収穫あったりしちゃいました？」
+<span class="name">倭一花</span> : 「ええ。楽しい話じゃないかもしれないけど」
+<span class="name">陸七生</span> : 「うわ、すごいなあ！　今朝渡したばっかなのに」
+<span class="name">倭一花</span> : 「気になってることがあるって言ったでしょ。少し心当たりがあっただけ」
+<span class="name">後藤眞波</span> : 「なにゆってんの！　一花はすっごいよ！　ちょーすんごいよ！」
+<span class="name">倭一花</span> : 「ありがと」
+<span class="name">倭一花</span> : 「どう？　今夜、大丈夫そう？」
+<span class="name">陸七生</span> : 「モチのロンです」
+<span class="name">倭一花</span> : 「ん。それじゃ待ってる」
+<span class="name">倭一花</span> : 「高槻くんも、その……今日付き合ってくれてありがとう」
+<span class="name">高槻東吾</span> : 「元はといえば俺が押しつけたんだ。こっちこそ手間かけさせて悪かった」
+<span class="name">高槻東吾</span> : 「けど、やっぱ倭に頼んで正解だったな」
+<span class="name">陸七生</span> : 「俺、褒められたいんですけども」
+<span class="name">高槻東吾</span> : 「オマエはたまたまだろ」
+<span class="name">陸七生</span> : 「なにおう！　今回は俺による俺のための大抜擢でしょーが！」
+<span class="name">高槻東吾</span> : 「ただ単に面倒だったくせして」
+<span class="name">陸七生</span> : 「そのままそっくりお返しいたします、ハイ」
+<span class="name">後藤眞波</span> : 「もーみんなエライ！　それでオッケ！！」
+<span class="name">倭一花</span> : 「そうね。じゃあ、また後でね」
+<span class="name">後藤眞波</span> : 「ンじゃバーイ！」
+<span class="name">後藤眞波</span> : 「てかさ、みんなホントすっごいよ！　らぶ！」
+<span class="name">高槻東吾</span> : 「アイツら、笑ってら」
+<span class="name">陸七生</span> : 「そーね、アナタもねー」
+<span class="name">高槻東吾</span> : 「……悪いか」
+<span class="name">陸七生</span> : 「うんにゃ。めでたい限りです」
+そういやここんトコ、笑った顔なんてついぞお目に掛かってねーわ。
+調べ物の内容はともかく、それが１番の収穫かもしんないな。

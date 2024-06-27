@@ -1,0 +1,17 @@
+<span class="name">網代慎平</span>: （オレたちが小学生の頃……）
+<span class="name">網代慎平</span>: （金髪に青い目という目立つ外見の潮は　人目をひいて、悪ガキどもに　よくからかわれていた）
+<span class="name">網代慎平</span>: （けど潮はそんな奴らにも立ち向かって　グーパンでやり返して……）
+<span class="name">小舟潮</span>: ありがとな、慎平！慎平のおかげでヤツらにスキが生まれたわ！
+<span class="name">網代慎平</span>: そ……そんなつもりで声かけたんとちゃうんやけどな……。
+<span class="name">小舟潮</span>: 私がからかわれてたから、助けてくれようとしたんやろ？
+<span class="name">網代慎平</span>: い、いや……その……。
+<span class="name">小舟潮</span>: なーに照れとるんや。
+<span class="name">網代慎平</span>: う、うるさいわ！
+<span class="name">網代慎平</span>: ……なあ潮、手ェ出して。
+<span class="name">小舟潮</span>: え、なに？
+<span class="name">網代慎平</span>: 潮、今日は誕生日やろ？
+<span class="name">小舟潮</span>: きれい……。
+<span class="name">網代慎平</span>: おまえ……。もうそんな危ないことすんなよな。
+<span class="name">網代慎平</span>: おまえは<span class="dict">オレが守る</span>から。
+<span class="name">小舟潮</span>: えっ……。
+<span class="name">小舟潮</span>: ありがと、慎平！大事にするわ！！

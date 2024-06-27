@@ -1,0 +1,279 @@
+<span class="name">ジョー</span> : 「…………」
+<span class="name">ジョー</span> : 「…………」
+<span class="name">ゲンジ</span> : 「……っ」
+<span class="name">ジョー</span> : 「つっ……」
+粃のナイフは、僕の脇腹を傷つけた。
+<span class="name">ジョー</span> : 「く、うっ……うぅっ……！」
+呆然としている粃の手からナイフを取り上げ床に落とすと、遠くへ蹴飛ばした。
+ナイフは機材の下に滑り込んで姿を消した。
+ナイフを取り上げられたことに気づいた粃が、怒りに形相を変え、僕に詰め寄る。
+<span class="name">シーナ</span> : 「どうして邪魔するの……！　私の邪魔をしないでよ！」
+<span class="name">ジョー</span> : 「……駄目だよ、粃……。こんなことしちゃ……」
+<span class="name">ジョー</span> : 「父さんと君の間に何があったか、わからない……でも、君は父さんに振り回される必要はないと思う……」
+<span class="name">シーナ</span> : 「……出来損ないのあなたに、何がわかるのよ……！」
+<span class="name">ジョー</span> : 「君のことを好きじゃない奴の言葉に……振り回される必要はないよ……」
+<span class="name">シーナ</span> : 「何、言ってるの……？　私が好きなの！　私のためにしているの！　だから、ほっといて！」
+<span class="name">ジョー</span> : 「……いやだ」
+<span class="name">シーナ</span> : 「あなたが私を止めるのは、私のためでなくて、シーナのためでしょう！？　イライラするのよ！」
+<span class="name">ジョー</span> : 「……正直、そうだ。だって、シーナは僕にとって特別だもの……」
+<span class="name">ジョー</span> : 「だけど、僕は……」
+<span class="name">ジョー</span> : 「…………」
+<span class="name">ジョー</span> : 「僕は、みんなのことが好きだ」
+<span class="name">シーナ</span> : 「えっ……？」
+<span class="name">ジョー</span> : 「シーナ、ハヤト、マリカ、ユーノとナヴィ……それに粃。シーナの中にいる、みんなのことが好きだ」
+<span class="name">シーナ</span> : 「っ……」
+<span class="name">ジョー</span> : 「統合を手伝っていた時、とても寂しかった……」
+<span class="name">ジョー</span> : 「溶けてひとつになってまた会おうって約束だけが、僕の寂しさを紛らわせる言葉だった」
+<span class="name">ジョー</span> : 「……あの時、痛いほど思ったよ。僕は、みんなのことが好きなんだって」
+<span class="name">シーナ</span> : 「……何を言ってるの？　私たちは、ただの病状なのよ？　存在もしていないのに……何を言ってるの！？」
+<span class="name">ジョー</span> : 「父さんがさっき言ってたじゃないか……人格とは記憶だって」
+<span class="name">ジョー</span> : 「記憶が人格なんだとしたら、君たちは、ただの病状なんかじゃない」
+<span class="name">ジョー</span> : 「みんながシーナだけど、シーナじゃない……少し変わった個性の持ち主なんだと思う」
+<span class="name">シーナ</span> : 「でも……、医者は私たちを病状扱いじゃない。存在を認めないじゃない……！　おかしいって言うじゃない！」
+<span class="name">ジョー</span> : 「確かに……少し変わってるのかもしれない」
+<span class="name">ジョー</span> : 「だけど、完璧な人間なんかいない。僕だって、頼りなくて、駄目駄目じゃないか。それと同じだと思う」
+<span class="name">ジョー</span> : 「……僕は、そんな個性を持ったみんなが好きだ」
+<span class="name">ジョー</span> : 「だから……いやなんだ……」
+<span class="name">ジョー</span> : 「その中の一人である粃に、こんなことして欲しくない……。父さんがついた嘘を、本当にして欲しくない……」
+<span class="name">ジョー</span> : 「殺人鬼なんかにならなくていいんだよ、粃」
+<span class="name">シーナ</span> : 「でも、それだと、私は……私は……」
+<span class="name">シーナ</span> : 「……私……どうすれば良かったの……？」
+<span class="name">シーナ</span> : 「どうすれば、私は愛されたの？」
+<span class="name">シーナ</span> : 「どうすれば、私は大事にされたの……？」
+<span class="name">シーナ</span> : 「私はただ……愛されたかった！　愛されていると思いたかった！　でないと、私という存在はどうすればいいの！？」
+<span class="name">シーナ</span> : 「どうすれば……愛されたというの？」
+<span class="name">ジョー</span> : 「僕じゃ物足りないかもしれないけど……僕が君を愛すよ」
+<span class="name">シーナ</span> : 「っ……」
+<span class="name">ジョー</span> : 「何もしなくていい。そこにいてくれるだけでいい」
+<span class="name">ジョー</span> : 「シーナ、ハヤト、マリカ、ユーノ、ナヴィ、粃……」
+呆けている粃を、僕は抱きしめた。
+<span class="name">シーナ</span> : 「あっ……」
+<span class="name">ジョー</span> : 「ずっと一緒にいよう」
+<span class="name">シーナ</span> : 「っ……」
+<span class="name">シーナ</span> : 「本当に、ずっと……一緒？」
+<span class="name">ジョー</span> : 「ああ。みんな、ずっと一緒だ」
+<span class="name">ジョー</span> : 「…………」
+少し震えている粃の手が、優しく僕を抱きしめる。
+<span class="name">シーナ</span> : 「嬉しい……嬉しいわ……。嬉しいって、こういう感情なのね……」
+<span class="name">シーナ</span> : 「すごいわ……何もかも溶けるみたい……それでいて、ほっこりと温かいものが、胸の中心にあるの」
+<span class="name">シーナ</span> : 「……私はもう……愛されたいって、泣き続けなくてもいいのね……？」
+<span class="name">ジョー</span> : 「そうだよ。僕がずっと一緒にいるから……」
+<span class="name">シーナ</span> : 「嬉しい……」
+<span class="name">シーナ</span> : 「すごく嬉しいわ……ありがとう……」
+<span class="name">シーナ</span> : 「……ジョーくん……」
+<span class="name">ジョー</span> : 「……えっ……」
+この感じは……
+<span class="name">ジョー</span> : 「……シーナ……？」
+<span class="name">シーナ</span> : 「うん……シーナだよ」
+<span class="name">シーナ</span> : 「あっ……あれ？　どうしたの、ジョーくん。おなかに怪我してる……！」
+<span class="name">ジョー</span> : 「あ、これは……なんでもないよ。というか、本当に……シーナ？」
+<span class="name">シーナ</span> : 「うん、そうだよ。はあ……出られて良かった」
+<span class="name">ジョー</span> : 「え……？」
+<span class="name">シーナ</span> : 「今まで暗い場所に閉じ込められていたの」
+<span class="name">シーナ</span> : 「出られないから、その中で困ってたんだけど、さっき、たくさんの手が伸びてきたの」
+<span class="name">シーナ</span> : 「その手を掴んだら、すうっと、みんな消えて……」
+<span class="name">シーナ</span> : 「そうしたら、目の前にジョーくんがいたの。びっくりした……」
+<span class="name">ジョー</span> : 「あ……」
+<span class="name">シーナ</span> : 「そ、それで、あのね……」
+<span class="name">シーナ</span> : 「ジョーくんが、ずっと一緒だよって言ったの……聞こえたような気がするの。夢じゃないよね？」
+<span class="name">ジョー</span> : 「……うん。夢じゃないよ」
+<span class="name">ジョー</span> : 「僕はずっと、シーナと一緒にいる」
+<span class="name">シーナ</span> : 「……うん。シーナも！」
+<span class="name">ジョー</span> : 「あっ……！」
+<span class="name">シーナ</span> : 「なっ、何！？」
+<span class="name">ジョー</span> : 「この建物が崩れてるんだ。逃げよう」
+<span class="name">シーナ</span> : 「う、うん……」
+<span class="name">ジョー</span> : 「父さんも！　行こう」
+<span class="name">シーナ</span> : 「……父さん？」
+シーナは、僕が手を伸ばした方を見た。
+<span class="name">ゲンジ</span> : 「私も……？」
+<span class="name">ジョー</span> : 「うん、そうだよ」
+<span class="name">ゲンジ</span> : 「……私は、お前を酷い目に遭わせたんだぞ……」
+<span class="name">ジョー</span> : 「う、うん。そうだね」
+<span class="name">ゲンジ</span> : 「それなのに、私と共に逃げるというのか……？　私に手を差し伸べるというのか……？」
+<span class="name">ジョー</span> : 「……父さんには、酷い目に遭わされたし、非道い人だと思う」
+<span class="name">ジョー</span> : 「…………」
+<span class="name">ジョー</span> : 「だけど……放っていくのは無理だよ。そんなこと出来ない」
+<span class="name">ジョー</span> : 「だから、行こう」
+<span class="name">シーナ</span> : 「っ……」
+<span class="name">ゲンジ</span> : 「……ふ、ふ、ふふっ……ははははっ……」
+<span class="name">ジョー</span> : 「と、父さん……？」
+<span class="name">ゲンジ</span> : 「ははは、はっ……ははは……」
+<span class="name">ジョー</span> : 「…………」
+<span class="name">ゲンジ</span> : 「そうか……そうだな……」
+<span class="name">ゲンジ</span> : 「お前は……そういう子だ」
+<span class="name">ゲンジ</span> : 「気が弱く、跡取りとしては、どうしようもなく頼りないのに……」
+<span class="name">ゲンジ</span> : 「それを超えるほど、頑固で優しくて……」
+<span class="name">ゲンジ</span> : 「それが、私とユミコの子だ……」
+<span class="name">ジョー</span> : 「……褒められてるの？」
+<span class="name">ゲンジ</span> : 「ああ、褒めている」
+父さんが微笑む。
+（あ……）
+僕を見つめているのに……まるで母さんを……ユミコさんを見つめているような、柔らかい……優しい目。
+ひとつため息をつくと、父さんは母さんのそばへ緩慢に座り込んだ。
+<span class="name">ゲンジ</span> : 「……ジョー」
+<span class="name">ジョー</span> : 「う、うん」
+<span class="name">ゲンジ</span> : 「私はもう、長くない」
+<span class="name">ジョー</span> : 「えっ！？」
+<span class="name">ゲンジ</span> : 「不治の病でな。ここ数年で、かなり悪化した。もって二、三ヶ月だと言われている……」
+<span class="name">ジョー</span> : 「そ、そんな……！」
+<span class="name">ゲンジ</span> : 「それに……ここにはユミコがいる。彼女を一人置いて逃げるなんて、私には無理だ」
+<span class="name">ジョー</span> : 「でも……」
+<span class="name">ゲンジ</span> : 「ユミコは私のすべてだ。絶対に置いてはいけない。私も……お前に負けないくらい頑固なんだ」
+そう言って父さんが笑った。
+こんな状況なのに……どうしてそんな、満ち足りた笑顔をしているの？
+<span class="name">ジョー</span> : 「わっ……！？」
+また瓦礫が落ちてきた。
+もうもうと土煙が立ち上って、僕と父さんを切り離した。
+<span class="name">ジョー</span> : 「と、父さん……」
+<span class="name">ゲンジ</span> : 「行きなさい」
+<span class="name">ジョー</span> : 「父さん！」
+<span class="name">ゲンジ</span> : 「行け、ジョー！」
+<span class="name">シーナ</span> : 「っ……」
+<span class="name">ゲンジ</span> : 「……行きなさい」
+<span class="name">ジョー</span> : 「でもっ……」
+また降り落ちてきた瓦礫で、僕と父さんは余計に切り離された。
+<span class="name">ジョー</span> : 「……父さん……」
+無意識に握った手の中に、柔らかい感触。
+<span class="name">ジョー</span> : 「あっ……！」
+<span class="name">ジョー</span> : 「…………」
+心配そうな顔をしているシーナと目が合った。
+<span class="name">シーナ</span> : 「っ……」
+このままじゃ、シーナも危ない。
+<span class="name">ジョー</span> : 「……行こう！」
+<span class="name">シーナ</span> : 「うんっ」
+僕はシーナの手を引いて、部屋の出口へ向かった。
+<span class="name">ジョー</span> : 「うわっ、また……」
+出来るだけ早くここを出よう。
+それで、父さんを助けるため、すぐ戻ってこなくちゃ！
+<span class="name">ジョー</span> : 「シーナ、ごめん。ちょっと速く走るよ」
+<span class="name">シーナ</span> : 「うんっ」
+僕はシーナの手を引いて、走った。
+<span class="name">ジョー</span> : 「こうして、シーナと走るの、何度目かな」
+<span class="name">シーナ</span> : 「んっと……たくさん！」
+<span class="name">ジョー</span> : 「うん、そうだね。たくさんだね」
+亀裂の音が僕たちを追ってくる。
+<span class="name">ジョー</span> : 「わ、わわっ！」
+<span class="name">ジョー</span> : 「うわっ！」
+<span class="name">シーナ</span> : 「きゃっ……！」
+落ちて来る瓦礫から少しでもと思い、僕はシーナを胸の中に抱き入れた。
+<span class="name">ジョー</span> : 「だ、大丈夫？」
+<span class="name">シーナ</span> : 「うん……ジョーくんは？」
+<span class="name">ジョー</span> : 「僕は、大丈夫……つっ……」
+<span class="name">ジョー</span> : 「あ……」
+シーナが僕のおなかを見て、はっとしている。
+<span class="name">ジョー</span> : 「……大丈夫……だから……」
+少し目眩がするのは、血が流れてるからかな。
+だけど……
+<span class="name">ジョー</span> : 「今はそれより、君と……出来れば父さんを助けたい……だから、このまま行くよ」
+<span class="name">シーナ</span> : 「ジョーくん……」
+<span class="name">ジョー</span> : 「ごめん、シーナ。もう少し頑張って」
+<span class="name">シーナ</span> : 「シーナは大丈夫だよ。それより、ジョーくんの方が……」
+<span class="name">ジョー</span> : 「僕も大丈夫」
+そう出来てるかわからないけど、僕は顔を笑みの形に動かす。
+シーナは心配そうな顔をしているけど、こくりと頷いてくれた。
+<span class="name">ジョー</span> : 「急ぐよ」
+<span class="name">シーナ</span> : 「うん」
+部屋を出て、見上げる。
+上のフロアへの階段は、まだ無事だった。
+<span class="name">ジョー</span> : 「一気に昇るからね」
+<span class="name">シーナ</span> : 「う、うん……」
+１００段以上あると思う、長い階段。
+出来る限り早く……早く、上がらなくちゃ！
+{13}膺
+<span class="name">ジョー</span> : 「あっ……！」
+異音に天井を見上げると、今まさに、僕たちの頭上に亀裂が入っていくのが見えた。
+あっという間に、亀裂はますます大きくなっていく。
+（急がないと……！）
+<span class="name">ジョー</span> : 「くっ……は、はあっ、はあ……！」
+<span class="name">シーナ</span> : 「はあ、ん、はあ、はあっ……」
+<span class="name">ジョー</span> : 「あっ……！」
+<span class="name">ジョー</span> : 「うわっ！」
+<span class="name">シーナ</span> : 「きゃっ……！」
+階段を上っている僕たちの左側に、瓦礫が落ちてきた。
+<span class="name">ジョー</span> : 「つっ……」
+<span class="name">ジョー</span> : 「どうしたの、シーナ！？」
+<span class="name">シーナ</span> : 「あ……うん。足に欠片が当たっただけ。大丈夫」
+足首に添えているシーナの指の間から、一条の血が細く流れているのが見えた。
+<span class="name">ジョー</span> : 「ちょっと待って……」
+僕はシャツを裂いて、そこに巻き付ける。
+<span class="name">ジョー</span> : 「少しの間、これで我慢して。上に戻ったら、すぐに手当するからね」
+<span class="name">シーナ</span> : 「ありがとう。ジョーくん」
+<span class="name">ジョー</span> : 「さあ、急ごう」
+<span class="name">シーナ</span> : 「うん」
+あちこちから聞こえる亀裂の輪唱。
+それを聞きながら、僕たちは階段を駆け上る。
+<span class="name">ジョー</span> : 「またっ……！」
+一際大きな亀裂の音に、僕たちは身を竦めながら、先を急ぐ。
+さっきみたいに、頭上から瓦礫が降り注ぐかも――
+そう思って身構えていたら……
+<span class="name">シーナ</span> : 「ああっ……！」
+<span class="name">ジョー</span> : 「っ！？」
+急に、シーナの体が重くなった。
+違う。シーナの体が落ちたんだ。つられて僕の体も落ちる。
+<span class="name">ジョー</span> : 「んっ……ぅぅ！」
+今より落ちないよう、僕は身を屈めて膝をついた。
+<span class="name">ジョー</span> : 「くっ……！」
+シーナを支えようと力を込めると、おなかの傷に痛みが走る。
+崩れたのは、頭上ではなく足下で、シーナはそこに落ちていた。
+落下が１メートルくらいだったのは、ラッキーかも……
+<span class="name">シーナ</span> : 「あっ……」
+<span class="name">ジョー</span> : 「大丈夫！？　シーナ！」
+<span class="name">シーナ</span> : 「ジョーくん……あ、ううっ……！」
+<span class="name">ジョー</span> : 「落ち着いて。足をかけて、のぼれそうなとこ、ある？」
+<span class="name">シーナ</span> : 「う、うん……あった」
+<span class="name">ジョー</span> : 「そのままのぼれる？」
+<span class="name">シーナ</span> : 「ん、大丈夫……」
+一歩一歩、確実にシーナがのぼってくる。
+<span class="name">シーナ</span> : 「うん……んっ……しょ……！」
+シーナの上半身が見えたので、一気に引き上げた。
+<span class="name">ジョー</span> : 「ぐっ、うっ……！」
+おなかに力が入ってしまうので、痛みも走る。
+だけど今は、それより……
+シーナが大事なんだ。
+<span class="name">シーナ</span> : 「はっ、はあっ……はあ……」
+引き上げたシーナの手を掴んで、僕たちはゆっくり立ち上がった。
+<span class="name">ジョー</span> : 「はあ、はあ……ごめん、シーナ。足場が悪いって、もっと早く気づけば良かった」
+<span class="name">シーナ</span> : 「う、ううん。ジョーくんが悪いんじゃない。シーナも気をつけるね」
+僕たちは互いを見つめ、微笑する。
+シーナが上を見る。僕も上を見る。
+階段は、あと３０段くらいだ。
+<span class="name">ジョー</span> : 「もう少しだ。頑張って」
+<span class="name">シーナ</span> : 「うん、ジョーくんも」
+僕たちは手を握りしめ合って、階段を駆け上るのを再開した。
+<span class="name">ジョー</span> : 「はあ、はあ……」
+<span class="name">シーナ</span> : 「はっ……はあ……」
+倒壊の音がする中、僕たちは走る。
+走って、走って……
+やっと、扉が見えた。
+<span class="name">シーナ</span> : 「あっ……」
+<span class="name">ジョー</span> : 「もうすぐだよ、シーナ！　あの辺りはまだ壊れてない！　もう少ししたら、ここより安全な場所へ……」
+後ろにいるシーナを振り返った、その時……
+僕の手から……
+シーナの手が離れた。
+<span class="name">シーナ</span> : 「えっ……？」
+<span class="name">ジョー</span> : 「…………」
+時間が止まったような気がした。
+僕を見つめるシーナ。シーナを見つめる僕。
+だけど、違和感があった。
+シーナって、そんな風に僕を見たかな？　もしかして、粃？
+……違う。
+粃でもない。
+ハヤトでも、マリカでもない……ユーノも違う。ナヴィでもない。
+じゃあ……
+<span class="name">シーナ</span> : 「いい子ね、ジョー」
+<span class="name">ジョー</span> : 「……シーナ？」
+僕を見つめたまま、名残惜しそうに、シーナが後じさる。
+一歩、二歩……
+<span class="name">ジョー</span> : 「まっ……待って、シーナ！　どこに行くんだよ！」
+瓦礫と土埃の中、シーナの姿が薄くなっていく。
+<span class="name">ジョー</span> : 「シーナ！！」
+シーナが僕に背中を向けた。
+<span class="name">ジョー</span> : 「どこに行くんだよ、シーナ！　そっちは危ないよ！」
+<span class="name">ジョー</span> : 「ま、まさか、粃なの？　シーナのふりしてたとか……」
+でも、あの感じは粃じゃない。
+それに粃は、もうそんなことをする必要はないはず……
+<span class="name">ジョー</span> : 「待って、シーナ！　お願いだから、行かないでっ……！」
+<span class="name">ジョー</span> : 「シーーーナーーー！！」
+シーナを追う
+シーナを呼ぶ

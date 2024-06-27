@@ -1,18 +1,35 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute, Router } from '@angular/router';
+import { ActivatedRoute, Router, RouterLink } from '@angular/router';
 import { combineLatestWith, switchMap, of, tap } from 'rxjs';
 import { GameNameMapping, LocalStorageVariables } from '../../../conts/general.const';
-import { GameItem, ChapterNav, ChapterConfig } from '../../../models/reading.models';
-import { GameRootService } from '../game-root.serviece';
+import { GameItem, ChapterConfig, ChapterNav } from '../../../models/reading.models';
 import { RestApiService } from '../../../services/rest.service';
+import { GameRootService } from '../game-root.serviece';
+import { ItemCardComponent } from '../../common/item-card/item-card.component';
+import { NgClass, NgStyle } from '@angular/common';
+import { TuiButtonModule } from '@taiga-ui/core';
+import { NameHelper } from '../../../helpers/name-helper';
+import { HttpHeaders } from '@angular/common/http';
+
 
 @Component({
     selector: 'chapter-navigation',
-    templateUrl: './chapter-navigation.component.html'
+    templateUrl: './chapter-navigation.component.html',
+    standalone: true,
+    imports: [
+        ItemCardComponent,
+        NgClass,
+        NgStyle,
+        RouterLink,
+        TuiButtonModule
+    ],
+    providers: [
+        RestApiService
+    ]
 })
 export class ChapterNavigationComponent implements OnInit {
 
-    constructor(private route: ActivatedRoute, private router: Router, private gameRootService: GameRootService, private restApiService: RestApiService, private apiService: RestApiService) { }
+    constructor(private route: ActivatedRoute, private router: Router, private gameRootService: GameRootService, private restApiService: RestApiService) { }
 
     //modes routed chapters, routless chapters, route select
     public _items: GameItem[] = [];
@@ -26,9 +43,10 @@ export class ChapterNavigationComponent implements OnInit {
     private easterEggs = true;
 
     ngOnInit(): void {
+        window.scroll(0, 0);
         const observables = [this.route.paramMap]
         if (!GameNameMapping.mapping) {
-            observables.push(this.apiService.get("nameMapping").pipe(tap((file) => {
+            observables.push(this.restApiService.get("nameMapping").pipe(tap((file) => {
                 GameNameMapping.mapping = file;
             })))
         }
@@ -62,26 +80,19 @@ export class ChapterNavigationComponent implements OnInit {
                             let chaptersOrder = chaptersResponse.chapterOrder;
 
                             if (chaptersOrder) {
-                                chaptersOrder.forEach((it) => {
-                                    let chapter = entries[it]
-                                    let number = it
-                                    if (/^\d+[A-Za-z0-9\-_]*$/gm.test(number)) {
-                                        number += ": "
-                                    } else {
-                                        number = ""
-                                    }
+                                chaptersOrder.forEach((it, index: number) => {
+                                    const name = NameHelper.resolveChapterName(chaptersResponse, index)
                                     chapters.push({
-                                        name: chapter && chapter.name && `${number}${chapter.name}` || `Chapter ${it}`,
+                                        name: name,
                                         routerLink: `${it}`
                                     })
                                 });
                             } else {
                                 for (let index = 1; index <= chaptersResponse.total; index++) {
-                                    const number = `${index}`
-                                    const chapter: ChapterNav = chaptersResponse.chapters[number];
+                                    const name = NameHelper.resolveChapterName(chaptersResponse, index)
                                     chapters.push({
-                                        name: chapter && chapter.name && `${number}: ${chapter.name}` || `Chapter ${number}`,
-                                        routerLink: `${number}`
+                                        name: name,
+                                        routerLink: `${index}`
                                     })
                                 }
                             }
@@ -94,29 +105,35 @@ export class ChapterNavigationComponent implements OnInit {
                         })
                     )
                 }
-            })).subscribe((response: any) => {
-                if (this.easterEggs && response?.items.some((it: GameItem) => it.alternativeImgs)) {
-                    this._items = response?.items.map((it: GameItem) => {
-                        if (it.alternativeImgs) {
-                            if (Math.random() > 0.75) {
-                                if (it.alternativeImgs.length > 1) {
-                                    it.imgSrc = this.selectRandom(it.alternativeImgs)
-                                } else {
-                                    it.imgSrc = it.alternativeImgs[0]
+            })).subscribe(
+                {
+                    next: (response: any) => {
+                        if (this.easterEggs && response?.items.some((it: GameItem) => it.alternativeImgs)) {
+                            this._items = response?.items.map((it: GameItem) => {
+                                if (it.alternativeImgs) {
+                                    if (Math.random() > 0.75) {
+                                        if (it.alternativeImgs.length > 1) {
+                                            it.imgSrc = this.selectRandom(it.alternativeImgs)
+                                        } else {
+                                            it.imgSrc = it.alternativeImgs[0]
+                                        }
+                                    }
                                 }
-                            }
+                                return it
+                            })
+                        } else {
+                            this._items = response?.items
                         }
-                        return it
-                    })
-                } else {
-                    this._items = response?.items
-                }
-                this.hasImages = !!this._items?.some(it => !!it.imgSrc)
+                        this.hasImages = !!this._items?.some(it => !!it.imgSrc)
 
-                if (response.headerLabel) {
-                    this.gameRootService.pushHeader(response.headerLabel);
-                }
-            });
+                        if (response.headerLabel) {
+                            this.gameRootService.pushHeader(response.headerLabel);
+                        }
+                    },
+                    error: () => {
+                        this.router.navigate(["/error"])
+                    }
+                });
     }
 
     private selectRandom(arr: any[]): any {

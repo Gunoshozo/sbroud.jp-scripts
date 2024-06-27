@@ -1,0 +1,34 @@
+教室に入った途端、誰かと出くわした。
+<span class="name">世津茅早</span> : 「………………………」
+<span class="name">倭一花</span> : 「……茅早ちゃん、おはよう」
+<span class="name">世津茅早</span> : 「………」
+彼女はちらりとこちらを見ただけで、なにも言わずに自分の席に座ってしまった。
+なんというか………仲良くしようという気持ちは一切ないみたいね。
+それならそれで、別に構わないけれど。
+<span class="name">仁和菓</span> : 「茅早ちゃん、いつも早いね………」
+<span class="name">倭一花</span> : 「そうね。何のためにこんなに早くから来てるのかしら」
+<span class="name">後藤眞波</span> : 「一花、このたん、おっはよー！　調子はどーですか！」
+<span class="name">倭一花</span> : 「普通よ」
+<span class="name">仁和菓</span> : 「わ、わたしも………」
+<span class="name">後藤眞波</span> : 「なんだよー、ノリが悪いなぁ。もっとパーッと行こうよ、パーッと！」
+<span class="name">倭一花</span> : 「あなたに合わせるのは難しいのよ」
+<span class="name">陸七生</span> : 「………」
+<span class="name">後藤眞波</span> : 「あ、ななくんだ。おっはよー！」
+<span class="name">陸七生</span> : 「……ああ、おはよ」
+<span class="name">後藤眞波</span> : 「あれれ？　なんか、元気ない？」
+<span class="name">陸七生</span> : 「気のせい」
+<span class="name">後藤眞波</span> : 「なんだよう、みんなしてー。もっとのろうよ！」
+<span class="name">香藤瑞希</span> : 「はーい、みんな席についてー！　ＨＲを始めます」
+<span class="name">香藤瑞希</span> : 「ええと、今日は連絡事項があります。本日の授業は午前中まで、午後は寮で待機してください」
+さっき、先生が職員室で話してたことだわ………。
+<span class="name">倭一花</span> : 「なにかあったんでしょうか？」
+<span class="name">香藤瑞希</span> : 「まだ詳しい状況はわからないんだけど、このデュナミス・ベース内に不審者が侵入した可能性があるらしいの」
+<span class="name">倭一花</span> : 「不審者、ですか」
+<span class="name">香藤瑞希</span> : 「しばらくの間、この辺も警備員が巡回することになりました。皆さんは必要以上に心配しないように」
+<span class="name">香藤瑞希</span> : 「不要な外出をしなければ問題ありませんので冷静に行動してくださいね」
+<span class="name">香藤瑞希</span> : 「ということで、連絡事項は以上」
+<span class="name">香藤瑞希</span> : 「あと………高槻くん、今から職員室に来てくれる？」
+<span class="name">高槻東吾</span> : 「なんで？」
+<span class="name">香藤瑞希</span> : 「なんで？　とかじゃなく、先生の言うことは素直に聞く。はい、ＨＲ終了」
+<span class="name">高槻東吾</span> : 「面倒くせぇ……」
+なんだろ？　先生から呼び出しなんて。

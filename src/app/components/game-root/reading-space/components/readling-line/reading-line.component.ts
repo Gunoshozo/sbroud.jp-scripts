@@ -1,10 +1,18 @@
-import { ChangeDetectorRef, Component, EventEmitter, HostBinding, Input, Output } from "@angular/core";
+import { Component, EventEmitter, HostBinding, Input, Output } from "@angular/core";
 import { ReadableLine } from "../../models/lines.model";
+import { TuiButtonModule, TuiHintModule } from "@taiga-ui/core";
+import { NgClass } from "@angular/common";
 
 
 @Component({
     selector: 'reading-line',
-    templateUrl: './reading-line.component.html'
+    templateUrl: './reading-line.component.html',
+    standalone: true,
+    imports: [
+    NgClass,
+    TuiHintModule,
+    TuiButtonModule
+]
 })
 export class ReadingLineComponent {
 
