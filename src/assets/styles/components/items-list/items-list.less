@@ -1,8 +1,6 @@
 .items-list {
 
     &_body {
-        --container-width: 80vw;
-
         background-color: var(--background);
         display: flex;
         flex-direction: column;
@@ -29,7 +27,6 @@
         padding: 32px;
         z-index: 1;
         max-width: var(--container-width);
-        min-width:  var(--container-width);
 
         @media screen and (max-width: 720px) {
             grid-template-columns: repeat(1, minmax(0, 1fr));
@@ -58,4 +55,9 @@
         width: 100%;
         box-shadow: -1px 0px 16px 1px rgba(0, 0, 0, 0.25);
     }
+}
+
+.games .items-list_container{
+    max-width: var(--container-width);
+    min-width:  var(--container-width);
 }

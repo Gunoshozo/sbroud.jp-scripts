@@ -1,7 +1,7 @@
 <div class="items-list_body">
   <div class="items-list_scroll">
     @if (_routes && hasImages) {
-      <div class="items-list_container">
+      <div class="items-list_container" style="--container-width: 80vw">
         @for (item of _items; track item) {
           <item-card [name]="item.name" [link]="item.routerLink" [imageResource]="item.imgSrc"
           [spoiler]="item.spoiler"></item-card>
