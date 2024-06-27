@@ -10,6 +10,7 @@ import { TuiInputModule } from '@taiga-ui/kit';
 
 import { RouterLink } from '@angular/router';
 import { TuiButtonModule, TuiTextfieldControllerModule } from '@taiga-ui/core';
+import { NameHelper } from '../../../../helpers/name-helper';
 
 @Component({
 	selector: 'chapters-items',
@@ -57,16 +58,21 @@ export class ChapteredItemsComponent implements OnInit {
 				this.initialItems = new Array(count);
 				for (let index = 0; index < count; index++) {
 					this.initialItems[index] = <SearchableChapter>{};
-					if (named) {
-						const chap = resChapterConfig.chapters[`${index + 1}`];
-						this.initialItems[index].name = chap?.name || `Chapter ${index + 1}`;
+					let key : string;
+					let name: string;
+					if (resChapterConfig.chapterOrder) {
+						key = resChapterConfig.chapterOrder[index];
+						name = NameHelper.resolveChapterName(resChapterConfig, index);
 					} else {
-						this.initialItems[index].name = `Chapter ${index + 1}`;
+						key = `${index + 1}`
+						name = NameHelper.resolveChapterName(resChapterConfig, index + 1);
 					}
-					this.initialItems[index].routerLink = `../chapters/${index + 1}`
+
+					this.initialItems[index].name = name;
+					this.initialItems[index].routerLink = `../chapters/${key}`
 
 					observables.push(this.restApi.get("nonRoutedChapterFile", {
-						pathParams: { "gameName": this.gameName, "file": `${index + 1}.txt` },
+						pathParams: { "gameName": this.gameName, "file": `${key}.txt` },
 						requestOptions: {
 							headers: new HttpHeaders({
 								"Accept": "application/json;charset=utf-8"

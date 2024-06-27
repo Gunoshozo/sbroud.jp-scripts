@@ -6,13 +6,13 @@ export class NameHelper {
             let chapterKey = chapterConfig.chapterOrder[chapterIndex]
             let chapter = chapterConfig.chapters[chapterKey];
             let number = chapterKey
-            if (/^\d+[A-Za-z0-9\-_]*$/gm.test(number)) {
-                number+= ": "
-            } else {
+            if (!/^\d+[A-Za-z0-9\-_]*$/gm.test(number)) {
                 number = ""
             }
-            return chapter && chapter.name && `${number}${chapter.name}` || !!number && `Chapter ${number}` ||`Chapter ${chapterIndex + 1}`
-
+            if (number && chapter?.name) {
+                number += ": "
+            }
+            return chapter && chapter.name && `${number}${chapter.name}` || !!number && `Chapter ${number}` || `Chapter ${chapterIndex + 1}`
         } else {
             const number = chapterIndex
             const chapter: ChapterNav = chapterConfig.chapters[number];

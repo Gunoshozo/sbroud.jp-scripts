@@ -11,7 +11,7 @@ import { GameRootService } from './game-root.serviece';
 import { SakuraService } from '../../services/sakura.service';
 import { LocalStorageVariables } from '../../conts/general.const';
 import { PolymorpheusContent } from '@tinkoff/ng-polymorpheus';
-import { MobileService } from '../../helpers/mobile-helper';
+import { MobileHelper } from '../../helpers/mobile-helper';
 import { NgClass, NgComponentOutlet } from '@angular/common';
 import { TuiActiveZoneModule } from '@taiga-ui/cdk';
 import { TuiSidebarModule } from '@taiga-ui/addon-mobile';
@@ -93,7 +93,7 @@ export class GameRootComponent implements OnInit, AfterViewInit {
 	}
 
 	public ngOnInit(): void {
-		this.isMobile = MobileService.isMobile();
+		this.isMobile = MobileHelper.isMobile();
 
 		this.sakura.bindSakura("game-root")
 

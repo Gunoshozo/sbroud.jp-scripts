@@ -151,7 +151,6 @@ export class RoutedItemsComponent implements OnInit {
 							if (chapterConf.chapterOrder) {
 								key = chapterConf.chapterOrder[index];
 								name = NameHelper.resolveChapterName(chapterConf, index);
-
 							} else {
 								key = `${index + 1}`
 								name = NameHelper.resolveChapterName(chapterConf, index + 1);

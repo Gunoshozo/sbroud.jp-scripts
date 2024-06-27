@@ -1,9 +1,10 @@
 import { Component, HostBinding, Input } from "@angular/core";
-import { Subject } from "rxjs";
+import { Subject, filter } from "rxjs";
 import { ChapterConfig, ChapterNav, NavItem, RouteConfig } from "../../../../../models/reading.models";
 import { NgClass } from "@angular/common";
 import { TuiLinkModule } from "@taiga-ui/core";
 import { RouterLink } from "@angular/router";
+import { MobileHelper } from "../../../../../helpers/mobile-helper";
 
 @Component({
     selector: 'navigation',
@@ -38,7 +39,7 @@ export class NavigationComponent {
     public next: any[] = [];
 
     constructor() {
-        this.changeNavigationData.subscribe((res: any) => {
+        this.changeNavigationData.pipe(filter((item)=>item != undefined)).subscribe((res: any) => {
             this.prev = []
             this.next = []
             if (!res) {
@@ -98,7 +99,7 @@ export class NavigationComponent {
             if (link >= "0" && link <= "9") {
                 chapterNum = `Chapter ${targetChapterKey}`
             }
-            if (nextChapterText != '')
+            if (chapterNum  && nextChapterText)
                 nextChapterText = ": " + nextChapterText;
             name = `${chapterNum}${nextChapterText}`;
         } else {
@@ -128,7 +129,7 @@ export class NavigationComponent {
                 nextChapterText = chapterData.chapters[nextChapterKey]?.name || '';
             }
 
-            if (nextChapterText != '') {
+            if (chapterNum && nextChapterText) {
                 nextChapterText = ": " + nextChapterText;
             }
 
