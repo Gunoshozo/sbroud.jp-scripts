@@ -1,0 +1,13 @@
+{
+    "headerLabel": "Example items",
+    "items": [
+        {
+            "name": "Route 1",
+            "routerLink": "1"
+        },
+        {
+            "name": "Route 2",
+            "routerLink": "2"
+        }
+    ]
+}

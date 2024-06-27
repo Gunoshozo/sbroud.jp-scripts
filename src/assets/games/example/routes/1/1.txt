@@ -1,0 +1,1 @@
+<span class="chapter-reading_char-name">Character name</span> : How about learn about <span class="chapter-reading_dict">tip1</span> or <span class="chapter-reading_dict">sample text</span>
