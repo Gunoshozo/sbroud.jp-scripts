@@ -1,12 +1,10 @@
 import { HttpHeaders } from '@angular/common/http';
-import { Component, Input, OnInit } from '@angular/core';
-import { switchMap, forkJoin, Observable } from 'rxjs';
+import { Component, Input, OnDestroy, OnInit } from '@angular/core';
+import { switchMap, forkJoin, Observable, Subject, ReplaySubject, of } from 'rxjs';
 import { ChapterConfig } from '../../../../models/reading.models';
 import { GlobalLoaderService } from '../../../../services/global-loader.service';
 import { RestApiService } from '../../../../services/rest.service';
 import { SearchableChapter } from '../../../models/search-config.model';
-import { FormGroup, FormControl, FormsModule, ReactiveFormsModule } from '@angular/forms';
-import { TuiInputModule } from '@taiga-ui/kit';
 
 import { RouterLink } from '@angular/router';
 import { TuiButtonModule, TuiTextfieldControllerModule } from '@taiga-ui/core';
@@ -17,35 +15,36 @@ import { NameHelper } from '../../../../helpers/name-helper';
 	templateUrl: './chapter-items.component.html',
 	standalone: true,
 	imports: [
-    FormsModule,
-    ReactiveFormsModule,
-    TuiInputModule,
-    TuiTextfieldControllerModule,
-    TuiButtonModule,
-    RouterLink
-]
+		TuiTextfieldControllerModule,
+		TuiButtonModule,
+		RouterLink
+	]
 })
-export class ChapteredItemsComponent implements OnInit {
+export class ChapteredItemsComponent implements OnInit, OnDestroy {
 
 	@Input()
 	public gameName: string;
 
+	@Input()
+	public set filterStr(value: string) {
+		this.globalLoaderService.setGlobalLoader(true);
+		this.onFilter.next(value);
+	}
+
 	public filteredItems: SearchableChapter[] = [];
 
-	public searchForm: FormGroup = new FormGroup({
-		"search": new FormControl("")
-	});
-
-	private timeout: any = null;
+	private onLoad: ReplaySubject<void> = new ReplaySubject();
+	private onFilter: Subject<string> = new Subject()
 
 	private initialItems: SearchableChapter[] = [];
 
 	private prevSearchString = "";
 
-	constructor(private globalLoaderService: GlobalLoaderService, private restApi: RestApiService) { }
+	constructor(private globalLoaderService: GlobalLoaderService,
+		private restApi: RestApiService) { }
 
 	ngOnInit(): void {
-		this.initControls();
+		this.subscribeOnChanges();
 		this.restApi.get("nonRoutedGameChapterConfig", {
 			pathParams: {
 				"gameName": this.gameName
@@ -53,12 +52,11 @@ export class ChapteredItemsComponent implements OnInit {
 		}).pipe(
 			switchMap((resChapterConfig: ChapterConfig) => {
 				let count = resChapterConfig.total;
-				const named = Object.values(resChapterConfig.chapters).some((item) => !!item.name);
 				let observables: Observable<string>[] = [];
 				this.initialItems = new Array(count);
 				for (let index = 0; index < count; index++) {
 					this.initialItems[index] = <SearchableChapter>{};
-					let key : string;
+					let key: string;
 					let name: string;
 					if (resChapterConfig.chapterOrder) {
 						key = resChapterConfig.chapterOrder[index];
@@ -69,7 +67,9 @@ export class ChapteredItemsComponent implements OnInit {
 					}
 
 					this.initialItems[index].name = name;
-					this.initialItems[index].routerLink = `../chapters/${key}`
+					this.initialItems[index].routerLink = `../chapters/${key}`;
+
+					this.globalLoaderService.setGlobalLoader(false);
 
 					observables.push(this.restApi.get("nonRoutedChapterFile", {
 						pathParams: { "gameName": this.gameName, "file": `${key}.txt` },
@@ -81,7 +81,7 @@ export class ChapteredItemsComponent implements OnInit {
 						}
 					}));
 				}
-
+				this.filteredItems = this.initialItems;
 				return forkJoin(observables);
 			})
 		).subscribe((it: string[]) => {
@@ -89,39 +89,45 @@ export class ChapteredItemsComponent implements OnInit {
 				this.initialItems[i].text = v;
 			});
 			this.filteredItems = this.initialItems;
+			this.onLoad.next();
+			this.onLoad.complete();
+		})
+	}
+
+	ngOnDestroy(): void {
+		this.onFilter.complete();
+	}
+
+	private subscribeOnChanges() {
+		this.onFilter.pipe(
+			switchMap((it) => {
+				return [it];
+			}),
+			switchMap((it) => {
+				return this.onLoad.pipe(switchMap(() => of(it)));
+			})
+		).subscribe((it) => {
+			this.filterChapters(it);
 			this.globalLoaderService.setGlobalLoader(false);
 		})
 	}
 
-	private initControls(): void {
-		this.searchForm.controls["search"].valueChanges.subscribe((val: string) => {
-			if (val?.length > 0) {
-				if (this.timeout) {
-					clearTimeout(this.timeout)
-				}
-				this.timeout = setTimeout(() => {
-					this.filterChapters(val);
-				}, 500);
-			} else {
-				if (this.filteredItems.length != this.initialItems.length) {
-					this.filteredItems = this.initialItems;
-				}
-			}
-		})
-	}
-
 	private filterChapters(searchStr: string) {
-		let searchFrom = [];
-		if (searchStr.includes(this.prevSearchString)) {
-			searchFrom = this.filteredItems;
+		if (searchStr?.length > 0) {
+			let searchFrom = [];
+			if (searchStr.includes(this.prevSearchString)) {
+				searchFrom = this.filteredItems;
+			} else {
+				searchFrom = this.initialItems;
+			}
+			this.filteredItems = searchFrom?.filter((item) => {
+				return item.text.includes(searchStr);
+			})
+			this.prevSearchString = searchStr;
 		} else {
-			searchFrom = this.initialItems;
+			if (this.filteredItems.length != this.initialItems.length) {
+				this.filteredItems = this.initialItems;
+			}
 		}
-
-		this.filteredItems = searchFrom?.filter((item) => {
-			return item.text.includes(searchStr);
-		})
-
-		this.prevSearchString = searchStr;
 	}
 }

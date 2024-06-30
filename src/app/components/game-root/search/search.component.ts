@@ -8,15 +8,18 @@ import { GameRootService } from '../game-root.serviece';
 
 import { ChapteredItemsComponent } from './chaptered-items/chapter-items.component';
 import { RoutedItemsComponent } from './routed-items/routed-items.component';
+import { TuiPrimitiveTextfieldModule, TuiTextfieldControllerModule } from '@taiga-ui/core';
 
 @Component({
 	selector: 'app-search',
 	templateUrl: './search.component.html',
 	standalone: true,
 	imports: [
-    ChapteredItemsComponent,
-    RoutedItemsComponent
-]
+		ChapteredItemsComponent,
+		RoutedItemsComponent,
+		TuiPrimitiveTextfieldModule,
+		TuiTextfieldControllerModule
+	]
 })
 export class SearchComponent implements OnInit {
 
@@ -27,6 +30,23 @@ export class SearchComponent implements OnInit {
 	public loaded: boolean;
 
 	public routeName: string;
+
+	private filterStr: string = "";
+
+	private filterTimeout: any;
+
+	public get filterString(): string {
+		return this.filterStr;
+	}
+
+	public set filterString(value: string) {
+		if (this.filterTimeout) {
+			clearTimeout(this.filterTimeout);
+		}
+		this.filterTimeout = setTimeout(() => {
+			this.filterStr = value;
+		}, 600)
+	}
 
 	public constructor(private route: ActivatedRoute,
 		private restApi: RestApiService,

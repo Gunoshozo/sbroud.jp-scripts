@@ -1,7 +1,7 @@
 import { HttpHeaders } from '@angular/common/http';
 import { AfterViewInit, ChangeDetectorRef, Component, ElementRef, OnInit, QueryList, ViewChildren } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
-import { combineLatestWith, forkJoin, map, of, switchMap, tap } from 'rxjs';
+import { combineLatestWith, forkJoin, of, switchMap, tap } from 'rxjs';
 import { TextFormatter } from './helpers/text-formatter';
 import { GlobalLoaderService } from '../../../services/global-loader.service';
 import { GameRootService } from '../game-root.serviece';

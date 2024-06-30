@@ -1,5 +1,5 @@
 
-import { environment } from './environments/environments';
+import { environment } from './environments/environment';
 import { enableProdMode, importProvidersFrom } from '@angular/core';
 import { bootstrapApplication } from '@angular/platform-browser';
 import { AppComponent } from './app/app.component';

@@ -1,4 +1,4 @@
-import { Component, Directive, OnInit } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 import { combineLatest, switchMap, tap } from 'rxjs';
 import { GameNameMapping } from '../../../conts/general.const';
@@ -8,7 +8,6 @@ import { RestApiService } from '../../../services/rest.service';
 import { TuiAccordionModule, TuiIslandModule } from '@taiga-ui/kit';
 import { TuiPrimitiveTextfieldModule, TuiTextfieldControllerModule } from '@taiga-ui/core';
 
-import { HttpHeaders } from '@angular/common/http';
 import { GlobalLoaderService } from '../../../services/global-loader.service';
 
 
@@ -44,7 +43,7 @@ export class TipsComponent implements OnInit {
 		}
 		this.filterTimeout = setTimeout(() => {
 			this.onFilter(this.filterStr);
-		}, 400)
+		}, 200)
 	}
 
 	public filteredTips: Tip[] = [];

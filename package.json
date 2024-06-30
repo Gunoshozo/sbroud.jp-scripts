@@ -5,7 +5,7 @@
     "ng": "ng",
     "start-loc": "gulp minify && ng serve --host=0.0.0.0 --disable-host-check",
     "start": "gulp minify && ng serve --configuration production",
-    "build": "gulp minify  && ng build --configuration production",
+    "build": "gulp minify && ng build --configuration production",
     "build-gh": "gulp minify && ng build --configuration production --base-href \"https://gunoshozo.github.io/sbroud.jp-scripts/\"",
     "publish": "npx angular-cli-ghpages --dir=dist/sbroud.jp-scripts/browser",
     "watch": "ng build --watch --configuration production",
