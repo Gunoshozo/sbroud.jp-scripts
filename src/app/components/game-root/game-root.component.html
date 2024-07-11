@@ -1,6 +1,6 @@
 <div #header class="game-root_header">
     @if (isMobile) {
-    <button icon="tuiIconMenuLarge" tuiIconButton appearance="icon" (click)="toggle(true)"
+    <button icon="tuiIconMenuLarge" tuiIconButton appearance="icon" (click)="toggle(true)" aria-label="Open Side Menu"
         (tuiActiveZoneChange)="toggle($event)">
         <div *tuiSidebar="sideBarOpen; direction: 'left'" class="root" [ngClass]="{'dark': night.value}">
             <div class="game-root_panel">
@@ -61,7 +61,7 @@
     </button>
     }
     @else { <!--If desktop -->
-    <button icon="tuiIconMenuLarge" tuiIconButton appearance="icon" (click)="toggle(true)"
+    <button icon="tuiIconMenuLarge" tuiIconButton appearance="icon" (click)="toggle(true)" aria-label="Open Side Menu"
         (tuiActiveZoneChange)="toggle($event)">
         <div *tuiSidebar="sideBarOpen; direction: 'left'" class="root" [ngClass]="{'dark': night.value}">
             <div class="game-root_panel">

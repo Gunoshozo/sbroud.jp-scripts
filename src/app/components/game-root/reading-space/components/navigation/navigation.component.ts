@@ -1,20 +1,19 @@
 import { Component, HostBinding, Input } from "@angular/core";
-import { Subject, filter } from "rxjs";
 import { ChapterConfig, ChapterNav, NavItem, RouteConfig } from "../../../../../models/reading.models";
-import { NgClass } from "@angular/common";
+import { NgClass, NgTemplateOutlet } from "@angular/common";
 import { TuiLinkModule } from "@taiga-ui/core";
 import { RouterLink } from "@angular/router";
-import { MobileHelper } from "../../../../../helpers/mobile-helper";
 
 @Component({
     selector: 'navigation',
-    templateUrl: './navigation.component.html', 
+    templateUrl: './navigation.component.html',
     standalone: true,
     imports: [
-    NgClass,
-    TuiLinkModule,
-    RouterLink
-]
+        NgClass,
+        NgTemplateOutlet,
+        TuiLinkModule,
+        RouterLink
+    ]
 })
 export class NavigationComponent {
 
@@ -25,68 +24,61 @@ export class NavigationComponent {
 
     @Input()
     public set navigationData(val: any) {
-        this.changeNavigationData.next(val);
+        if (!!val) {
+            this.onNavigationDataChange(val)
+        }
     }
-
-    @Input("bottom")
-    public bottomTextLMAO: boolean = false;
-
-    private changeNavigationData: Subject<any> = new Subject();
 
     public comment: string = "";
 
     public prev: any[] = [];
     public next: any[] = [];
 
-    constructor() {
-        this.changeNavigationData.pipe(filter((item)=>item != undefined)).subscribe((res: any) => {
-            this.prev = []
-            this.next = []
-            if (!res) {
-                return;
+    private onNavigationDataChange(res: any) {
+        this.prev = []
+        this.next = []
+        if (!res) {
+            return;
+        }
+
+        const chapter = res?.chapter;
+        const chapterData: ChapterConfig = res?.chapterData;
+        const route = res.route;
+        const routeData = res.routeData;
+
+        if (chapter && chapterData) {
+            const nav: ChapterNav = chapterData.chapters[chapter];
+
+            let nextChapterKey: string = this.nextChapterKey(chapter, chapterData);
+            let prevChapterKey: string = this.prevChapterKey(chapter, chapterData);
+
+            let currentRoute = routeData?.items.find((it: any) => it.routerLink == route)?.name || ''
+            if (currentRoute) {
+                currentRoute += ' '
             }
 
-            const chapter = res?.chapter;
-            const chapterData: ChapterConfig = res?.chapterData;
-            const route = res.route;
-            const routeData = res.routeData;
-
-            if (chapter && chapterData) {
-                const nav: ChapterNav = chapterData.chapters[chapter];
-
-                let nextChapterKey: string = this.nextChapterKey(chapter, chapterData);
-                let prevChapterKey: string = this.prevChapterKey(chapter, chapterData);
-
-                let currentRoute = routeData?.items.find((it: any) => it.routerLink == route)?.name || ''
-                if (currentRoute) {
-                    currentRoute += ' '
-                }
-
-                let chapterIndex: number = 0;
-                if (chapterData.chapterOrder) {
-                    chapterIndex = chapterData.chapterOrder.findIndex((it) => it == chapter) + 1
-                } else {
-                    chapterIndex = Number(chapter)
-                }
-
-                // simple next chapter
-                if (!nav?.next && chapterIndex < chapterData.total) {
-                    this.initSimpleNav(this.next, currentRoute, chapterData, nextChapterKey);
-                }
-
-                //simple prev chapter
-                if (!nav?.prev && chapterIndex > 1) {
-                    this.initSimpleNav(this.prev, currentRoute, chapterData, prevChapterKey);
-                }
-
-                this.initArrayNaV(this.next, nav?.next, route, currentRoute, chapterData, routeData);
-                this.initArrayNaV(this.prev, nav?.prev, route, currentRoute, chapterData, routeData)
-
-                if (this.bottomTextLMAO) {
-                    this.comment = nav?.comment || '';
-                }
+            let chapterIndex: number = 0;
+            if (chapterData.chapterOrder) {
+                chapterIndex = chapterData.chapterOrder.findIndex((it) => it == chapter) + 1
+            } else {
+                chapterIndex = Number(chapter)
             }
-        })
+
+            // simple next chapter
+            if (!nav?.next && chapterIndex < chapterData.total) {
+                this.initSimpleNav(this.next, currentRoute, chapterData, nextChapterKey);
+            }
+
+            //simple prev chapter
+            if (!nav?.prev && chapterIndex > 1) {
+                this.initSimpleNav(this.prev, currentRoute, chapterData, prevChapterKey);
+            }
+
+            this.initArrayNaV(this.next, nav?.next, route, currentRoute, chapterData, routeData);
+            this.initArrayNaV(this.prev, nav?.prev, route, currentRoute, chapterData, routeData)
+
+            this.comment = nav?.comment || '';
+        }
     }
 
     private initSimpleNav(outputContainer: any[], currentRoute: string, chapterData: ChapterConfig, targetChapterKey: string): void {
@@ -99,7 +91,7 @@ export class NavigationComponent {
             if (link >= "0" && link <= "9") {
                 chapterNum = `Chapter ${targetChapterKey}`
             }
-            if (chapterNum  && nextChapterText)
+            if (chapterNum && nextChapterText)
                 nextChapterText = ": " + nextChapterText;
             name = `${chapterNum}${nextChapterText}`;
         } else {

@@ -1,10 +1,8 @@
 .navigation {
 
-    &.bottom {
-        .navigation_container {
-            padding-bottom: 0;
-            padding-top: 12px;
-        }
+    .navigation_container.bottom {
+        padding-bottom: 0;
+        padding-top: 12px;
     }
 
     &_comment {
@@ -24,9 +22,9 @@
             background: unset;
 
             &.spoiler {
-                color: var(--spoiler-color,var(--link-text-color));
+                color: var(--spoiler-color, var(--link-text-color));
                 background-color: var(--spoiler-background);
-            
+
                 &:hover {
                     color: unset;
                     background-color: unset;
@@ -41,11 +39,11 @@
         flex-direction: column;
     }
 
-    &_prev a{
+    &_prev a {
         text-align: left;
     }
 
-    &_next a{
+    &_next a {
         text-align: right;
     }
 }

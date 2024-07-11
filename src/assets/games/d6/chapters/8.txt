@@ -174,9 +174,8 @@
 <span class="name">シーナ</span> : 「ねえ、ジョーくん……この手錠って、どういう意味があるんだろうね」
 <span class="name">ジョー</span> : 「そんなの、僕の方が知りたいよ……」
 <span class="name">シーナ</span> : 「どうやったら外れるんだろうね……」
--option1手錠を調べる
--option2鎖を壊す
--choise 1
+手錠を調べる
+鎖を壊す
 <span class="name">ジョー</span> : 「ごめん。ちょっと移動していい？」
 <span class="name">シーナ</span> : 「うん」
 比較的明るめな場所に移動して、改めて手錠のことを調べることにした。
@@ -202,8 +201,6 @@
 <span class="name">シーナ</span> : 「うん」
 しばらく、あれこれ調べてみたけど、僕たちには構造なんかはさっぱりわからなかった。
 （少なくとも、ヘアピンかなんかで簡単に外すのは無理そうだな……）
--choiseend
--choise 2
 鍵がなければ鎖の方を壊せばいい。簡単なことだ。
 <span class="name">ジョー</span> : 「危ないから、ちょっと下がってて……」
 <span class="name">シーナ</span> : 「何をするの？」
@@ -266,4 +263,3 @@
 <span class="name">シーナ</span> : 「行っちゃった……」
 <span class="name">ジョー</span> : 「僕たちも、そろそろ行こうか」
 <span class="name">シーナ</span> : 「うんっ」
--choiseend

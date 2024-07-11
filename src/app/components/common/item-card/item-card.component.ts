@@ -1,5 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { LinkConsts, LocalStorageVariables, TextConsts } from '../../../conts/general.const';
+import { ImgConsts, LocalStorageVariables, TextConsts } from '../../../conts/general.const';
 import { TuiHintModule } from '@taiga-ui/core';
 import { NgClass } from '@angular/common';
 import { RouterLink } from '@angular/router';
@@ -19,7 +19,7 @@ export class ItemCardComponent implements OnInit {
   public link: string = "";
 
   @Input()
-  public imageResource: string = "";
+  public imageResource: string = '';
 
   @Input()
   public spoiler: boolean | undefined = false;
@@ -30,9 +30,12 @@ export class ItemCardComponent implements OnInit {
   @Input()
   public hideTip: boolean = false;
 
+  public image: string = '';
+  public srcset: string = '';
+
   public hiddenBySpoiler: boolean = false;
 
-  private intialImageResource: string = "";
+  private intialImageResource: string = '';
   private initialName: string = "";
 
 
@@ -44,9 +47,10 @@ export class ItemCardComponent implements OnInit {
 
     if (this.spoiler && (hideSpoilersVar === "true" || !hideSpoilersVar)) {
       this.hiddenBySpoiler = !!this.spoiler;
-      this.imageResource = LinkConsts.spoilerImg;
+      this.imageResource = ImgConsts.spoilerImg;
       this.name = TextConsts.spoilerPrompt;
     }
+    this.setImg()
   }
 
   public toggleSpoiler(event: MouseEvent) {
@@ -54,5 +58,17 @@ export class ItemCardComponent implements OnInit {
     this.hiddenBySpoiler = false;
     this.imageResource = this.intialImageResource;
     this.name = this.initialName;
+    this.setImg()
+  }
+
+  private setImg() {
+    if (this.imageResource.includes("-1000w.webp")) {
+      let res = ""
+      ImgConsts.imgSizes.forEach((size) => {
+        res += this.image.replace("-1000w.webp", `-${size}w.webp`) + ` ${size}w, `
+      })
+      this.srcset = res;
+    }
+    this.image = this.imageResource;
   }
 }

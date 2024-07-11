@@ -33,7 +33,6 @@ export class ChapterNavigationComponent implements OnInit {
 
     //modes routed chapters, routless chapters, route select
     public _items: GameItem[] = [];
-    public gameName: string = ""
     public _routes: boolean = false;
 
     public headerText: string = ""
@@ -41,6 +40,7 @@ export class ChapterNavigationComponent implements OnInit {
     public hasImages = false;
 
     private easterEggs = true;
+    private gameName: string = ""
 
     ngOnInit(): void {
         window.scroll(0, 0);

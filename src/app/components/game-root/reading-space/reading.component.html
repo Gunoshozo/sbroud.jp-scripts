@@ -3,16 +3,16 @@
     <div class="chapter-reading_content">
       <tui-island class="chapter-reading_content-island">
         <tui-elastic-container>
-          <navigation [bottom]="false" [navigationData]="navigationData"></navigation>
-          <hr class="chapter-reading_spacer">
-          <div class="chapter-reading_content-text">
-            @for (line of lines; track line) {
-            <ng-container [ngTemplateOutlet]="readableLines" [ngTemplateOutletContext]="{'line':line, 'depth': 0}">
-            </ng-container>
-            }
-          </div>
-          <hr class="chapter-reading_spacer bottom">
-          <navigation class="bottom" [bottom]="true" [navigationData]="navigationData"></navigation>
+          <navigation [navigationData]="navigationData">
+            <hr class="chapter-reading_spacer">
+            <div class="chapter-reading_content-text">
+              @for (line of lines; track line) {
+              <ng-container [ngTemplateOutlet]="readableLines" [ngTemplateOutletContext]="{'line':line, 'depth': 0}">
+              </ng-container>
+              }
+            </div>
+            <hr class="chapter-reading_spacer bottom">
+          </navigation>
         </tui-elastic-container>
       </tui-island>
     </div>
