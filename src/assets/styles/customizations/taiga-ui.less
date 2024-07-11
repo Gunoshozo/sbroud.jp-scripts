@@ -1,19 +1,19 @@
 @import '@taiga-ui/core/styles/taiga-ui-local.less';
 // This goes into global, non-encapsulated styles
 [tuiWrapper][data-appearance='custom'] {
-    background: var(--inactive-background);
+    background: var(--idle-background);
     color: var(--panel-text-color);
- 
+
     .wrapper-hover({
         background: var(--hover-background);
     });
- 
+
     .wrapper-active({
         background: var(--active-background);
     });
- 
+
     .wrapper-disabled({
-        background: #eaecee;  //no disabled buttons, so not used
+        background: var(--inactive-background);
     });
 }
 

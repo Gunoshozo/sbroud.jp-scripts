@@ -34,15 +34,7 @@ export class RoutedItemsComponent implements OnInit, OnDestroy {
 		this.onFilter.next(value);
 	}
 
-	private _index: number = 0;
-
-	public get index(): number {
-		return this._index;
-	}
-
-	public set index(val: number) {
-		this._index = val;
-	}
+	public _index: number = 0;
 
 	private onLoad: ReplaySubject<void> = new ReplaySubject();
 	private onFilter: Subject<string> = new Subject()
@@ -51,9 +43,9 @@ export class RoutedItemsComponent implements OnInit, OnDestroy {
 
 	private prevSearchString = "";
 
-	public initialItems: SearchableRoute[];
+	public initialItems: SearchableRoute[] = [];
 
-	public filteredItems: SearchableRoute[];
+	public filteredItems: SearchableRoute[] = [];
 
 	constructor(private globalLoaderService: GlobalLoaderService, private restApi: RestApiService) { }
 
@@ -106,6 +98,9 @@ export class RoutedItemsComponent implements OnInit, OnDestroy {
 		this.onFilter.complete();
 	}
 
+	public scrollToTop() : void{
+		window.scroll({top: 0, behavior: "smooth"})
+	}
 
 	//for each route get texts of each chapter
 	private getOrderedChapterTexts(chapterConfig: ChapterConfig[], routeConfig: RouteConfig): Observable<string[]>[] {
@@ -148,7 +143,11 @@ export class RoutedItemsComponent implements OnInit, OnDestroy {
 	@HostListener('window:resize', ['$event'])
 	onResize() {
 		const ciel = Math.ceil(window.innerWidth / 500);
-		this.carouselCount = Math.max(Math.min(ciel, this.filteredItems?.length), 1);
+		const newCount = Math.max(Math.min(ciel, this.filteredItems?.length), 1);
+		if (newCount != this.carouselCount) {
+			this._index = 0;
+		}
+		this.carouselCount = newCount;
 	}
 
 	private subscribeOnChanges() {
