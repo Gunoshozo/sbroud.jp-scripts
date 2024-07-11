@@ -31,7 +31,6 @@ export class RoutedItemsComponent implements OnInit, OnDestroy {
 
 	@Input()
 	public set filterStr(value: string) {
-		this.globalLoaderService.setGlobalLoader(true);
 		this.onFilter.next(value);
 	}
 
