@@ -65,7 +65,7 @@ export class ItemCardComponent implements OnInit {
     if (this.imageResource.includes("-1000w.webp")) {
       let res = ""
       ImgConsts.imgSizes.forEach((size) => {
-        res += this.image.replace("-1000w.webp", `-${size}w.webp`) + ` ${size}w, `
+        res += this.imageResource.replace("-1000w.webp", `-${size}w.webp`) + ` ${size}w, `
       })
       this.srcset = res;
     }
