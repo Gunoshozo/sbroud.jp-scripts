@@ -49,7 +49,7 @@ export class SettingsComponent implements OnInit {
 
 	public exampleItem: GameItem = {
 		name: "Example",
-		imgSrc: "assets/images/common/example.webp",
+		imgSrc: "assets/images/common/example-1000w.webp",
 		routerLink: "/settings",
 		spoiler: true
 	}
