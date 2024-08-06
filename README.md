@@ -29,7 +29,7 @@ Run `npm run start` for a dev server. Navigate to `http://localhost:4200/`.
 
 [UlyssesWu](https://github.com/UlyssesWu) for [FreeMote](https://github.com/UlyssesWuFreeMote) that helped to unpack resources for Dunamis 15 and Occultic;Nine
 
-[Manicsteiner](https://github.com/Manicsteiner) for [mvl_preview](https://github.comManicsteiner/mvl_preview) and [YuruCampHeaderAdder](https://github.com/ManicsteinerYuruCampHeaderAdder) both of which helped to extract bunch of character spritesfrom Chaos;Head LCC, Chaos;Child LCC, Summertime Render AH</p>
+[Manicsteiner](https://github.com/Manicsteiner) for [mvl_preview](https://github.comManicsteiner/mvl_preview) and [YuruCampHeaderAdder](https://github.com/ManicsteinerYuruCampHeaderAdder) both of which helped to extract bunch of character sprites from Chaos;Head LCC, Chaos;Child LCC, Summer Time Render AH</p>
 
 [Xzonn](https://github.com/Xzonn) for the [fork of AssetStudio](https://github.com/XzonnAssetStudio) that helped to unpack resources from Unity assets of Summer Time Render AH
 
