@@ -31,6 +31,7 @@ Run `npm run start` for a dev server. Navigate to `http://localhost:4200/`.
 
 [Manicsteiner](https://github.com/Manicsteiner) for [mvl_preview](https://github.comManicsteiner/mvl_preview) and [YuruCampHeaderAdder](https://github.com/ManicsteinerYuruCampHeaderAdder) both of which helped to extract bunch of character sprites from Chaos;Head LCC, Chaos;Child LCC, Summer Time Render AH</p>
 [BoilingTeapot](https://github.com/BoilingTeapot) for decrypting Summer Time Render AH script files
+
 [Xzonn](https://github.com/Xzonn) for the [fork of AssetStudio](https://github.com/XzonnAssetStudio) that helped to unpack resources from Unity assets of Summer Time Render AH
 
 Muzhi for RioX that helped extract scenario and images from Disorder 6
